@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: /assets/images/ieeevr-banner-smaller.png
+  image: /assets/images/ieeevr-banner-smaller.jpg
   #overlay_image: /assets/images/ieeevr-banner.png
 
 #toc: true
