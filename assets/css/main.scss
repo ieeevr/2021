@@ -29,8 +29,10 @@ $warning-color: #841525 !default;
   border-radius: 4px;
 }
 
-#myBtnTop:hover {
-  background-color: #00204b;
+@media(hover: hover) and (pointer: fine){
+    #myBtnTop:hover {
+    background-color: #00204b;
+    }
 }
 
 
