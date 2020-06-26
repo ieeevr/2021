@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Contribute"
-  # url: /contribute/
+  - title: "Contribute"
+    url: /contribute/
   #- title: "Past Conferences"
   #   url: /past-conferences
   # - title: "About"

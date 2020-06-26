@@ -1,17 +1,4 @@
----
-layout: single
-author_profile: false
-header:
-  image: /assets/images/ieeevr-banner-small.jpg
-  #overlay_image: /assets/images/ieeevr-banner.png
-
-toc: true
-#toc_label: "Call for Journal Papers"
-#toc_icon: "cog"
-
----
-
-<div>
+I"]5<div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
     
     <h2 id="important-dates"> Important Dates </h2>
@@ -143,7 +130,7 @@ toc: true
         <b>Videos.</b> Authors are encouraged to submit videos to aid the program committee in reviewing their submissions. Videos must be submitted according to the instructions at the submission website. Videos submitted with papers will automatically be considered for possible inclusion in the video proceedings (video submissions may also be made independently, as described in the separate Call for Videos). When submitted as supporting material, videos must be free of any identifying information prior to reviewing as per the double-blind submission policy. If accepted for the video proceedings, a revised version of the materials will be requested.
     </p>
 
-    <h2 id="submission-deadlines">Submission Deadlines</h2>
+    <h2>Submission Deadlines</h2>
     <p>
         Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     </p>
@@ -166,7 +153,7 @@ toc: true
         All VR Journal Papers submissions should be formatted using the IEEE Computer Society TVCG journal format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a>
     </p>
     
-    <h2 id="contacts"> Contacts </h2>
+    <h2> Contacts </h2>
     <p>
         Journal Papers Chairs:
         <ul>   
@@ -186,3 +173,4 @@ toc: true
 
     
 </div>
+:ET

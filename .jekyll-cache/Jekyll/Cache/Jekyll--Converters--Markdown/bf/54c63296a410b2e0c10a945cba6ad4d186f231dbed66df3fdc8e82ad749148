@@ -1,17 +1,4 @@
----
-layout: single
-author_profile: false
-header:
-  image: /assets/images/ieeevr-banner-small.jpg
-  #overlay_image: /assets/images/ieeevr-banner.png
-
-toc: true
-#toc_label: "Call for Journal Papers"
-#toc_icon: "cog"
-
----
-
-<div>
+I"…5<div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
     
     <h2 id="important-dates"> Important Dates </h2>
@@ -186,3 +173,4 @@ toc: true
 
     
 </div>
+:ET

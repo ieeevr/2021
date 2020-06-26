@@ -1,17 +1,4 @@
----
-layout: single
-author_profile: false
-header:
-  image: /assets/images/ieeevr-banner-small.jpg
-  #overlay_image: /assets/images/ieeevr-banner.png
-
-toc: true
-#toc_label: "Call for Journal Papers"
-#toc_icon: "cog"
-
----
-
-<div>
+I"ø4<div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
     
     <h2 id="important-dates"> Important Dates </h2>
@@ -24,13 +11,13 @@ toc: true
         <li><b>January 22, 2021</b>: Camera-ready material due from authors of accepted papers</li>
     </ul>
     
-    <h2 id="links"> Links </h2>
+    <h2> Links </h2>
     <ul>
         <li>Paper abstracts complete papers must be submitted electronically through the online submission system: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a></li>
         <li>All VR Journal Papers submissions should be formatted using the IEEE Computer Society TVCG journal format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a></li>
     </ul>
 
-    <h2 id="overview">Overview</h2>
+    <h2>Overview</h2>
     <p>
         IEEE VR 2021 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs).
     </p>
@@ -38,7 +25,7 @@ toc: true
         Inquiries contact: journalpapers2021 [at] ieeevr.org
     </p>
     
-    <h2 id="submission-guidelines">Submission Guidelines</h2>
+    <h2>Submission Guidelines</h2>
     <p>
         Paper abstracts and complete papers must be submitted electronically through the online submission system: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
     </p>
@@ -77,7 +64,7 @@ toc: true
     </p>
 
     
-    <h2 id="topics"> Topics </h2>
+    <h2> Topics </h2>
     <p>
     IEEE VR 2021 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
         <ul>
@@ -120,7 +107,7 @@ toc: true
         </ul>
     </p>
 
-    <h2 id="aditional-submission-guidelines"> Additional Submission Guidelines </h2>
+    <h2> Additional Submission Guidelines </h2>
     <p>
         All paper submissions must be in English.
     </p>
@@ -143,7 +130,7 @@ toc: true
         <b>Videos.</b> Authors are encouraged to submit videos to aid the program committee in reviewing their submissions. Videos must be submitted according to the instructions at the submission website. Videos submitted with papers will automatically be considered for possible inclusion in the video proceedings (video submissions may also be made independently, as described in the separate Call for Videos). When submitted as supporting material, videos must be free of any identifying information prior to reviewing as per the double-blind submission policy. If accepted for the video proceedings, a revised version of the materials will be requested.
     </p>
 
-    <h2 id="submission-deadlines">Submission Deadlines</h2>
+    <h2>Submission Deadlines</h2>
     <p>
         Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     </p>
@@ -166,7 +153,7 @@ toc: true
         All VR Journal Papers submissions should be formatted using the IEEE Computer Society TVCG journal format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a>
     </p>
     
-    <h2 id="contacts"> Contacts </h2>
+    <h2> Contacts </h2>
     <p>
         Journal Papers Chairs:
         <ul>   
@@ -186,3 +173,4 @@ toc: true
 
     
 </div>
+:ET
