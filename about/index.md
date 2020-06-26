@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: /assets/images/ieeevr-banner-smaller.jpg
+  image: /assets/images/ieeevr-banner-small.jpg
 excerpt: ""
   
 ---
