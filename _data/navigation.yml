@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Committees"
-  #   url: /committees
+  #- title: "Contribute"
+  # url: /contribute/
   #- title: "Past Conferences"
   #   url: /past-conferences
   # - title: "About"
@@ -14,3 +14,4 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
