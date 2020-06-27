@@ -1,4 +1,4 @@
-I"ƒ7<p><button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button></p>
+I"ò7<p><button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button></p>
 
 <script>
 var mybutton = document.getElementById("myBtnTop");
@@ -155,8 +155,10 @@ function topFunction() {
     <p>
         Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     </p>
-    <p>
-        <b>** The submission deadlines will be strictly enforced. Requests for extensions will not be honored **</b>
+    <p> 
+        <div class="notice--danger">
+            The submission deadlines will be strictly enforced. Requests for extensions will not be honored.
+        </div>
     </p>
         <ul>
         <li><b>September 2, 2020</b>: Abstracts due <em style="color:#841525">(REQUIRED)</em></li>
@@ -173,6 +175,8 @@ function topFunction() {
     <p>
         All VR Journal Papers submissions should be formatted using the IEEE Computer Society TVCG journal format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a>
     </p>
+    
+    <a href="#" class="btn btn--primary">Latex Templates</a>
     
     <h2 id="contacts"> Contacts </h2>
     <p>
