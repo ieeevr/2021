@@ -1,4 +1,4 @@
-I"é:<p><button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button></p>
+I"î:<p><button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button></p>
 
 <script>
 var mybutton = document.getElementById("myBtnTop");
@@ -145,8 +145,8 @@ function topFunction() {
         <b>IEEE VR uses a DOUBLE-BLIND review process.</b> This means that both the authors and the reviewers must remain anonymous to each other. Submissions (<b>including citations and optional videos</b>) must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity.  Authors should work diligently to ensure that their submissions do not expose their identities either through carelessness or intentionally. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
     </p>
     <p class="text-justify">
-        <div class="notice--danger">
-            Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.
+        <div class="notice--info">
+            <b>Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
         </div>
     </p>
     <p class="text-justify">

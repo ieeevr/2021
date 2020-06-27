@@ -159,8 +159,8 @@ function topFunction() {
         <b>IEEE VR uses a DOUBLE-BLIND review process.</b> This means that both the authors and the reviewers must remain anonymous to each other. Submissions (<b>including citations and optional videos</b>) must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity.  Authors should work diligently to ensure that their submissions do not expose their identities either through carelessness or intentionally. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
     </p>
     <p class="text-justify">
-        <div class="notice--danger">
-            Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.
+        <div class="notice--info">
+            <b>Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
         </div>
     </p>
     <p class="text-justify">
@@ -172,8 +172,8 @@ function topFunction() {
         Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     </p>
     <p class="text-justify"> 
-        <div class="notice--danger">
-            The submission deadlines will be strictly enforced. Requests for extensions will not be honored.
+        <div class="notice--info">
+            <b>The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
         </div>
     </p>
         <ul>
