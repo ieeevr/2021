@@ -13,6 +13,9 @@ $primary-color: #00aeef !default;
 $warning-color: #841525 !default;
 
 
+
+
+
 #myBtnTop { // move to the top button
   display: none;
   position: fixed;
@@ -44,6 +47,17 @@ b, strong {
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #00aeef;
+}
+
+::selection {
+  color: white;
+  background: #00aeef;
+}
 
 
 
