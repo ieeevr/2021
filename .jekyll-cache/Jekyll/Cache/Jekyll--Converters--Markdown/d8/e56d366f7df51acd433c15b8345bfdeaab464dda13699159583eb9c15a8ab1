@@ -1,4 +1,4 @@
-I"î:<p><button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button></p>
+I"Ã:<p><button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button></p>
 
 <script>
 var mybutton = document.getElementById("myBtnTop");
@@ -24,7 +24,7 @@ function topFunction() {
     
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>September 2, 2020</b>: Abstracts due <em style="color:#841525">(REQUIRED)</em></li>
+        <li><b>September 2, 2020</b>: Abstracts due <b>(REQUIRED)</b></li>
         <li><b>September 9, 2020</b>: Submissions due</li>
         <li><b>October 30, 2020</b>: Notification of first review cycle results</li>
         <li><b>December 15, 2020</b>: Revised paper submissions due to second review cycle</li>
@@ -158,12 +158,12 @@ function topFunction() {
         Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when AoE is for your local time is setting your location at 1 and Baker Island (which uses AoE) for: <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
     </p>
     <p class="text-justify"> 
-        <div class="notice--danger">
-            The submission deadlines will be strictly enforced. Requests for extensions will not be honored.
+        <div class="notice--info">
+            <b>The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
         </div>
     </p>
         <ul>
-        <li><b>September 2, 2020</b>: Abstracts due <em style="color:#841525">(REQUIRED)</em></li>
+        <li><b>September 2, 2020</b>: Abstracts due <b>(REQUIRED)</b></li>
         <li><b>September 9, 2020</b>: Submissions due</li>
         <li><b>October 30, 2020</b>: Notification of first review cycle results</li>
         <li><b>December 15, 2020</b>: Revised paper submissions due to second review cycle</li>

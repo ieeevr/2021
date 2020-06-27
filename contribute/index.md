@@ -38,7 +38,7 @@ function topFunction() {
     
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>September 2, 2020</b>: Abstracts due <em style="color:#841525">(REQUIRED)</em></li>
+        <li><b>September 2, 2020</b>: Abstracts due <b>(REQUIRED)</b></li>
         <li><b>September 9, 2020</b>: Submissions due</li>
         <li><b>October 30, 2020</b>: Notification of first review cycle results</li>
         <li><b>December 15, 2020</b>: Revised paper submissions due to second review cycle</li>
@@ -177,7 +177,7 @@ function topFunction() {
         </div>
     </p>
         <ul>
-        <li><b>September 2, 2020</b>: Abstracts due <em style="color:#841525">(REQUIRED)</em></li>
+        <li><b>September 2, 2020</b>: Abstracts due <b>(REQUIRED)</b></li>
         <li><b>September 9, 2020</b>: Submissions due</li>
         <li><b>October 30, 2020</b>: Notification of first review cycle results</li>
         <li><b>December 15, 2020</b>: Revised paper submissions due to second review cycle</li>
