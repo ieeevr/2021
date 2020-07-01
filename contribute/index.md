@@ -12,7 +12,7 @@ toc_sticky: true
 
 ---
 
-<button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
+<button onclick="topFunction()" id="myBtnTop" title="Go to top">Back to Top</button>
 
 <script>
 var mybutton = document.getElementById("myBtnTop");
@@ -20,7 +20,7 @@ var mybutton = document.getElementById("myBtnTop");
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";

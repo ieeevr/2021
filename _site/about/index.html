@@ -119,7 +119,7 @@
     
     
 
-  <body class="layout--splash">
+  <body class="layout--ieeevr-default">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -167,7 +167,30 @@
       
       
     <div class="initial-content">
-      
+      <button onclick="topFunction()" id="myBtnTop" title="Go to top">Back to Top</button>
+
+<script>
+var mybutton = document.getElementById("myBtnTop");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+
+
+
   
 
 
@@ -184,6 +207,8 @@
   
   
 </div>
+
+
 
 
 
