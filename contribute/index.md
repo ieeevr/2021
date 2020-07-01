@@ -12,7 +12,7 @@ toc_sticky: true
 
 ---
 
-<button onclick="topFunction()" id="myBtnTop" title="Go to top">Back to Top</button>
+<button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
 
 <script>
 var mybutton = document.getElementById("myBtnTop");
