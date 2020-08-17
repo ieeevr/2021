@@ -1,10 +1,5 @@
 ---
 layout: ieeevr-default
-author_profile: false
-header:
-  image: /assets/images/ieeevr-banner-small.jpg
-excerpt: ""
-
 ---
 
 <div>
