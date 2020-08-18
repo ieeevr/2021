@@ -1,181 +1,9 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
+---
+layout: default
+---
 
 
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title></title>
-<meta name="description" content="     Program Committee  ">
-
-
-  <meta name="author" content="IEEE VR">
-
-
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="">
-<meta property="og:title" content="">
-<meta property="og:url" content="http://localhost:4000/committees/program-committee/">
-
-
-  <meta property="og:description" content="     Program Committee  ">
-
-
-
-
-
-  <meta name="twitter:site" content="@ieeevr">
-  <meta name="twitter:title" content="">
-  <meta name="twitter:description" content="     Program Committee  ">
-  <meta name="twitter:url" content="http://localhost:4000/committees/program-committee/">
-
-  
-    <meta name="twitter:card" content="summary">
-    
-  
-
-  
-
-
-
-
-
-
-
-  
-
-  
-
-
-<link rel="canonical" href="http://localhost:4000/committees/program-committee/">
-
-
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": "IEEE VR",
-      "url": "http://localhost:4000/"
-    
-  }
-</script>
-
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
-
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-
-
-      <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-      
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      
-    <!--<script src="jquery.js"></script>-->
-    
-      
-      <!--<link rel="stylesheet" href="styles.css">-->
-      <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-      <!--<script src="script.js"></script>-->
-      
-  </head>
-    
-    
-
-  <body class="layout--ieeevr-default">
-    <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
-  </ul>
-</nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
-    <!-- 
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-          <a class="site-logo" href="/"><img src="/assets/images/ieeevr-logo.jpg" alt=""></a>
-        
-        <a class="site-title" href="/">
-          
-          
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/about/">About</a>
-            </li><li class="masthead__menu-item">
-              <a href="/contribute/">Contribute</a>
-            </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
--->
-      
-
-      
-      
-    <div class="initial-content">
-      <style>
+<style>
 
     
 .topnav {
@@ -417,34 +245,35 @@ function myFunction() {
       
       <!-- navbar -->  
       <div class="topnav" id="myTopnav">
-        <a href="/2021/" class="active">IEEE VR</a>
-        <a href="/2021/about">About</a>
+        <a href="/" class="active">IEEE VR</a>
+        <a href="/about">About</a>
         <!-- <a href="#">Online</a>  -->
         <!-- <a href="#">Attend</a>  -->
         <!-- <a href="#">Program</a> -->
         <div class="dropdown">
             <button class="dropbtn">Contribute &#9662;</button>
             <div class="dropdown-content">
-            <a href="/2021/contribute/">Call for Papers</a>
+            <a href="/contribute/">Call for Papers</a>
             </div>
         </div>
         <!-- <a href="#">Awards</a> -->
-        
+        <!--
         <div class="dropdown">
             <button class="dropbtn">Committees &#9662;</button>
             <div class="dropdown-content">
-            <a href="/2021/committees/conference-committee/">Conference Committee</a>
-            <!-- <a href="/committees/program-committee/">Program Committee</a> -->
-            <!-- <a href="/committees/steering-committee/">Steering Committee</a> -->
+            <a href="/committees/conference-committee/">Conference Committee</a>
+            <a href="/committees/program-committee/">Program Committee</a>
+            <a href="/committees/steering-committee/">Steering Committee</a>
             </div>
         </div>
-        <a href="/2021/past-conferences/">Past Conferences</a>
+        -->
+        <a href="/past-conferences/">Past Conferences</a>
         <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
       </div>
 
       
     <!-- banner -->  
-    <img class="ieeevrbanner" src="/2021/assets/images/ieeevr-banner.jpg">
+    <img class="ieeevrbanner" src="/assets/images/ieeevr-banner.jpg">
       
     <!-- content -->  
     <section class="page__content" itemprop="text">
@@ -456,12 +285,7 @@ function myFunction() {
             <div class="column left" style="">
                 
 
-                <div>
-    <h1>Program Committee</h1>
-
-
-</div>
-
+                {{ content }}
 
                 
             </div>
@@ -483,7 +307,7 @@ function myFunction() {
                     <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
 
                     <b>Gold</b><br>
-                    <img class="conf-icon" src="/2021/assets/images/sponsors/IST_A_RGB_POS.png">
+                    <img class="conf-icon" src="/assets/images/sponsors/IST_A_RGB_POS.png">
                     <br>
                     <br>
                 </div>
@@ -501,15 +325,3 @@ function myFunction() {
       
   </article>
 </div>
-
-    </div>
-
-      
-      
-
-    
-
-    
-
-  </body>
-</html>

@@ -1,8 +1,6 @@
----
-layout: ieeevr-default
----
+I"e<div>
+    <h1>Conference Committee</h1>
 
-<div>
     <h2> General Chairs </h2>
     <ul>
         <li> Joaquim Jorge &#x2012; <i> Universidade de Lisboa, Portugal </i></li>
@@ -97,94 +95,11 @@ layout: ieeevr-default
         <li style="list-style: none"> publications2021 [at] ieeevr.org </li>
     </ul>
 
-    <!--	<h2>	Publicity Chairs	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>	John	Quarles	&#x2012; <i>		</i></li>	-->
-    <!--			<li>	Nami	Ogawa	&#x2012; <i>	University of Tokyo	</i></li>	
-<!--			<li style="list-style: none">	publicity2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
 
-    <h2> Finance Chair </h2>
-    <ul>
-        <li> Luis Paulo Santos &#x2012; <i> University of Minho </i></li>
-        <!--			<li style="list-style: none">		[at] ieeevr.org			</li>	-->
-    </ul>
 
-    <!--	<h2>	Awards Chairs	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>	Greg	Welch	&#x2012; <i>		</i></li>	-->
-    <!--			<li>	Mary	Whitton	&#x2012; <i>		</i></li>	-->
-    <!--			<li>	Frank	Steinicke	&#x2012; <i>		</i></li>	-->
-    <!--			<li>	Kiyoshi	Kiyokawa	&#x2012; <i>		</i></li>	-->
-    <!--			<li>	Mark	Billinghurst	&#x2012; <i>		</i></li>	-->
-    <!--			<li style="list-style: none">	awards2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
 
-    <h2> Contest Chairs </h2>
-    <ul>
-        <li> Daniel Roth &#x2012; <i> University of Würzburg, Germany </i></li>
-        <li> Chao Mei &#x2012; <i> Kennesaw State University, USA </i></li>
-        <li> Luciano Soares &#x2012; <i> São Paulo </i></li>
-        <li style="list-style: none"> contest2021 [at] ieeevr.org </li>
-    </ul>
-
-    <h2> Research Demos Chairs </h2>
-    <ul>
-        <li> Ayush Bhargava &#x2012; <i> Key Lime Interactive, USA </i></li>
-        <li> David Krum &#x2012; <i> University of Southern California, USA </i></li>
-        <li> Benjamin Weyers &#x2012; <i> University of Trier, Germany </i></li>
-        <li> Rafael Kuffner Anjos &#x2012; <i> UCL </i></li>
-        <li style="list-style: none"> researchdemonstrations2021 [at] ieeevr.org </li>
-    </ul>
-
-    <!--	<h2>	Sponsorship Chairs	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li style="list-style: none">	sponsorship2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
-
-    <!--	<h2>	Industrial Program Chair	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>	Daniel	Wigdor	&#x2012; <i>	University of Toronto	</i></li>	-->
-    <!--			<li style="list-style: none">	industry2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
-
-    <h2> Student Volunteers Chairs </h2>
-    <ul>
-        <li> Ines Santos &#x2012; <i> IST, Lisbon </i></li>
-        <li> Soraia Paulo &#x2012; <i> INESC-ID, Lisbon </i></li>
-        <li> Courtney Hutton &#x2012; <i> University of Minnesota </i></li>
-        <!--			<li style="list-style: none">		[at] ieeevr.org			</li>	-->
-    </ul>
-
-    <!--	<h2>	Video Chairs	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li style="list-style: none">	videos2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
-
-    <!--	<h2>	Diversity &amp; Inclusion Chairs	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>	Tonja Machulla, 		&#x2012; <i>	LMU Munich, Germany	</i></li>	-->
-    <!--			<li>	Tony Baylis		&#x2012; <i>	LLNL, USA (SIGGRAPH)	</i></li>	-->
-    <!--			<li>	Catarina Moreira		&#x2012; <i>	Australia	</i></li>	-->
-    <!--			<li>	Stevie Carnell		&#x2012; <i>	USA	</i></li>	-->
-    <!--			<li style="list-style: none">	diversity2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
-
-    <!--	<h2>	Accessibility Chairs	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li style="list-style: none">	accessibility2021	[at] ieeevr.org			</li>	-->
-    <!--		</ul>							-->
 
 
 
 </div>
+:ET
