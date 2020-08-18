@@ -1,0 +1,14 @@
+---
+layout: ieeevr-default
+---
+
+<div>
+<h1 id="cfp-journal"> Call for Conference Papers </h1>
+
+<p>
+    Call for participation will be released soon? 
+</p>
+
+
+    
+</div>
