@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<div>
+I"P(<div>
 <h1 id="cfp-journal"> Call for Conference Papers </h1>
 
 <h2 id="important-dates"> Important Dates </h2>
@@ -158,30 +154,8 @@ layout: ieeevr-default
     <strong>Ethics and Responsibility.</strong> All submissions describing research experiments with human participants should follow the appropriate ethical guidelines and authors are encouraged to secure and report their pre-approval by the relevant ethics commission. An approval by any institutional review board should be indicated via the submission system. While this is not a mandatory requirement at this time, with the broad dissemination of VR, AR, and MR technology, our community should be aware of this responsibility.
 </p>
 
-
-<h2 id="submission-deadlines">Submission Deadlines</h2>
 <p>
-    Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. A convenient tool to see when AoE is for your local time is setting the "Location 1" field to your location and "Location 2" to Baker Island (which uses AoE) at <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>.
-</p>
-<p> 
-    <div class="notice--info">
-        <b>The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
-    </div>
-</p>
-
-<ul>
-    <li><strong>November 6, 2020:</strong> Conference paper abstracts due <strong>(REQUIRED)</strong></li>
-    <li><strong>November 13, 2020:</strong> Conference paper submissions due</li>
-    <li><strong>anuary 13, 2021:</strong> Conference paper notifications of results returned to authors</li>
-    <li><strong>February 1, 2021:</strong> Camera-ready material due from authors of accepted conference papers</li>
-</ul>
-
-<p>
-    Paper abstracts complete papers must be submitted electronically through the online submission system: 
-    <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
-</p>
-<p>
-    All IEEE VR Conference Paper submissions should be prepared in IEEE Computer Society VGTC format <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a> and submitted in PDF format.
+    
 </p>
 
 <p>
@@ -192,19 +166,11 @@ layout: ieeevr-default
     
 </p>
 
-<h2 id="contacts"> Contacts </h2>
 <p>
-    Conference Papers Chairs:
-    <ul>   
-        <li>Lili Wang, Beihang University, China</li>
-        <li>Luciana Nedel, Federal University of Rio Grande do Sul, Brazil</li>
-        <li>Tobias Langlotz, University of Otago, New Zealand</li>
-        <li>Gerd Bruder, University of Central Florida, USA</li>
-        <li>Regis Kopper, University of North Carolina at Greensboro, USA</li>
-    </ul>
-    conferencepapers2021 [at] ieeevr.org
+    
 </p>
 
 
     
 </div>
+:ET

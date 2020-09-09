@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<div>
+I"60<div>
 <h1 id="cfp-journal"> Call for Conference Papers </h1>
 
 <h2 id="important-dates"> Important Dates </h2>
@@ -168,12 +164,18 @@ layout: ieeevr-default
         <b>The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
     </div>
 </p>
+    <ul>
 
-<ul>
-    <li><strong>November 6, 2020:</strong> Conference paper abstracts due <strong>(REQUIRED)</strong></li>
-    <li><strong>November 13, 2020:</strong> Conference paper submissions due</li>
-    <li><strong>anuary 13, 2021:</strong> Conference paper notifications of results returned to authors</li>
-    <li><strong>February 1, 2021:</strong> Camera-ready material due from authors of accepted conference papers</li>
+<li><strong>November 6, 2020:</strong> Conference paper abstracts due <strong>(REQUIRED)</strong></li>
+<li><strong>November 13, 2020:</strong> Conference paper submissions due</li>
+<li><strong>anuary 13, 2021:</strong> Conference paper notifications of results returned to authors</li>
+<li><strong>February 1, 2021:</strong> Camera-ready material due from authors of accepted conference papers</li>
+    
+    
+    
+    
+    
+    
 </ul>
 
 <p>
@@ -181,7 +183,8 @@ layout: ieeevr-default
     <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
 <p>
-    All IEEE VR Conference Paper submissions should be prepared in IEEE Computer Society VGTC format <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a> and submitted in PDF format.
+    All VR Journal Papers submissions should be formatted using the IEEE Computer Society TVCG journal format described at
+    <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a>
 </p>
 
 <p>
@@ -208,3 +211,4 @@ layout: ieeevr-default
 
     
 </div>
+:ET
