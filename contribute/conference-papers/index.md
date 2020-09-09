@@ -172,7 +172,7 @@ layout: ieeevr-default
 <ul>
     <li><strong>November 6, 2020:</strong> Conference paper abstracts due <strong>(REQUIRED)</strong></li>
     <li><strong>November 13, 2020:</strong> Conference paper submissions due</li>
-    <li><strong>anuary 13, 2021:</strong> Conference paper notifications of results returned to authors</li>
+    <li><strong>January 13, 2021:</strong> Conference paper notifications of results returned to authors</li>
     <li><strong>February 1, 2021:</strong> Camera-ready material due from authors of accepted conference papers</li>
 </ul>
 
@@ -184,13 +184,6 @@ layout: ieeevr-default
     All IEEE VR Conference Paper submissions should be prepared in IEEE Computer Society VGTC format <a href="http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html">http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html</a> and submitted in PDF format.
 </p>
 
-<p>
-    
-</p>
-
-<p>
-    
-</p>
 
 <h2 id="contacts"> Contacts </h2>
 <p>
