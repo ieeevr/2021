@@ -1,0 +1,17 @@
+I"¿<style>
+* {
+  box-sizing: border-box;
+}
+.exhibitor-column {
+  float: left;
+  padding: 10px;
+}
+.exhibitor-row:after {
+  width: 50%;
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+:ET

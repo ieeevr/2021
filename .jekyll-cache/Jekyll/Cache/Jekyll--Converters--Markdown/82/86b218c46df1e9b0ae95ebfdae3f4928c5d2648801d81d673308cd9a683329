@@ -1,0 +1,11 @@
+I"•<style>
+* {
+  box-sizing: border-box;
+}
+.exhibitor-column {
+  float: left;
+  padding: 10px;
+  border: 2px solid red;
+  border-radius: 25px;
+</style>
+:ET

@@ -19,6 +19,9 @@
 <loc>http://localhost:4000/contribute/conference-papers/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contribute/exhibitors/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/playground/</loc>
 </url>
 <url>
@@ -29,5 +32,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/past-conferences/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online.pdf</loc>
+<lastmod>2020-09-14T12:34:58+00:00</lastmod>
 </url>
 </urlset>

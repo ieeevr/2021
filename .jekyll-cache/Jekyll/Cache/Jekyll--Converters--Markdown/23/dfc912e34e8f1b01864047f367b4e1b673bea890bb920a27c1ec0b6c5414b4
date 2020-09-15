@@ -1,0 +1,27 @@
+I"W<style>
+* {
+  box-sizing: border-box;
+}
+.exhibitor-column {
+  float: left;
+  padding: 10px;
+}
+.exhibitor-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.wrapper {
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  height: 20px;
+  width: 100px;
+}
+</style>
+
+:ET
