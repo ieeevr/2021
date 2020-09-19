@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<div>
+I"¶<div>
 <h1>	IEEE Virtual Reality International Program Committee	</h1>					
 								
 <h2>	Journal Papers	</h2>					
@@ -22,5 +18,5 @@ layout: ieeevr-default
         <li>	Mar	Gonzalez-Franco	&#x2012; <i>	Microsoft Research	</i></li>
         <li>	Tim	Dwyer	&#x2012; <i>	Monash University	</i></li>
     </ul>						
-
 </div>
+:ET

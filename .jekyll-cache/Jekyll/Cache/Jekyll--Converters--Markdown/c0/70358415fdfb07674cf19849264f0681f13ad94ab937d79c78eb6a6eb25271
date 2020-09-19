@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<style>
+I"`<style>
 * {
   box-sizing: border-box;
 }
@@ -20,7 +16,7 @@ layout: ieeevr-default
 <div>
 <h1>IEEE VR 2020: IEEE Conference on Virtual Reality and 3D User Interfaces</h1>
 <p>
-    March 22nd - 26th, 2020<br/>
+    March 22nd - 26th, 2020<br />
     <a href="http://ieeevr.org/2020">http://ieeevr.org/2020</a>
 </p>
 
@@ -45,8 +41,8 @@ layout: ieeevr-default
 <div class="exhibitor-row" style="background-color:#00aeef;border:2px solid #00aeef;border-radius: 5px;">
   <div class="exhibitor-column" style="width:60%;">
       <strong style="color:white;">Become a Sponsor or Exhibitor</strong>  
-      <br/>
-      <br/>
+      <br />
+      <br />
       <p style="color:white;">Connect with international experts and influencers who can evaluate your products and influence their adoption.</p>
       <p style="color:white;">Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees</p>
       <p style="color:white;">Gain worldwide recognition and visibility for your brand with enhanced branding opportunities</p>
@@ -85,15 +81,4 @@ layout: ieeevr-default
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
+:ET
