@@ -3,17 +3,24 @@ layout: ieeevr-default
 ---
 
 <style>
+<style>
 * {
   box-sizing: border-box;
 }
-.exhibitor-column {
-  float: left;
+.exhibitors-center {
+  margin: auto;
+  width: 80%;
+}
+.exhibitors-row {
+  display: flex;
+  background-color: #00aeef;
+  border-radius: 10px;
   padding: 10px;
 }
-.exhibitor-row:after {
-  content: "";
-  display: table;
-  clear: both;
+.exhibitors-column {
+  flex: 50%;
+  padding: 20px;
+  position: relative;
 }
 </style>
 
@@ -21,15 +28,15 @@ layout: ieeevr-default
 <h1>IEEE VR 2020: IEEE Conference on Virtual Reality and 3D User Interfaces</h1>
 <p>
     March 22nd - 26th, 2020<br/>
-    <a href="http://ieeevr.org/2020">http://ieeevr.org/2020</a>
+    <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021</a>
 </p>
 
 <h2>Important Dates</h2>
 
 <ul>
-  <li><strong>January 31, 2020</strong>: Deadline for application and full payment</li>
-  <li><strong>February 14, 2020</strong>: Space assignment mailed to exhibitors</li>
-  <li><strong>February 7, 2020</strong>: No refunds for cancellations</li>
+  <li><strong>29 January, 2021:</strong> Deadline for application and full payment</li>  
+  <li><strong>5 February, 2021:</strong> No refunds for cancellations</li>
+  <li><strong>19 February, 2020:</strong> Space assignment mailed to exhibitors</li>
 </ul>
 
 
@@ -41,40 +48,36 @@ layout: ieeevr-default
     Look forward to meeting with VR professionals eager to see what your company has to offer. Refreshments and a special reception will take place in the exhibit areas, ensuring good foot traffic to your display.
 </p>
 
-
-<div class="exhibitor-row" style="background-color:#00aeef;border:2px solid #00aeef;border-radius: 5px;">
-  <div class="exhibitor-column" style="width:60%;">
-      <strong style="color:white;">Become a Sponsor or Exhibitor</strong>  
-      <br/>
-      <br/>
-      <p style="color:white;">Connect with international experts and influencers who can evaluate your products and influence their adoption.</p>
-      <p style="color:white;">Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees</p>
-      <p style="color:white;">Gain worldwide recognition and visibility for your brand with enhanced branding opportunities</p>
-  </div>
-  <div class="exhibitor-column" style="width:40%;">
-    <div style="position: absolute; top: 50%; left: 50%;text-align:center; vertical-align:middle">
-        <a href="/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
-    </div>    
-  </div>
+<div class="exhibitors-center">
+    <div class="exhibitors-row">
+      <div class="exhibitors-column" style="flex: 60%;">
+          <strong style="color:white;font-size: 35px">Become a Sponsor or Exhibitor</strong>  
+          <br/>
+          <br/>
+          <p style="color:white;">Connect with international experts and influencers who can evaluate your products and influence their adoption.</p>
+          <p style="color:white;">Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees</p>
+          <p style="color:white;">Gain worldwide recognition and visibility for your brand with enhanced branding opportunities</p>
+      </div>
+      <div class="exhibitors-column" style="display: flex; flex: 40%; justify-content: center; align-items: center;">
+        <div style="">
+            <p style="font-size: 30px;">
+                <a href="/2021/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+            </p>
+        </div>
+      </div>                  
+    </div>
 </div>
-<!-- <a href="/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>-->
-
-
-
-
-
-
 
 
 
 <h2 id="events-schedule-at-a-glance">Events Schedule At-a-Glance</h2>
 
 <ul>
-  <li>March 22 Workshops, tutorials, and Doctoral Colloquium.</li>
-  <li>March 23: Exhibitor Set-up (set-up ends at 5:00 PM on March 23 so that your exhibit is open during the Welcome Reception)</li>
-  <li>March 23: Welcome Reception – Your first opportunity to meet and capture the attention of all the conference attendees.</li>
-  <li>March 23-25: Exhibits</li>
-  <li>March 23-26: Conference Programs</li>
+    <li><strong>27-28 March, 2021:</strong> Workshops, tutorials, and Doctoral Colloquium</li> 
+    <li><strong>28-29 March, 2021:</strong> Exhibitor Set-up</li>  
+    <li><strong>29 March, 2021:</strong> Exhibitor Reception – Your first opportunity to meet and capture the attention of all the conference attendees.</li> 
+    <li><strong>29-01 April, 2021:</strong> VR Conference and Exhibion</li> 
+    <li><strong>31 March, 2021:</strong> Exhibits Tear down</li> 
 </ul>
 
 <h2 id="contacts">Contacts</h2>

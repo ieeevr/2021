@@ -1,0 +1,26 @@
+I"G<style>
+.column {
+    float: left;
+    padding: 10px;
+    border: 1px solid red;
+}
+.left {
+    width: 75%;
+}
+.center {
+    width: 2%;
+} 
+.right {
+    width: 22%;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    background-color:#00aeef;
+    border:2px solid #00aeef;
+    border-radius: 5px;
+}
+</style>
+
+:ET
