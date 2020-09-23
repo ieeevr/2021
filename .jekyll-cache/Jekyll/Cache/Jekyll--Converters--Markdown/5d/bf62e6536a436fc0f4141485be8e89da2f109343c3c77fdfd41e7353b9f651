@@ -1,8 +1,4 @@
----									
-layout: ieeevr-default									
----									
-									
-<div>									
+I"e"<div>									
 	<h2>	General Chairs	</h2>						
 		<ul>							
 			<li>	Joaquim	Jorge	&#x2012; <i>	Universidade de Lisboa, Portugal	</i></li>	
@@ -69,7 +65,7 @@ layout: ieeevr-default
 	<h2>	Posters Chairs	</h2>						
 		<ul>							
 			<li>	Daniel Pires	Medeiros	&#x2012; <i>	University of Glasgow, UK	</i></li>	
-			<li>	Isaac	Cho	&#x2012; <i>	North Carolina A&T State University, USA	</i></li>	
+			<li>	Isaac	Cho	&#x2012; <i>	North Carolina A&amp;T State University, USA	</i></li>	
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
 			<li style="list-style: none">	posters2021	[at] ieeevr.org			</li>	
 		</ul>							
@@ -115,7 +111,7 @@ layout: ieeevr-default
 			<li>	Greg	Welch	&#x2012; <i>	University of Central Florida, USA	</i></li>	
 			<li>	Mary	Whitton	&#x2012; <i>	UNC, Chapel Hill, NC	</i></li>	
 			<li>	Frank	Steinicke	&#x2012; <i>	Univ Hamburg, Germany	</i></li>	
-<!--			<li>	Erica	Southgate	&#x2012; <i>	University of Newcastle, Australia	</i></li>	-->
+<!--			<li>	Erica	Southgate	&#x2012; <i>	University of Newcastle, Australia	</i></li>	
 			<li>	Kiyoshi	Kiyokawa	&#x2012; <i>	Nara Institute of Science and technology, Japan	</i></li>	
 			<li>	Mark	Billinghurst	&#x2012; <i>	University of Adelaide, Australia	</i></li>	
 			<li style="list-style: none">	awards2021	[at] ieeevr.org			</li>	
@@ -173,8 +169,8 @@ layout: ieeevr-default
 		<ul>							
 			<li>	Tonja 	Machulla	&#x2012; <i>	LMU Munich, Germany	</i></li>	
 			<li>	Tony	Baylis	&#x2012; <i>	LLNL, USA (SIGGRAPH)	</i></li>	
-			<li>	Catarina 	Moreira	&#x2012; <i>	QUT, Australia	</i></li>	
-			<li>	Stevie 	Carnell	&#x2012; <i>	University of Florida, USA	</i></li>	
+			<li>	Catarina 	Moreira	&#x2012; <i>	QUT, Australia	</i></li>	--&gt;
+			<li>	Stevie 	Carnell	&#x2012; <i>	University of Florida, USA	</i></li>	--&gt;
 			<li style="list-style: none">	diversity2021	[at] ieeevr.org			</li>	
 		</ul>							
 									
@@ -186,6 +182,8 @@ layout: ieeevr-default
 <!--			<li style="list-style: none">	accessibility2021	[at] ieeevr.org			</li>	-->
 <!--		</ul>							-->
 									
-</div>									
+&lt;/div&gt;									
 									
 									
+</ul></div>
+:ET
