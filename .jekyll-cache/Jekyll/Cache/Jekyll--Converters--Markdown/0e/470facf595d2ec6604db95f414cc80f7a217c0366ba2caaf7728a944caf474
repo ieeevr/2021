@@ -1,8 +1,5 @@
----									
-layout: ieeevr-default									
----									
-									
-<div>									
+I"
+<div>									
 	<h1>	IEEE Virtual Reality International Program Committee	</h1>						
 									
 	<h2>	Journal Papers	</h2>						
@@ -77,5 +74,6 @@ layout: ieeevr-default
 <!--			<li>			&#x2012; <i>		</i></li>	-->
 <!--		</ul>							-->
 									
-</div>									
-									
+</div>
+
+:ET

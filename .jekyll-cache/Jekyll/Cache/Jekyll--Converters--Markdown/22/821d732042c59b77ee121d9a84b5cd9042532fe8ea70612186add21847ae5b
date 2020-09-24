@@ -1,11 +1,11 @@
-I"[<div>
-		<h1>	IEEE Virtual Reality International Program Committee	</h1>						
+I"	<div>									
+	<h1>	IEEE Virtual Reality International Program Committee	</h1>						
 									
 	<h2>	Journal Papers	</h2>						
 		<ul>							
 			<li>	Daniel	Keefe	&#x2012; <i>	University of Minnesota	</i></li>	
-			<li>	Amy	Banic	&#x2012; <i>	University of Wyoming	</i></li>	
-			<li>	Patric	Ljung	&#x2012; <i>	Linköping University	</i></li>	
+<!--			<li>	Amy	Banic	&#x2012; <i>	University of Wyoming	</i></li>	-->
+<!--			<li>	Patric	Ljung	&#x2012; <i>	Linköping University	</i></li>	-->
 			<li>	Daisuke	Iwai	&#x2012; <i>	Osaka University	</i></li>	
 			<li>	Kevin	Ponto	&#x2012; <i>	University of Wisconsin - Madison	</i></li>	
 			<li>	Matt	Adcock	&#x2012; <i>	CSIRO	</i></li>	
@@ -73,15 +73,5 @@
 <!--			<li>			&#x2012; <i>		</i></li>	-->
 <!--		</ul>							-->
 									
-									
-									
-									
-									
-									
-									
-									
-									
-														
-								
 </div>
 :ET
