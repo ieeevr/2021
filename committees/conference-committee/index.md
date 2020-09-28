@@ -71,6 +71,7 @@ layout: ieeevr-default
 			<li>	Daniel Pires	Medeiros	&#x2012; <i>	University of Glasgow, UK	</i></li>	
 			<li>	Isaac	Cho	&#x2012; <i>	North Carolina A&T State University, USA	</i></li>	
 			<li>	Alexandre	Gomes de Siqueira	&#x2012; <i>	University of Florida, USA	</i></li>	
+			<li>	Daniel	Zielasko	&#x2012; <i>	Univ Trier, Germany	</i></li>	
 			<li style="list-style: none">	posters2021	[at] ieeevr.org			</li>	
 		</ul>							
 									
