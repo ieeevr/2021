@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<div>
+I"Ÿ0<div>
 <h1 id="cfp-journal"> Call for Conference Papers </h1>
 
 <h2 id="important-dates"> Important Dates </h2>
@@ -194,8 +190,8 @@ layout: ieeevr-default
         <li>Tobias Langlotz, University of Otago, New Zealand</li>
         <li>Gerd Bruder, University of Central Florida, USA</li>
         <li>Regis Kopper, University of North Carolina at Greensboro, USA</li>
-        <li> Martin Hatchet, Inria Bordeaux, France</li>
-        <li> Pablo Figueroa, Universidad de los Andes, Colombia</li>
+        <li> Martin Hatchet, Inria Bordeaux, France &lt;/i&gt;</li>
+        <li> Pablo Figueroa, Universidad de los Andes, Colombia &lt;/i&gt;</li>
     </ul>
     conferencepapers2021 [at] ieeevr.org
 </p>
@@ -203,3 +199,4 @@ layout: ieeevr-default
 
     
 </div>
+:ET
