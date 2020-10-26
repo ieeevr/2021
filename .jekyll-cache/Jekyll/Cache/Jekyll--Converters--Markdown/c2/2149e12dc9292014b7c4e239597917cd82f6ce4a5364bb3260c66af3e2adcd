@@ -1,7 +1,4 @@
----
-layout: ieeevr-default
----
-<!--									-->
+I"<!--									-->
 <div>
     <h1> Steering Committee </h1>
     <ul>
@@ -15,3 +12,4 @@ layout: ieeevr-default
         <li> Mary Whitton &#x2012; <i> University of North Carolina, USA </i></li>
     </ul>
 </div>
+:ET
