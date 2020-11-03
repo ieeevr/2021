@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<div>
+I"�<div>
     <h1 id="cfp-doctoral-cosortium"> Call for Doctoral Consortium</h1>
 
     <p>
@@ -61,10 +57,11 @@ layout: ieeevr-default
             <li>Rajiv Khadka ‒ Idaho National Laboratory, Idaho Falls, USA</li>
             <li>Andrew Robb ‒ Clemson University, South Carolina, USA</li>
             <li>Teresa Romão ‒ Nova University Lisbon, Portugal</li>
+
         </ul>
-        doctoralconsortium2021 [at] ieeevr.org
     </p>
 
 
 
 </div>
+:ET
