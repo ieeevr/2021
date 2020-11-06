@@ -1,6 +1,16 @@
-I"�<div>
-    <h1 id="cfp-doctoral-cosortium"> Call for Doctoral Consortium</h1>
+I"<div>
+    <h1 id="cfp-posters"> Call for Posters</h1>
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <p>
         <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 1, 2021, Virtual</strong>
         <br />
@@ -11,7 +21,9 @@
     <ul>
         <li><b>November 30, 2020 23:59 AoE:</b> Submission deadline.</li>
         <li><b>January 8th, 2020 23:59 AoE:</b> Notification of acceptance.</li>
-        <li><b>February 8th, 2021 23:59 AoE:</b> Consortium.</li>
+        <li><b>February 8th, 2021 23:59 AoE:</b> Camera-ready.</li>
+        <li><b>March 28th, 2021 9:00AM - 6:00PM GMT:</b> Consortium.</li>
+        
     </ul>
 
     <h2 id="Overview">Overview</h2>
@@ -28,24 +40,34 @@
     <h2 id="submission-guidelines">Submission Guidelines</h2>
     <p>
         To apply to the DC, please submit the following two documents via the Precision Conference Doctoral Consortium track at <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a> as a single PDF. All IEEE VR Doctoral Consortium submissions should be prepared in IEEE Computer Society VGTC format <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">http://junctionpublishing.org/vgtc/Tasks/camera.html</a> and submitted as a PDF.
+
+        <ol>
+            <li>Position paper: Paper submissions should be 2 pages in length including references. This position paper must clearly motivate, discuss, and summarize the proposed Ph.D. research, describe how the research fits into and advances research in VR and/or related fields, and report on your progress. You may additionally focus on a more specific area of the research if desired. In the concluding section, you should identify 2-3 questions/areas for improvement that you would like to discuss during the DC.</li>
+            <li>A one page Curriculum Vitae.</li>
+        </ol>
+
+        <div class="notice--info">
+            <b>Submissions received after the deadline will not be considered.</b>
+        </div>
     </p>
-    <ol>
-        <li>Position paper: Paper submissions should be 2 pages in length including references. This position paper must clearly motivate, discuss, and summarize the proposed Ph.D. research, describe how the research fits into and advances research in VR and/or related fields, and report on your progress. You may additionally focus on a more specific area of the research if desired. In the concluding section, you should identify 2-3 questions/areas for improvement that you would like to discuss during the DC.</li>
-        <li>A one page Curriculum Vitae.</li>
-    </ol>
 
-    
-    
-    <!-- -->
 
-    <h2 id="contact"> Contact Chairs </h2>
-
+    <h2 id="financing">Financing Your Conference Travel</h2>
     <p>
+        Students are encouraged to seek funding from their institutions for registration costs. DC participants who also apply as Student Volunteers should refer to the Student Volunteer chairs for funding information. Historically, the conference has been able to obtain some funding for students based in the U.S. and as we obtain specific information on other financial support we will update these pages and/or notify accepted student researchers.
+    </p>
+
+
+    <h2 id="contact">Questions?</h2>
+    <p>
+        For more information, please contact the DC Program Chairs at doctoralconsortium2021 [at] ieeevr.org:
         <ul>
-            <li>Daniel Roth, Technical University of Munich, Germany</li>
-            <li>Chao Mei, Kennesaw State University, USA</li>
-            <li>Luciano Soares, Insper, Brazil</li>
+            <li>Aleshia Hayes ‒ University of North Texas, USA</li>
+            <li>Rajiv Khadka ‒ Idaho National Laboratory, Idaho Falls, USA</li>
+            <li>Andrew Robb ‒ Clemson University, South Carolina, USA</li>
+            <li>Teresa Romão ‒ Nova University Lisbon, Portugal</li>
         </ul>
+        doctoralconsortium2021 [at] ieeevr.org
     </p>
 
 
