@@ -25,6 +25,9 @@
 <loc>http://localhost:4000/contribute/exhibitors/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contribute/demos/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/playground/</loc>
 </url>
 <url>
