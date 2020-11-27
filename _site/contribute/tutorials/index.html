@@ -1,0 +1,603 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title></title>
+<meta name="description" content="      Call for Tutorials              IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 1, 2021, Virtual                  http://ieeevr.org/2021/       ">
+
+
+  <meta name="author" content="IEEE VR">
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="">
+<meta property="og:url" content="http://localhost:4000/contribute/tutorials/">
+
+
+  <meta property="og:description" content="      Call for Tutorials              IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 1, 2021, Virtual                  http://ieeevr.org/2021/       ">
+
+
+
+
+
+  <meta name="twitter:site" content="@ieeevr">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="      Call for Tutorials              IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 1, 2021, Virtual                  http://ieeevr.org/2021/       ">
+  <meta name="twitter:url" content="http://localhost:4000/contribute/tutorials/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/contribute/tutorials/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "IEEE VR",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+      <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+      
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      
+    <!--<script src="jquery.js"></script>-->
+    
+      
+      <!--<link rel="stylesheet" href="styles.css">-->
+      <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+      <!--<script src="script.js"></script>-->
+      
+  </head>
+    
+    
+
+  <body class="layout--ieeevr-default">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <!-- 
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/ieeevr-logo.jpg" alt=""></a>
+        
+        <a class="site-title" href="/">
+          
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contribute/">Contribute</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+-->
+      
+
+      
+      
+    <div class="initial-content">
+      <style>
+
+    
+.topnav {
+  #position: fixed;
+  #top: 0px;
+  #width: 100%;
+  overflow: hidden;
+  background-color: white;
+  #border-bottom: 1px solid #00aeef;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: white;
+  color: black;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;    
+  border: none;
+  outline: none;
+  color: black;
+  padding: 16px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: aliceblue;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #00aeef;
+  color: white;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:checked .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: inherit;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}   
+    
+.ieeevrbanner{
+    padding: 0px;
+    border-radius: 10px;
+}
+    
+.column {
+    float: left;
+    padding: 10px;
+}
+.left {
+    width: 75%;
+}
+.center {
+    width: 2%;
+}
+    
+.right {
+    width: 22%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+    
+.sponsorsend {
+    display: block;
+}
+    
+.ieeevrfooter {
+    position: static;
+    padding-top: 10px;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+    
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:50px;
+  height:50px;
+  margin-right: 30px;
+}
+
+    
+
+    
+@media screen and (max-width: 900px) {
+    .left {
+        width: 100%;
+    }
+    .center {
+        display: none;
+    }
+    .right {
+        width: 100%;
+    }
+    .sidebar-header-icon
+    {
+        display: none;
+        padding: 0px 0px;
+    }
+    .confsponsors
+    {
+        #display: none;
+    }
+    .conf-icon {
+        width: 200px;
+    }    
+}
+    
+    
+
+    
+    
+</style>
+
+
+
+<button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
+
+<script>
+var mybutton = document.getElementById("myBtnTop");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+    
+    
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+
+
+<div id="main" role="main">
+  <article class="splash" style="margins:0px;" itemscope itemtype="https://schema.org/CreativeWork">
+
+      
+      
+      <!-- navbar -->  
+      <div class="topnav" id="myTopnav">
+        <a href="/2021/" class="active">IEEE VR</a>
+        <a href="/2021/about">About</a>
+        <!-- <a href="#">Online</a>  -->
+        <!-- <a href="#">Attend</a>  -->
+        <!-- <a href="#">Program</a> -->
+        <div class="dropdown">
+            <button class="dropbtn">Contribute &#9662;</button>
+            <div class="dropdown-content">
+            <a href="/2021/contribute/exhibitors">Exhibitors and Sponsors</a>
+            <a href="/2021/contribute/">Call for Journal Papers</a>
+            <a href="/2021/contribute/conference-papers/">Call for Conference Papers</a>
+            <a href="/2021/contribute/demos/">Call for Research Demos</a>
+            <a href="/2021/contribute/3dui-contest/">Call 3DUI Contest Participation</a>    
+            <a href="/2021/contribute/doctoral-consortium/">Call for Doctoral Consortium</a>    
+            <a href="/2021/contribute/posters/">Call for Posters</a>    
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn">Awards &#9662;</button>
+            <div class="dropdown-content">
+            <a href="/2021/awards/vgtc">VGTC Awards</a>  
+            </div>
+        </div>
+        
+        <div class="dropdown">
+            <button class="dropbtn">Committees &#9662;</button>
+            <div class="dropdown-content">
+            <a href="/2021/committees/conference-committee/">Conference Committee</a>
+            <a href="/2021/committees/steering-committee/">Steering Committee</a>
+            <a href="/2021/committees/program-committee/">Program Committee</a>
+            </div>
+        </div>
+        <a href="/2021/past-conferences/">Past Conferences</a>
+        <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
+      </div>
+
+      
+    <!-- banner -->  
+    <img class="ieeevrbanner" src="/2021/assets/images/ieeevr-banner.jpg">
+      
+    <!-- content -->  
+    <section class="page__content" itemprop="text">
+        <div class="row">
+
+            
+            
+            <!-- left sidebar -->  
+            <div class="column left" style="">
+                
+
+                <div>
+    <h1 id="cfp-tutorials"> Call for Tutorials</h1>
+    <p>
+        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 1, 2021, Virtual
+        <br />
+        <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+    </p>
+
+    <h2 id="important-dates"> Important Dates </h2>
+    <ul>
+        <li><b>January 11, 2021:</b> Tutorial submissions due</li>
+        <li><b>January 18, 2021:</b> Acceptance notification</li>
+        <li><b>January 31, 2021:</b> Advance program descriptions for IEEE VR 2021 website due</li>
+    </ul>
+    
+    <h2 id="overview">Overview</h2>
+    <p>
+        Tutorials are an excellent opportunity to offer education in topics in our field for both novice and experienced researchers. We invite members of our community to submit proposals for 90 minute or half-day tutorials. We anticipate that both tutorials and workshops will be presented on Sunday, March 28, 2021. 
+    </p>
+    <p>
+        Proposed tutorials may be introductory or advanced and should address topics of interest to the extended reality communities (virtual, mixed, or augmented reality), as well as the 3D user interface community. Proposals will be evaluated on their relevance to the conference topics, their suitability for presentation in a tutorial format, and the qualifications of the instructors. We will strive for a balance of topics in the tutorial program and also consider the potential for interest and attendance. Upon review of submitted proposals, suggestions may be provided by the Tutorials chairs to submitters on how to improve their submission. Suggested topics include but are not limited to:
+    </p>
+    
+    <ul>
+        <li>3D interaction</li>
+        <li>Input devices</li>
+        <li>Haptics, audio, and other non-visual interfaces</li>
+        <li>Systems, toolkits, software frameworks, and game engines for VR/AR/MR</li>
+        <li>Introduction to virtual, augmented, or mixed reality</li>
+        <li>Computer graphics techniques for VR/AR/MR</li>
+        <li>Advanced display technology</li>
+        <li>Immersive projection technology</li>
+        <li>Multi-user and distributed VR/AR/MR</li>
+        <li>Serious games</li>
+        <li>Tracking and sensing</li>
+        <li>Modeling and simulation</li>
+        <li>User studies and evaluation</li>
+        <li>Immersion, presence, perception, and cognition</li>
+        <li>Navigation and cybersickness</li>
+        <li>Applications of VR/AR/MR</li>
+        <li>Teleoperation and telepresence</li>
+        <li>AI and VR/AR/MR</li>
+        <li>Sanitation and hygiene for VR/AR/MR</li>
+        <li>Online studies and remote data collection</li>
+    </ul>
+    
+    <h2 id="submission-guidelines">Submission Guidelines</h2>
+    
+    <p>
+        Proposals are welcome on topics that have been previously addressed; in addition, new topics, approaches, or insights are especially appreciated. Submissions should include a statement indicating how the proposal differs from recent tutorial presentations that may have approached a similar topic, or why it is important to offer it again. Topics taken from the list of suggested topics appropriate for paper submissions to the main conference are also welcome. Proposals for tutorials should be submitted electronically (PDF) and should include:
+    </p>
+    
+    <ul>
+        <li>Title</li>
+        <li>Expected duration (90 minute or half-day)</li>
+        <li>A brief description of the topics to be addressed, including time allotted to each (roughly 500 words)</li>
+        <li>The technical level and intended audience</li>
+        <li>The expected value to that audience</li>
+        <li>If the tutorial has been delivered before, include a description of where and when, and explain why it should be held again. This is required regardless of whether the proposers organized the previous tutorials themselves or the previous tutorials were taught by someone else.</li>
+        <li>The names, contact information and a short biography (roughly 200 words each) for the proposed instructors.</li>
+    </ul>
+    
+    <p>
+    Tutorial submissions must be submitted via email to the Tutorials Chairs at tutorials2021 [at] ieeevr.org.
+    </p>
+    <p>
+    For each 90 minute accepted tutorial, we will be able to provide a free one-day registration for the day of the tutorial, and two one-day registrations for the day of the tutorial for each half-day accepted tutorial.
+    </p>    
+    
+    <h2 id="contact">Contacts</h2>
+    <p>
+        For more information, to inquire about a particular tutorial topic, or to submit a proposal, please contact the Tutorials Chairs:
+        <ul>
+            <li>Beatriz Sousa Santos, University of Aveiro, Portugal</li>
+            <li>Evan Suma Rosenberg, University of Minnesota, USA</li>
+        </ul>
+        tutorials2021 [at] ieeevr.org
+    </p>
+
+
+
+</div>
+
+
+                
+            </div>
+            <div class="column center" style=""></div>
+            
+            <!-- Main Content -->  
+            <div class="column right" style="text-align: center">
+                
+                <!-- <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">-->
+                <!-- <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                <div>
+                    <ul class="social-icons">
+                        <li><a href="https://facebook.com/ieeevr"><img src='/2021/assets/images/social/circle-color/Facebook.png' /></a></li>
+                        <li><a href="http://www.twitter.com/ieeevr"><img src='/2021/assets/images/social/circle-color/Twitter.png' /></a></li>
+                    </ul>
+                </div>
+
+                <div class="confsponsors" id="sponsors">
+                    <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
+
+                    <b>Gold</b><br>
+                    <img class="conf-icon" src="/2021/assets/images/sponsors/IST_A_RGB_POS.png">
+                    <br>
+                    <br>
+                </div>
+                
+                
+                
+            </div>
+        </div>
+        
+        <!--  footer --> 
+        <div class="ieeevrfooter">
+                <p>© IEEEVR Conference</p>    
+        </div>
+    </section>
+      
+  </article>
+</div>
+
+    </div>
+
+      
+      
+
+    
+
+    
+
+  </body>
+</html>
