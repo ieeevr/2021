@@ -1,8 +1,4 @@
----
-layout: ieeevr-default
----
-
-<div>
+I"<div>
     <h1 id="cfp-doctoral-cosortium"> Call for Doctoral Consortium</h1>
 
     <p>
@@ -13,7 +9,7 @@ layout: ieeevr-default
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b><del style="text-decoration-thickness: 3px;">November 30</del> December 6, 2020 23:59 AoE:</b> Submission deadline.</li>
+        <li><b><strike>November 30, 2020 23:59 AoE</strike> December 6, 2020 23:59 AoE:</b> Submission deadline.</li>
         <li><b>January 8th, 2020 23:59 AoE:</b> Notification of acceptance.</li>
         <li><b>February 8th, 2021 23:59 AoE:</b> Camera-ready.</li>
         <li><b>March 28th, 2021 9:00AM - 6:00PM GMT:</b> Consortium.</li>
@@ -67,3 +63,4 @@ layout: ieeevr-default
 
 
 </div>
+:ET
