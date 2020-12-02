@@ -16,6 +16,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contribute/workshops/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/contribute/posters/</loc>
 </url>
 <url>
