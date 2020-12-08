@@ -135,7 +135,7 @@ layout: ieeevr-default
     <h2> Research Demos Chairs </h2>
     <ul>
         <li> Ayush Bhargava &#x2012; <i> Key Lime Interactive, USA </i></li>
-        <li> David Krum &#x2012; <i> University of Southern California, USA </i></li>
+        <li> David Krum &#x2012; <i> California State University, Los Angeles, USA </i></li>
         <li> Benjamin Weyers &#x2012; <i> University of Trier, Germany </i></li>
         <li> Rafael Kuffner Anjos &#x2012; <i> UCL, UK </i></li>
         <li style="list-style: none"> researchdemonstrations2021 [at] ieeevr.org </li>
