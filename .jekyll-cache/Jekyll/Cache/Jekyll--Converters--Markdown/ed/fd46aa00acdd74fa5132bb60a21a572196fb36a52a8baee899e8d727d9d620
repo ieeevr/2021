@@ -1,4 +1,4 @@
-I"Ò"<div>
+I"µ#<div>
     <h2> General Chairs </h2>
     <ul>
         <li> Joaquim Jorge &#x2012; <i> Universidade de Lisboa, Portugal </i></li>
@@ -131,7 +131,7 @@
     <h2> Research Demos Chairs </h2>
     <ul>
         <li> Ayush Bhargava &#x2012; <i> Key Lime Interactive, USA </i></li>
-        <li> David Krum &#x2012; <i> University of Southern California, USA </i></li>
+        <li> David Krum &#x2012; <i> California State University, Los Angeles, USA </i></li>
         <li> Benjamin Weyers &#x2012; <i> University of Trier, Germany </i></li>
         <li> Rafael Kuffner Anjos &#x2012; <i> UCL, UK </i></li>
         <li style="list-style: none"> researchdemonstrations2021 [at] ieeevr.org </li>
@@ -184,6 +184,15 @@
     <!--			<li>			&#x2012; <i>		</i></li>	-->
     <!--			<li style="list-style: none">	accessibility2021	[at] ieeevr.org			</li>	-->
     <!--		</ul>							-->
+
+
+
+    <h2> Registration Chair </h2>
+    <ul>
+        <li> Arindam Dey &#x2012; <i> University of Queensland </i></li>
+        <!--			<li style="list-style: none">	registration2021	[at] ieeevr.org			</li>	-->
+    </ul>
+
 
 </div>
 :ET

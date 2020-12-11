@@ -189,4 +189,13 @@ layout: ieeevr-default
     <!--			<li style="list-style: none">	accessibility2021	[at] ieeevr.org			</li>	-->
     <!--		</ul>							-->
 
+
+
+    <h2> Registration Chair </h2>
+    <ul>
+        <li> Arindam Dey &#x2012; <i> University of Queensland </i></li>
+        <!--			<li style="list-style: none">	registration2021	[at] ieeevr.org			</li>	-->
+    </ul>
+
+
 </div>
