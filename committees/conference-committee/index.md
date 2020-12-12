@@ -37,8 +37,8 @@ layout: ieeevr-default
     <h2> Web Chairs </h2>
     <ul>
         <li> Maurício Sousa &#x2012; <i> University of Toronto, Canada </i></li>
-        <li> Beatriz Peres &#x2012; <i> University of Madeira, Portugal </i></li>
         <li> Jiannan Li &#x2012; <i> University of Toronto, Canada </i></li>
+        <li> Beatriz Peres &#x2012; <i> University of Madeira, Portugal </i></li>
         <li> J. Adam Jones &#x2012; <i> University of Mississippi, USA </i></li>
         <li style="list-style: none"> web2021 [at] ieeevr.org </li>
     </ul>
@@ -137,7 +137,7 @@ layout: ieeevr-default
         <li> Ayush Bhargava &#x2012; <i> Key Lime Interactive, USA </i></li>
         <li> David Krum &#x2012; <i> California State University, Los Angeles, USA </i></li>
         <li> Benjamin Weyers &#x2012; <i> University of Trier, Germany </i></li>
-        <li> Rafael Kuffner Anjos &#x2012; <i> UCL, UK </i></li>
+        <li> Rafael Kuffner dos Anjos &#x2012; <i> UCL, UK </i></li>
         <li style="list-style: none"> researchdemonstrations2021 [at] ieeevr.org </li>
     </ul>
 
@@ -166,7 +166,7 @@ layout: ieeevr-default
 
     <h2> Video Chairs </h2>
     <ul>
-        <li> Miguel Dias &#x2012; <i> ISCTE UL </i></li>
+        <li> Miguel Dias &#x2012; <i> ISTAR-Iscte, Lisbon </i></li>
         <li> Paulo Dias &#x2012; <i> U Aveiro </i></li>
         <li> Joao Moreira &#x2012; <i> INESC-ID, Lisbon </i></li>
         <li style="list-style: none"> videos2021 [at] ieeevr.org </li>
