@@ -25,13 +25,16 @@
 <loc>http://localhost:4000/contribute/conference-papers/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contribute/videos/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/contribute/exhibitors/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contribute/tutorials/</loc>
+<loc>http://localhost:4000/playground/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/playground/</loc>
+<loc>http://localhost:4000/contribute/demos/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contribute/3dui-contest/</loc>
@@ -46,7 +49,7 @@
 <loc>http://localhost:4000/awards/vgtc/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contribute/demos/</loc>
+<loc>http://localhost:4000/contribute/tutorials/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/past-conferences/</loc>

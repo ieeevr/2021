@@ -1,0 +1,77 @@
+I"�<div>
+    <h1 id="cfp-videos"> Call for Videos</h1>
+    <p>
+        <strong style="color: black">IEEE VR 2021: IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27th - April 3rd, 2021
+        <br />
+        <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+    </p>
+
+    <h2 id="important-dates"> Important Dates </h2>
+    <ul>
+        <li><b>January 15, 2021:</b> Submission deadline</li>
+        <li><b>February 7, 2021:</b> Notification of Acceptance</li>
+        <li><b>February 15, 2021:</b> Submission of Final Materials for Accepted Videos</li>
+    </ul>
+
+    <h2 id="overview">Overview</h2>
+    <p>
+        We invite VR researchers and enthusiasts to submit videos showcasing virtual reality research, applications, and other creative work. There are two video submission tracks: Technical Video and Creative VR. Topics include 3D user interfaces, virtual reality, mixed reality, or augmented reality. Accepted video submissions will be featured on the IEEE Virtual Reality Conference <a href="https://www.youtube.com/user/ieeevrconf">YouTube Channel</a>. This year's conference motto is “make virtual reality diverse and accessible”.
+    </p>
+
+    <h2 id="creative-vr-track">Creative VR Track</h2>
+    <p>
+        Submissions to the Creative VR track should be artistic, creative, experimental, narrative, or journalistic in nature and produced in a 360-degree spherical format. Audio-visual immersion and user participation have the potential to heighten a viewer’s sense of presence and level of engagement with a presentation form that is closer to how we actually perceive and engage with the world around us. We are interested in originality and innovation in the design of immersive experiences. Video submissions in this track should be from 3 to 8 minutes in length, and adhere to the additional specifications outlined below. The video should also include a title slide at its beginning detailing the title, authors, and affiliations (similar to a typical presentation title slide). Accepted videos will also have a one page abstract that will be included in the electronic proceedings, and videos will also be prominently displayed during the IEEE Virtual Reality conference.
+    </p>
+
+    <h2 id="tecnical-video-track">Technical Video Track</h2>
+    <p>
+        Submissions to the Technical Video Track should demonstrate preliminary results, consolidated research results, work-in-progress, and research/technical demonstrations. We also invite video demos of creative VR experiences that have been documented and produced as a framed standard video. Technical video submissions should be 2 to 5 minutes in length, and comply with the specification outlined below. The video should also include a title slide at its beginning, detailing the title, authors, and affiliations (similar to a typical presentation title slide). Videos submitted in this category should be able to stand on their own, adequately present their topic and be narrated in English. Accepted videos will also have a one page abstract that will be included in the electronic proceedings, and videos will also be prominently displayed during the IEEE Virtual Reality conference.
+    </p>
+    <h4>Special announcement to authors with videos related to their paper/poster submissions:</h4>
+    <p>
+        Please be advised that, although you may have uploaded your video content along with your submission through the process outlined through PCS, <u>for any video content to be considered for either of these tracks, it must be submitted again separately through the process outlined within this call</u>.
+    </p>
+    
+    <h2 id="video-submission-specification">Video Submission Specifications</h2>
+    <p>
+        When preparing the video, please make it as professional as possible. Producing a video already requires a significant amount of effort, and spending just a little more effort to raise the quality can make a big difference. Submitted videos should follow the following guidelines:
+    </p>
+    
+    <h4>Technical Video Track</h4>
+    <ul>
+        <li>Length: 2 to 5 minutes.</li>
+        <li>Standard framed HD video format.</li>
+        <li><u>Your video will need to be submitted via a YouTube URL link.</u></li>
+        <li>Titles and credits should not be displayed for more than ten seconds: the content is the most important!</li>
+        <li>Please follow the YouTube recommended encoding settings (for frame rate and bitrate): https://support.google.com/youtube/answer/1722171</li>
+        <li>Encode your video using square pixels for the pixel aspect ratio and disable interlacing.</li>
+        <li>We strongly recommend a 16:9 aspect ratio and resolution of at least 1280x720. High frame rate and resolutions are possible within the YouTube recommendations.</li>
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+    <h2 id="contact">Contacts</h2>
+    <p>
+        For more information and inquiries, please contact the Workshop Chairs at workshops2020 [at] ieeevr.org:
+    </p>
+
+    <ul>
+        <li>Jason Jerald, NextGen Interactions, USA</li>
+        <li>Mashhuda Glencross, The University of Queensland, Brisbane, Australia </li>
+        <li>Sabine Coquillart, Inria, Grenoble, France</li>
+        <li>João Madeiras Pereira University of Lisboa IST/INESC-ID, Portugal</li>
+    </ul>
+    tutorials2021 [at] ieeevr.org
+
+
+
+</div>
+:ET
