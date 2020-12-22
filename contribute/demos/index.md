@@ -49,6 +49,10 @@ layout: ieeevr-default
     </p>
 
 
+    <h2 id="online-presentation">Online Presentation</h2>
+    <p>
+        IEEE VR 2021 will be a fully virtual conference. For the presentation of the research demos, we will use Discord. For each demo, there will be a text channel for discussions and a multimedia channel to present live demos using the video conferencing capabilities of Discord. We will require you to present your demo as a live demo in case of acceptance. In addition, demos will be presented (together with posters) in a fast forward session using a 30 sec. video, which should be provided at a later point in the process.
+    </p>
 
     <h2 id="contact">Contacts</h2>
     <p>
