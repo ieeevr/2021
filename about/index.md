@@ -1,7 +1,8 @@
 ---
-title: VR 2020
 layout: ieeevr-default
 ---
+
+<title>IEEE VR 2020</title>
 
 <div>
 <h1> About the IEEE VR Conference </h1>
