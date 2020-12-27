@@ -1,4 +1,5 @@
 ---
+title: VR 2020
 layout: ieeevr-default
 ---
 
