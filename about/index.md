@@ -1,5 +1,5 @@
 ---
-title: "IEEE VR 2020"
+title: About
 layout: ieeevr-default
 ---
 
