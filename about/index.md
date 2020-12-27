@@ -1,6 +1,6 @@
 ---
-title: About
 layout: ieeevr-default
+title: "About"
 ---
 
 
