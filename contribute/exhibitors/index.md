@@ -1,6 +1,6 @@
 ---
 layout: ieeevr-default
-title: "Exhibitors"
+title: "Exhibitors and Sponsors"
 ---
 
 <style>
