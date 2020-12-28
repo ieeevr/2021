@@ -1,5 +1,6 @@
 ---
 layout: ieeevr-default
+title: "Research Demos"
 ---
 
 <div>

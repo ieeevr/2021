@@ -1,5 +1,6 @@
 ---
 layout: ieeevr-default
+title: "IEEEVR VGTC Awards"
 ---
 
 <div>

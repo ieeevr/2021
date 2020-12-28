@@ -1,5 +1,6 @@
 ---
 layout: ieeevr-default
+title: "3DUI Contest"
 ---
 
 <div>
