@@ -17,9 +17,9 @@ title: "3DUI Contest"
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>December 16, 2020:</b> Contest registration (project title and team members).</li>
-        <li><b>January 9, 2021 </b> Submission of two-page abstract and video.</li>
-        <li><b>January 22, 2021 </b> Notification of which entries are accepted.</li>
-        <li><b>January 31, 2021 </b> Camera ready version.</li>
+        <li><b><del>January 9, 2021</del> January 12, 2021:</b> Submission of two-page abstract and video.</li>
+        <li><b><del>January 22, 2021</del> January 25, 2021:</b> Notification of which entries are accepted.</li>
+        <li><b>January 31, 2021: </b> Camera ready version.</li>
         <li style="list-style: none"> All deadlines are Anywhere on Earth (AoE)</li>
     </ul>
 
