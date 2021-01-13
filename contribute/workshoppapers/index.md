@@ -62,7 +62,7 @@ title: "Workshop Papers"
 
     <h2 id="SIVE"> Sonic Interactions in Virtual Environments (SIVE) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://smcnetwork.org/">https://smcnetwork.org/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sive.create.aau.dk/">https://sive.create.aau.dk/</a>
     </p>
     <ul>
         <li> Abstract submission 15/01/2021 </li>
