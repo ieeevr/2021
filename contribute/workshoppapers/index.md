@@ -29,7 +29,7 @@ title: "Workshop Papers"
     <h2 id="TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
 
     <p>
-        <strong style="color:black">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
     </p>
     <ul>
         <li> Submission deadline 24/01/2021 </li>
@@ -40,16 +40,21 @@ title: "Workshop Papers"
         This workshop discusses and articulates research visions on using the latest extended reality (VR/AR/MR) technologies for education and training purposes, and on creating immersive 3D virtual content for delivering effective and personalized training experiences. This workshop will gather researchers and practitioners in a variety of computer disciplines related to XR training and content creation. This workshop will accept research papers on these topics. We will also invite renowned speakers from the research community and the industry to give talks related to XR-based training to inspire the field to further explore this promising direction.
     </p>
     <p>
-        <strong style="color:black">Principal Organizer:</strong> Lap-Fai (Craig) Yu
+        <strong style="color:black;">Principal Organizer:</strong> Lap-Fai (Craig) Yu
     </p>
 
 
-
-
-
-
-
-
-
-
+    <h2 id="SeatedVR"> Seated Virtual Reality & Embodiment (SeatedVR) </h2>
+    <h2 id="SIVE"> Sonic Interactions in Virtual Environments (SIVE) </h2>
+    <h2 id="VHCIE2021"> 6th Workshop on Virtual Humans and Crowds for Immersive Environments (VHCIE 2021) </h2>
+    <h2 id="WISP"> Workshop on Immersive Sickness Prevention (WISP) </h2>
+    <h2 id="NIDIT"> Novel Input Devices and Interaction Techniques – NIDIT </h2>
+    <h2 id="WEVR"> WEVR: 7th Annual Workshop on Everyday Virtual Reality </h2>
+    <h2 id="KELVAR"> KELVAR: 6th Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality </h2>
+    <h2 id="EXR"> Ethics in XR (EXR) </h2>
+    <h2 id="DISCE"> Distributed Interactive Systems for Collaborative Experiences (DISCE) </h2>
+    <h2 id="Combining-the-Virtual-and-the-Real"> Combining the Virtual and the Real in a World that Works for Everyone </h2>
+    <h2 id="Finding-a-way-forward-in-VR-locomotion"> Finding a way forward in VR locomotion </h2>
+    <h2 id="PrXR"> PrXR: Towards a roadmap for privacy and security research for mixed reality applications </h2>
+    <h2 id="ANIVAE"> Animation in Virtual and Augmented Environments - ANIVAE </h2>
 </div>
