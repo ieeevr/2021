@@ -26,7 +26,7 @@ title: "Workshop Papers"
         <li> <a href="#ANIVAE"> Animation in Virtual and Augmented Environments - ANIVAE </a> </li>
     </ul>
 
-    <h2 id="#TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
+    <h2 id="TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
 
     <p>
         <strong style="color:black">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
