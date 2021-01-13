@@ -31,7 +31,7 @@ title: "Workshop Papers"
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
     </p>
     <ul>
-        <li> Submission deadline 24/01/2021 </li>
+        <li> Submission deadline 25/01/2021 </li>
         <li> Notification 31/01/2021 </li>
         <li> Camera-ready submission 12/02/2021 </li>
     </ul>
