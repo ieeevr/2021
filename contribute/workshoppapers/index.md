@@ -29,7 +29,7 @@ title: "Workshop Papers"
     <h2 id="#TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
 
     <p>
-        <strong>Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
+        <strong style="color:black">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
     </p>
     <ul>
         <li> Submission deadline 24/01/2021 </li>
@@ -40,7 +40,7 @@ title: "Workshop Papers"
         This workshop discusses and articulates research visions on using the latest extended reality (VR/AR/MR) technologies for education and training purposes, and on creating immersive 3D virtual content for delivering effective and personalized training experiences. This workshop will gather researchers and practitioners in a variety of computer disciplines related to XR training and content creation. This workshop will accept research papers on these topics. We will also invite renowned speakers from the research community and the industry to give talks related to XR-based training to inspire the field to further explore this promising direction.
     </p>
     <p>
-        <strong>Principal Organizer:</strong> Lap-Fai (Craig) Yu
+        <strong style="color:black">Principal Organizer:</strong> Lap-Fai (Craig) Yu
     </p>
 
 
