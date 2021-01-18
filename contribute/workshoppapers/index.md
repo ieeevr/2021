@@ -98,15 +98,15 @@ title: "Workshop Papers"
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/umn.edu/wisp">https://sites.google.com/umn.edu/wisp</a>
     </p>
     <ul>
-        <li> Submission deadline 30/01/2021 </li>
-        <li> Notification 05/02/2021 </li>
-        <li> Camera-ready submission 11/02/2021 </li>
+        <li> Submission deadline 31/01/2021 </li>
+        <li> Notification 07/02/2021 </li>
+        <li> Camera-ready submission 12/02/2021 </li>
     </ul>
     <p>
         The Workshop on Immersive Sickness Prevention is intended to foster discussion between researchers, developers, and practitioners interested in addressing cybersickness, one of the most significant usability issues in the virtual reality field. Although immersive technologies have been advancing rapidly, their rate of public adoption has been slowed by the fact that many users experience physical discomfort during or after the use of VR devices, with symptomatic characteristics similar to motion sickness. Furthermore, studies have consistently shown that motion sickness disproportionately affects women, and concerns have been raised about the existence of inequitable barriers for engaging with immersive media. The workshop program will include primary research papers that report study results, novel interaction techniques, or technological interventions aimed towards understanding and mitigating cybersickness, as well as position papers describing early-stage concepts, preliminary results, or case studies from industry.
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Evan Suma Rosenberg
+        <strong style="color:black;">Principal Organizers:</strong> Evan Suma Rosenberg and Victoria Interrante
     </p>
 
     <h2 id="NIDIT"> Novel Input Devices and Interaction Techniques – NIDIT </h2>
