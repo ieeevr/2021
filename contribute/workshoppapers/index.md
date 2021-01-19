@@ -47,7 +47,7 @@ title: "Workshop Papers"
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/seated-vr/home">https://sites.google.com/view/seated-vr/home</a>
     </p>
     <ul>
-        <li> Submission deadline 20/01/2021 </li>
+        <li> Submission deadline 24/01/2021 </li>
         <li> Notification 31/01/2021 </li>
         <li> Rebuttal (short papers) 05/02/2021 </li>
         <li> Final notification (short papers) 08/02/2021 </li>
