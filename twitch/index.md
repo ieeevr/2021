@@ -4,7 +4,7 @@ title: "Twitch Playground"
 ---
 
 
-<div style="background-color: blue">
+<div>
     
     <h1>Twitch Playground</h1>
     
