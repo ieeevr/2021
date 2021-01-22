@@ -65,7 +65,7 @@ title: "Exhibitors and Sponsors"
       <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
         <div style="">
             <p style="font-size: 20px;">
-                <a href="/2021/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                <a href="/2021/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online012021.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
             </p>
         </div>
       </div>                  
