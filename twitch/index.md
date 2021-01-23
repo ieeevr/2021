@@ -44,18 +44,21 @@ title: "Twitch Playground"
         height: 480,
         channel: "ieeevr_test",
         muted: true,
+        layout: "video",
       });
       new Twitch.Embed("session_B", {
         width: "100%",
         height: 480,
         channel: "ieeevr_test",
         muted: true,
+        layout: "video",
       });
       new Twitch.Embed("session_C", {
         width: "100%",
         height: 480,
         channel: "ieeevr_test",
         muted: true,
+        layout: "video",
       });
     </script>
 
