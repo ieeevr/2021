@@ -165,7 +165,7 @@ title: "Workshop Papers"
     </p>
     <ul>
         <li> Submission deadline <del>25/01/2021</del> 05/02/2021 </li>
-        <li> Notification <del>30/01/2021 </del> 08/02/2021 </li>
+        <li> Notification <del>30/01/2021</del>  08/02/2021 </li>
         <li> Camera-ready submission 12/02/2021 </li>
     </ul>
     <p>
