@@ -28,7 +28,7 @@ title: "Workshop Papers"
 
     <h2 id="TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021"> https://sites.google.com/view/trainingxrieeevr2021 </a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021" target="_blank"> https://sites.google.com/view/trainingxrieeevr2021 </a>
     </p>
     <ul>
         <li> Submission deadline 25/01/2021 </li>
@@ -44,7 +44,7 @@ title: "Workshop Papers"
 
     <h2 id="SeatedVR"> Seated Virtual Reality & Embodiment (SeatedVR) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/seated-vr/home">https://sites.google.com/view/seated-vr/home</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/seated-vr/home" target="_blank">https://sites.google.com/view/seated-vr/home</a>
     </p>
     <ul>
         <li> Submission deadline <del>20/01/2021</del> 24/01/2021 </li>
@@ -62,7 +62,7 @@ title: "Workshop Papers"
 
     <h2 id="SIVE"> Sonic Interactions in Virtual Environments (SIVE) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sive.create.aau.dk/">https://sive.create.aau.dk/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sive.create.aau.dk/" target="_blank">https://sive.create.aau.dk/</a>
     </p>
     <ul>
         <li> Abstract submission 15/01/2021 </li>
@@ -79,7 +79,7 @@ title: "Workshop Papers"
 
     <h2 id="VHCIE2021"> 6th Workshop on Virtual Humans and Crowds for Immersive Environments (VHCIE 2021) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://files.inria.fr/vhcie/">http://files.inria.fr/vhcie/</a>
+        <strong style="color:black;">Website:</strong> <a href="http://files.inria.fr/vhcie/" target="_blank">http://files.inria.fr/vhcie/</a>
     </p>
     <ul>
         <li> Submission deadline 17/01/2021 </li>
@@ -95,7 +95,7 @@ title: "Workshop Papers"
 
     <h2 id="WISP"> Workshop on Immersive Sickness Prevention (WISP) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/umn.edu/wisp">https://sites.google.com/umn.edu/wisp</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/umn.edu/wisp" target="_blank">https://sites.google.com/umn.edu/wisp</a>
     </p>
     <ul>
         <li> Submission deadline 31/01/2021 </li>
@@ -111,7 +111,7 @@ title: "Workshop Papers"
 
     <h2 id="NIDIT"> Novel Input Devices and Interaction Techniques – NIDIT </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/nidit">https://sites.google.com/view/nidit</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/nidit" target="_blank">https://sites.google.com/view/nidit</a>
     </p>
     <ul>
         <li> Submission deadline 22/01/2021 </li>
@@ -127,7 +127,7 @@ title: "Workshop Papers"
 
     <h2 id="WEVR"> WEVR: 7th Annual Workshop on Everyday Virtual Reality </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://wevr.adalsimeone.me/">https://wevr.adalsimeone.me/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://wevr.adalsimeone.me/" target="_blank">https://wevr.adalsimeone.me/</a>
     </p>
     <ul>
         <li> Abstract submission 15/01/2021 </li>
@@ -144,7 +144,7 @@ title: "Workshop Papers"
 
     <h2 id="KELVAR"> KELVAR: 6th Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/site/vrkelvar/">https://sites.google.com/site/vrkelvar/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/site/vrkelvar/" target="_blank">https://sites.google.com/site/vrkelvar/</a>
     </p>
     <ul>
         <li> Abstract submission 14/01/2021 </li>
@@ -161,7 +161,7 @@ title: "Workshop Papers"
 
     <h2 id="EXR"> Ethics in XR (EXR) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/ethicsinvr/home">https://sites.google.com/view/ethicsinvr/home</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/ethicsinxr/home" target="_blank">https://sites.google.com/view/ethicsinxr/home</a>
     </p>
     <ul>
         <li> Submission deadline <del>25/01/2021</del> 05/02/2021 </li>
@@ -193,7 +193,7 @@ title: "Workshop Papers"
 
     <h2 id="Combining-the-Virtual-and-the-Real"> Combining the Virtual and the Real in a World that Works for Everyone </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://openarcloud/IEEE2021">https://openarcloud/IEEE2021</a>
+        <strong style="color:black;">Website:</strong> <a href="https://openarcloud/IEEE2021" target="_blank">https://openarcloud/IEEE2021</a>
     </p>
     <ul>
         <li> Call for Participation opens 15/02/2021 </li>
@@ -209,7 +209,7 @@ title: "Workshop Papers"
 
     <h2 id="Finding-a-way-forward-in-VR-locomotion"> Finding a way forward in VR locomotion </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://locomotionvault.github.io/workshopieeevr.html">https://locomotionvault.github.io/workshopieeevr.html</a>
+        <strong style="color:black;">Website:</strong> <a href="https://locomotionvault.github.io/workshopieeevr.html" target="_blank">https://locomotionvault.github.io/workshopieeevr.html</a>
     </p>
     <ul>
         <li> Submission deadline 29/01/2021 </li>
@@ -225,7 +225,7 @@ title: "Workshop Papers"
 
     <h2 id="PrXR"> PrXR: Towards a roadmap for privacy and security research for mixed reality applications </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://jainlab.cise.ufl.edu/PrXR_2021.html">https://jainlab.cise.ufl.edu/PrXR_2021.html</a>
+        <strong style="color:black;">Website:</strong> <a href="https://jainlab.cise.ufl.edu/PrXR_2021.html" target="_blank">https://jainlab.cise.ufl.edu/PrXR_2021.html</a>
     </p>
     <ul>
         <li> Submission deadline 24/01/2021 </li>
@@ -241,7 +241,7 @@ title: "Workshop Papers"
 
     <h2 id="ANIVAE"> Animation in Virtual and Augmented Environments - ANIVAE </h2>
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://anivae.fhstp.ac.at/">https://anivae.fhstp.ac.at/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://anivae.fhstp.ac.at/" target="_blank">https://anivae.fhstp.ac.at/</a>
     </p>
     <ul>
         <li> Submission deadline 10/01/2021 </li>
