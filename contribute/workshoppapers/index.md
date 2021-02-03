@@ -159,7 +159,7 @@ title: "Workshop Papers"
         <strong style="color:black;">Principal Organizer:</strong> Steven Cutchin
     </p>
 
-    <h2 id="EXR"> Ethics in XR (EXR) </h2>
+    <h2 id="EXR"> Ethics in XR (EXR)</h2>
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/ethicsinxr/home" target="_blank">https://sites.google.com/view/ethicsinxr/home</a>
     </p>
