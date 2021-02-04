@@ -40,7 +40,7 @@ title: "Student Volunteers"
 
     <h2 id="expectations"> Expectations</h2>
     <p>
-        You must be willing to work about <strong><u>15 to 20 hours</u></strong> during the conference. Furthermore, you must be available for SV orientation before the conference begins. Your SV duties will include: working the virtual registration desk, providing assistance to speakers and attendees, video and streaming support, and more. If you cannot commit yourself to this time frame and this amount of work, then please do not take away a slot from another willing student.
+        You must be willing to work about <strong>15 to 20 hours</strong> during the conference. Furthermore, you must be available for SV orientation before the conference begins. Your SV duties will include: working the virtual registration desk, providing assistance to speakers and attendees, video and streaming support, and more. If you cannot commit yourself to this time frame and this amount of work, then please do not take away a slot from another willing student.
     </p>
 
     <h2 id="eligibility"> Eligibility</h2>
@@ -50,10 +50,9 @@ title: "Student Volunteers"
     
     <h2 id="application">Application</h2>
     <p>
-        Applications will be done through this form:
+        Applications will be done through this form:<br/>
+        <a href="https://forms.gle/iWzhUu8n1SD4AQjJA" target="_blank">https://forms.gle/iWzhUu8n1SD4AQjJA </a>
     </p>
-    <a href="https://forms.gle/iWzhUu8n1SD4AQjJA" target="_blank">https://forms.gle/iWzhUu8n1SD4AQjJA </a>
-
 
     <h2 id="contacts"> Contacts </h2>
     <p>
@@ -66,13 +65,9 @@ title: "Student Volunteers"
         <li style="list-style: none;">The SV chairs can be reached via email at studentvolunteers2021 [at] ieeevr.org. </li>
     </ul>
 
-
-    <p><strong>Do not miss the opportunity to join our team!</strong></p>
+    <div class="notice--info">
+        <b>Do not miss the opportunity to join our team!</b>
+    </div>
     
-        
-        
-
-
-
 
 </div>
