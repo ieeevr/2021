@@ -20,7 +20,7 @@ title: "Doctoral Consortium"
         <li><b>March 28th, 2021 9:00AM - 6:00PM GMT:</b> Consortium.</li>
         
         
-        Currently it is Feb 8, 2021 23:59 AoE: Camera-ready, can you change it to Feb 10, 2021 23:59 AoE: Camera-ready
+        <!--Currently it is Feb 8, 2021 23:59 AoE: Camera-ready, can you change it to Feb 10, 2021 23:59 AoE: Camera-ready-->
 
 
         
