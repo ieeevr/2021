@@ -16,7 +16,7 @@ title: "Doctoral Consortium"
     <ul>
         <li><b><del style="text-decoration-thickness: 3px;">November 30</del> December 6, 2020 23:59 AoE:</b> Submission deadline.</li>
         <li><b>January 8th, 2020 23:59 AoE:</b> Notification of acceptance.</li>
-        <li><b>February <del>8th</del> 10th, 2021 23:59 AoE:</b> Camera-ready.</li>
+        <li><b>February <del style="text-decoration-thickness: 3px;">8th</del> 10th, 2021 23:59 AoE:</b> Camera-ready.</li>
         <li><b>March 28th, 2021 9:00AM - 6:00PM GMT:</b> Consortium.</li>
         
         
