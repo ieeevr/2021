@@ -20,7 +20,7 @@ title: "Presentation Guidelines"
         <li><a href="/2021/assets/downloads/ieeevr-2021-template-dark-background.potx" target="_blank">Presentation Template (dark background)</a></li>
     </ul>
 
-    <h2 id="other-resources">Other Resources</h2>
+    <h3 id="other-resources">Other Resources</h3>
     <ul>
         <li><a href="/2021/assets/downloads/ieeevr-2021-logo-light-background.png" target="_blank">IEEEVR Logo (light background)</a></li>
         <li><a href="/2021/assets/downloads/ieeevr-2021-logo-dark-background.png" target="_blank">IEEEVR Logo (dark background)</a></li>
