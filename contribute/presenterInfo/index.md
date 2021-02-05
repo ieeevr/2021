@@ -16,18 +16,17 @@ title: "Presentation Guidelines"
         For your convenience we have prepared an optional presentation templates:
     </p>
     <ul>
-            <li><a href="/2021/assets/downloads/ieeevr-2021-template-light-background.potx" target="_blank">Presentation Template (light background)</a></li>
-            <li><a href="/2021/assets/downloads/ieeevr-2021-template-dark-background.potx" target="_blank">Presentation Template (dark background)</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-template-light-background.potx" target="_blank">Presentation Template (light background)</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-template-dark-background.potx" target="_blank">Presentation Template (dark background)</a></li>
     </ul>
 
-    <h3>Other Resources</h3>
+    <h2 id="other-resources">Other Resources</h2>
     <ul>
-        
-            <li><a href="/2021/assets/downloads/ieeevr-2021-logo-light-background.png" target="_blank">IEEEVR Logo (light background)</a></li>
-            <li><a href="/2021/assets/downloads/ieeevr-2021-logo-dark-background.png" target="_blank">IEEEVR Logo (dark background)</a></li>
-            <li><a href="/2021/assets/downloads/ieeevr-2021-presentation-teaser-image.png" target="_blank">Presentation teaser image</a></li>
-            <li><a href="/2021/assets/downloads/ieeevr-2021-zoom-background.png" target="_blank">Zoom Background</a></li>
-            <li><a href="/2021/assets/downloads/ieeevr-2021-background-plain.png" target="_blank">Plain Background</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-logo-light-background.png" target="_blank">IEEEVR Logo (light background)</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-logo-dark-background.png" target="_blank">IEEEVR Logo (dark background)</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-presentation-teaser-image.png" target="_blank">Presentation teaser image</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-zoom-background.png" target="_blank">Zoom Background</a></li>
+        <li><a href="/2021/assets/downloads/ieeevr-2021-background-plain.png" target="_blank">Plain Background</a></li>
     </ul>
-    
+
 </div>
