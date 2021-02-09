@@ -29,6 +29,7 @@ title: "Exhibitors and Sponsors"
 </style>
 
 <div>
+    <h1>Exhibitors and Sponsors</h1>
     <p>
         <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 3, 2021, Virtual</strong>
         <br />

@@ -7,7 +7,7 @@ title: "3DUI Contest"
     <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2021 3DUI Contest <br /> Call for Participation </h1>
 
     <p>
-        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 1, 2021, Virtual</strong>
+        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 3, 2021, Virtual</strong>
         <br />
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
         <br />
