@@ -6,7 +6,7 @@ title: "Workshops"
 <div>
     <h1 id="cfp-workshops"> Call for Workshops</h1>
     <p>
-        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-28 and April 2-3, 2021
+        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 3, 2021, Virtual</strong>
         <br />
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>

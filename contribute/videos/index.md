@@ -6,7 +6,7 @@ title: "Videos"
 <div>
     <h1 id="cfp-videos"> Call for Videos</h1>
     <p>
-        <strong style="color: black">IEEE VR 2021: IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27th - April 3rd, 2021
+        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 3, 2021, Virtual</strong>
         <br />
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>

@@ -6,8 +6,8 @@ title: "Student Volunteers"
 <div>
     <h1 id="cfp-journal"> Call for Student Volunteers </h1>
     <p>
-        IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces<br />
-        March 27th - April 3rd, 2021, Lisbon, Portugal<br />
+        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 3, 2021, Virtual</strong>
+        <br />
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 

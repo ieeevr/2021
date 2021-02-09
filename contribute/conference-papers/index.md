@@ -5,6 +5,11 @@ title: "Conference Papers"
 
 <div>
 <h1 id="cfp-journal"> Call for Conference Papers </h1>
+<p>
+        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 3, 2021, Virtual
+        <br />
+        <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+    </p>
 
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
