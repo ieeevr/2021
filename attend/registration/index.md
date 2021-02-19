@@ -3,7 +3,22 @@ layout: ieeevr-default
 title: "Registration"
 ---
 
+<style>
+table, td, th {  
+  /* border: 1px solid #ddd; */
+  text-align: left;
+}
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+  width: 100%;
+}
+</style>
 
 
 
@@ -23,9 +38,8 @@ title: "Registration"
     </p>
 </div>
 
-<div style="color: aliceblue;">
-
-<table style="width: inherit">
+<h3>Author Registration</h3>
+<table>
   <tr>
     <th>Registration Type</th>
     <th>Fee</th>
@@ -47,8 +61,12 @@ title: "Registration"
     <td>Brown</td>
   </tr>
 </table>
+
+<h3>Conference Attendee Registration</h3>
+
+
+<h3>Workshops & Tutorials Registration</h3>
     
-</div>
 
 <div style="">
     <p style="font-size: 20px;">
