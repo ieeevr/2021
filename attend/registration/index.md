@@ -56,7 +56,8 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-    <table class="ieeevr-table center" style="width: 100%">
+    <div style="background: red;">
+    <table id="ieeevr-table" class="center" style="width: 100%;">
         <thead>
             <tr>
                 <th>Registration Type</th>
@@ -86,6 +87,7 @@ title: "Registration"
             </tr>
         </tbody>
     </table>
+        </div>
 
     <div style="">
         <p style="font-size: 30px;">
