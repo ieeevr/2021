@@ -91,7 +91,7 @@ title: "Registration"
 
     <div style="">
         <p style="font-size: 30px;">
-            <a href="#" class="btn btn--primary" style="border: 2px solid white;">Click Here to Register</a>
+            <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
         </p>
     </div>
 
