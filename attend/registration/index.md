@@ -19,13 +19,13 @@ title: "Registration"
 
 #customers tr:nth-child(even){background-color: #f2f2f2;}
 
-#customers tr:hover {background-color: #ddd;}
+/*#customers tr:hover {background-color: #ddd;}*/
 
 #customers th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #4CAF50;
+  background-color: #00aeef;
   color: white;
 }
 </style>
@@ -39,7 +39,7 @@ title: "Registration"
     </p>
 
     
-<h2>Registration types and Fees</h2>
+<h2>Registration Types and Fees</h2>
     <div>
         <table id="customers">
             <thead>
@@ -73,8 +73,6 @@ title: "Registration"
         </table>
     </div>
 
-
-    <br/>
     <br/>
     <div style="">
         <p style="font-size: 20px;">
