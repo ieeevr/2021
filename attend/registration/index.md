@@ -20,7 +20,7 @@ title: "Registration"
     }
 
     #ieeevr-table tr:nth-child(even) {
-        background-color: #ffffff;
+        background-color: #e8e8e8;
     }
 
     /*
