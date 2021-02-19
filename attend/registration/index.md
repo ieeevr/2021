@@ -8,9 +8,8 @@ title: "Registration"
     #ieeevr-table {
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
-        width: 100%;
         border-radius: 6px;
-        margin: 0 auto;
+        margin: auto auto;
     }
 
     #ieeevr-table td,
@@ -40,6 +39,8 @@ title: "Registration"
 
 </style>
 
+<h2>Registration types and Fees</h2>
+
 <div>
     <h1 id="registration"> Registration</h1>
     <p>
@@ -49,10 +50,10 @@ title: "Registration"
     </p>
 
     <div style="background: red;">
-    <table id="ieeevr-table" class="center" style="width: 80%;">
+    <table id="ieeevr-table" class="center">
         <thead>
             <tr>
-                <th>Registration Type</th>
+                <th>Registration</th>
                 <th>Fee</th>
             </tr>
         </thead>
