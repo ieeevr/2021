@@ -6,6 +6,12 @@ title: "Registration"
 <style>
     
 <style>
+
+    table.center {
+        margin-left:auto; 
+        margin-right:auto;
+    }
+    
 #customers {
   font-family: Arial, Helvetica, sans-serif;
   
@@ -41,7 +47,7 @@ title: "Registration"
     
 <h2>Registration Types and Fees</h2>
     <div>
-        <table id="customers">
+        <table id="customers" class="center">
             <thead>
                 <tr>
                     <th>Registration</th>
