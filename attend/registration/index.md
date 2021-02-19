@@ -5,6 +5,37 @@ title: "Registration"
 
 <style>
     <style>
+    
+    table {
+        margin: 0 auto;
+    }
+
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+
+        width: 100%;
+    }
+
+    #customers td,
+    #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    /*#customers tr:hover {background-color: #ddd;}*/
+
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #00aeef;
+        color: white;
+    }
+
 
     /* DivTable.com */
     .divTable {
@@ -57,8 +88,35 @@ title: "Registration"
 
     <h2>Registration Types and Fees</h2>
     <div>
-        <table>
-
+        <table id="customers">
+            <thead>
+                <tr>
+                    <th>Registration</th>
+                    <th>Fee</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Member Fee</td>
+                    <td>$350.00</td>
+                </tr>
+                <tr>
+                    <td>Non-Member Fee</td>
+                    <td>$420.00</td>
+                </tr>
+                <tr>
+                    <td>Student Member Fee</td>
+                    <td>$350.00</td>
+                </tr>
+                <tr>
+                    <td>Student Non-Member Fee</td>
+                    <td>$420.00</td>
+                </tr>
+                <tr>
+                    <td>Life Member Fee</td>
+                    <td>$175.00</td>
+                </tr>
+            </tbody>
         </table>
     </div>
 
