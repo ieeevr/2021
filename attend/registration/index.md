@@ -86,7 +86,9 @@ title: "Registration"
     </p>
 
 
-    <h2>Registration Types and Fees</h2>
+    <!-- <h2>Registration Types and Fees</h2> -->
+    
+    
     <div>
         <table id="customers">
             <thead>
