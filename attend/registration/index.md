@@ -8,14 +8,13 @@ title: "Registration"
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         border-radius: 6px;
-        border: 1px solid #00aeef;
         width: 100%;
         
     }
 
     #ieeevr-table td,
     #ieeevr-table th {
-        border: 1px solid #00aeef;
+        border: 1px solid white;
         padding: 8px;
     }
 
