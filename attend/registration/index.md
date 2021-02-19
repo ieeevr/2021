@@ -85,7 +85,7 @@ title: "Registration"
 
 
 
-<h2>Registration Types and Fees</h2>
+<h2>RegistrationRegistration Types and Fees</h2>
 
 
 <div>
