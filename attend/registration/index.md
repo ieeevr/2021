@@ -4,11 +4,19 @@ title: "Registration"
 ---
 
 <style>
+    ieeevr-table center {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
     #ieeevr-table {
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         width: 100%;
         border-radius: 6px;
+    }
+    
+    ieeevr-table center {
         margin-left: auto;
         margin-right: auto;
     }
@@ -20,7 +28,7 @@ title: "Registration"
     }
 
     #ieeevr-table tr:nth-child(even) {
-        background-color: #e8e8e8;
+        background-color: #f4f4f4;
     }
 
     /*
@@ -48,7 +56,7 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-    <table id="ieeevr-table" style="width: 100%">
+    <table class="ieeevr-table center" style="width: 100%">
         <thead>
             <tr>
                 <th>Registration Type</th>
@@ -80,7 +88,7 @@ title: "Registration"
     </table>
 
     <div style="">
-        <p style="font-size: 20px;">
+        <p style="font-size: 30px;">
             <a href="#" class="btn btn--primary" style="border: 2px solid white;">Click Here to Register</a>
         </p>
     </div>
