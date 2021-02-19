@@ -23,12 +23,12 @@ title: "Registration"
     </p>
 </div>
 
+<div style="color: aliceblue;">
 
-
-<table>
+<table style="width: inherit">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
+    <th>Registration Type</th>
+    <th>Fee</th>
   </tr>
   <tr>
     <td>Peter</td>
@@ -47,6 +47,8 @@ title: "Registration"
     <td>Brown</td>
   </tr>
 </table>
+    
+</div>
 
 <div style="">
     <p style="font-size: 20px;">
