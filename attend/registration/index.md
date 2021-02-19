@@ -4,21 +4,13 @@ title: "Registration"
 ---
 
 <style>
-    ieeevr-table center {
-        margin-left: auto;
-        margin-right: auto;
-    }
     
     #ieeevr-table {
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         width: 100%;
         border-radius: 6px;
-    }
-    
-    ieeevr-table center {
-        margin-left: auto;
-        margin-right: auto;
+        margin: 0 auto;
     }
 
     #ieeevr-table td,
@@ -57,7 +49,7 @@ title: "Registration"
     </p>
 
     <div style="background: red;">
-    <table id="ieeevr-table" class="center" style="width: 100%;">
+    <table id="ieeevr-table" class="center" style="width: 80%;">
         <thead>
             <tr>
                 <th>Registration Type</th>
