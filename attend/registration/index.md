@@ -56,8 +56,15 @@ title: "Registration"
 
 
     <h2>Registration Types and Fees</h2>
+    <div>
+        <table>
 
-    <div class="divTable" style="width: 100%; border: 0.5px solid #575757;">
+        </table>
+    </div>
+
+
+
+    <div class="divTable" style="width: 100%; border: 1px solid #000;">
         <div class="divTableBody">
             <div class="divTableRow">
                 <div class="divTableCell"><strong>&nbsp;Registration Type</strong></div>
