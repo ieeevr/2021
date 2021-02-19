@@ -11,12 +11,17 @@ table, td, th {
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 70%;
+}
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
 }
 
 th, td {
   padding: 15px;
-  width: 100%;
+  width: 70%;
 }
 </style>
 
@@ -39,7 +44,7 @@ th, td {
 </div>
 
 <h3>Author Registration</h3>
-<table>
+<table class="center">
   <tr>
     <th>Registration Type</th>
     <th>Fee</th>
