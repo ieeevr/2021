@@ -12,7 +12,7 @@ table, td, th {
 table {
   border-collapse: collapse;
   width: 70%;
-    margin-left: auto; 
+  margin-left: auto; 
   margin-right: auto;
 }
 
@@ -68,11 +68,73 @@ th, td {
   </tr>
 </table>
 
-
 <h3>Conference Attendee Registration</h3>
-
+<table>
+  <tr>
+    <th><strong>Registration Type</strong></th>
+    <th><strong>Fee</strong></th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>$60.00</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>$75.00</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>$35.00</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>$45.00</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>$30.00</td>
+  </tr>
+</table>
 
 <h3>Workshops & Tutorials Registration</h3>
+<table>
+  <tr>
+    <th><strong>Registration Type</strong></th>
+    <th><strong>Fee</strong></th>
+  </tr>
+  <tr>
+      <td>Full-Day Member Fee</td>
+      <td>$125.00</td>
+      </tr>
+  <tr>
+      <td>Full-Day Non-Member Fee</td>
+      <td>$150.00</td>
+      </tr>
+  <tr>
+      <td>Full-Day Student Member Fee</td>
+      <td>$125.00</td>
+      </tr>
+  <tr>
+      <td>Full-Day Student Non-Member Fee</td>
+      <td>$150.00</td>
+      </tr>
+  <tr>
+      <td>Half-Day Member Fee</td>
+      <td>$95.00</td>
+      </tr>
+  <tr>
+      <td>Half-Day Non-Member Fee</td>
+      <td>$115.00</td>
+      </tr>
+  <tr>
+      <td>Half-Day Student Member Fee</td>
+      <td>$70.00</td>
+      </tr>
+  <tr>
+      <td>Half-Day Student Non-Member Fee</td>
+      <td>$85.00</td>
+  </tr>
+</table>
     
 
 <div style="">
