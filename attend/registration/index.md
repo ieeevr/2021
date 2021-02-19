@@ -13,6 +13,7 @@ title: "Registration"
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         width: 100%;
+        border-radius:6px;
     }
 
     #ieeevr-table td,
@@ -22,11 +23,12 @@ title: "Registration"
     }
 
     #ieeevr-table tr:nth-child(even) {
-        background-color: #f2f2f2;
+        background-color: #d3eaf2;
     }
 
     #ieeevr-table tr:hover {
-        background-color: #acd2e0;
+        background-color: #53bae0;
+        color: white;
     }
 
     #ieeevr-table th {
@@ -47,7 +49,7 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-    <table id="ieeevr-table" class="center-table" style="width: 60%">
+    <table id="ieeevr-table" class="center-table" style="width: 100%">
         <thead>
             <tr>
                 <th>Registration Type</th>
