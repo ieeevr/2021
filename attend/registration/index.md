@@ -7,7 +7,6 @@ title: "Registration"
     #ieeevr-table {
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
-        border-radius: 6px;
         width: 100%;
         
     }
