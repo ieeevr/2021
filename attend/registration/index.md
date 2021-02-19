@@ -20,13 +20,15 @@ title: "Registration"
     }
 
     #ieeevr-table tr:nth-child(even) {
-        background-color: #eaf2f5;
+        background-color: #ffffff;
     }
 
+    /*
     #ieeevr-table tr:hover {
         background-color: #53bae0;
         color: white;
     }
+    */
 
     #ieeevr-table th {
         padding-top: 12px;
@@ -55,23 +57,23 @@ title: "Registration"
         </thead>
         <tbody>
             <tr>
-                <td><em>Member Fee</em></td>
+                <td>Member Fee</td>
                 <td>$350.00</td>
             </tr>
             <tr>
-                <td><em>Non-Member Fee</em></td>
+                <td>Non-Member Fee</td>
                 <td>$420.00</td>
             </tr>
             <tr>
-                <td><em>Student Member Fee</em></td>
+                <td>Student Member Fee</td>
                 <td>$350.00</td>
             </tr>
             <tr>
-                <td><em>Student Non-Member Fee</em></td>
+                <td>Student Non-Member Fee</td>
                 <td>$420.00</td>
             </tr>
             <tr>
-                <td><em>Life Member Fee</em></td>
+                <td>Life Member Fee</td>
                 <td>$175.00</td>
             </tr>
         </tbody>
