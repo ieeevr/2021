@@ -12,6 +12,25 @@ title: "Registration"
     </p>
 
 
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Registration Type</th>
+                <th>Fee</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><em>Online Experience Author</em></td>
+                <td>$450.00</td>
+            </tr>
+            <tr>
+                <td><em>Online Experience Non-Author</em></td>
+                <td>free</td>
+            </tr>
+        </tbody>
+    </table>
+
     <div style="">
         <p style="font-size: 20px;">
             <a href="#" class="btn btn--primary" style="border: 2px solid white;">Click Here to Register</a>
