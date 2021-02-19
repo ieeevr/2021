@@ -46,26 +46,31 @@ th, td {
 <h3>Author Registration</h3>
 <table class="center">
   <tr>
-    <th>Registration Type</th>
-    <th>Fee</th>
+    <th><strong>Registration Type</strong></th>
+    <th><strong>Fee</strong></th>
   </tr>
   <tr>
-    <td>Peter</td>
-    <td>Griffin</td>
+    <td>Member</td>
+    <td>$350.00</td>
   </tr>
   <tr>
-    <td>Lois</td>
-    <td>Griffin</td>
+    <td>Non-Member</td>
+    <td>$420.00</td>
   </tr>
   <tr>
-    <td>Joe</td>
-    <td>Swanson</td>
+    <td>Student Member</td>
+    <td>$350.00</td>
   </tr>
   <tr>
-    <td>Cleveland</td>
-    <td>Brown</td>
+    <td>Student Non-Member</td>
+    <td>$420.00</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>$175.00</td>
   </tr>
 </table>
+
 
 <h3>Conference Attendee Registration</h3>
 
