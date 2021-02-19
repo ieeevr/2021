@@ -84,12 +84,13 @@ title: "Registration"
         <br />
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
+</div>
 
 
-    <!-- <h2>Registration Types and Fees</h2> -->
+    <h2>Registration Types and Fees</h2>
     
     
-    <div>
+    <div style="">
         <table id="customers">
             <thead>
                 <tr>
@@ -164,4 +165,4 @@ title: "Registration"
     </div>
 
 
-</div>
+
