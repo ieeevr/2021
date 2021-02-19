@@ -4,38 +4,30 @@ title: "Registration"
 ---
 
 <style>
-    #ieeevr-table {
-        font-family: Arial, Helvetica, sans-serif;
-        border-collapse: collapse;
-        width: 100%;
-        
-    }
+    
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-    #ieeevr-table td,
-    #ieeevr-table th {
-        border: 1px solid white;
-        padding: 8px;
-    }
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
 
-    #ieeevr-table tr:nth-child(even) {
-        background-color: #f4f4f4;
-    }
+#customers tr:nth-child(even){background-color: #f2f2f2;}
 
-    /*
-    #ieeevr-table tr:hover {
-        background-color: #53bae0;
-        color: white;
-    }
-    */
+#customers tr:hover {background-color: #ddd;}
 
-    #ieeevr-table th {
-        padding-top: 12px;
-        padding-bottom: 12px;
-        text-align: left;
-        background-color: #00aeef;
-        color: white;
-    }
-
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
 </style>
 
 <div>
@@ -49,7 +41,7 @@ title: "Registration"
     
 <h2>Registration types and Fees</h2>
     <div>
-        <table id="ieeevr-table" class="center">
+        <table id="customers">
             <thead>
                 <tr>
                     <th>Registration</th>
@@ -85,7 +77,7 @@ title: "Registration"
     <br/>
     <br/>
     <div style="">
-        <p style="font-size: 30px;">
+        <p style="font-size: 20px;">
             <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
         </p>
     </div>
