@@ -3,77 +3,23 @@ layout: ieeevr-default
 title: "Registration"
 ---
 
+
 <style>
-    <style>table {
-        margin: 0 auto;
-    }
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
 
-    #customers {
-        font-family: Arial, Helvetica, sans-serif;
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
-        width: 100%;
-    }
-
-    #customers td,
-    #customers th {
-        border: 1px solid #ddd;
-        padding: 8px;
-    }
-
-    #customers tr:nth-child(even) {
-        background-color: #f2f2f2;
-    }
-
-    /*#customers tr:hover {background-color: #ddd;}*/
-
-    #customers th {
-        padding-top: 12px;
-        padding-bottom: 12px;
-        text-align: left;
-        background-color: #00aeef;
-        color: white;
-    }
-
-
-    /* DivTable.com */
-    .divTable {
-        display: table;
-        width: 100%;
-    }
-
-    .divTableRow {
-        display: table-row;
-    }
-
-    .divTableHeading {
-        background-color: #EEE;
-        display: table-header-group;
-    }
-
-    .divTableCell,
-    .divTableHead {
-        border: 1px solid #999999;
-        display: table-cell;
-        padding: 3px 10px;
-    }
-
-    .divTableHeading {
-        background-color: #EEE;
-        display: table-header-group;
-        font-weight: bold;
-    }
-
-    .divTableFoot {
-        background-color: #EEE;
-        display: table-footer-group;
-        font-weight: bold;
-    }
-
-    .divTableBody {
-        display: table-row-group;
-    }
-
+th, td {
+  padding: 15px;
+}
 </style>
+
 
 
 <h1 id="registration"> Registration</h1>
@@ -85,77 +31,46 @@ title: "Registration"
 
 
 
-<h2>RegistrationRegistration Types and Fees</h2>
-
-
-<div>
-    <table id="customers">
-        <thead>
-            <tr>
-                <th>Registration</th>
-                <th>Fee</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Member Fee</td>
-                <td>$350.00</td>
-            </tr>
-            <tr>
-                <td>Non-Member Fee</td>
-                <td>$420.00</td>
-            </tr>
-            <tr>
-                <td>Student Member Fee</td>
-                <td>$350.00</td>
-            </tr>
-            <tr>
-                <td>Student Non-Member Fee</td>
-                <td>$420.00</td>
-            </tr>
-            <tr>
-                <td>Life Member Fee</td>
-                <td>$175.00</td>
-            </tr>
-        </tbody>
-    </table>
+# TOP BUTTON
+<div style="">
+    <p style="font-size: 20px;">
+        <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
+    </p>
 </div>
 
 
 
-<div class="divTable" style="width: 100%; border: 1px solid #000;">
-    <div class="divTableBody">
-        <div class="divTableRow">
-            <div class="divTableCell"><strong>&nbsp;Registration Type</strong></div>
-            <div class="divTableCell"><strong>&nbsp;Fees</strong></div>
-        </div>
-        <div class="divTableRow">
-            <div class="divTableCell">&nbsp;Member</div>
-            <div class="divTableCell">&nbsp;$350.00</div>
-        </div>
-        <div class="divTableRow">
-            <div class="divTableCell">&nbsp;Non-Member</div>
-            <div class="divTableCell">&nbsp;$420.00</div>
-        </div>
-        <div class="divTableRow">
-            <div class="divTableCell">&nbsp;Student Member</div>
-            <div class="divTableCell">&nbsp;$350.00</div>
-        </div>
-        <div class="divTableRow">
-            <div class="divTableCell">&nbsp;Student Non-Member</div>
-            <div class="divTableCell">&nbsp;$420.00</div>
-        </div>
-        <div class="divTableRow">
-            <div class="divTableCell">&nbsp;Life Member Fee</div>
-            <div class="divTableCell">&nbsp;$175.00</div>
-        </div>
-    </div>
-</div>
-<!-- DivTable.com -->
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+  </tr>
+</table>
 
 
 
-
+# BOTTOM BUTTON
 <div style="">
     <p style="font-size: 20px;">
         <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
