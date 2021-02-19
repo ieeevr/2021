@@ -21,7 +21,7 @@ table.center {
 
 th, td {
   padding: 15px;
-  width: 70%;
+  width: 100%;
 }
 </style>
 
