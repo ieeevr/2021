@@ -44,7 +44,7 @@ th, td {
 </div>
 
 <h3>Author Registration</h3>
-<table class="center">
+<table>
   <tr>
     <th><strong>Registration Type</strong></th>
     <th><strong>Fee</strong></th>
