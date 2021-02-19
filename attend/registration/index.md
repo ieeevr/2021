@@ -8,7 +8,7 @@ title: "Registration"
 <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
+  
   width: 100%;
 }
 
@@ -73,7 +73,7 @@ title: "Registration"
         </table>
     </div>
 
-    <br/>
+
     <div style="">
         <p style="font-size: 20px;">
             <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
