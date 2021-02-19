@@ -12,7 +12,13 @@ title: "Registration"
     </p>
 
 
-    <table class="table table-bordered">
+
+    Student Member Fee 100% 350.00
+    Student Non-Member Fee 120% 420.00
+    Life Member Fee 50% 175.00
+
+
+    <table class="">
         <thead>
             <tr>
                 <th>Registration Type</th>
@@ -21,12 +27,24 @@ title: "Registration"
         </thead>
         <tbody>
             <tr>
-                <td><em>Online Experience Author</em></td>
-                <td>$450.00</td>
+                <td><em>Member Fee</em></td>
+                <td>$350.00</td>
             </tr>
             <tr>
-                <td><em>Online Experience Non-Author</em></td>
-                <td>free</td>
+                <td><em>Non-Member Fee</em></td>
+                <td>$420.00</td>
+            </tr>
+            <tr>
+                <td><em>Student Member Fee</em></td>
+                <td>$350.00</td>
+            </tr>
+            <tr>
+                <td><em>Student Non-Member Fee</em></td>
+                <td>$420.00</td>
+            </tr>
+            <tr>
+                <td><em>Life Member Fee</em></td>
+                <td>$175.00</td>
             </tr>
         </tbody>
     </table>
