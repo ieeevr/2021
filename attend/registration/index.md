@@ -8,7 +8,6 @@ title: "Registration"
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         border-radius: 6px;
-        margin: auto auto;
     }
 
     #ieeevr-table td,
@@ -48,7 +47,7 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-    <div style="background: red;">
+    <div>
         <table id="ieeevr-table" class="center">
             <thead>
                 <tr>
