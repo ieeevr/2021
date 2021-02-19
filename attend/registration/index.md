@@ -9,6 +9,34 @@ title: "Registration"
         margin-right: auto;
     }
 
+    #registration {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    #registration td,
+    #registration th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    #registration tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    #registration tr:hover {
+        background-color: #acd2e0;
+    }
+
+    #registration th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #00aeef;
+        color: white;
+    }
+
 </style>
 
 <div>
