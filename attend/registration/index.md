@@ -3,6 +3,14 @@ layout: ieeevr-default
 title: "Registration"
 ---
 
+<style>
+    .center-table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+</style>
+
 <div>
     <h1 id="registration"> Registration</h1>
     <p>
@@ -11,14 +19,7 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-
-
-    Student Member Fee 100% 350.00
-    Student Non-Member Fee 120% 420.00
-    Life Member Fee 50% 175.00
-
-
-    <table class="">
+    <table class="center-table" style="width: 50%">
         <thead>
             <tr>
                 <th>Registration Type</th>
