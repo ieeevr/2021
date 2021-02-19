@@ -9,27 +9,27 @@ title: "Registration"
         margin-right: auto;
     }
 
-    #registration {
+    #ieeevr-table {
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         width: 100%;
     }
 
-    #registration td,
-    #registration th {
+    #ieeevr-table td,
+    #ieeevr-table th {
         border: 1px solid #ddd;
         padding: 8px;
     }
 
-    #registration tr:nth-child(even) {
+    #ieeevr-table tr:nth-child(even) {
         background-color: #f2f2f2;
     }
 
-    #registration tr:hover {
+    #ieeevr-table tr:hover {
         background-color: #acd2e0;
     }
 
-    #registration th {
+    #ieeevr-table th {
         padding-top: 12px;
         padding-bottom: 12px;
         text-align: left;
@@ -47,7 +47,7 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-    <table class="center-table" style="width: 50%">
+    <table id="ieeevr-table" class="center-table" style="width: 60%">
         <thead>
             <tr>
                 <th>Registration Type</th>
