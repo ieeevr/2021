@@ -4,36 +4,38 @@ title: "Registration"
 ---
 
 <style>
+    <style>
     
-<style>
-
-    table.center {
-        margin-left:auto; 
-        margin-right:auto;
+    table {
+        margin: 0 auto;
     }
-    
-#customers {
-  font-family: Arial, Helvetica, sans-serif;
-  
-  width: 100%;
-}
 
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
 
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+        width: 100%;
+    }
 
-/*#customers tr:hover {background-color: #ddd;}*/
+    #customers td,
+    #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
 
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #00aeef;
-  color: white;
-}
+    #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    /*#customers tr:hover {background-color: #ddd;}*/
+
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #00aeef;
+        color: white;
+    }
+
 </style>
 
 <div>
@@ -44,10 +46,10 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
-    
-<h2>Registration Types and Fees</h2>
+
+    <h2>Registration Types and Fees</h2>
     <div>
-        <table id="customers" class="center">
+        <table id="customers">
             <thead>
                 <tr>
                     <th>Registration</th>
