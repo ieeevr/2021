@@ -12,10 +12,7 @@ table, td, th {
 table {
   border-collapse: collapse;
   width: 70%;
-}
-
-table.center {
-  margin-left: auto; 
+    margin-left: auto; 
   margin-right: auto;
 }
 
