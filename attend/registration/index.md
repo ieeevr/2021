@@ -8,11 +8,14 @@ title: "Registration"
         font-family: Arial, Helvetica, sans-serif;
         border-collapse: collapse;
         border-radius: 6px;
+        border: 1px solid #00aeef;
+        width: 100%;
+        
     }
 
     #ieeevr-table td,
     #ieeevr-table th {
-        border: 1px solid #ddd;
+        border: 1px solid #00aeef;
         padding: 8px;
     }
 
@@ -37,8 +40,6 @@ title: "Registration"
 
 </style>
 
-<h2>Registration types and Fees</h2>
-
 <div>
     <h1 id="registration"> Registration</h1>
     <p>
@@ -47,6 +48,8 @@ title: "Registration"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
+    
+<h2>Registration types and Fees</h2>
     <div>
         <table id="ieeevr-table" class="center">
             <thead>
@@ -81,7 +84,8 @@ title: "Registration"
     </div>
 
 
-
+    <br/>
+    <br/>
     <div style="">
         <p style="font-size: 30px;">
             <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
