@@ -48,23 +48,23 @@ th, td {
   </tr>
   <tr>
     <td>Member</td>
-    <td>$350.00</td>
+    <td>$300.00</td>
   </tr>
   <tr>
     <td>Non-Member</td>
-    <td>$420.00</td>
+    <td>$360.00</td>
   </tr>
   <tr>
     <td>Student Member</td>
-    <td>$350.00</td>
+    <td>$300.00</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
-    <td>$420.00</td>
+    <td>$360.00</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>$175.00</td>
+    <td>$150.00</td>
   </tr>
 </table>
 
@@ -76,11 +76,11 @@ th, td {
   </tr>
   <tr>
     <td>Member</td>
-    <td>$125.00</td>
+    <td>$100.00</td>
   </tr>
   <tr>
     <td>Non-Member</td>
-    <td>$150.00</td>
+    <td>$120.00</td>
   </tr>
 </table>
 
@@ -94,28 +94,28 @@ th, td {
   </tr>
   <tr>
     <td>Member</td>
-    <td>$60.00</td>
-    <td>$90.00</td>
+    <td>$50.00</td>
+    <td>$80.00</td>
   </tr>
   <tr>
     <td>Non-Member</td>
-    <td>$75.00</td>
-    <td>$110.00</td>
+    <td>$60.00</td>
+    <td>$100.00</td>
   </tr>
   <tr>
     <td>Student Member</td>
-    <td>$35.00</td>
-    <td>$50.00</td>
+    <td>$30.00</td>
+    <td>$45.00</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
-    <td>$45.00</td>
-    <td>$60.00</td>
+    <td>$40.00</td>
+    <td>$55.00</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>$30.00</td>
-    <td>$45.00</td>
+    <td>$25.00</td>
+    <td>$40.00</td>
   </tr>
 </table>
 
