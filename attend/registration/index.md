@@ -40,7 +40,7 @@ th, td {
     </p>
 </div>
 
-<h3>Author Registration</h3>
+<h3>Paper Author Registration</h3>
 <table>
   <tr>
     <th><strong>Registration Type</strong></th>
@@ -68,7 +68,7 @@ th, td {
   </tr>
 </table>
 
-<h3>Conference Attendee Registration</h3>
+<h3>Workshop/Tutorial/Demo Author Registration</h3>
 <table>
   <tr>
     <th><strong>Registration Type</strong></th>
@@ -76,26 +76,50 @@ th, td {
   </tr>
   <tr>
     <td>Member</td>
+    <td>$125.00</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>$150.00</td>
+  </tr>
+</table>
+
+
+<h3>General Participant Registration</h3>
+<table>
+  <tr>
+    <th><strong>Registration Type</strong></th>
+    <th><strong>Advance Registration</strong></th>
+    <th><strong>Late Registration</strong></th>
+  </tr>
+  <tr>
+    <td>Member</td>
     <td>$60.00</td>
+    <td>$90.00</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>$75.00</td>
+    <td>$110.00</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>$35.00</td>
+    <td>$50.00</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>$45.00</td>
+    <td>$60.00</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>$30.00</td>
+    <td>$45.00</td>
   </tr>
 </table>
 
+<!--
 <h3>Workshops & Tutorials Registration</h3>
 <table>
   <tr>
@@ -135,6 +159,8 @@ th, td {
       <td>$85.00</td>
   </tr>
 </table>
+
+-->
     
 
 <div style="">
