@@ -31,14 +31,14 @@ th, td {
     <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
 </p>
 
-
+<!--
 <div class="notice--info">
     <strong>Registration Information (20 Feb 2021):</strong>
     <p>
         Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week (22 February). Thank you very much for your patience and understanding.
     </p>
 </div>
-
+-->
 
 <div style="">
     <p style="font-size: 20px;">
@@ -169,8 +169,11 @@ th, td {
 -->
     
 
-<div style="">
-    <p style="font-size: 20px;">
-        <a href="#" class="btn btn--primary" style="">Click Here to Register</a>
+<!--
+<div class="notice--info">
+    <strong>Registration Information (20 Feb 2021):</strong>
+    <p>
+        Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week (22 February). Thank you very much for your patience and understanding.
     </p>
 </div>
+-->
