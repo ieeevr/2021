@@ -61,14 +61,6 @@ th, td {
     <td>$360.00</td>
   </tr>
   <tr>
-    <td>Student Member</td>
-    <td>$300.00</td>
-  </tr>
-  <tr>
-    <td>Student Non-Member</td>
-    <td>$360.00</td>
-  </tr>
-  <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>$150.00</td>
   </tr>
