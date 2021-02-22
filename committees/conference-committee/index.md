@@ -59,6 +59,7 @@ title: "Conference Committee"
 			<li>	Crista	Videira Lopes	&#x2012; <i>	University of California Irvine, USA	</i></li>		
 			<li>	Rob	Lindemann	&#x2012; <i>	HIT Lab, NZ	</i></li>		
 			<li>	Jason	Orlosky	&#x2012; <i>	Cybermedia Center, Osaka University, Japan	</i></li>		
+			<li>	Francisco Paulo Magalhães Simōes 		&#x2012; <i>	Universidade de Pernambuco	</i></li>		
 			<li style="list-style: none">	online2021	[at] ieeevr.org			</li>		
 		</ul>								
 										
