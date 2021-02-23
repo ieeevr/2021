@@ -71,7 +71,7 @@ title: "Accessibility FAQ"
         Yes, we will have several networking events in dedicated Virbela rooms, specifically for traditionally underrepresented groups such as women, participants from certain geographical regions such as Latin America, or undergraduate students. If you would like to organize such an event, please contact us with a date and time and the approximate number of expected participants so we can assign you a room and help advertise the event.
     </p>
     
-    <h3 id="Q6">Is funding available for students/authors to attend the conference?</h3>
+    <h3 id="Q7">Is funding available for students/authors to attend the conference?</h3>
     <p>
         There is funding available to cover registration costs for graduate students and early-career researchers with diverse backgrounds (at Member level).     
         In addition, there are scholarships to cover the higher registration costs of Paper Authors with diverse backgrounds (at Member level). There is a very limited number of such grants available. Selection will be competitive. More information on how to apply for this Diversity and Inclusion Scholarship can be found <a href="/2021/attend/diversity-and-inclusion-scholarship/">here</a>.
@@ -80,7 +80,7 @@ title: "Accessibility FAQ"
         Undergraduate students who are interested in attending the conference but have limited or no previous VR research experience should apply to the <a href="/2021/contribute/bridge-to-vr/">Bridge to VR Program</a>.
     </p>
 
-    <h3 id="Q7">What programs will be available to support diversity and inclusion at the conference?</h3>
+    <h3 id="Q8">What programs will be available to support diversity and inclusion at the conference?</h3>
     <p>
         In addition to the networking events described above, there is also a mentorship program for registered attendees. The goal of the <strong>IEEE VR 2021 Mentorship Program</strong> is to connect newcomers to the conference (mentees) and experienced attendees (mentors) via shared interests. More information on this program can be found <a href="/2021/attend/mentorship-program">here</a>.
     </p>
