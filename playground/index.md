@@ -3,26 +3,28 @@ layout: ieeevr-default
 ---
 
 <div>
-    <h1 id="past-conferences"> what's happening now widget!!! </h1>
+    <h1 id="past-conferences"> what's happening now widget </h1>
     
     
 
     <script>
+        
+        
+        var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'};
+        var today = new Date();
+        
         document.write("<p>");
-    
-        var d = new Date();
-        var s = d.toLocaleString(undefined, { timeZone: "Europe/Lisbon"});
-    
-        var displayTime = s.getDate() + "/"
-                + (s.getMonth()+1)  + "/" 
-                + s.getFullYear() + " @ "  
-                + s.getHours() + ":"  
-                + s.getMinutes() + ":" 
-                + s.getSeconds();
+        document.write(today.toLocaleString("Europe/Lisbon"));
+        document.write("</p>");
         
-        document.write("Datetime:" + displayTime);
         
-        document.write("</p>")
+        
+        document.write("<p>");
+        document.write("end"));
+        document.write("</p>");
+        
+        
+        
     
     </script>
 
