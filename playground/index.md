@@ -11,7 +11,7 @@ layout: ieeevr-default
         document.write("<p>");
     
         var d = new Date();
-        var s = d.toLocaleDateString(undefined, { timeZone: "Europe/Lisbon"});
+        var s = d.toLocaleString(undefined, { timeZone: "Europe/Lisbon"});
     
         var displayTime = s.getDate() + "/"
                 + (s.getMonth()+1)  + "/" 
