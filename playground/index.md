@@ -3,7 +3,7 @@ layout: ieeevr-default
 ---
 
 <div>
-    <h1 id="past-conferences"> what happening now widget!!! </h1>
+    <h1 id="past-conferences"> what's happening now widget!!! </h1>
     
     
 
@@ -13,7 +13,14 @@ layout: ieeevr-default
         var d = new Date();
         var s = d.toLocaleDateString(undefined, { timeZone: "Europe/Lisbon"});
     
-        document.write(s.today() + "@" + s.timeNow());
+        var displayTime = s.getDate() + "/"
+                + (s.getMonth()+1)  + "/" 
+                + s.getFullYear() + " @ "  
+                + s.getHours() + ":"  
+                + s.getMinutes() + ":" 
+                + s.getSeconds();
+        
+        document.write(displayTime);
         
         document.write("</p>")
     
