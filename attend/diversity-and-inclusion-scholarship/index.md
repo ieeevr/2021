@@ -4,13 +4,13 @@ title: "Diversity and Inclusion Scholarship"
 ---
 
 <div>
-    <h2>Diversity and Inclusion Scholarship</h2>
+    <h1>Diversity and Inclusion Scholarship</h1>
 
     <p>
     IEEE VR 2021 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for the <strong>2021 Inclusion, Diversity, and Accessibility Scholarship</strong>. 
     </p>
     
-    <h1>Who Should Apply?</h1>
+    <h2>Who Should Apply?</h2>
     <p>
     This scholarship provides funds for early-career researchers (graduate students and postdocs) from <strong>under-represented or historically marginalized groups</strong> to attend this year’s conference. These groups may include (but is not exclusive to):
     </p>
@@ -32,7 +32,7 @@ title: "Diversity and Inclusion Scholarship"
     Undergraduate students with limited or no experience conducting virtual reality research are encouraged to apply to the <a href="/2021/contribute/bridge-to-vr">Bridge to VR Program</a>.
     </p>
     
-    <h1>Scholarship Details</h1>
+    <h2>Scholarship Details</h2>
     <p>
         This scholarship will cover registration costs for attending the 2021 IEEE VR conference. Funding is available for:
     </p>
