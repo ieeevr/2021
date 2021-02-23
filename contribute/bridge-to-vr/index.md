@@ -77,7 +77,7 @@ title: "Bridge to VR CFP"
 
     <h2>Contacts</h2>
     <p>
-    This program is an initiative of the 2021 IEEE VR Diversity and Inclusion Committee. The committee can be reached via email at diversity2021@ieeevr.org.
+    This program is an initiative of the 2021 IEEE VR Diversity and Inclusion Committee. The committee can be reached via email at diversity2021 [at] ieeevr.org.
     </p>
     <p>
         The evaluating panel for this year’s program is: 
