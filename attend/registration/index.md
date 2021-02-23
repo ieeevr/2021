@@ -46,6 +46,40 @@ th, td {
 </div>
 -->
 
+<h3>General Participant Registration</h3>
+<table>
+  <tr>
+    <th><strong>Registration Type</strong></th>
+    <th><strong>Advance Registration</strong>(On or Before March 12th)</th>
+    <th><strong>Late Registration</strong></th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>$50.00</td>
+    <td>$80.00</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>$60.00</td>
+    <td>$100.00</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>$30.00</td>
+    <td>$45.00</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>$40.00</td>
+    <td>$55.00</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>$25.00</td>
+    <td>$40.00</td>
+  </tr>
+</table>
+
 <h3>Paper Author Registration</h3>
 <table>
   <tr>
@@ -82,40 +116,6 @@ th, td {
   </tr>
 </table>
 
-
-<h3>General Participant Registration</h3>
-<table>
-  <tr>
-    <th><strong>Registration Type</strong></th>
-    <th><strong>Advance Registration</strong></th>
-    <th><strong>Late Registration</strong></th>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td>$50.00</td>
-    <td>$80.00</td>
-  </tr>
-  <tr>
-    <td>Non-Member</td>
-    <td>$60.00</td>
-    <td>$100.00</td>
-  </tr>
-  <tr>
-    <td>Student Member</td>
-    <td>$30.00</td>
-    <td>$45.00</td>
-  </tr>
-  <tr>
-    <td>Student Non-Member</td>
-    <td>$40.00</td>
-    <td>$55.00</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>$25.00</td>
-    <td>$40.00</td>
-  </tr>
-</table>
 
 <!--
 <h3>Workshops & Tutorials Registration</h3>
