@@ -7,7 +7,7 @@ layout: ieeevr-default
     
     
 
-    <script>
+    <script type="text/javascript">
         
         
         var today = new Date();
