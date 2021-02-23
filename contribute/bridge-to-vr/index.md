@@ -4,7 +4,7 @@ title: "Bridge to VR CFP"
 ---
 
 <div>
-    <h1 id="bridge-to-vr"> Bridge to VR Call for Participation</h1>
+    <h1 id="bridge-to-vr">Bridge to VR Call for Participation</h1>
     <p>
         <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 3, 2021, Virtual
         <br />

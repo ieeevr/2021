@@ -4,7 +4,7 @@ title: "Diversity and Inclusion Scholarship"
 ---
 
 <div>
-    <h2>IEEE VR 2021 Code of Conduct</h2>
+    <h2>Diversity and Inclusion Scholarship</h2>
 
     <p>
     IEEE VR 2021 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for the <strong>2021 Inclusion, Diversity, and Accessibility Scholarship</strong>. 
