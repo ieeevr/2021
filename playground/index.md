@@ -20,7 +20,7 @@ layout: ieeevr-default
                 + s.getMinutes() + ":" 
                 + s.getSeconds();
         
-        document.write(displayTime);
+        document.write("Datetime:" + displayTime);
         
         document.write("</p>")
     
