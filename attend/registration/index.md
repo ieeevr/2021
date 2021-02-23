@@ -51,7 +51,7 @@ th, td {
 <table>
   <tr>
     <th><strong>Registration Type</strong></th>
-    <th><strong>Advance Registration</strong>(On or Before March 12th)</th>
+    <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
     <th><strong>Late Registration</strong></th>
   </tr>
   <tr>
