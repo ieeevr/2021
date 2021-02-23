@@ -10,7 +10,6 @@ layout: ieeevr-default
     <script>
         
         
-        var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'};
         var today = new Date();
         
         document.write("<p>");
