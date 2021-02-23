@@ -47,6 +47,7 @@ th, td {
 -->
 
 <h3>General Participant Registration</h3>
+* Paper authors see the next table.
 <table>
   <tr>
     <th><strong>Registration Type</strong></th>
