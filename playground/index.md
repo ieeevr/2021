@@ -19,7 +19,7 @@ layout: ieeevr-default
         
         
         document.write("<p>");
-        document.write("end"));
+        document.write("end");
         document.write("</p>");
         
         
