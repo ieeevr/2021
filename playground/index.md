@@ -13,7 +13,7 @@ layout: ieeevr-default
         var d = new Date();
         var s = d.toLocaleDateString(undefined, { timeZone: "Europe/Lisbon"});
     
-        document.write(s);
+        document.write(s.today() + "@" + s.timeNow());
         
         document.write("</p>")
     
