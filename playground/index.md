@@ -11,15 +11,19 @@ layout: ieeevr-default
         
         
         var today = new Date();
+        var todayLisbon = today.toLocaleString(undefined, { timeZone: "Europe/Lisbon"});
+        
+        
         
         document.write("<p>");
-        document.write(today.toLocaleString("Europe/Lisbon"));
+        document.write(todayLisbon.getDate());
+        document.write(todayLisbon.getTime());
         document.write("</p>");
         
         
         
         document.write("<p>");
-        document.write("end");
+        
         document.write("</p>");
         
         
