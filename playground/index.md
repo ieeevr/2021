@@ -23,11 +23,16 @@ layout: ieeevr-default
         document.write("</strong></p>");
 
         
-        
-        
+        var timeslot1 = Date.parse('24 Feb 2021 01:00:00 Europe/Lisbon');
+        var timeslot2 = Date.parse('24 Feb 2021 02:00:00 Europe/Lisbon');
+        var DateNow = Date.parse('24 Feb 2021 01:30:00 Europe/Lisbon');
         
         document.write("<p>");
-        document.write(moment().format('MMMM Do YYYY, h:mm:ss a'));
+        document.write(DateNow);
+        document.write("</p>");
+        
+        document.write("<p>");
+        document.write((timeslot1 > DateNow) && (DateNow < timeslot2));
         document.write("</p>");
         
     </script>
