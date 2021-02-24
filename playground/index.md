@@ -8,7 +8,7 @@ layout: ieeevr-default
     
 
     <p>Date/Time: <span id="datetime"></span></p>
-    <script type="text/javascript">
+    <script type="text/javascript" src="https://unpkg.com/moment">
         
         
         var today = new Date();
