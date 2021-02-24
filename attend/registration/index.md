@@ -11,7 +11,7 @@ table, td, th {
 
 table {
   border-collapse: collapse;
-  width: 70%;
+  width: 85%;
   margin-left: auto; 
   margin-right: auto;
 }
