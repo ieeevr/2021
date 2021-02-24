@@ -49,7 +49,7 @@ th, td {
 <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
 <table>
-  <tr>
+  <tr style="vertical-align: top;">
     <th><strong>Registration Type</strong></th>
     <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
     <th><strong>Late Registration</strong></th>
