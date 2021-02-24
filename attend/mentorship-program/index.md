@@ -34,4 +34,14 @@ title: "Mentorship Program"
     <p>
     Participants will also be asked to complete a <strong>closing survey</strong> providing feedback on the program after the conference.
     </p>
+    
+    <h2>Contact</h2>
+    <p>
+        This program is an initiative of the 2021 IEEE VR Inclusion, Diversity, and Accessibility Committee. The committee can be reached via email at diversity2021[at]ieeevr.org
+    </p>
+    <h3>Data Privacy Information</h3>
+    <p>
+        The information provided by the participants will be accessible only to the members of the Inclusion, Diversity, and Accessibility committee. The participants can request for their information to be corrected or deleted at any time until 31st of May 2021. After this date, their data will be anonymized and provided to the Inclusion, Diversity, and Accessibility committee of future iterations of IEEE VR for statistical purposes.
+    </p>
+
 </div>
