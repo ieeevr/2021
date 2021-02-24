@@ -31,6 +31,7 @@ layout: ieeevr-default
         document.write(DateNow.toLocaleString());
         document.write("</p>");
         
+        console.log(DateNow);
         console.log((DateNow > timeslot1) && (DateNow < timeslot2));
         
     </script>
