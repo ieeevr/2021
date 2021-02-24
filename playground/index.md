@@ -19,13 +19,16 @@ layout: ieeevr-default
         
         
         document.write("<p><strong>");
-        
-        
         document.write(dt.toLocaleString());
-        
-        
         document.write("</strong></p>");
+
         
+        
+        
+        
+        document.write("<p>");
+        document.write(moment().format('MMMM Do YYYY, h:mm:ss a'));
+        document.write("</p>");
         
     </script>
 
