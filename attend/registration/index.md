@@ -101,7 +101,7 @@ th, td {
   </tr>
 </table>
 
-<h3>Workshop/Tutorial/Demo Author Registration</h3>
+<h3>Workshop/Posters/Tutorial/Demo Author Registration</h3>
 <table>
   <tr>
     <th><strong>Registration Type</strong></th>
