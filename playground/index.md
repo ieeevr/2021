@@ -23,15 +23,12 @@ layout: ieeevr-default
         document.write("</strong></p>");
 
         
-        var timeslot1 = Date.parse('24 Feb 2021 01:00:00 Europe/Lisbon');
-        var timeslot2 = Date.parse('24 Feb 2021 02:00:00 Europe/Lisbon');
-        var DateNow = Date.parse('24 Feb 2021 01:30:00 Europe/Lisbon');
+        var timeslot1 = Date.parse('24 Feb 2021 03:00:00');
+        var timeslot2 = Date.parse('24 Feb 2021 05:00:00');
         
-        document.write("<p>");
-        document.write(DateNow.toLocaleString());
-        document.write("</p>");
-        
-        console.log(DateNow);
+        console.log(timeslot1.toLocaleString());
+        console.log(timeslot2.toLocaleString());
+        console.log(dt.toLocaleString());
         console.log((DateNow > timeslot1) && (DateNow < timeslot2));
         
     </script>
