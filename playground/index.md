@@ -32,7 +32,7 @@ layout: ieeevr-default
         document.write("</p>");
         
         document.write("<p>");
-        document.write((timeslot1 > DateNow) && (DateNow < timeslot2));
+        document.write("" + (timeslot1 > DateNow) && (DateNow < timeslot2));
         document.write("</p>");
         
     </script>
