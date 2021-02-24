@@ -16,6 +16,17 @@ layout: ieeevr-default
         
         document.getElementById("datetime").innerHTML = dt.toLocaleString();
 
+        
+        
+        document.write("<p><strong>");
+        
+        
+        document.write(dt.toLocaleString());
+        
+        
+        document.write("</strong></p>"):
+        
+        
     </script>
 
 
