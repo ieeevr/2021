@@ -31,9 +31,7 @@ layout: ieeevr-default
         document.write(DateNow);
         document.write("</p>");
         
-        document.write("<p>");
-        document.write("" + (timeslot1 > DateNow) && (DateNow < timeslot2));
-        document.write("</p>");
+        console.log((timeslot1 > DateNow) && (DateNow < timeslot2));
         
     </script>
 
