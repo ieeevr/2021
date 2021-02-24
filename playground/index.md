@@ -23,8 +23,8 @@ layout: ieeevr-default
         document.write("</strong></p>");
 
         
-        var timeslot1 = Date.parse("2021-02-24T03:00:00");
-        var timeslot2 = Date.parse("2021-02-24T04:00:00");
+        var timeslot1 = Date.parse("2/24/2021, 5:00:00 AM");
+        var timeslot2 = Date.parse("2/24/2021, 6:00:00 AM");
         
         console.log(timeslot1.toLocaleString());
         console.log(timeslot2.toLocaleString());
