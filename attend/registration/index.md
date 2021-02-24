@@ -42,7 +42,7 @@ th, td {
 
 <div style="">
     <p style="font-size: 20px;">
-        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="">Click Here to Register</a>
+        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
 
@@ -164,6 +164,6 @@ th, td {
 <br/>
 <div style="">
     <p style="font-size: 20px;">
-        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="">Click Here to Register</a>
+        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
