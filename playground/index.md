@@ -28,10 +28,10 @@ layout: ieeevr-default
         var DateNow = Date.parse('24 Feb 2021 01:30:00 Europe/Lisbon');
         
         document.write("<p>");
-        document.write(DateNow);
+        document.write(DateNow.toLocaleString());
         document.write("</p>");
         
-        console.log((timeslot1 > DateNow) && (DateNow < timeslot2));
+        console.log((DateNow > timeslot1) && (DateNow < timeslot2));
         
     </script>
 
