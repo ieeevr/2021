@@ -24,7 +24,7 @@ layout: ieeevr-default
         document.write(dt.toLocaleString());
         
         
-        document.write("</strong></p>"):
+        document.write("</strong></p>");
         
         
     </script>
