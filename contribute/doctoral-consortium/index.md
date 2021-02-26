@@ -12,6 +12,13 @@ title: "Doctoral Consortium"
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
 
+    <div class="notice--info">
+        <!--<strong>Registration Information (24 Feb 2021):</strong>-->
+        <p>
+            The encouraged Presentation format in the DC is a Pecha Kucha style in which 20 slides are shown for 20 seconds each. Each student will have a seven minute time frame for presenting.  Even if a student choses not to adhere to the 20 slides/20 seconds, <u>the time frame of seven minutes is a firm limit</u>. This will be followed by 4-5 minutes of QA from the audience. Please plan and practice in advance to ensure that we stay on schedule.
+        </p>
+    </div>
+    
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b><del style="text-decoration-thickness: 3px;">November 30</del> December 6, 2020 23:59 AoE:</b> Submission deadline.</li>
