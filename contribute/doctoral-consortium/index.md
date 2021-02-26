@@ -15,7 +15,9 @@ title: "Doctoral Consortium"
     <div class="notice--info">
         <!--<strong>Registration Information (24 Feb 2021):</strong>-->
         <p>
-            The encouraged Presentation format in the DC is a Pecha Kucha style in which 20 slides are shown for 20 seconds each. Each student will have a seven minute time frame for presenting.  Even if a student choses not to adhere to the 20 slides/20 seconds, <u>the time frame of seven minutes is a firm limit</u>. This will be followed by 4-5 minutes of QA from the audience. Please plan and practice in advance to ensure that we stay on schedule.
+            <b>
+                The encouraged Presentation format in the DC is a Pecha Kucha style in which 20 slides are shown for 20 seconds each. Each student will have a seven minute time frame for presenting.  Even if a student choses not to adhere to the 20 slides/20 seconds, <u>the time frame of seven minutes is a firm limit</u>. This will be followed by 4-5 minutes of QA from the audience. Please plan and practice in advance to ensure that we stay on schedule.
+            </b>
         </p>
     </div>
     
