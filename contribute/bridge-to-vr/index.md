@@ -41,6 +41,8 @@ title: "Bridge to VR CFP"
     <p>
         The deadline for application is the 15th of March 2021. Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located.
     </p>
+    
+    <h3>Application Essay Questions</h3>
     <ul>
         <li>
             Spend some time reviewing research from past conferences: <a href="https://ieeevr.org/#past" target="_blank">https://ieeevr.org/#past</a>. What is an important problem in the world that you think VR can help address?
