@@ -164,22 +164,22 @@ th, td {
 <h2>Registation FAQ</h2>
 
 <ol>
-    <li><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
+    <li style="color: #00aeef:"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
         Yes. During registration at Cvent, the author should inform all papers/publications for validation.</li>
 
-    <li><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
+    <li style="color: #00aeef:"><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
         Yes. As long as the paper has one author registered to validate the paper, another registered attendee can present the paper.</li>
 
-    <li><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
+    <li style="color: #00aeef:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
         You should use the same category as Workshop/Poster/Demo contributors.</li>
 
-    <li><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
+    <li style="color: #00aeef:"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
         You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
 
-    <li><strong>What is an Invited TVCG paper?</strong><br/>
+    <li style="color: #00aeef:"><strong>What is an Invited TVCG paper?</strong><br/>
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2021 Journal Papers published in the special issue.</li>
 
-    <li><strong>Can  a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
+    <li style="color: #00aeef:"><strong>Can  a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
         Yes.</li>
 </ol>
 
