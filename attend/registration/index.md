@@ -4,23 +4,47 @@ title: "Registration"
 ---
 
 <style>
-table, td, th {  
-  /* border: 1px solid #ddd; */
-  text-align: left;
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    display: table;
+}
+.styled-table thead tr {
+    background-color: #00aeef;
+    color: #ffffff;
+    text-align: left;
 }
 
-table {
-  border-collapse: collapse;
-  width: 85%;
-  margin-left: auto; 
-  margin-right: auto;
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
 }
 
-th, td {
-  padding: 15px;
-  width: 100%;
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
 }
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #00aeef;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #00aeef;
+}    
+
+
 </style>
+
+
 
 
 
@@ -48,8 +72,8 @@ th, td {
 
 <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
-<table>
-  <tr style="vertical-align: top;">
+<table class="">
+  <tr class="styled-table" style="vertical-align: top;">
     <th><strong>Registration Type</strong></th>
     <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
     <th><strong>Late Registration</strong></th>
@@ -82,7 +106,7 @@ th, td {
 </table>
 
 <h3>Paper Author Registration</h3>
-<table>
+<table class="styled-table">
   <tr>
     <th><strong>Registration Type</strong></th>
     <th><strong>Fee</strong></th>
@@ -102,7 +126,7 @@ th, td {
 </table>
 
 <h3>Workshop/Posters/Tutorial/Demo/"invited TVCG paper" Author Registration</h3>
-<table>
+<table class="styled-table">
   <tr>
     <th><strong>Registration Type</strong></th>
     <th><strong>Fee</strong></th>
