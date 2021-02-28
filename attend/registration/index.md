@@ -72,8 +72,8 @@ title: "Registration"
 
 <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
-<table class="">
-  <tr class="styled-table" style="vertical-align: top;">
+<table class="styled-table">
+  <tr style="vertical-align: top;">
     <th><strong>Registration Type</strong></th>
     <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
     <th><strong>Late Registration</strong></th>
