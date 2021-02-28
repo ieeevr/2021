@@ -14,7 +14,7 @@ title: "Program Overview"
     display: table;
 }
 .styled-table thead tr {
-    background-color: #009879;
+    background-color: #00aeef;
     color: #ffffff;
     text-align: left;
 }
@@ -33,12 +33,12 @@ title: "Program Overview"
 }
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
+    border-bottom: 2px solid #00aeef;
 }
 
 .styled-table tbody tr.active-row {
     font-weight: bold;
-    color: #009879;
+    color: #00aeef;
 }    
 
 
