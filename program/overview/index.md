@@ -11,6 +11,7 @@ title: "Program Overview"
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    display: table;
 }
 .styled-table thead tr {
     background-color: #009879;
