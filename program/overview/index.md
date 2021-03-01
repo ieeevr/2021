@@ -268,9 +268,12 @@ title: "Program Overview"
 
 </style>
 
+
 <h1>Program Overview</h1>
 
-<!--
+<div>
+
+    <!--
     <h2>Panel Sessions</h2>
 
     <table class="styled-table">
@@ -313,214 +316,223 @@ title: "Program Overview"
 
     </table>
     -->
+</div>
 
+<div>
 
-<h2>Saturday, March 27</h2>
-<div class="schedule-sat-27" aria-labelledby="schedule-heading">
+    <h2>Saturday, March 27</h2>
+    <div class="schedule-sat-27" aria-labelledby="schedule-heading">
 
-    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;">Track 4</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;">Track 4</span>
 
-    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+        <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-    <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
-        <h3 class="session-title"><a href="#">Tutorial: Interactive Storytelling for VR</a></h3>
-        <span class="session-time">9:00 - 12:00</span>
-    </div>
+        <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Tutorial: Interactive Storytelling for VR</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
 
-    <div class="session session-2 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
-        <h3 class="session-title"><a href="#">Workshop: SONIC</a></h3>
-        <span class="session-time">9:00 - 12:00</span>
-    </div>
+        <div class="session session-2 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Workshop: SONIC</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
 
-    <div class="session session-3 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
-        <h3 class="session-title"><a href="#">Workshop: Ethics in VR</a></h3>
-        <span class="session-time">9:00 - 12:00</span>
-    </div>
+        <div class="session session-3 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Workshop: Ethics in VR</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
 
-    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-0900 / time-1200;">
-        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
-        <span class="session-time">9:00 - 12:00</span>
-    </div>
+        <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
 
-    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+        <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
-    <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
-        <h3 class="session-title"><a href="#">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
-        <span class="session-time">13:00 - 16:00</span>
-    </div>
+        <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
 
-    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
-        <h3 class="session-title"><a href="#">Workshop: NIDIT</a></h3>
-        <span class="session-time">13:00 - 16:00</span>
-    </div>
+        <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
+            <h3 class="session-title"><a href="#">Workshop: NIDIT</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
 
-    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1300 / time-1600;">
-        <h3 class="session-title"><a href="#">Doctoral Consortium: Ethics in VR</a></h3>
-        <span class="session-time">13:00 - 16:00</span>
-    </div>
+        <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Doctoral Consortium: Ethics in VR</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
 
-    <p class="time-slot" style="grid-row: time-1530;">15:30</p>
-    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
-        <h3 class="session-title"><a href="#">Workshop: DISCE</a></h3>
-        <span class="session-time">15:30 - 21:00</span>
-    </div>
+        <p class="time-slot" style="grid-row: time-1530;">15:30</p>
+        <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: DISCE</a></h3>
+            <span class="session-time">15:30 - 21:00</span>
+        </div>
 
-    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-    <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
-        <h3 class="session-title"><a href="#">Tutorial: OpenAR: Combining the Virtual and Real?</a></h3>
-        <span class="session-time">15:30 - 21:00</span>
-    </div>
-    <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
-        <h3 class="session-title"><a href="#">Workshop: VHCIE</a></h3>
-        <span class="session-time">15:30 - 21:00</span>
-    </div>
-    <div class="session session-11 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-2100;">
-        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
-        <span class="session-time">15:30 - 21:00</span>
+        <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+        <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Tutorial: OpenAR: Combining the Virtual and Real?</a></h3>
+            <span class="session-time">15:30 - 21:00</span>
+        </div>
+        <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: VHCIE</a></h3>
+            <span class="session-time">15:30 - 21:00</span>
+        </div>
+        <div class="session session-11 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+            <span class="session-time">15:30 - 21:00</span>
+        </div>
+
     </div>
 
 </div>
 
-<h2>Sunday, March 28</h2>
-<div class="schedule-sun-28" aria-labelledby="schedule-heading">
+<div>
 
-    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+    <h2>Sunday, March 28</h2>
+    <div class="schedule-sun-28" aria-labelledby="schedule-heading">
 
-    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
 
-    <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
-        <h3 class="session-title"><a href="#">Workshop: ANIVE</a></h3>
-        <span class="session-time">9:00 - 12:00</span>
-    </div>
+        <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-    <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
-        <h3 class="session-title"><a href="#">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
-        <span class="session-time">13:00 - 16:00</span>
-    </div>
-    <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
-        <h3 class="session-title"><a href="#">Workshop: PRXR</a></h3>
-        <span class="session-time">13:00 - 16:00</span>
-    </div>
-    <div class="session session-4 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
-        <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 1</a></h3>
-        <span class="session-time">13:00 - 16:00</span>
-    </div>
+        <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Workshop: ANIVE</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
 
-    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
-        <h3 class="session-title"><a href="#">Workshop: SVRAE</a></h3>
-        <span class="session-time">17:00 - 21:00</span>
-    </div>
-    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
-        <h3 class="session-title"><a href="#">Workshop: WISP</a></h3>
-        <span class="session-time">17:00 - 21:00</span>
-    </div>
-    <div class="session session-7 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
-        <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 2</a></h3>
-        <span class="session-time">17:00 - 21:00</span>
+        <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+        <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Workshop: PRXR</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        <div class="session session-4 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 1</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+        <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: SVRAE</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
+        <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: WISP</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
+        <div class="session session-7 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 2</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
     </div>
 </div>
 
+<div>
+    <h2>Monday, March 29</h2>
+    <div class="schedule" aria-labelledby="schedule-heading">
 
-<!-- MONDAY, MARCH 29 -->
-<h2>Monday, March 29</h2>
-<div class="schedule" aria-labelledby="schedule-heading">
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
 
-    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+        <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
-    <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
+        <div class="session session-1 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
+            <h3 class="session-title"><a href="#">Opening</a></h3>
+            <span class="session-time">8:30 - 10:00</span>
+        </div>
 
-    <div class="session session-1 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
-        <h3 class="session-title"><a href="#">Opening</a></h3>
-        <span class="session-time">8:30 - 10:00</span>
+        <p class="time-slot" style="grid-row: time-1000;">10:00</p>
+
+        <div class="session session-2 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1000 / time-1030;">
+            <h3 class="session-title">Break</h3>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1030;">10:30</p>
+
+        <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1130;">
+            <h3 class="session-title">Keynote</h3>
+            <span class="session-time">10:30 - 11:30</span>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1130;">11:30</p>
+
+        <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1130 / time-1200;">
+            <h3 class="session-title">Break</h3>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+
+        <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">12:00 - 13:00</span>
+        </div>
+
+        <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">12:00 - 13:00</span>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+        <div class="session session-7 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
+            <h3 class="session-title">Lunch</h3>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+
+        <div class="session session-8 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">14:00 - 15:00</span>
+        </div>
+
+        <div class="session session-9 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">14:00 - 15:00</span>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+        <div class="session session-10 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
+            <h3 class="session-title">Posters and Demos</h3>
+            <span class="session-time">15:00 - 16:30</span>
+        </div>
+
+
+        <p class="time-slot" style="grid-row: time-1630;">16:30</p>
+
+        <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1730;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">16:30 - 17:30</span>
+        </div>
+
+        <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1630 / time-1730;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">16:30 - 17:30</span>
+        </div>
+
+        <p class="time-slot" style="grid-row: time-1730;">17:30</p>
+        <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
+            <h3 class="session-title">Welcome Reception</h3>
+            <span class="session-time">17:30 - 19:00</span>
+        </div>
+
     </div>
 
-    <p class="time-slot" style="grid-row: time-1000;">10:00</p>
+</div>
 
-    <div class="session session-2 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1000 / time-1030;">
-        <h3 class="session-title">Break</h3>
-    </div>
+<div>
 
-    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
-
-    <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1130;">
-        <h3 class="session-title">Keynote</h3>
-        <span class="session-time">10:30 - 11:30</span>
-    </div>
-
-    <p class="time-slot" style="grid-row: time-1130;">11:30</p>
-
-    <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1130 / time-1200;">
-        <h3 class="session-title">Break</h3>
-    </div>
-
-    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-
-    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
-        <h3 class="session-title">Paper Session</h3>
-        <span class="session-time">12:00 - 13:00</span>
-    </div>
-
-    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
-        <h3 class="session-title">Paper Session</h3>
-        <span class="session-time">12:00 - 13:00</span>
-    </div>
-
-    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-    <div class="session session-7 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
-        <h3 class="session-title">Lunch</h3>
-    </div>
-
-    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-
-    <div class="session session-8 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
-        <h3 class="session-title">Paper Session</h3>
-        <span class="session-time">14:00 - 15:00</span>
-    </div>
-
-    <div class="session session-9 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
-        <h3 class="session-title">Paper Session</h3>
-        <span class="session-time">14:00 - 15:00</span>
-    </div>
-
-    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
-    <div class="session session-10 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
-        <h3 class="session-title">Posters and Demos</h3>
-        <span class="session-time">15:00 - 16:30</span>
-    </div>
-
-
-    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
-
-    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1730;">
-        <h3 class="session-title">Paper Session</h3>
-        <span class="session-time">16:30 - 17:30</span>
-    </div>
-
-    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1630 / time-1730;">
-        <h3 class="session-title">Paper Session</h3>
-        <span class="session-time">16:30 - 17:30</span>
-    </div>
-
-    <p class="time-slot" style="grid-row: time-1730;">17:30</p>
-    <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
-        <h3 class="session-title">Welcome Reception</h3>
-        <span class="session-time">17:30 - 19:00</span>
-    </div>
-
-
-
-    <!-- TUESDAY, MARCH 30 -->
     <h2>Tuesday, March 30</h2>
     <div class="schedule" aria-labelledby="schedule-heading">
 
@@ -619,6 +631,10 @@ title: "Program Overview"
         </div>
 
     </div>
+
+</div>
+
+<div>
 
     <!-- WEDNESDAY, MARCH 31 -->
     <h2>Wednesday, March 31</h2>
@@ -719,7 +735,9 @@ title: "Program Overview"
         </div>
 
     </div>
+</div>
 
+<div>
 
     <!-- THUSDAY, APRIL 1 -->
     <h2>Thursday, April 1</h2>
@@ -803,8 +821,9 @@ title: "Program Overview"
         </div>
 
     </div>
+</div>
 
-
+<div>
 
     <h2>Friday, April 2</h2>
     <div class="schedule-fri-2" aria-labelledby="schedule-heading">
@@ -846,11 +865,11 @@ title: "Program Overview"
             <span class="session-time">17:00 - 21:00</span>
         </div>
 
-
-
     </div>
 
-    <!--
+</div>
+
+<!--
 <div class="schedule" aria-labelledby="schedule-heading">
   
   <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
