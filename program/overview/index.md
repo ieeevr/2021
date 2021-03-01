@@ -87,9 +87,7 @@ title: "Program Overview"
       [times] 4em
       [track-1-start] 1fr
       [track-1-end track-2-start] 1fr
-      [track-2-end track-3-start] 1fr
-      [track-3-end track-4-start] 1fr
-      [track-4-end];
+      [track-2-end];
   }
 }
 
@@ -397,12 +395,13 @@ hr {
   <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
   
   <h2 class="time-slot" style="grid-row: time-0830;">8:30</h2>
+  <h2 class="time-slot" style="grid-row: time-0900;">9:00</h2>
+  <h2 class="time-slot" style="grid-row: time-0930;">9:30</h2>
+  <h2 class="time-slot" style="grid-row: time-1000;">10:00</h2>
 
   <div class="session session-1 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
     <h3 class="session-title"><a href="#">Opening</a></h3>
     <span class="session-time">8:30 - 10:00</span>
-    <span class="session-track">Track: 1 & 2</span>
-    <!--<span class="session-presenter">Presenter</span>-->
   </div>
   
 </div>
