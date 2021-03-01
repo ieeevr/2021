@@ -209,7 +209,7 @@ title: "Program Overview"
         background-color: rgb(0, 122, 255);
         color: #fff;
     }
-    
+
     .track-keynote {
         background-color: rgb(255, 204, 0);
         color: #fff;
@@ -486,40 +486,40 @@ title: "Program Overview"
 
         <h2 class="time-slot" style="grid-row: time-0830;">8:30</h2>
 
-        <div class="session session-1 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0900;">
+        <div class="session session-1 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
             <h3 class="session-title">Paper Session</h3>
             <span class="session-time">8:30 - 9:30</span>
         </div>
 
-        <div class="session session-2 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
+        <div class="session session-2 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
             <h3 class="session-title">Panel</h3>
             <span class="session-time">8:30 - 9:30</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-0930;">09:30</h2>
         <div class="session session-3 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1030;">
             <h3 class="session-title">BOF/Social</h3>
             <span class="session-time">9:30 - 10:30</span>
         </div>
-        
-         <h2 class="time-slot" style="grid-row: time-1030;">10:30</h2>
 
-         <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
-             <h3 class="session-title">Break</h3>
-         </div>
-        
+        <h2 class="time-slot" style="grid-row: time-1030;">10:30</h2>
+
+        <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
+            <h3 class="session-title">Break</h3>
+        </div>
+
         <h2 class="time-slot" style="grid-row: time-1100;">11:00</h2>
 
         <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1100 / time-1200;">
             <h3 class="session-title">Keynote</h3>
             <span class="session-time">11:00 - 12:00</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1200;">12:00</h2>
         <div class="session session-6 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
             <h3 class="session-title">Lunch</h3>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
 
         <div class="session session-7 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
@@ -531,13 +531,13 @@ title: "Program Overview"
             <h3 class="session-title">Paper Session</h3>
             <span class="session-time">13:00 - 14:00</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1400;">14:00</h2>
         <div class="session session-9 track-posters-demos" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1530;">
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">14:00 - 15:30</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
 
         <div class="session session-10 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1630;">
@@ -549,13 +549,13 @@ title: "Program Overview"
             <h3 class="session-title">Panel</h3>
             <span class="session-time">15:30 - 16:30</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1630;">16:30</h2>
 
         <div class="session session-12 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1700;">
             <h3 class="session-title">Break</h3>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1700;">17:00</h2>
 
         <div class="session session-13 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1800;">
@@ -567,31 +567,103 @@ title: "Program Overview"
             <h3 class="session-title">Paper Session</h3>
             <span class="session-time">17:00 - 18:00</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1800;">18:00</h2>
         <div class="session session-15 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
             <h3 class="session-title">Mixer</h3>
             <span class="session-time">18:00 - 19:00</span>
         </div>
-        
-        
-        
-        
-        
+
     </div>
 
 
-
-
-
-
-
-
+    <!-- THUSDAY, APRIL 1 -->
     <h2>Thursday, April 1</h2>
+    <div class="schedule" aria-labelledby="schedule-heading">
+
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+
+        <h2 class="time-slot" style="grid-row: time-0830;">8:30</h2>
+
+        <div class="session session-1 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">8:30 - 9:30</span>
+        </div>
+
+        <div class="session session-2 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">8:30 - 9:30</span>
+        </div>
+
+        <h2 class="time-slot" style="grid-row: time-0930;">09:30</h2>
+        <div class="session session-3 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1030;">
+            <h3 class="session-title">BOF/Social</h3>
+            <span class="session-time">9:30 - 10:30</span>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-1030;">10:30</h2>
+        <div class="session session-4 track-posters-demos" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1200;">
+            <h3 class="session-title">Posters and Demos</h3>
+            <span class="session-time">10:30 - 12:00</span>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-0830;">12:00</h2>
+
+        <div class="session session-5 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">12:00 - 13:00</span>
+        </div>
+
+        <div class="session session-5 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
+            <h3 class="session-title">Panel</h3>
+            <span class="session-time">12:00 - 13:00</span>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
+        <div class="session session-7 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
+            <h3 class="session-title">Lunch</h3>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-1400;">14:00</h2>
+
+        <div class="session session-8 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+            <h3 class="session-title">Paper Session</h3>
+            <span class="session-time">14:00 - 15:00</span>
+        </div>
+
+        <div class="session session-9 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
+            <h3 class="session-title">Papers</h3>
+            <span class="session-time">14:00 - 15:00</span>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-1500;">15:00</h2>
+
+        <div class="session session-10 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1530;">
+            <h3 class="session-title">Break</h3>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
+
+        <div class="session session-11 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1530 / time-1630;">
+            <h3 class="session-title">Keynote</h3>
+            <span class="session-time">15:30 - 16:30</span>
+        </div>
+        
+        <h2 class="time-slot" style="grid-row: time-1630;">16:30</h2>
+
+        <div class="session session-2 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1800;">
+            <h3 class="session-title"><a href="#">Closing</a></h3>
+            <span class="session-time">6:30 - 18:00</span>
+        </div>
+        
+    </div>
+    
+    
+    
     <h2>Friday, April 2</h2>
-
-
-
+    
     <!--
 <div class="schedule" aria-labelledby="schedule-heading">
   
