@@ -69,7 +69,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 0.4fr [time-0930] 0.4fr [time-1000] 0.4fr [time-1030] 0.4fr [time-1100] 0.4fr [time-1130] 0.4fr [time-1200] 0.4fr [time-1230] 0.4fr [time-1300] 0.4fr [time-1330] 0.4fr [time-1400] 0.4fr [time-1430] 0.4fr [time-1500] 0.4fr [time-1530] 0.4fr [time-1600] 0.4fr [time-1630] 0.4fr [time-1700] 0.4fr [time-1730] 0.4fr [time-1800] 0.4fr [time-1830] 0.4fr [time-1900] 0.4fr [time-1930] 0.4fr [time-2000] 0.4fr [time-2030] 0.4fr;
+                [tracks] auto [time-0900] 0.1fr [time-0930] 0.1fr [time-1000] 0.1fr [time-1030] 0.1fr [time-1100] 0.1fr [time-1130] 0.1fr [time-1200] 0.1fr [time-1230] 0.1fr [time-1300] 0.1fr [time-1330] 0.1fr [time-1400] 0.1fr [time-1430] 0.1fr [time-1500] 0.1fr [time-1530] 0.1fr [time-1600] 0.1fr [time-1630] 0.1fr [time-1700] 0.1fr [time-1730] 0.1fr [time-1800] 0.1fr [time-1830] 0.1fr [time-1900] 0.1fr [time-1930] 0.1fr [time-2000] 0.1fr [time-2030] 0.1fr;
             /* Note 1:
       Use 24hr time for gridline names for simplicity
 
@@ -78,7 +78,7 @@ title: "Program Overview"
       */
 
             grid-template-columns:
-                [times] 4em [track-1-start] 0.4fr [track-1-end track-2-start] 0.4fr [track-2-end track-3-start] 0.4fr [track-3-end track-4-start] 0.4fr [track-4-end];
+                [times] 4em [track-1-start] 0.1fr [track-1-end track-2-start] 0.1fr [track-2-end track-3-start] 0.1fr [track-3-end track-4-start] 0.1fr [track-4-end];
         }
     }
 
