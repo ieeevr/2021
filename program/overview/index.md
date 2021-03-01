@@ -319,15 +319,44 @@ title: "Program Overview"
 
         <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-        <div class="session session-1 track-event-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-0900 / time-1200;">
+        <div class="session session-1 track-event-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
             <h3 class="session-title"><a href="#">Tutorial: Interactive Storytelling for VR</a></h3>
             <span class="session-time">9:00 - 12:00</span>
         </div>
         
-        <div class="session session-2 track-event-green" style="grid-column: track-1-start / track-2-end; grid-row: time-0900 / time-1200;">
+        <div class="session session-2 track-event-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
             <h3 class="session-title"><a href="#">Workshop: SONIC</a></h3>
             <span class="session-time">9:00 - 12:00</span>
         </div>
+        
+        <div class="session session-3 track-event-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Workshop: Ethics in VR</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
+        
+        <div class="session session-4 track-event-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
+        
+        <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+        
+        <div class="session session-5 track-event-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        
+        <div class="session session-6 track-event-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
+            <h3 class="session-title"><a href="#">Workshop: NIDIT</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        
+        <div class="session session-7 track-event-orange" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Doctoral Consortium: Ethics in VR</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        
+        
         
     </div>
     
