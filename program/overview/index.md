@@ -51,7 +51,6 @@ title: "Program Overview"
     grid-gap: 1em;
     grid-template-rows:
       [tracks] auto
-      [time-0800] 1fr
       [time-0830] 1fr
       [time-0900] 1fr
       [time-0930] 1fr
@@ -59,7 +58,24 @@ title: "Program Overview"
       [time-1030] 1fr
       [time-1100] 1fr
       [time-1130] 1fr
-      [time-1200] 1fr;
+      [time-1200] 1fr
+      [time-1230] 1fr
+      [time-1300] 1fr
+      [time-1330] 1fr
+      [time-1400] 1fr
+      [time-1430] 1fr
+      [time-1500] 1fr
+      [time-1530] 1fr
+      [time-1600] 1fr
+      [time-1630] 1fr
+      [time-1700] 1fr
+      [time-1730] 1fr
+      [time-1800] 1fr
+      [time-1830] 1fr
+      [time-1900] 1fr
+      [time-1930] 1fr
+      [time-2000] 1fr
+      [time-2030] 1fr;
       /* Note 1:
       Use 24hr time for gridline names for simplicity
 
@@ -271,7 +287,7 @@ hr {
     
 
 
-
+<!--
 <div class="schedule" aria-labelledby="schedule-heading">
   
   <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
@@ -370,6 +386,23 @@ hr {
     <span class="session-time">11:00 - 12:00</span>
     <span class="session-track">Track: 3</span>
     <span class="session-presenter">Presenter</span>
+  </div>
+  
+</div>
+-->
+
+<div class="schedule" aria-labelledby="schedule-heading">
+  
+  <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+  <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+  
+  <h2 class="time-slot" style="grid-row: time-0830;">8:30</h2>
+
+  <div class="session session-1 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
+    <h3 class="session-title"><a href="#">Opening</a></h3>
+    <span class="session-time">8:30 - 10:00</span>
+    <span class="session-track">Track: 1 & 2</span>
+    <!--<span class="session-presenter">Presenter</span>-->
   </div>
   
 </div>
