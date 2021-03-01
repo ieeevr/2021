@@ -66,6 +66,8 @@ title: "Program Overview"
 
     .time-slot {
         grid-column: times;
+        text-decoration: none;
+        
     }
 
     .track-slot {
@@ -290,11 +292,11 @@ title: "Program Overview"
     <h2>Monday, March 29</h2>
     <div class="schedule" aria-labelledby="schedule-heading">
 
-        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
 
-        <h2 class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</h2>
+        <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
         <div class="session session-1 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
             <h3 class="session-title"><a href="#">Opening</a></h3>
@@ -380,7 +382,7 @@ title: "Program Overview"
     <h2>Tuesday, March 30</h2>
     <div class="schedule" aria-labelledby="schedule-heading">
 
-        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
 
@@ -480,7 +482,7 @@ title: "Program Overview"
     <h2>Wednesday, March 31</h2>
     <div class="schedule" aria-labelledby="schedule-heading">
 
-        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
 
@@ -581,7 +583,7 @@ title: "Program Overview"
     <h2>Thursday, April 1</h2>
     <div class="schedule" aria-labelledby="schedule-heading">
 
-        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
 
