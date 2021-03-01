@@ -411,9 +411,17 @@ hr {
   <h2 class="time-slot" style="grid-row: time-1500;">15:00</h2>
   <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
 
-  <div class="session session-1 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
+  <div class="session session-1 track-all" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
     <h3 class="session-title"><a href="#">Opening</a></h3>
     <span class="session-time">8:30 - 10:00</span>
+  </div>
+    
+  <div class="session session-2 track-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1000 / time-1030;">
+    <h3 class="session-title">Break</h3>
+  </div>
+    
+  <div class="session session-3 track-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
+    <h3 class="session-title">Keynote</h3>
   </div>
   
 </div>
