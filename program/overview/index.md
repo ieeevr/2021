@@ -291,6 +291,8 @@ title: "Program Overview"
         <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
         <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 3</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 4</span>
 
         <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
