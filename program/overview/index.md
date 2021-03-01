@@ -69,7 +69,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0830] 1fr [time-0900] 1fr [time-0930] 1fr [time-1000] 1fr [time-1030] 1fr [time-1100] 1fr [time-1130] 1fr [time-1200] 1fr [time-1230] 1fr [time-1300] 1fr [time-1330] 1fr [time-1400] 1fr [time-1430] 1fr [time-1500] 1fr [time-1530] 1fr [time-1600] 1fr [time-1630] 1fr [time-1700] 1fr [time-1730] 1fr [time-1800] 1fr [time-1830] 1fr [time-1900] 1fr [time-1930] 1fr [time-2000] 1fr [time-2030] 1fr;
+                [tracks] auto [time-0900] 1fr [time-0930] 1fr [time-1000] 1fr [time-1030] 1fr [time-1100] 1fr [time-1130] 1fr [time-1200] 1fr [time-1230] 1fr [time-1300] 1fr [time-1330] 1fr [time-1400] 1fr [time-1430] 1fr [time-1500] 1fr [time-1530] 1fr [time-1600] 1fr [time-1630] 1fr [time-1700] 1fr [time-1730] 1fr [time-1800] 1fr [time-1830] 1fr [time-1900] 1fr [time-1930] 1fr [time-2000] 1fr [time-2030] 1fr;
             /* Note 1:
       Use 24hr time for gridline names for simplicity
 
@@ -351,12 +351,16 @@ title: "Program Overview"
             <span class="session-time">13:00 - 16:00</span>
         </div>
         
-        <div class="session session-7 track-event-orange" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
+        <div class="session session-7 track-event-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1300 / time-1600;">
             <h3 class="session-title"><a href="#">Doctoral Consortium: Ethics in VR</a></h3>
             <span class="session-time">13:00 - 16:00</span>
         </div>
         
-        
+        <p class="time-slot" style="grid-row: time-1530;">15:30</p>
+        <div class="session session-7 track-event-orange" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: DISCE</a></h3>
+            <span class="session-time">15:30 - 21:00</span>
+        </div>
         
     </div>
     
