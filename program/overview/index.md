@@ -259,7 +259,7 @@ title: "Program Overview"
 <div>
     <h1>Program Overview</h1>
 
-
+    <!--
     <h2>Panel Sessions</h2>
 
     <table class="styled-table">
@@ -301,7 +301,7 @@ title: "Program Overview"
         </tr>
 
     </table>
-
+    -->
 
     <h2>Saturday, March 27</h2>
     <div class="schedule-sat-27" aria-labelledby="schedule-heading">
