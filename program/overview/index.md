@@ -200,7 +200,7 @@ title: "Program Overview"
         box-shadow: none;
     }
 
-    .track-event-teal {
+    .track-teal {
         background-color: #00aeef;
         color: #fff;
     }
@@ -215,7 +215,7 @@ title: "Program Overview"
         color: #fff;
     }
 
-    .track-posters-orange {
+    .track-orange {
         background-color: rgb(255, 149, 0);
         color: #fff;
     }
@@ -314,7 +314,7 @@ title: "Program Overview"
 
         <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-        <div class="session session-1 track-event-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
+        <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
             <h3 class="session-title"><a href="#">Tutorial: Interactive Storytelling for VR</a></h3>
             <span class="session-time">9:00 - 12:00</span>
         </div>
@@ -377,7 +377,7 @@ title: "Program Overview"
 
         <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
-        <div class="session session-1 track-event-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
+        <div class="session session-1 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
             <h3 class="session-title"><a href="#">Opening</a></h3>
             <span class="session-time">8:30 - 10:00</span>
         </div>
@@ -431,7 +431,7 @@ title: "Program Overview"
         </div>
 
         <p class="time-slot" style="grid-row: time-1500;">15:00</p>
-        <div class="session session-10 track-posters-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
+        <div class="session session-10 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">15:00 - 16:30</span>
         </div>
@@ -450,7 +450,7 @@ title: "Program Overview"
         </div>
 
         <p class="time-slot" style="grid-row: time-1730;">17:30</p>
-        <div class="session session-10 track-event-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
+        <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
             <h3 class="session-title">Welcome Reception</h3>
             <span class="session-time">17:30 - 19:00</span>
         </div>
@@ -478,7 +478,7 @@ title: "Program Overview"
         </div>
 
         <p class="time-slot" style="grid-row: time-0930;">9:30</p>
-        <div class="session session-3 track-posters-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
+        <div class="session session-3 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">9:30 - 11:00</span>
         </div>
@@ -614,7 +614,7 @@ title: "Program Overview"
         </div>
 
         <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-        <div class="session session-9 track-posters-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1530;">
+        <div class="session session-9 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1530;">
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">14:00 - 15:30</span>
         </div>
@@ -685,7 +685,7 @@ title: "Program Overview"
         </div>
 
         <p class="time-slot" style="grid-row: time-1030;">10:30</p>
-        <div class="session session-4 track-posters-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1200;">
+        <div class="session session-4 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1200;">
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">10:30 - 12:00</span>
         </div>
@@ -734,7 +734,7 @@ title: "Program Overview"
 
         <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
-        <div class="session session-2 track-event-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1800;">
+        <div class="session session-2 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1800;">
             <h3 class="session-title"><a href="#">Closing</a></h3>
             <span class="session-time">6:30 - 18:00</span>
         </div>
