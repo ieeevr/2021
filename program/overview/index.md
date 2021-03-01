@@ -211,7 +211,7 @@ title: "Program Overview"
     }
 
     .track-keynote {
-        background-color: rgb(255, 204, 0);
+        background-color: rgb(255, 45, 85);
         color: #fff;
     }
 
@@ -609,7 +609,7 @@ title: "Program Overview"
             <span class="session-time">10:30 - 12:00</span>
         </div>
         
-        <h2 class="time-slot" style="grid-row: time-0830;">12:00</h2>
+        <h2 class="time-slot" style="grid-row: time-1200;">12:00</h2>
 
         <div class="session session-5 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
             <h3 class="session-title">Paper Session</h3>
