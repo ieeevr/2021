@@ -391,7 +391,7 @@ title: "Program Overview"
             <span class="session-time">8:30 - 9:30</span>
         </div>
 
-        <h2 class="time-slot" style="grid-row: time-0930;">9:00</h2>
+        <h2 class="time-slot" style="grid-row: time-0930;">9:30</h2>
         <div class="session session-3 track-posters-demos" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">9:30 - 11:00</span>
@@ -414,7 +414,7 @@ title: "Program Overview"
             <h3 class="session-title">Lunch</h3>
         </div>
         
-        <h2 class="time-slot" style="grid-row: time-1300;">14:00</h2>
+        <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
 
         <div class="session session-7 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
             <h3 class="session-title">Paper Session</h3>
@@ -458,8 +458,8 @@ title: "Program Overview"
             <span class="session-time">17:00 - 18:00</span>
         </div>
 
-        <div class="session session-14 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1800;">
-            <h3 class="session-panel">Paper Session</h3>
+        <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1800;">
+            <h3 class="session-panel">Panel</h3>
             <span class="session-time">17:00 - 18:00</span>
         </div>
         
