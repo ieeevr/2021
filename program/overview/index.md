@@ -423,7 +423,19 @@ hr {
   <div class="session session-3 track-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
     <h3 class="session-title">Keynote</h3>
   </div>
+    
+  <div class="session session-4 track-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1130 / time-1200;">
+    <h3 class="session-title">Break</h3>
+  </div>
+    
+  <div class="session session-5 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+    <h3 class="session-title">Paper Session</h3>
+  </div>
   
+  <div class="session session-6 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
+    <h3 class="session-title">Paper Session</h3>
+  </div>
+    
 </div>
 
 
