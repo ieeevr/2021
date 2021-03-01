@@ -219,6 +219,16 @@ body {
   background-color: #48d33d;
   color: #fff;
 }
+ 
+.track-posters-demos {
+  background-color: rgb(255, 159, 10);
+  color: #fff;
+}
+    
+.track-reception {
+  background-color: rgb(100, 210, 255);
+  color: #fff;
+}
 
 .text {
   max-width: 750px;
@@ -447,7 +457,47 @@ hr {
     <span class="session-time">12:00 - 13:00</span>
   </div>
     
+  <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
+  <div class="session session-7 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
+    <h3 class="session-title">Lunch</h3>
+  </div>
+    
+  <h2 class="time-slot" style="grid-row: time-1400;">14:00</h2>
+    
+  <div class="session session-8 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+    <h3 class="session-title">Paper Session</h3>
+    <span class="session-time">14:00 - 15:00</span>
+  </div>
+    
+  <div class="session session-9 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
+    <h3 class="session-title">Paper Session</h3>
+    <span class="session-time">14:00 - 15:00</span>
+  </div>
+    
+  <h2 class="time-slot" style="grid-row: time-1500;">15:00</h2>
+  <div class="session session-10 track-posters-demos" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
+    <h3 class="session-title">Posters and Demos</h3>
+    <span class="session-time">15:00 - 16:30</span>
+  </div>
+    
 
+  <h2 class="time-slot" style="grid-row: time-1630;">16:30</h2>
+
+  <div class="session session-5 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1730;">
+    <h3 class="session-title">Paper Session</h3>
+    <span class="session-time">16:30 - 17:30</span>
+  </div>
+    
+  <div class="session session-6 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1630 / time-1730;">
+    <h3 class="session-title">Paper Session</h3>
+    <span class="session-time">16:30 - 17:30</span>
+  </div>
+
+  <h2 class="time-slot" style="grid-row: time-1730;">17:30</h2>
+  <div class="session session-10 track-reception" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
+    <h3 class="session-title">Welcome Reception</h3>
+    <span class="session-time">17:30 - 19:00</span>
+  </div>
     
 </div>
 
