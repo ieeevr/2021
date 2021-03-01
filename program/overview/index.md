@@ -371,7 +371,7 @@ title: "Program Overview"
 
     </div>
 
-    <!-- MONDAY, MARCH 29 -->
+    <!-- TUESDAY, MARCH 30 -->
     <h2>Tuesday, March 30</h2>
     <div class="schedule" aria-labelledby="schedule-heading">
 
@@ -396,7 +396,7 @@ title: "Program Overview"
             <h3 class="session-title">Posters and Demos</h3>
             <span class="session-time">9:30 - 11:00</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1100;">11:00</h2>
 
         <div class="session session-4 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1100 / time-1200;">
@@ -413,7 +413,7 @@ title: "Program Overview"
         <div class="session session-6 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
             <h3 class="session-title">Lunch</h3>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
 
         <div class="session session-7 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
@@ -431,26 +431,26 @@ title: "Program Overview"
         <div class="session session-9 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1430;">
             <h3 class="session-title">Break</h3>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1430;">14:30</h2>
 
         <div class="session session-10 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1430 / time-1530;">
             <h3 class="session-title">Keynote</h3>
             <span class="session-time">14:30 - 15:30</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
 
         <div class="session session-11 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1530 / time-1600;">
             <h3 class="session-title">Break</h3>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1600;">16:00</h2>
         <div class="session session-12 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1700;">
             <h3 class="session-title">BOF/Social</h3>
             <span class="session-time">16:00 - 17:00</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1700;">17:00</h2>
 
         <div class="session session-13 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1800;">
@@ -459,15 +459,32 @@ title: "Program Overview"
         </div>
 
         <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1800;">
-            <h3 class="session-panel">Panel</h3>
+            <h3 class="session-title">Panel</h3>
             <span class="session-time">17:00 - 18:00</span>
         </div>
-        
+
         <h2 class="time-slot" style="grid-row: time-1800;">18:00</h2>
         <div class="session session-15 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
             <h3 class="session-title">Mixer</h3>
             <span class="session-time">18:00 - 19:00</span>
         </div>
+
+    </div>
+
+    <!-- WEDNESDAY, MARCH 31 -->
+    <h2>Wednesday, March 31</h2>
+    <div class="schedule" aria-labelledby="schedule-heading">
+
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+
+        <h2 class="time-slot" style="grid-row: time-0830;">8:30</h2>
+        
+        
+        
+        
+        
         
         
     </div>
@@ -479,9 +496,6 @@ title: "Program Overview"
 
 
 
-
-
-    <h2>Wednesday, March 31</h2>
     <h2>Thursday, April 1</h2>
     <h2>Friday, April 2</h2>
 
