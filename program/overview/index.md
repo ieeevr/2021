@@ -78,7 +78,7 @@ title: "Program Overview"
       */
 
             grid-template-columns:
-                [times] 4em [track-1-start] 0.1fr [track-1-end track-2-start] 0.1fr [track-2-end track-3-start] 0.1fr [track-3-end track-4-start] 0.1fr [track-4-end];
+                [times] 4em [track-1-start] auto [track-1-end track-2-start] auto [track-2-end track-3-start] auto [track-3-end track-4-start] auto [track-4-end];
         }
     }
 
