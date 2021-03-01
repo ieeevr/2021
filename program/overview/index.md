@@ -67,7 +67,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 0.1fr [time-0930] 0.1fr [time-1000] 0.1fr [time-1030] 0.1fr [time-1100] 0.1fr [time-1130] 0.1fr [time-1200] 0.1fr [time-1230] 0.1fr [time-1300] 0.1fr [time-1330] 0.1fr [time-1400] 0.1fr [time-1430] 0.1fr [time-1500] 0.1fr [time-1530] 0.1fr [time-1600] 0.1fr [time-1630] 0.1fr [time-1700] 0.1fr [time-1730] 0.1fr [time-1800] 0.1fr [time-1830] 0.1fr [time-1900] 0.1fr [time-1930] 0.1fr [time-2000] 0.1fr [time-2030] 0.1fr;
+                [tracks] auto [time-0900] 0.1fr [time-0930] 0.1fr [time-1000] 0.1fr [time-1030] 0.1fr [time-1100] 0.1fr [time-1130] 0.1fr [time-1200] 0.1fr [time-1230] 0.1fr [time-1300] 0.1fr [time-1330] 0.1fr [time-1400] 0.1fr [time-1430] 0.1fr [time-1500] 0.1fr [time-1530] 0.1fr [time-1600] 0.1fr [time-1630] 0.1fr [time-1700] 0.1fr [time-1730] 0.1fr [time-1800] 0.1fr [time-1830] 0.1fr [time-1900];
             /* Note 1:
       Use 24hr time for gridline names for simplicity
 
@@ -397,11 +397,38 @@ title: "Program Overview"
 
         <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-        <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
-            <h3 class="session-title"><a href="#">Tutorial: Interactive Storytelling for VR</a></h3>
+        <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Workshop: ANIVE</a></h3>
             <span class="session-time">9:00 - 12:00</span>
         </div>
         
+        <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+        <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Workshop: PRXR</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        <div class="session session-4 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
+            <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 1</a></h3>
+            <span class="session-time">13:00 - 16:00</span>
+        </div>
+        
+        <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+        <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: SVRAE</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
+        <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: WISP</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
+        <div class="session session-7 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 2</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
     </div>
     
 
