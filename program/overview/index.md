@@ -399,6 +399,17 @@ hr {
   <h2 class="time-slot" style="grid-row: time-0900;">9:00</h2>
   <h2 class="time-slot" style="grid-row: time-0930;">9:30</h2>
   <h2 class="time-slot" style="grid-row: time-1000;">10:00</h2>
+  <h2 class="time-slot" style="grid-row: time-1030;">10:30</h2>
+  <h2 class="time-slot" style="grid-row: time-1100;">11:00</h2>
+  <h2 class="time-slot" style="grid-row: time-1130;">11:30</h2>
+  <h2 class="time-slot" style="grid-row: time-1200;">12:00</h2>
+  <h2 class="time-slot" style="grid-row: time-1230;">12:30</h2>
+  <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
+  <h2 class="time-slot" style="grid-row: time-1330;">13:30</h2>
+  <h2 class="time-slot" style="grid-row: time-1400;">14:00</h2>
+  <h2 class="time-slot" style="grid-row: time-1430;">14:30</h2>
+  <h2 class="time-slot" style="grid-row: time-1500;">15:00</h2>
+  <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
 
   <div class="session session-1 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
     <h3 class="session-title"><a href="#">Opening</a></h3>
