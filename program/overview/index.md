@@ -94,6 +94,22 @@ title: "Program Overview"
             grid-template-columns:
                 [times] 4em [track-1-start] auto [track-1-end track-2-start] auto [track-2-end track-3-start] auto [track-3-end];
         }
+        
+        .schedule-fri-2 {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0900] 0.1fr [time-0930] 0.1fr [time-1000] 0.1fr [time-1030] 0.1fr [time-1100] 0.1fr [time-1130] 0.1fr [time-1200] 0.1fr [time-1230] 0.1fr [time-1300] 0.1fr [time-1330] 0.1fr [time-1400] 0.1fr [time-1430] 0.1fr [time-1500] 0.1fr [time-1530] 0.1fr [time-1600] 0.1fr [time-1630] 0.1fr [time-1700] 0.1fr [time-1730] 0.1fr [time-1800] 0.1fr [time-1830] 0.1fr [time-1900] 0.1fr [time-1930] 0.1fr [time-2000] 0.1fr [time-2030] 0.1fr;
+            /* Note 1:
+      Use 24hr time for gridline names for simplicity
+
+      Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
+      Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
+      */
+
+            grid-template-columns:
+                [times] 4em [track-1-start] auto [track-1-end track-2-start] auto [track-2-end track-3-start] auto [track-3-end];
+        }
     }
 
     .time-slot {
@@ -809,6 +825,48 @@ title: "Program Overview"
 
 
     <h2>Friday, April 2</h2>
+    <div class="schedule-fri-2" aria-labelledby="schedule-heading">
+
+        <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST)</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+        <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+
+        <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+        <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+            <h3 class="session-title"><a href="#">Workshoo: EVR</a></h3>
+            <span class="session-time">9:00 - 12:00</span>
+        </div>
+        
+        <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+        <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
+            <h3 class="session-title"><a href="#">Tutorial: bmlTUX – a simple toolkit for building experiments in Unity</a></h3>
+            <span class="session-time">14:00 - 16:30</span>
+        </div>
+        <div class="session session-3 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1630;">
+            <h3 class="session-title"><a href="#">Tutorial: Emotion in Virtual Reality</a></h3>
+            <span class="session-time">14:00 - 16:30</span>
+        </div>
+        
+        <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+        <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: KELVAR</a></h3>
+            <span class="session-time">16:00 - 21:00</span>
+        </div>
+        
+        <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+        <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2000;">
+            <h3 class="session-title"><a href="#">Tutorial: OpenAR: Combining the Virtual and Real?</a></h3>
+            <span class="session-time">17:00 - 20:00</span>
+        </div>
+        <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+            <h3 class="session-title"><a href="#">Workshop: FWFVRL</a></h3>
+            <span class="session-time">17:00 - 21:00</span>
+        </div>
+        
+        
+        
+    </div>
 
     <!--
 <div class="schedule" aria-labelledby="schedule-heading">
