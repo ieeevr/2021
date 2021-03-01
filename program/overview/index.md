@@ -212,7 +212,7 @@ body {
 }
 .track-break {
   background-color: #ddf6ff;
-  color: #000;
+  color: #464646;
 }
     
 .track-papers {
@@ -410,9 +410,6 @@ hr {
   <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
   
   <h2 class="time-slot" style="grid-row: time-0830;">8:30</h2>
-  <h2 class="time-slot" style="grid-row: time-0900;">9:00</h2>
-  <h2 class="time-slot" style="grid-row: time-0930;">9:30</h2>
-
 
   <div class="session session-1 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
     <h3 class="session-title"><a href="#">Opening</a></h3>
@@ -426,10 +423,10 @@ hr {
   </div>
     
   <h2 class="time-slot" style="grid-row: time-1030;">10:30</h2>
-  <h2 class="time-slot" style="grid-row: time-1100;">11:00</h2>
     
   <div class="session session-3 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1130;">
     <h3 class="session-title">Keynote</h3>
+    <span class="session-time">10:30 - 11:30</span>
   </div>
     
   <h2 class="time-slot" style="grid-row: time-1130;">11:30</h2>
@@ -442,20 +439,15 @@ hr {
     
   <div class="session session-5 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
     <h3 class="session-title">Paper Session</h3>
+    <span class="session-time">12:00 - 13:00</span>
   </div>
-  
-  <h2 class="time-slot" style="grid-row: time-1230;">12:30</h2>
     
   <div class="session session-6 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
     <h3 class="session-title">Paper Session</h3>
+    <span class="session-time">12:00 - 13:00</span>
   </div>
     
-  <h2 class="time-slot" style="grid-row: time-1300;">13:00</h2>
-  <h2 class="time-slot" style="grid-row: time-1330;">13:30</h2>
-  <h2 class="time-slot" style="grid-row: time-1400;">14:00</h2>
-  <h2 class="time-slot" style="grid-row: time-1430;">14:30</h2>
-  <h2 class="time-slot" style="grid-row: time-1500;">15:00</h2>
-  <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
+
     
 </div>
 
