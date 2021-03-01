@@ -7,9 +7,9 @@ title: "Program Overview"
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
-    font-size: 0.9em;
+    font-size: 0.6em;
     font-family: sans-serif;
-    min-width: 400px;
+    /*min-width: 400px;*/
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     display: table;
 }
@@ -247,20 +247,14 @@ hr {
         <tr>
             <th>Session</th>
             <th>Topic Area</th>
-            <th>Session</th>
-            <th>Topic Area</th>
         </tr>
         
         <tr>
             <td>1</td>
             <td>Ethics and Privacy in Mixed Reality</td>
-            <td>3</td>
-            <td>Ethics and Privacy in Mixed Reality</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Ethics and Privacy in Mixed Reality</td>
-            <td>4</td>
             <td>Ethics and Privacy in Mixed Reality</td>
         </tr>
     
