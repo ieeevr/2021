@@ -205,6 +205,20 @@ body {
   color: #000;
   box-shadow: none;
 }
+    
+.track-event-all {
+  background-color: #00aeef;
+  color: #fff;
+}
+.track-break {
+  background-color: #ddf6ff;
+  color: #fff;
+}
+    
+.track-papers {
+  background-color: #48d33d;
+  color: #fff;
+}
 
 .text {
   max-width: 750px;
@@ -411,28 +425,28 @@ hr {
   <h2 class="time-slot" style="grid-row: time-1500;">15:00</h2>
   <h2 class="time-slot" style="grid-row: time-1530;">15:30</h2>
 
-  <div class="session session-1 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
+  <div class="session session-1 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-1000;">
     <h3 class="session-title"><a href="#">Opening</a></h3>
     <span class="session-time">8:30 - 10:00</span>
   </div>
     
-  <div class="session session-2 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1000 / time-1030;">
+  <div class="session session-2 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1000 / time-1030;">
     <h3 class="session-title">Break</h3>
   </div>
     
-  <div class="session session-3 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
+  <div class="session session-3 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1130;">
     <h3 class="session-title">Keynote</h3>
   </div>
     
-  <div class="session session-4 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-1130 / time-1200;">
+  <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1130 / time-1200;">
     <h3 class="session-title">Break</h3>
   </div>
     
-  <div class="session session-5 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+  <div class="session session-5 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
     <h3 class="session-title">Paper Session</h3>
   </div>
   
-  <div class="session session-6 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
+  <div class="session session-6 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
     <h3 class="session-title">Paper Session</h3>
   </div>
     
