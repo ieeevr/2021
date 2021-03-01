@@ -70,12 +70,87 @@ title: "Program Committee"
 
 
 
-    <!--	<h2>	Conference Papers	</h2>						-->
-    <!--		<ul>							-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--			<li>			&#x2012; <i>		</i></li>	-->
-    <!--		</ul>							-->
-
+    <h2> Conference Papers </h2>
+    <ul>
+        <li> John Quarles &#x2012; <i> University of Texas at San Antonio </i></li>
+        <li> Alexandre Gomes de Siqueira &#x2012; <i> Florida University </i></li>
+        <li> Janki Dodiya &#x2012; <i> German Aerospace Centre </i></li>
+        <li> Miao Wang &#x2012; <i> Beihang University </i></li>
+        <li> Myriam Servières &#x2012; <i> Centrale Nantes </i></li>
+        <li> Charles Hughes &#x2012; <i> University of Central Florida </i></li>
+        <li> Lonni Besançon &#x2012; <i> Monash University </i></li>
+        <li> Oliver Staadt &#x2012; <i> University of Rostock </i></li>
+        <li> Diego Martinez Plasencia &#x2012; <i> University College of London </i></li>
+        <li> Amine Chellali &#x2012; <i> University of EVry </i></li>
+        <li> Tom Vierjahn &#x2012; <i> Westphalian University of Applied Sciences </i></li>
+        <li> Qian Zhou &#x2012; <i> Autodesk Research </i></li>
+        <li> Alexander Plopski &#x2012; <i> University of Otago </i></li>
+        <li> Kangsoo Kim &#x2012; <i> University of Central Florida </i></li>
+        <li> Thierry Duval &#x2012; <i> IMT Atlantique </i></li>
+        <li> Arnaud Prouzeau &#x2012; <i> INRIA </i></li>
+        <li> Isaac Cho &#x2012; <i> University of North Carolina at Charlotte </i></li>
+        <li> Jan Gugenheimer &#x2012; <i> Institut Polytechnique de Paris </i></li>
+        <li> Adalberto Simeone &#x2012; <i> KU Leuven </i></li>
+        <li> Daniel Zielasko &#x2012; <i> University of Trier </i></li>
+        <li> Jeronimo Grandi &#x2012; <i> University of North Carolina at Greensboro </i></li>
+        <li> Voicu Popescu &#x2012; <i> Purdue University </i></li>
+        <li> Ronan Boulic &#x2012; <i> EPFL </i></li>
+        <li> Francesco Ferrise &#x2012; <i> Politecnico di MIlano </i></li>
+        <li> Henrique Galvan Debarba &#x2012; <i> IT University of Copenhagen </i></li>
+        <li> Anil Ufuk Batmaz &#x2012; <i> Simon Fraser University </i></li>
+        <li> Michael Geuss &#x2012; <i> CCDC ARL </i></li>
+        <li> Shohei Mori &#x2012; <i> Graz University of Technology </i></li>
+        <li> Markus Tatzgern &#x2012; <i> Salzburg University of Applied Sciences </i></li>
+        <li> Wallace Lages &#x2012; <i> Virginia Tech </i></li>
+        <li> Wolfgang Stuerzlinger &#x2012; <i> Simon Fraser University </i></li>
+        <li> Antonio Uva &#x2012; <i> Polytechnic Institute of Bari </i></li>
+        <li> Kazuki Takashima &#x2012; <i> Tohoku University </i></li>
+        <li> Andrew Cunningham &#x2012; <i> University of South Australia </i></li>
+        <li> Hsiang-Ting Chen &#x2012; <i> University of Adelaide </i></li>
+        <li> Julien Pettré &#x2012; <i> Inria </i></li>
+        <li> Eric Hodgson &#x2012; <i> Miami University </i></li>
+        <li> Misha Sra &#x2012; <i> UCSB </i></li>
+        <li> Takuji Narumi &#x2012; <i> the University of Tokyo </i></li>
+        <li> Daniel Roth &#x2012; <i> Computer Aided Medical Procedures and Augmented Reality </i></li>
+        <li> Yue Liu &#x2012; <i> Beijing Institute of Technology </i></li>
+        <li> Manfred Lau &#x2012; <i> City University of Hong Kong </i></li>
+        <li> Tanya Jonker &#x2012; <i> Facebook Reality Labs: Research </i></li>
+        <li> Seokhee Jeon &#x2012; <i> Kyung Hee University </i></li>
+        <li> Gabriel Zachmann &#x2012; <i> University of Bremen </i></li>
+        <li> Eike Langbehn &#x2012; <i> University of Applied Sciences Hamburg </i></li>
+        <li> Simon Su &#x2012; <i> US Army Research Lab </i></li>
+        <li> Fatima Nunes &#x2012; <i> University of São Paulo </i></li>
+        <li> Dimitar Valkov &#x2012; <i> Saarland University </i></li>
+        <li> Ye Pan &#x2012; <i> Shanghai Jiaotong University </i></li>
+        <li> Sebastian Friston &#x2012; <i> University College London </i></li>
+        <li> Marcelo Zuffo &#x2012; <i> Universidade de São Paulo </i></li>
+        <li> daniel Mestre &#x2012; <i> CNRS/Aix-Marseille University </i></li>
+        <li> Anderson Maciel &#x2012; <i> Federal University of Rio Grande do Sul </i></li>
+        <li> Jean-Marie Normand &#x2012; <i> Ecole Centrale de Nantes </i></li>
+        <li> João Marcelo Xavier Natario Teixeira &#x2012; <i> UFPE </i></li>
+        <li> Paul Grimm &#x2012; <i> Fulda University of Applied Sciences </i></li>
+        <li> Arnulph Fuhrmann &#x2012; <i> TH Köln </i></li>
+        <li> Jun Nishida &#x2012; <i> University of Chicago </i></li>
+        <li> Sarah Creem-Regehr &#x2012; <i> University of Utah </i></li>
+        <li> Jeanine Stefanucci &#x2012; <i> University of Utah </i></li>
+        <li> Francisco Ortega &#x2012; <i> Colorado State University </i></li>
+        <li> Mehdi Ammi &#x2012; <i> Univ. of Paris 8 </i></li>
+        <li> Andrew Robb &#x2012; <i> Clemson University </i></li>
+        <li> Guofeng Zhang &#x2012; <i> Computer Science College </i></li>
+        <li> Isidoros Perikos &#x2012; <i> University of Patras </i></li>
+        <li> Gun Lee &#x2012; <i> University of South Australia </i></li>
+        <li> Ligang Liu &#x2012; <i> University of Science and Technology of China </i></li>
+        <li> Shiguang Liu &#x2012; <i> Tianjin University </i></li>
+        <li> Wen-Chieh Lin &#x2012; <i> National Chiao Tung University </i></li>
+        <li> Hongbo Fu</li>
+        <li> Maki Sugimoto &#x2012; <i> Keio University </i></li>
+        <li> Amela Sadagic &#x2012; <i> Naval Postgraduate School (NPS) </i></li>
+        <li> William Sherman &#x2012; <i> INDIANA UNIVERSITY </i></li>
+        <li> Xueying Qin &#x2012; <i> Shandong University </i></li>
+        <li> Yoshihiro Kuroda &#x2012; <i> University of Tsukuba </i></li>
+        <li> Dangxiao Wang &#x2012; <i> Beihang University </i></li>
+        <li> Songhai Zhang &#x2012; <i> Tsinghua University </i></li>
+        <li> Victor Adriel de Jesus Oliveira &#x2012; <i> St. Poelten University of Applied Sciences </i></li>
+        <li> Chao Mei &#x2012; <i> Kennesaw State University </i></li>
+    </ul>
 </div>
