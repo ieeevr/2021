@@ -369,7 +369,7 @@ title: "Program Overview"
         </div>
 
         <h2 class="time-slot" style="grid-row: time-1730;">17:30</h2>
-        <div class="session session-10 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
+        <div class="session session-10 track-event-all" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
             <h3 class="session-title">Welcome Reception</h3>
             <span class="session-time">17:30 - 19:00</span>
         </div>
