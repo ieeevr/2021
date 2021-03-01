@@ -120,7 +120,7 @@ title: "Program Overview"
 
     /* Small-screen & fallback styles */
     .session {
-        margin-bottom: 1em;
+        margin-bottom: 0.1em;
     }
 
     @supports(display:grid) {
@@ -134,13 +134,14 @@ title: "Program Overview"
     /*************************
  * VISUAL STYLES
  * Design-y stuff ot particularly important to the demo
- *************************/
+ ************************
     body {
         padding: 50px;
         max-width: 1100px;
         margin: 0 auto;
         line-height: 1.5;
     }
+    */
 
     .session {
         padding: .5em;
