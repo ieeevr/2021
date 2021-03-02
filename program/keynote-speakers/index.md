@@ -84,7 +84,7 @@ title: "Keynote Speakers"
     <br/>
     
     <center><big><strong>B(l)ending Realities</strong></big></center>
-    <center><smal>Wednesday, 31 March, 2021</smal></center>
+    <center><small>Wednesday, 31 March, 2021</small></center>
     
     <p>
         <strong>Abstract:</strong><br/>
