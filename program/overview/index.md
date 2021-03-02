@@ -51,23 +51,23 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900];
+                [tracks] auto [time-0830] 1fr [time-0900] 1fr [time-0930] 1fr [time-1000] 1fr [time-1030] 1fr [time-1100] 1fr [time-1130] 1fr [time-1200] 1fr [time-1230] 1fr [time-1300] 1fr [time-1330] 1fr [time-1400] 1fr [time-1430] 1fr [time-1500] 1fr [time-1530] 1fr [time-1600] 1fr [time-1630] 1fr [time-1700] 1fr [time-1730] 1fr [time-1800] 1fr [time-1830] 1fr [time-1900];
             /* Note 1:
       Use 24hr time for gridline names for simplicity
 
-      Note 2: Use "auto" instead of "0.5fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
+      Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
       Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
       */
 
             grid-template-columns:
-                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end];
+                [times] 4em [track-1-start] 1fr [track-1-end track-2-start] 1fr [track-2-end];
         }
 
         .schedule-sat-27 {
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900];
+                [tracks] auto [time-0900] 1fr [time-0930] 1fr [time-1000] 1fr [time-1030] 1fr [time-1100] 1fr [time-1130] 1fr [time-1200] 1fr [time-1230] 1fr [time-1300] 1fr [time-1330] 1fr [time-1400] 1fr [time-1430] 1fr [time-1500] 1fr [time-1530] 1fr [time-1600] 1fr [time-1630] 1fr [time-1700] 1fr [time-1730] 1fr [time-1800] 1fr [time-1830] 1fr [time-1900];
 
             grid-template-columns:
                 [times] 4em [track-1-start] auto [track-1-end track-2-start] auto [track-2-end track-3-start] auto [track-3-end track-4-start] auto [track-4-end];
@@ -77,7 +77,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr [time-1930] 0.5fr [time-2000] 0.5fr [time-2030] 0.5fr;
+                [tracks] auto [time-0900] 1fr [time-0930] 1fr [time-1000] 1fr [time-1030] 1fr [time-1100] 1fr [time-1130] 1fr [time-1200] 1fr [time-1230] 1fr [time-1300] 1fr [time-1330] 1fr [time-1400] 1fr [time-1430] 1fr [time-1500] 1fr [time-1530] 1fr [time-1600] 1fr [time-1630] 1fr [time-1700] 1fr [time-1730] 1fr [time-1800] 1fr [time-1830] 1fr [time-1900] 1fr [time-1930] 1fr [time-2000] 1fr [time-2030] 1fr;
 
             grid-template-columns:
                 [times] 4em [track-1-start] auto [track-1-end track-2-start] auto [track-2-end track-3-start] auto [track-3-end];
@@ -87,7 +87,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr [time-1930] 0.5fr [time-2000] 0.5fr [time-2030] 0.5fr;
+                [tracks] auto [time-0900] 1fr [time-0930] 1fr [time-1000] 1fr [time-1030] 1fr [time-1100] 1fr [time-1130] 1fr [time-1200] 1fr [time-1230] 1fr [time-1300] 1fr [time-1330] 1fr [time-1400] 1fr [time-1430] 1fr [time-1500] 1fr [time-1530] 1fr [time-1600] 1fr [time-1630] 1fr [time-1700] 1fr [time-1730] 1fr [time-1800] 1fr [time-1830] 1fr [time-1900] 1fr [time-1930] 1fr [time-2000] 1fr [time-2030] 1fr;
 
             grid-template-columns:
                 [times] 4em [track-1-start] auto [track-1-end track-2-start] auto [track-2-end track-3-start] auto [track-3-end];
