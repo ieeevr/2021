@@ -319,7 +319,8 @@ title: "Program Overview"
     }
 
     .toggle:checked+.lbl-toggle+.collapsible-content {
-        max-height: inherit;
+        height: auto;
+        max-height: auto;
     }
 
     .toggle:checked+.lbl-toggle {
