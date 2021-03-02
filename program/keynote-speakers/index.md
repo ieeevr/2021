@@ -72,12 +72,14 @@ title: "Keynote Speakers"
     </table>
 </div>
 
+<br/>
+<br/>
 <div id="keynote-frank-steinicke">
-    <center><strong>Frank Steinicke</strong></center>
+    <center><strong><big>Frank Steinicke</big></strong></center>
     <center>University of Hamburg</center>
-
-    <center><img src="/2021/assets/images/keynotes/keynote-steinicke.jpg" alt="Foto of Frank Steinicke" height="500"></center>
-    
+    <br/>
+    <center><img src="/2021/assets/images/keynotes/keynote-steinicke.jpg" alt="Foto of Frank Steinicke" width="60%"></center>
+    <br/>
     <h3>Title:</h3>
     <p>
         B(l)ending Realities
