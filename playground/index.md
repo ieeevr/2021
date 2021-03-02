@@ -346,7 +346,7 @@ title: "Program Overview"
 <h1>Program Overview</h1>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox"> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
 
@@ -358,7 +358,55 @@ title: "Program Overview"
 </div>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox"> <label for="collapsible2" class="lbl-toggle">Saturday, March 27</label>
+    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Sunday, March 28</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+
+                <p>Second</p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Tuesday, March 30</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+
+                <p>Second</p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+
+                <p>Second</p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible5" class="toggle" type="checkbox" checked> <label for="collapsible5" class="lbl-toggle">Thursday, April 1</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+
+                <p>Second</p>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible6" class="toggle" type="checkbox" checked> <label for="collapsible6" class="lbl-toggle">Friday, April 2</label>
         <div class="collapsible-content">
             <div class="content-inner">
 
@@ -372,8 +420,8 @@ title: "Program Overview"
 
 
 
-
 <!--
+<div>
     <h2>Panel Sessions</h2>
 
     <table class="styled-table">
@@ -415,8 +463,9 @@ title: "Program Overview"
         </tr>
 
     </table>
-    -->
 </div>
+    -->
+
 
 <hr>
 
