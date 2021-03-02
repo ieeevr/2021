@@ -281,7 +281,7 @@ title: "Program Overview"
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1.2rem;
+        font-size: 1rem;
         text-transform: uppercase;
         text-align: left;
         padding: 1rem;
@@ -319,7 +319,7 @@ title: "Program Overview"
     }
 
     .toggle:checked+.lbl-toggle+.collapsible-content {
-        max-height: 350px;
+        /* max-height: 350px; */
     }
 
     .toggle:checked+.lbl-toggle {
