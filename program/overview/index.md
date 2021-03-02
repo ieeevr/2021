@@ -51,7 +51,29 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0830] 0.1fr [time-0900] 0.1fr [time-0930] 0.1fr [time-1000] 0.1fr [time-1030] 0.1fr [time-1100] 0.1fr [time-1130] 0.1fr [time-1200] 0.1fr [time-1230] 0.1fr [time-1300] 0.1fr [time-1330] 0.1fr [time-1400] 0.1fr [time-1430] 0.1fr [time-1500] 0.1fr [time-1530] 0.1fr [time-1600] 0.1fr [time-1630] 0.1fr [time-1700] 0.1fr [time-1730] 0.1fr [time-1800] 0.1fr [time-1830] 0.1fr [time-1900] 0.1fr;
+                [tracks] auto 
+                [time-0830] 0.1fr 
+                [time-0900] 0.1fr 
+                [time-0930] 0.1fr 
+                [time-1000] 0.1fr 
+                [time-1030] 0.1fr 
+                [time-1100] 0.1fr 
+                [time-1130] 0.1fr 
+                [time-1200] 0.1fr 
+                [time-1230] 0.1fr 
+                [time-1300] 0.1fr 
+                [time-1330] 0.1fr 
+                [time-1400] 0.1fr 
+                [time-1430] 0.1fr 
+                [time-1500] 0.1fr 
+                [time-1530] 0.1fr 
+                [time-1600] 0.1fr 
+                [time-1630] 0.1fr 
+                [time-1700] 0.1fr 
+                [time-1730] 0.1fr 
+                [time-1800] 0.1fr 
+                [time-1830] 0.1fr 
+                [time-1900] 0.1fr;
             /* Note 1:
       Use 24hr time for gridline names for simplicity
 
@@ -67,7 +89,28 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 5px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px;
+                [tracks] auto 
+                [time-0900] 5px 
+                [time-0930] 5px 
+                [time-1000] 5px 
+                [time-1030] 5px 
+                [time-1100] 5px 
+                [time-1130] 5px 
+                [time-1200] 5px 
+                [time-1230] 5px 
+                [time-1300] 5px 
+                [time-1330] 5px 
+                [time-1400] 5px 
+                [time-1430] 5px 
+                [time-1500] 5px 
+                [time-1530] 5px 
+                [time-1600] 5px 
+                [time-1630] 5px 
+                [time-1700] 5px 
+                [time-1730] 5px 
+                [time-1800] 5px 
+                [time-1830] 5px 
+                [time-1900] 5px;
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end];
@@ -419,7 +462,7 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Workshop: PRXR</a></h3>
             <span class="session-time">13:00 - 16:00</span>
         </div>
-        <div class="session session-4 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
+        <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
             <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 1</a></h3>
             <span class="session-time">13:00 - 16:00</span>
         </div>
