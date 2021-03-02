@@ -909,9 +909,6 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Workshop: FWFVRL</a></h3>
             <span class="session-time">17:00 - 21:00</span>
         </div>
-        
-        <p class="time-slot" style="grid-row: time-2000;">20:00</p>
-        <p class="time-slot" style="grid-row: time-2100;">21:00</p>
     </div>
 
 </div>
