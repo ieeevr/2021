@@ -395,7 +395,6 @@ title: "Program Overview"
             <span class="session-time">9:00 - 12:00</span>
         </div>
 
-        <p class="time-slot" style="grid-row: time-1200;">12:00</p>
         
         <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
@@ -419,8 +418,6 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Workshop: DISCE</a></h3>
             <span class="session-time">15:00 - 21:00</span>
         </div>
-        
-        <p class="time-slot" style="grid-row: time-1600;">16:00</p>
 
         <p class="time-slot" style="grid-row: time-1700;">17:00</p>
         <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
