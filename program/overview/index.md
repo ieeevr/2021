@@ -892,10 +892,8 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Tutorial: Emotion in Virtual Reality</a></h3>
             <span class="session-time">14:00 - 16:30</span>
         </div>
-
-        <p class="time-slot" style="grid-row: time-1600;">16:00</p>
-        <p class="time-slot" style="grid-row: time-1630;">16:30</p>
         
+        <p class="time-slot" style="grid-row: time-1600;">16:00</p>
         <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
             <h3 class="session-title"><a href="#">Workshop: KELVAR</a></h3>
             <span class="session-time">16:00 - 21:00</span>
