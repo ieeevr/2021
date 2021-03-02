@@ -395,6 +395,8 @@ title: "Program Overview"
             <span class="session-time">9:00 - 12:00</span>
         </div>
 
+        <p class="time-slot" style="grid-row: time-00;">12:00</p>
+        
         <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
         <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
@@ -404,7 +406,7 @@ title: "Program Overview"
 
         <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
             <h3 class="session-title"><a href="#">Workshop: NIDIT</a></h3>
-            <span class="session-time">13:00 - 16:00</span>
+            <span class="session-time">13:00 - 17:00</span>
         </div>
 
         <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1300 / time-1600;">
@@ -412,10 +414,10 @@ title: "Program Overview"
             <span class="session-time">13:00 - 16:00</span>
         </div>
 
-        <p class="time-slot" style="grid-row: time-1530;">15:30</p>
+        <p class="time-slot" style="grid-row: time-1500;">15:00</p>
         <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
             <h3 class="session-title"><a href="#">Workshop: DISCE</a></h3>
-            <span class="session-time">15:30 - 21:00</span>
+            <span class="session-time">15:00 - 21:00</span>
         </div>
 
         <p class="time-slot" style="grid-row: time-1700;">17:00</p>
@@ -882,6 +884,8 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Workshoo: EVR</a></h3>
             <span class="session-time">9:00 - 12:00</span>
         </div>
+        
+        <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
         <p class="time-slot" style="grid-row: time-1400;">14:00</p>
         <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
@@ -892,6 +896,7 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Tutorial: Emotion in Virtual Reality</a></h3>
             <span class="session-time">14:00 - 16:30</span>
         </div>
+        <p class="time-slot" style="grid-row: time-1600;">16:30</p>
         
         <p class="time-slot" style="grid-row: time-1600;">16:00</p>
         <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
@@ -908,7 +913,9 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Workshop: FWFVRL</a></h3>
             <span class="session-time">17:00 - 21:00</span>
         </div>
-
+        
+        <p class="time-slot" style="grid-row: time-2000;">20:00</p>
+        <p class="time-slot" style="grid-row: time-2100;">21:00</p>
     </div>
 
 </div>
