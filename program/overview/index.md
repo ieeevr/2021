@@ -701,13 +701,13 @@ title: "Program Overview"
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
 
-                    <div class="session session-2 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
+                    <div class="session session-2 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-1000;">
                         <h3 class="session-title">Panel</h3>
-                        <span class="session-time">8:30 - 9:30</span>
+                        <span class="session-time">8:30 - 10:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-0930;">09:30</p>
-                    <div class="session session-3 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1030;">
+                    <div class="session session-3 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-0930 / time-1030;">
                         <h3 class="session-title">BOF/Social</h3>
                         <span class="session-time">9:30 - 10:30</span>
                     </div>
