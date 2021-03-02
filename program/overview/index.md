@@ -345,7 +345,7 @@ title: "Program Overview"
 <h1>Program Overview</h1>
 
 <div>
-
+    <!--
     <div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
@@ -422,7 +422,7 @@ title: "Program Overview"
         </div>
     </div>
 
-
+    -->
 
 
 
