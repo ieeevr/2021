@@ -665,9 +665,9 @@ title: "Program Overview"
                         <span class="session-time">17:00 - 18:00</span>
                     </div>
 
-                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1800;">
+                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1830;">
                         <h3 class="session-title">Panel</h3>
-                        <span class="session-time">17:00 - 18:00</span>
+                        <span class="session-time">17:00 - 18:30</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
@@ -755,9 +755,9 @@ title: "Program Overview"
                         <span class="session-time">15:30 - 16:30</span>
                     </div>
 
-                    <div class="session session-11 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1630;">
+                    <div class="session session-11 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title">Panel</h3>
-                        <span class="session-time">15:30 - 16:30</span>
+                        <span class="session-time">15:30 - 17:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
@@ -833,9 +833,9 @@ title: "Program Overview"
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
-                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1330;">
                         <h3 class="session-title">Panel</h3>
-                        <span class="session-time">12:00 - 13:00</span>
+                        <span class="session-time">12:00 - 13:30</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
