@@ -280,13 +280,13 @@ title: "Program Overview"
     .lbl-toggle {
         display: block;
         font-weight: bold;
-        font-family: monospace;
+        /* font-family: monospace; */
         font-size: 1.2rem;
         text-transform: uppercase;
-        text-align: center;
+        text-align: left;
         padding: 1rem;
-        color: #DDD;
-        background: #0069ff;
+        color: #ffffff;
+        background: #00aeef;
         cursor: pointer;
         border-radius: 7px;
         transition: all 0.25s ease-out;
@@ -346,7 +346,7 @@ title: "Program Overview"
 
 <div>
 
-    <div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible" class="lbl-toggle">More Info</label>
+    <div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <div class="schedule-sat-27" aria-labelledby="schedule-heading">
@@ -418,17 +418,16 @@ title: "Program Overview"
                     </div>
 
                 </div>
-
             </div>
         </div>
     </div>
-</div>
 
 
 
 
 
-<!--
+
+    <!--
     <h2>Panel Sessions</h2>
 
     <table class="styled-table">
