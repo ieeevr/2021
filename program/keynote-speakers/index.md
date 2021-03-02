@@ -41,12 +41,12 @@ title: "Keynote Speakers"
         font-weight: bold;
         color: #00aeef;
     }
-    
+
 </style>
 
 <h1>Keynote Speakers</h1>
 <div>
-<table class="styled-table">
+    <table class="styled-table">
 
         <tr>
             <th>Date</th>
@@ -73,30 +73,58 @@ title: "Keynote Speakers"
 </div>
 
 
+<!--
+<br />
+<hr style="color: #00aeef">
+<br />
+<div id="keynote-betty-mohler">
+    
+    
+</div>
 
-<br/>
-<br/>
-<div id="keynote-frank-steinicke">
-    <center><strong><big>Frank Steinicke</big></strong></center>
-    <center>University of Hamburg</center>
-    <br/>
-    <center><img src="/2021/assets/images/keynotes/keynote-steinicke.jpg" alt="Foto of Frank Steinicke" width="60%"></center>
-    <br/>
+<br />
+<hr style="color: #00aeef">
+<br />
+<div id="keynote-steven-feiner">
     
-    <center><big><strong>B(l)ending Realities</strong></big></center>
-    <center><small>Wednesday, 31 March, 2021</small></center>
-    
-    <p>
-        <strong>Abstract:</strong><br/>
-        The fusion of mixed reality (MR) and artificial intelligence (AI) will revolutionize human-computer interaction. MR/AI technologies and methods will enable scenarios with seamless transitions, interactions and transformations between real and virtual objects along the reality-virtuality continuum indistinguishable from corresponding real-world interactions. Yet, todays immersive technology is still decades away from the ultimate display. However, imperfections of the human perceptual, cognitive and motor system can be exploited to bend reality in such a way that compelling immersive experiences can be achieved. In this talk, we will review some mixed reality illusions, which bring us closer to the ultimate blended reality.
-    </p>
-    
-    <p>
-        <strong>Bio:</strong><br/>
-        Frank Steinicke is professor for Human-Computer Interaction at the Department of Informatics at the University of Hamburg, and chaired the Department from 2017-2020. He studied Mathematics with a Minor in Computer Science at the University of Münster, from which he received his Ph.D. in 2006 and Venia Legendi in Computer Science in 2009. His research is driven by understanding the human perceptual, cognitive and motor abilities and limitations in order to reform the interaction as well as the experience in computer-mediated realities. Frank Steinicke regularly serves as panelist and speaker at major events in the area of virtual reality and human-computer interaction. 
-        He is on the International program committee of various national and international conferences in the area of virtual, augmented and mixed reality as well as human-computer interaction, and currently Associate Editor of Frontiers in Virtual Reality. Furthermore, he is a member of the Steering Committee of the ACM Symposium on Spatial User Interaction (SUI) and the German Informatics Society Special Interest Group on VR/AR. 
-    </p>
     
 </div>
 
 
+-->
+
+<br />
+<hr style="color: #00aeef">
+<br />
+<div id="keynote-frank-steinicke">
+    <center><strong><big>Frank Steinicke</big></strong></center>
+    <center>University of Hamburg</center>
+    <br />
+    <center><img src="/2021/assets/images/keynotes/keynote-steinicke.jpg" alt="Foto of Frank Steinicke" width="60%"></center>
+    <br />
+
+    <center><big><strong>B(l)ending Realities</strong></big></center>
+    <center><small>Wednesday, 31 March, 2021</small></center>
+
+    <p>
+        <strong>Abstract:</strong><br />
+        The fusion of mixed reality (MR) and artificial intelligence (AI) will revolutionize human-computer interaction. MR/AI technologies and methods will enable scenarios with seamless transitions, interactions and transformations between real and virtual objects along the reality-virtuality continuum indistinguishable from corresponding real-world interactions. Yet, todays immersive technology is still decades away from the ultimate display. However, imperfections of the human perceptual, cognitive and motor system can be exploited to bend reality in such a way that compelling immersive experiences can be achieved. In this talk, we will review some mixed reality illusions, which bring us closer to the ultimate blended reality.
+    </p>
+
+    <p>
+        <strong>Bio:</strong><br />
+        Frank Steinicke is professor for Human-Computer Interaction at the Department of Informatics at the University of Hamburg, and chaired the Department from 2017-2020. He studied Mathematics with a Minor in Computer Science at the University of Münster, from which he received his Ph.D. in 2006 and Venia Legendi in Computer Science in 2009. His research is driven by understanding the human perceptual, cognitive and motor abilities and limitations in order to reform the interaction as well as the experience in computer-mediated realities. Frank Steinicke regularly serves as panelist and speaker at major events in the area of virtual reality and human-computer interaction.
+        He is on the International program committee of various national and international conferences in the area of virtual, augmented and mixed reality as well as human-computer interaction, and currently Associate Editor of Frontiers in Virtual Reality. Furthermore, he is a member of the Steering Committee of the ACM Symposium on Spatial User Interaction (SUI) and the German Informatics Society Special Interest Group on VR/AR.
+    </p>
+
+</div>
+
+<!--
+<br />
+<hr style="color: #00aeef">
+<br />
+<div id="keynote-oliver">
+    
+    
+</div>
+-->
