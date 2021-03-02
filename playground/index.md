@@ -319,7 +319,7 @@ title: "Program Overview"
     }
 
     .toggle:checked+.lbl-toggle+.collapsible-content {
-        max-height: 500px;
+        max-height: inherit;
     }
 
     .toggle:checked+.lbl-toggle {
@@ -470,6 +470,8 @@ title: "Program Overview"
     </table>
     -->
 </div>
+
+<hr>
 
 <div>
 
