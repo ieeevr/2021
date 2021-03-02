@@ -883,8 +883,6 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Workshoo: EVR</a></h3>
             <span class="session-time">9:00 - 12:00</span>
         </div>
-        
-        <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
         <p class="time-slot" style="grid-row: time-1400;">14:00</p>
         <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
@@ -895,7 +893,6 @@ title: "Program Overview"
             <h3 class="session-title"><a href="#">Tutorial: Emotion in Virtual Reality</a></h3>
             <span class="session-time">14:00 - 16:30</span>
         </div>
-        <p class="time-slot" style="grid-row: time-1600;">16:30</p>
         
         <p class="time-slot" style="grid-row: time-1600;">16:00</p>
         <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
