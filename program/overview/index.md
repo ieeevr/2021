@@ -862,7 +862,7 @@ title: "Program Overview"
 
         <div class="session session-2 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1800;">
             <h3 class="session-title"><a href="#">Closing</a></h3>
-            <span class="session-time">6:30 - 18:00</span>
+            <span class="session-time">16:30 - 18:00</span>
         </div>
 
     </div>
