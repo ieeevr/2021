@@ -671,7 +671,7 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
-                    <div class="session session-15 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-15 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title">Mixer</h3>
                         <span class="session-time">18:00 - 19:00</span>
                     </div>
