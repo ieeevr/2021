@@ -328,7 +328,7 @@ title: "Program Overview"
     }
 
     .collapsible-content .content-inner {
-        background: rgba(0, 105, 255, .2);
+        background: white; /* rgba(0, 105, 255, .2);*/
         border-bottom: 1px solid rgba(0, 105, 255, .45);
         border-bottom-left-radius: 7px;
         border-bottom-right-radius: 7px;
