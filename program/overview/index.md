@@ -319,7 +319,7 @@ title: "Program Overview"
     }
 
     .toggle:checked+.lbl-toggle+.collapsible-content {
-        /* max-height: 350px; */
+        max-height: 500px;
     }
 
     .toggle:checked+.lbl-toggle {
