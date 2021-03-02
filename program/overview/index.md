@@ -762,7 +762,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
-                    <div class="session session-12 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1700;">
+                    <div class="session session-12 track-break" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1700;">
                         <h3 class="session-title">Break</h3>
                     </div>
 
@@ -839,7 +839,7 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Lunch</h3>
                     </div>
 
