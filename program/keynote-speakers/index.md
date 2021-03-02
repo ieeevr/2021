@@ -49,8 +49,8 @@ title: "Keynote Speakers"
 <table class="styled-table">
 
         <tr>
-            <th>Keynote Date</th>
-            <th>Speakers</th>
+            <th>Date</th>
+            <th></th>
         </tr>
 
         <tr>
