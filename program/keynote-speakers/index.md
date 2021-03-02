@@ -67,7 +67,7 @@ title: "Keynote Speakers"
         </tr>
         <tr>
             <td>Thursday, 1 April, 2021</td>
-            <td><strong><a href="#keynote-oliver">Dr. Oliver .....</a></strong></td>
+            <td><strong><a href="#keynote-nuria-oliver">Dr. Nuria Oliver</a></strong></td>
         </tr>
     </table>
 </div>
@@ -123,7 +123,7 @@ title: "Keynote Speakers"
 <br />
 <hr style="color: #00aeef">
 <br />
-<div id="keynote-oliver">
+<div id="keynote-nuria-oliver">
     
     
 </div>
