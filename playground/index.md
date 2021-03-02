@@ -282,9 +282,8 @@ title: "Program Overview"
         font-weight: bold;
         /* font-family: monospace; */
         font-size: 1rem;
-        text-transform: uppercase;
         text-align: left;
-        padding: 1rem;
+        padding: 0.5rem;
         color: #ffffff;
         background: #00aeef;
         cursor: pointer;
