@@ -365,12 +365,12 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-2 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="#">Workshop: SONIC</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SIVE">Workshop: Sonic Interactions in Virtual Environments (SIVE) </a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
                     <div class="session session-3 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="#">Workshop: Ethics in VR</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#EXR">Workshop: Ethics in VR (EXR)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
@@ -388,18 +388,18 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
-                        <h3 class="session-title"><a href="#">Workshop: NIDIT</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#NIDIT">Workshop: Novel Input Devices and Interaction Techniques (NIDIT)</a></h3>
                         <span class="session-time">13:00 - 17:00</span>
                     </div>
 
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="#">Doctoral Consortium: Ethics in VR</a></h3>
+                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: DISCE</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a></h3>
                         <span class="session-time">15:00 - 21:00</span>
                     </div>
 
@@ -409,7 +409,7 @@ title: "Program Overview"
                         <span class="session-time">15:30 - 21:00</span>
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: VHCIE</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
                         <span class="session-time">15:30 - 21:00</span>
                     </div>
                     <div class="session session-11 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-2100;">
@@ -439,7 +439,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="#">Workshop: ANIVE</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ANIVAE">Workshop: Animation in Virtual and Augmented Environments (ANIVAE)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
@@ -449,25 +449,25 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
                     <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="#">Workshop: PRXR</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#PrXR">Workshop: PrXR: Towards a roadmap for privacy and security research for mixed reality applications</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
                     <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 1</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 1</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: SVRAE</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SeatedVR">Workshop: Seated Virtual Reality & Embodiment (SeatedVR) </a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: WISP</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#WISP">Workshop: Workshop on Immersive Sickness Prevention (WISP)</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
                     <div class="session session-7 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: 3DCSTXR - 2</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 2</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
                 </div>
@@ -896,7 +896,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
                     <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="#">Workshoo: EVR</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#WEVR">Workshop: Everyday Virtual Reality (WEVR)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
@@ -912,7 +912,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: KELVAR</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#KELVAR">Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
                         <span class="session-time">16:00 - 21:00</span>
                     </div>
 
@@ -922,7 +922,7 @@ title: "Program Overview"
                         <span class="session-time">17:00 - 20:00</span>
                     </div>
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="#">Workshop: FWFVRL</a></h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#Finding-a-way-forward-in-VR-locomotion">Workshop: Finding a way forward in VR locomotion</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
                 </div>
