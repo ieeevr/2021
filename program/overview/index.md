@@ -51,7 +51,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+                [tracks] auto [time-0830] 0.1fr [time-0900] 0.1fr [time-0930] 0.1fr [time-1000] 0.1fr [time-1030] 0.1fr [time-1100] 0.1fr [time-1130] 0.1fr [time-1200] 0.1fr [time-1230] 0.1fr [time-1300] 0.1fr [time-1330] 0.1fr [time-1400] 0.1fr [time-1430] 0.1fr [time-1500] 0.1fr [time-1530] 0.1fr [time-1600] 0.1fr [time-1630] 0.1fr [time-1700] 0.1fr [time-1730] 0.1fr [time-1800] 0.1fr [time-1830] 0.1fr [time-1900] 0.1fr;
             /* Note 1:
       Use 24hr time for gridline names for simplicity
 
