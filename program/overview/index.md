@@ -44,7 +44,7 @@ title: "Program Overview"
 
 
     /*************************
- * GRID SCHEDULE LAYOUT
+ * GRID SCHEDULE LAYOUT from there: https://css-tricks.com/building-a-conference-schedule-with-css-grid/
  *************************/
     @media screen and (min-width:700px) {
         .schedule {
