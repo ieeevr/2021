@@ -63,6 +63,36 @@ title: "Keynote Speakers"
 </div>
 
 
+{% for keynote in site.data.keynotes %}
+
+<br />
+<hr style="color: #00aeef">
+<br />
+<div id="{{ keynote.id }}">
+    <center><strong><big>{{ keynote.name }}</big></strong></center>
+    <center>{{ keynote.affiliation }}</center>
+    <br />
+    <center><img src="{{ keynote.photo }}" alt="Photo of {{ keynote.name }}" width="60%"></center>
+    <br />
+
+    <center><big><strong>{{ keynote.title }}</strong></big></center>
+    <center><small>{{ keynote.schedule }}</small></center>
+
+    <p>
+        <strong>Abstract:</strong><br />
+        {{ keynote.abstract }}
+    </p>
+
+    <p>
+        <strong>Bio:</strong><br />
+        {{ keynote.bio }}
+    </p>
+
+</div>
+
+
+
+{% endfor %}
 
 
 
