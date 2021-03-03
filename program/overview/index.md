@@ -145,7 +145,7 @@ title: "Program Overview"
 
     .session {
         padding: .5em;
-        border-radius: 2px;
+        border-radius: 5px;
         font-size: 14px;
         box-shadow:
             rgba(255, 255, 255, .6) 1px 1px 0,
@@ -287,7 +287,7 @@ title: "Program Overview"
         color: #ffffff;
         background: #00aeef;
         cursor: pointer;
-        border-radius: 7px;
+        border-radius: 10px;
         transition: all 0.25s ease-out;
     }
 
