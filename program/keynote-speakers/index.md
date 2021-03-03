@@ -45,6 +45,29 @@ title: "Keynote Speakers"
 </style>
 
 <h1>Keynote Speakers</h1>
+
+<div>
+    <table class="styled-table">
+
+        <tr>
+            <th>Date</th>
+            <th></th>
+        </tr>
+        {% for keynote in site.data.keynotes %}
+        <tr>
+            <td>{{ keynote.schedule }}</td>
+            <td><a href="#{{ keynote.id }}">Dr. {{ keynote.name }}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+
+
+
+
+<!--
+
 <div>
     <table class="styled-table">
 
@@ -73,26 +96,6 @@ title: "Keynote Speakers"
 </div>
 
 
-<!--
-<br />
-<hr style="color: #00aeef">
-<br />
-<div id="keynote-betty-mohler">
-    
-    
-</div>
-
-<br />
-<hr style="color: #00aeef">
-<br />
-<div id="keynote-steven-feiner">
-    
-    
-</div>
-
-
--->
-
 <br />
 <hr style="color: #00aeef">
 <br />
@@ -117,14 +120,5 @@ title: "Keynote Speakers"
         He is on the International program committee of various national and international conferences in the area of virtual, augmented and mixed reality as well as human-computer interaction, and currently Associate Editor of Frontiers in Virtual Reality. Furthermore, he is a member of the Steering Committee of the ACM Symposium on Spatial User Interaction (SUI) and the German Informatics Society Special Interest Group on VR/AR.
     </p>
 
-</div>
-
-<!--
-<br />
-<hr style="color: #00aeef">
-<br />
-<div id="keynote-nuria-oliver">
-    
-    
 </div>
 -->
