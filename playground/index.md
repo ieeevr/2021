@@ -18,7 +18,7 @@ title: "Program Overview"
         }
     }
 
-    txtFile.open("get", "data.csv", true);
+    txtFile.open("get", "http://ieeevr.org/2021/playground/data.csv", true);
     txtFile.send();
 
 </script>
