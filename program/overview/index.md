@@ -478,7 +478,7 @@ title: "Program Overview"
 </div>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Monday, March 39</label>
+    <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Monday, March 29</label>
         <div class="collapsible-content">
             <div class="content-inner">
 
