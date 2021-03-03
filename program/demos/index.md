@@ -7,7 +7,7 @@ title: "Research Demos"
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
-        font-size: 0.9em;
+        font-size: 0.8em;
         font-family: sans-serif;
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -53,7 +53,7 @@ title: "Research Demos"
         </tr>
         {% for demo in site.data.demos %}
         <tr>
-            <td><a style="font-size: 0.5em;" href="#{{ demo.PaperID }}">{{ demo.Title }}</a></td>
+            <td><a href="#{{ demo.PaperID }}">{{ demo.Title }}</a></td>
         </tr>
         {% endfor %}
     </table>
