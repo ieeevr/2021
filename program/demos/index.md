@@ -6,9 +6,9 @@ title: "Research Demos"
 <h1>Research Demos:</h1>
 
 <ul>
-{% for demos in site.data.demos %}
+{% for demo in site.data.demos %}
   <li>
-      {{ demos.Title }}
+      {{ demo.Title }}
   </li>
 {% endfor %}
 </ul>
