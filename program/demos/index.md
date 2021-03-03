@@ -53,7 +53,7 @@ title: "Research Demos"
         </tr>
         {% for demo in site.data.demos %}
         <tr>
-            <td><strong><a href="#{{ demo.PaperID }}">{{ demo.Title }}</a></strong></td>
+            <td><a href="#{{ demo.PaperID }}">{{ demo.Title }}</a></td>
         </tr>
         {% endfor %}
     </table>
