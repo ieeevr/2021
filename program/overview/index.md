@@ -287,7 +287,7 @@ title: "Program Overview"
         color: #ffffff;
         background: #00aeef;
         cursor: pointer;
-        border-radius: 10px;
+        border-radius: 7px;
         transition: all 0.25s ease-out;
     }
 
