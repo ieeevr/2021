@@ -125,7 +125,7 @@ title: "Registration"
   </tr>
 </table>
 
-<h3>Workshops, Posters, Tutorials, Demos, Videos, and "invited TVCG paper" Author Registration</h3>
+<h3>Workshops, Posters, Tutorials, Demos, Videos, and "invited TVCG papers" Author Registration</h3>
 <table class="styled-table">
   <tr>
     <th><strong>Registration Type</strong></th>
