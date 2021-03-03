@@ -8,7 +8,7 @@ title: "Research Demos"
 <ul>
 {% for demos in site.data.demos %}
   <li>
-      {{ member.title }}
+      {{ demos.Title }}
   </li>
 {% endfor %}
 </ul>
