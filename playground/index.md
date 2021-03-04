@@ -6,9 +6,9 @@ title: "Program Overview"
 <h1>Members:</h1>
 
 <ul>
-{% for member in site.data.members %}
+{% for paper in site.data.papers %}
   <li>
-    <a href="">{{ member.name }}
+    <a href="">{{ member.title }}
     </a>
   </li>
 {% endfor %}
