@@ -318,7 +318,7 @@ title: "Program Overview"
     }
 
     .toggle:checked+.lbl-toggle+.collapsible-content {
-        max-height: 1000px;
+        max-height: 1500px;
     }
 
     .toggle:checked+.lbl-toggle {
