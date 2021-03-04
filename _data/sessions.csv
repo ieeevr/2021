@@ -1,24 +1,24 @@
 id,name,title,schedule
-S1,Session 1,Session Title 1,
-S2,Session 2,Session Title 2,
-S3,Session 3,Session Title 3,
-S4,Session 4,Session Title 4,
-S5,Session 5,Session Title 5,
-S6,Session 6,Session Title 6,
-S7,Session 7,Session Title 7,
-S8,Session 8,Session Title 8,
-S9,Session 9,Session Title 9,
-S10,Session 10,Session Title 10,
-S11,Session 11,Session Title 11,
-S12,Session 12,Session Title 12,
-S13,Session 13,Session Title 13,
-S14,Session 14,Session Title 14,
-S15,Session 15,Session Title 15,
-S16,Session 16,Session Title 16,
-S17,Session 17,Session Title 17,
-S18,Session 18,Session Title 18,
-S19,Session 19,Session Title 19,
-S20,Session 20,Session Title 20,
-S21,Session 21,Session Title 21,
-S22,Session 22,Session Title 22,
-S23,Session 23,Session Title 23,
+S1,Session 1,Session Title 1,"Monday, March 29"
+S2,Session 2,Session Title 2,"Monday, March 29"
+S3,Session 3,Session Title 3,"Monday, March 29"
+S4,Session 4,Session Title 4,"Monday, March 29"
+S5,Session 5,Session Title 5,"Monday, March 29"
+S6,Session 6,Session Title 6,"Monday, March 29"
+S7,Session 7,Session Title 7,"Tuesday, March 30"
+S8,Session 8,Session Title 8,"Tuesday, March 30"
+S9,Session 9,Session Title 9,"Tuesday, March 30"
+S10,Session 10,Session Title 10,"Tuesday, March 30"
+S11,Session 11,Session Title 11,"Tuesday, March 30"
+S12,Session 12,Session Title 12,"Tuesday, March 30"
+S13,Session 13,Session Title 13,"Tuesday, March 30"
+S14,Session 14,Session Title 14,"Wednesday, March 31"
+S15,Session 15,Session Title 15,"Wednesday, March 31"
+S16,Session 16,Session Title 16,"Wednesday, March 31"
+S17,Session 17,Session Title 17,"Wednesday, March 31"
+S18,Session 18,Session Title 18,"Wednesday, March 31"
+S19,Session 19,Session Title 19,"Thursday, April 1"
+S20,Session 20,Session Title 20,"Thursday, April 1"
+S21,Session 21,Session Title 21,"Thursday, April 1"
+S22,Session 22,Session Title 22,"Thursday, April 1"
+S23,Session 23,Session Title 23,"Thursday, April 1"
