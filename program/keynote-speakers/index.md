@@ -50,13 +50,13 @@ title: "Keynote Speakers"
     <table class="styled-table">
 
         <tr>
-            <th>Date</th>
             <th></th>
+            <th>Date</th>
         </tr>
         {% for keynote in site.data.keynotes %}
         <tr>
-            <td>{{ keynote.schedule }}</td>
             <td><a href="#{{ keynote.id }}">Dr. {{ keynote.name }}</a></td>
+            <td>{{ keynote.schedule }} - {{ keynote.timestart }} ({{ keynote.timezone }})</td>
         </tr>
         {% endfor %}
     </table>
