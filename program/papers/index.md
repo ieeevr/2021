@@ -183,7 +183,7 @@ title: "Papers"
     
     {% for paper in site.data.papers %}
             {% if paper.session == 'S1' %}
-    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">{{ paper.title }}</label>
+    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox" checked> <label for="collapsible{{ paper.id }}" class="lbl-toggle">{{ paper.title }}</label>
         <div class="collapsible-content">
             <div class="content-inner">
                
