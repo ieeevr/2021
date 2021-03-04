@@ -41,6 +41,77 @@ title: "Papers"
         font-weight: bold;
         color: #00aeef;
     }
+    
+    /* Collapsible */
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1.2rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.5rem;
+        color: #ffffff;
+        background: #00aeef;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        color: #FFF;
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid rgba(0, 105, 255, .45);
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
+    }
 
 </style>
 
@@ -109,6 +180,29 @@ title: "Papers"
             <h2>{{ session.name }}: {{ session.title }}</h2>
         {% endif %}
     {% endfor %}
+    
+    {% for paper in site.data.papers %}
+            {% if paper.session == 'S1' %}
+    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">{{ paper.title }}</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+               
+                <p>
+                    <strong>Abstract:<br/></strong>
+                    Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd.
+                </p>
+                
+                
+            </div>
+        </div>
+    </div>
+        {% endif %}
+    {% endfor %}
+    
+    
+    
+    
+    <!--
     <ul>
         {% for paper in site.data.papers %}
             {% if paper.session == 'S1' %}
@@ -125,6 +219,7 @@ title: "Papers"
             {% endif %}
         {% endfor %}
     </div>
+    -->
 </div>
 
 
