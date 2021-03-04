@@ -484,7 +484,7 @@ title: "Program Overview"
 
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon (WEST, UTC+1)</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
 
