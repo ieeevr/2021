@@ -103,7 +103,7 @@ title: "Papers"
     </table>
 </div>
 
-<div if="S1">
+<div id="S1">
     {% for session in site.data.sessions %}
         {% if session.id == 'S1' %}
             <h2>{{ session.name }}: {{ session.title }}</h2>
@@ -117,8 +117,14 @@ title: "Papers"
         {% endfor %}
     </ul>
     
-    
-    
+    <div>
+        {% for paper in site.data.papers %}
+            {% if paper.session == 'S1' %}
+                <h3 id="{{ paper.id }}">{{ paper.title }}</h3>
+                <p>{{ paper.authors }}</p>
+            {% endif %}
+        {% endfor %}
+    </div>
 </div>
 
 
