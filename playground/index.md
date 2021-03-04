@@ -7,10 +7,12 @@ title: "Program Overview"
 
 <ul>
 {% for paper in site.data.papers %}
+    {% if paper.session == 'S1' %}
   <li>
-    <a href="">{{ member.title }}
+    <a href="">{{ paper.title }}
     </a>
   </li>
+    {% endif %}
 {% endfor %}
 </ul>
 
