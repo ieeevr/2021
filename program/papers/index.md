@@ -54,7 +54,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
             {% if session.schedule == 'Monday, March 29' %}
                 <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}:{{ session.title }}</a></td>
+                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
                 </tr>
             {% endif %}
         {% endfor %}
@@ -68,7 +68,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
             {% if session.schedule == 'Monday, March 29' %}
                 <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}:{{ session.title }}</a></td>
+                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
                 </tr>
             {% endif %}
         {% endfor %}
@@ -82,7 +82,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
             {% if session.schedule == 'Monday, March 29' %}
                 <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}:{{ session.title }}</a></td>
+                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
                 </tr>
             {% endif %}
         {% endfor %}
@@ -96,10 +96,33 @@ title: "Papers"
         {% for session in site.data.sessions %}
             {% if session.schedule == 'Monday, March 29' %}
                 <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}:{{ session.title }}</a></td>
+                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
                 </tr>
             {% endif %}
         {% endfor %}
     </table>
 </div>
+
+<div if="S1">
+    {% for session in site.data.sessions %}
+        {% if session.id == 'S1' %}
+            <h2>{{ session.name }}: {{ session.title }}</h2>
+        {% endif %}
+    {% endfor %}
+    <ul>
+        {% for paper in site.data.papers %}
+            {% if paper.session == 'S1' %}
+            <li><a href="#{{ paper.id }}">{{ paper.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    
+    
+    
+</div>
+
+
+
+
+
 
