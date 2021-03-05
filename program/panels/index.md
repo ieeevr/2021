@@ -75,7 +75,7 @@ title: "Panels"
     </p>
     
     <h3 style="color: #00aeef;">Moderator</h3>
-    <p>
+    <p style="font-size: 1.2em:">
         Victoria Interrante, Computer Science and Engineering, University of Minnesota, [interran@umn.edu]
     </p>
     <p>
