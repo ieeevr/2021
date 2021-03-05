@@ -63,7 +63,7 @@ title: "Panels"
     {% for panel in site.data.panels %}
     {% if panel.id == 'P1' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
-    <p style="font-size: 0.8em;">{{ panel.day }}</p>
+    <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
     <h3 style="color: #00aeef;">Description</h3>
@@ -123,7 +123,7 @@ title: "Panels"
     {% for panel in site.data.panels %}
     {% if panel.id == 'P2' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
-    <p style="font-size: 0.8em;">{{ panel.day }}</p>
+    <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
     <h3 style="color: #00aeef;">Description</h3>
@@ -182,7 +182,7 @@ title: "Panels"
     {% for panel in site.data.panels %}
     {% if panel.id == 'P3' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
-    <p style="font-size: 0.8em;">{{ panel.day }}</p>
+    <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
     <h3 style="color: #00aeef;">Description</h3>
