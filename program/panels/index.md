@@ -180,30 +180,64 @@ title: "Panels"
 
 <div>
     {% for panel in site.data.panels %}
-    {% if panel.id == 'P1' %}
+    {% if panel.id == 'P3' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
     <p style="font-size: 0.8em;">{{ panel.day }}</p>
     
     
     <h3 style="color: #00aeef;">Description</h3>
     <p>
-        Research on the existence and nature of implicit bias has generated a significant amount of attention in psychology and other social sciences over the past few decades. Considerable scientific and policy interest in prejudice reduction and bias interventions date all the way back to such classic texts as Gordon Allport’s The Nature of Prejudice (1954), where intergroup contact theory as an approach to prejudice reduction was first introduced.  Thousands of hours and millions of dollars have been invested developing and implementing a wide variety of anti-discrimination and anti-bias training programs in different organizational and educational contexts. The efficacy of these efforts, and the conditions under which they are effective and for how long, continues to be an issue at the forefront of research on bias mitigation.
+        Humans are social beings, and even in VR we typically do not want to be alone. As VR becomes increasingly utilized for a wide range of applications, virtual humans are expected to play increasingly important roles.  A lot of research has concentrated on making virtual humans look and move photo-realistically. Here we argue that the fundamental question is what makes virtual humans effective, in the sense that people respond to them in a way that is useful for and predicted by the application. For example, if the purpose of the application is to make people laugh, then no matter how photorealistic or how expressive the virtual humans involved might be, if the human participants do not laugh then the application would have failed. So, the question shifts from ‘How realistic can we make these virtual humans’ to ‘How should the virtual humans look and behave in order to make you laugh as a human comedian would’ - which may not require high levels of animation realism and photorealism.
     </p>
     <p>
-        This panel assembles a diverse group of experts to discuss the opportunities and challenges in designing, developing, deploying, and assessing the effectiveness of VR-based interventions as a relatively new and novel approach to addressing implicit bias and related constructs including racial empathy and structural competence.
+        In this panel, we will discuss the theoretical background behind how effective responses might be elicited by virtual humans and the methodologies used to measure the impact they have on participants. We suggest that in VR the most important question about a virtual human is not: “does it look real”, but “do participants respond to it as if it were a real human”. For example, does the virtual psychotherapist contribute to your wellbeing? This shifts the focus from issues intensively studied in the computer graphics and animation communities to questions that are unique to VR. 
     </p>
+    <p>
+        We will discuss how eliciting realistic responses is related to all levels of virtual human design and development:
+    </p>
+    <ul>
+        <li>With respect to appearance, are there some factors more important than others in order to elicit realistic responses?</li>
+        <li>In terms of character animation, what are the key features required of a virtual human to be plausible and thus trigger more realistic responses?</li> 
+        <li>When it comes to multimodal integrated behavior, such as combined gesture, speech, and facial expression -- what are the key factors that could help maintain consistency? </li>
+        <li>Because VR is interactive, virtual humans have to be responsive to user inputs in real-time. However, human inputs are rich and sometimes very subtle. What is the best practice here?</li>
+        <li>One of the key application areas for virtual humans is training. For instance, medical students could be routinely spending 1-2 hours with virtual patients to practise their consultation skills. In this situation, the question is: how do you get humans to want to spend time with virtual humans? How does one frame interactions with virtual humans so people know how and why they should interact with them?</li>
+    </ul>
+    <p>
+        Finally, as our essential question for any VR application involving virtual humans is: “do participants respond to them as if they were real?” We will wrap up our discussion with the following:
+    </p>
+    <ul>
+        <li>Give one example of a novel measurement you used that provides convincing evidence that participants did respond towards it as if it were real.</li>
+    </ul>
+    
     
     <h3 style="color: #00aeef;">Moderator</h3>
     <p>
-        <strong style="color: black">Victoria Interrante, Computer Science and Engineering, University of Minnesota, [interran@umn.edu]</strong>
+        <strong style="color: black">Xueni Pan, Department of Computing, Goldsmiths, University of London, UK [x.pan@gold.ac.uk]</strong>
     </p>
     <p>
-        Dr. Interrante is a Full Professor in the Department of Computer Science and Director of the university-wide Center for Cognitive Sciences at the University of Minnesota.  Her research focuses on applying insights from visual perception and cognition to the development of more effective virtual reality experiences and the more effective communication of complex information through visual imagery. She enjoys collaborating with colleagues in a wide variety of fields, from architectural design to engineering and medicine.
+        Xueni Pan is an Assistant Prof. in VR in Virtual Reality at Goldsmiths College, University of London. She worked at UCL in both Computer Science and Institute of Cognitive Neuroscience. Dr Pan has a unique interdisciplinary research profile, with journal and conference publications on both VR technology and social neuroscience. Her work has featured on the BBC, in New Scientist magazine and the Wall Street Journal. Her Coursera VR specialisation has attracted over 80,000 registered learners globally, and she co-leads on the MA/MSc in Virtual and Augmented Reality at Goldsmith’s Computing.
     </p>
     
     <h3 style="color: #00aeef;">Panelists</h3>
     <p>
-        <strong style="color: black">Eugene Borgida, Professor of Psychology and Law at the University of Minnesota, [borgi001@umn.edu]</strong>
+        <strong style="color: black">Doron Friedman, Sammy Ofer School of Communications, Israel [doronf@idc.ac.il]</strong>
+    </p>
+    <p>
+        Doron Friedman an Associate Prof. in the Sammy Ofer School of Communications and the head of the Advanced Reality Lab (https://arlidc.ac.il), Israel. Since 2008, Prof. Friedman and his lab members have been involved in several national and international projects in the areas of telepresence, VR, and advanced human computer interfaces. Doron's research is highly multidisciplinary and has been published in top scientific journals and peer reviewed conferences, including Artificial Intelligence, Human Computer Interaction, Journal of Neural Engineering, Journal of Neuroscience, PNAS, and more. Friedman and his lab members also frequently take part in real world industry projects.
+    </p>
+    <p>
+        <strong style="color: black">Benjamin Lok, Computer and Information Sciences and Engineering Department, University of Florida, USA [lok@cise.ufl.edu] 
+</strong>
+    </p>
+    <p>
+        Ben Lok is a Professor in the Computer and Information Sciences and Engineering Department at the University of Florida and entrepreneur, having previously co-founded Shadow Health. Shadow Health’s virtual humans are used by half of all nursing students and impacts nearly every person in the US and Canada. Professor Lok's research focuses on using virtual humans and mixed reality to train communication skills within the areas of virtual environments, human-computer interaction, and computer graphics. He was awarded the 2019 UF Innovator of the Year and multiple best paper awards involving virtual human research.
+    </p>
+    <p>
+        <strong style="color: black">Mel Slater, Event Lab, University of Barcelona, Spain [melslater@ub.edu]
+</strong>
+    </p>
+    <p>
+        Mel Slater is co-Director of the Event Lab at the University of Barcelona. He was previously Professor of Virtual Environments at University College London. He has been involved in research in virtual reality since the early 1990s and has been the first supervisor of more than 40 students who achieved their PhDs in graphics and virtual reality since 1989. He was awarded the 2005 IEEE Virtual Reality Career Award: ‘In Recognition of Pioneering Achievements in Theory and Applications of Virtual Reality’. He is Field Editor of Frontiers in Virtual Reality. He is co-founder of Virtual Bodyworks.
     </p>
 
         {% endif %}
