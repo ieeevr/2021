@@ -62,11 +62,19 @@ title: "Panels"
 <div>
     {% for panel in site.data.panels %}
     {% if panel.id == 'P1' %}
-    <h2 id="P1">{{ panel.name }}: {{ panel.title}}</h2>
+    <h2 id="{{ panel.id }}">{{ panel.name }}: {{ panel.title}}</h2>
+    <p style="font-size: 0.875em;">{{ panel.day }}</p>
+    
+    <p><strong>Description</strong></p>
+    <p>
+        Research on the existence and nature of implicit bias has generated a significant amount of attention in psychology and other social sciences over the past few decades. Considerable scientific and policy interest in prejudice reduction and bias interventions date all the way back to such classic texts as Gordon Allport’s The Nature of Prejudice (1954), where intergroup contact theory as an approach to prejudice reduction was first introduced.  Thousands of hours and millions of dollars have been invested developing and implementing a wide variety of anti-discrimination and anti-bias training programs in different organizational and educational contexts. The efficacy of these efforts, and the conditions under which they are effective and for how long, continues to be an issue at the forefront of research on bias mitigation.
+    </p>
+    <p>
+        This panel assembles a diverse group of experts to discuss the opportunities and challenges in designing, developing, deploying, and assessing the effectiveness of VR-based interventions as a relatively new and novel approach to addressing implicit bias and related constructs including racial empathy and structural competence.
+    </p>
+    
+    
+    
     {% endif %}
     {% endfor %}
-
-
-
-
 </div>
