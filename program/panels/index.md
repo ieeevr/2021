@@ -53,7 +53,7 @@ title: "Panels"
         </tr>
         {% for panel in site.data.panels %}
         <tr>
-            <td style="font-size: 0.875em;"><a href="#{{ panel.id }}">{{ panel.name }}: {{ panel.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ panel.id }}">{{ panel.title }}</a></td>
         </tr>
         {% endfor %}
     </table>

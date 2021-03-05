@@ -666,7 +666,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1830;">
-                        <h3 class="session-title">Panel</h3>
+                        <h3 class="session-title"><a href="/2021/program/panels/#P1">Panel: Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
                     </div>
 
@@ -756,7 +756,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-11 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
-                        <h3 class="session-title">Panel</h3>
+                        <h3 class="session-title"><a href="/2021/program/panels/#P2">Panel: Shaping the Future of XR and Arts</a></h3>
                         <span class="session-time">15:30 - 17:00</span>
                     </div>
 
@@ -834,7 +834,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-5 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1330;">
-                        <h3 class="session-title">Panel</h3>
+                        <h3 class="session-title"><a href="/2021/program/panels/#P3">Panel: What makes a virtual human human?</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
 
