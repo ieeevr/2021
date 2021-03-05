@@ -66,8 +66,6 @@ title: "Keynote Speakers"
 {% for keynote in site.data.keynotes %}
 
 <br />
-<hr style="color: #00aeef">
-<br />
 <div id="{{ keynote.id }}">
     <center><strong><big>{{ keynote.name }}</big></strong></center>
     <center>{{ keynote.affiliation }}</center>
@@ -79,12 +77,12 @@ title: "Keynote Speakers"
     <center><small>{{ keynote.schedule }}</small></center>
 
     <p>
-        <strong>Abstract:</strong><br />
+        <strong>Abstract</strong><br />
         {{ keynote.abstract }}
     </p>
 
     <p>
-        <strong>Bio:</strong><br />
+        <strong>Bio</strong><br />
         {{ keynote.bio }}
     </p>
 
