@@ -60,7 +60,13 @@ title: "Panels"
 </div>
 
 <div>
+    {% for panel in site.data.panels %}
+    {% if panel.id == 'P1' %}
+    <h2 id="P1">{{ panel.name }}: {{ panel.title}}</h2>
+    {% endif %}
+    {% endfor %}
+
+
+
+
 </div>
-
-
-
