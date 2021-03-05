@@ -41,7 +41,7 @@ title: "Papers"
         font-weight: bold;
         color: #00aeef;
     }
-    
+
     /* Collapsible */
     input[type='checkbox'] {
         display: none;
@@ -123,11 +123,11 @@ title: "Papers"
             <th>Monday, March 29</th>
         </tr>
         {% for session in site.data.sessions %}
-            {% if session.schedule == 'Monday, March 29' %}
-                <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
-                </tr>
-            {% endif %}
+        {% if session.schedule == 'Monday, March 29' %}
+        <tr>
+            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+        </tr>
+        {% endif %}
         {% endfor %}
     </table>
 </div>
@@ -137,11 +137,11 @@ title: "Papers"
             <th>Tuesday, March 30</th>
         </tr>
         {% for session in site.data.sessions %}
-            {% if session.schedule == 'Monday, March 29' %}
-                <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
-                </tr>
-            {% endif %}
+        {% if session.schedule == 'Monday, March 29' %}
+        <tr>
+            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+        </tr>
+        {% endif %}
         {% endfor %}
     </table>
 </div>
@@ -151,11 +151,11 @@ title: "Papers"
             <th>Wednesday, March 31</th>
         </tr>
         {% for session in site.data.sessions %}
-            {% if session.schedule == 'Monday, March 29' %}
-                <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
-                </tr>
-            {% endif %}
+        {% if session.schedule == 'Monday, March 29' %}
+        <tr>
+            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+        </tr>
+        {% endif %}
         {% endfor %}
     </table>
 </div>
@@ -165,43 +165,47 @@ title: "Papers"
             <th>Thursday, April 1</th>
         </tr>
         {% for session in site.data.sessions %}
-            {% if session.schedule == 'Monday, March 29' %}
-                <tr>
-                    <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
-                </tr>
-            {% endif %}
+        {% if session.schedule == 'Monday, March 29' %}
+        <tr>
+            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+        </tr>
+        {% endif %}
         {% endfor %}
     </table>
 </div>
 
 <div id="S1">
     {% for session in site.data.sessions %}
-        {% if session.id == 'S1' %}
-            <h2>{{ session.name }}: {{ session.title }}</h2>
-        {% endif %}
+    {% if session.id == 'S1' %}
+    <h2>{{ session.name }}: {{ session.title }}</h2>
+    {% endif %}
     {% endfor %}
-    
+
     {% for paper in site.data.papers %}
-            {% if paper.session == 'S1' %}
-    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox" checked> <label for="collapsible{{ paper.id }}" class="lbl-toggle">{{ paper.title }}</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-               
-                <p>
-                    <strong>Abstract:<br/></strong>
-                    Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd Abstract etefsgd.
-                </p>
-                
-                
+    {% if paper.session == 'S1' %}
+
+    <div>
+        {% for demo in site.data.demos %}
+
+        <h3 id="{{ paper.id }}">{{ paper.title }}</h3>
+        <p><i>{{ paper.authors }}</i></p>
+        <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+            <div class="collapsible-content">
+                <div class="content-inner">
+                    <p>{{ paper.abstract }}</p>
+                </div>
             </div>
         </div>
+        <hr>
+        {% endfor %}
     </div>
-        {% endif %}
+
+    {% endif %}
     {% endfor %}
-    
-    
-    
-    
+
+
+
+
     <!--
     <ul>
         {% for paper in site.data.papers %}
@@ -221,9 +225,3 @@ title: "Papers"
     </div>
     -->
 </div>
-
-
-
-
-
-
