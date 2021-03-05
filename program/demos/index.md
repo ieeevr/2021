@@ -47,7 +47,7 @@ title: "Research Demos"
     }
 
     .wrap-collabsible {
-        margin: 1.2rem 0;
+        margin: 1rem 0;
     }
 
     .lbl-toggle {
@@ -56,7 +56,7 @@ title: "Research Demos"
         /* font-family: monospace; */
         font-size: 1rem;
         text-align: left;
-        padding: 0.5rem;
+        padding: 0.1rem;
         color: #00aeef;
         background: #ffffff;
         cursor: pointer;
@@ -65,7 +65,7 @@ title: "Research Demos"
     }
 
     .lbl-toggle:hover {
-        color: #FFF;
+        /*color: #FFF;*/
     }
 
     .lbl-toggle::before {
