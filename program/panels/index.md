@@ -117,3 +117,97 @@ title: "Panels"
     {% endif %}
     {% endfor %}
 </div>
+
+
+<div>
+    {% for panel in site.data.panels %}
+    {% if panel.id == 'P2' %}
+    <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
+    <p style="font-size: 0.8em;">{{ panel.day }}</p>
+    
+    
+    <h3 style="color: #00aeef;">Description</h3>
+    <p>
+        XR is undergoing rapid development at a time of societal transformation. Will the arts be a driving force and determining factor for the future of immersive technologies? Virtual experiences emerged as a primary mode of engaging with each other and the arts in 2020.  Experiencing the world from our homes has compelled us to delve deeper into our humanity and the power of virtual and immersive technology to bridge our physical, social and emotional connections. Artists and technologists are collaborating to create new modalities of expression and societal impact through XR. This panel explores the multiple perspectives of artists, industry, and technologists in shaping the future of XR in the arts, culture and entertainment.
+    </p>
+    
+    <h3 style="color: #00aeef;">Moderator</h3>
+    <p>
+        <strong style="color: black">Ruth West, Professor, University of North Texas, [Ruth.West@unt.edu]</strong>
+    </p>
+    <p>
+        Ruth West is an artist, professor at University of North Texas and director of the xREZ Art + Science Lab (http://xrezlab.com). Ruth creates social and collaborative data-driven extended reality art and interactive installations. Her work has been presented internationally at venues including MONA FOMA Festival (Museum of Old and New Art), Los Angeles Municipal Art Gallery, FILE 09 Sao Paulo, SIGGRAPH, WIRED Magazine’s NextFest, Perot Museum of Nature and Science, and the UCLA Fowler Museum.
+    </p>
+    
+    <h3 style="color: #00aeef;">Panelists</h3>
+    <p>
+        <strong style="color: black">Margaret Dolinsky, Associate Professor, Indiana University, [dolinsky@iu.edu]</strong>
+    </p>
+    <p>
+        Margaret Dolinsky is Associate Professor at the Eskenazi School of Art, Architecture+Design at Indiana University. She received an MFA from University of Illinois at Chicago (EVL) and a PhD from University of Plymouth, UK. Dolinsky creates whimsical portraits of people and landscapes for VR, interactive opera and experimental film. Her work has been shown in North and South America, Europe, Asia, and Australia in museums, festivals, and galleries. Dolinsky appears in “New Media Futures: The Rise of Women in the Digital Arts” by Donna Cox, et al. and VR Developer Gems (Sherman, Ed.), Dolinsky co-chairs IS&T Engineering Reality of Virtual Reality conference.  <a href="https://dolinsky.pages.iu.edu/" target="_blank">https://dolinsky.pages.iu.edu/</a>
+    </p>
+    
+    <p>
+        <strong style="color: black">Domhnaill Hernon, VP Research and Innovation, Nokia Bell Labs, [domhnaill.hernon@nokia-bell-labs.com]</strong>
+    </p>
+    <p>
+        Domhnaill Hernon is Head of Experiments in Arts and Technology (E.A.T.) at Nokia Bell Labs. He graduated with a B.Eng in Aeronautical Engineering, a Ph.D in fundamental fluid mechanics from the University of Limerick and an Executive M.B.A. from Dublin City University, Ireland. He is passionate about turning research/ideas into reality and exploring the bounds of creativity to push the limits of technology. Domhnaill was previously responsible for turning Bell Labs disruptive research assets into proto-solutions that could be tested at scale in the market, and he established new methods to overcome the “Innovation Valley of Death”. He is currently responsible for Bell Labs global activities in E.A.T. where he collaborates with the artistic and creative community to push the limits of technology to solve the greatest human need challenges. <a href="https://www.bell-labs.com/collaboration-opportunities/eat/" target="_blank">https://www.bell-labs.com/collaboration-opportunities/eat/</a>
+    </p>
+    <p>
+        <strong style="color: black">Savannah Niles, Principal Designer, Magic Leap, [savannahniles@gmail.com]</strong>
+    </p>
+    <p>
+        Savannah Niles is a multi-disciplinary design and technology leader in the spatial computing industry. She's currently Director of Interaction Design and Product Experience at Magic Leap, a Florida-based spatial computing startup with $2.6 billion in funding. For 5 years at Magic Leap, Savannah has designed, prototyped, and shipped a wide range of hardware and software products, with 20+ patent applications and grants. She continues to contribute as a multidisciplinary leader across design, technology, and strategy roles. Currently, Savannah leads interaction design and prototyping for Magic Leap's core hardware and software platforms. Previously, designed interactive experiences for Walt Disney Imagineering and Twitter. MIT Media Lab graduate. Juror at SIGGRAPH. 20+ patent applications and grants. <a href="https://www.savannahniles.com/" target="_blank">https://www.savannahniles.com/</a>
+    </p>
+    
+    <p>
+        <strong style="color: black">Kristine Severson, Strategic Partnerships and Content, Video Games, AR/VR and Board of Directors, The Hydrous, [seversonkristine@gmail.com]</strong>
+    </p>
+    <p>
+        Kristine Severson is an AR/VR, video games, digital media, and consumer electronics veteran with expertise in strategic partnerships, business development, content acquisition and licensing, digital distribution and marketing, product and technology evangelism, and publisher and developer relations. Formerly at Sony Playstation / HTC Vive / Rockstar Games, Take Two Interactive / 2K Games. <a href="http://www.vrforimpact.com " target="_blank">http://www.vrforimpact.com </a>
+    </p>
+
+    <p>
+        <strong style="color: black">Nicola Triscott, Director/CEO, FACT, [nicola.triscott@fact.co.uk]</strong>
+    </p>
+    <p>
+        Nicola Triscott PhD is a curator, researcher and writer, specializing in the intersections between art, science, technology and society. Since 2019, Nicola has been Director/CEO of FACT (Centre for Film, Art & Creative Technology) in Liverpool, UK, where she curated the exhibition And Say the Animal Responded? in 2020. Previously, she was the founding Artistic Director/CEO of Arts Catalyst (from 1994 to 2019) and Principal Research Fellow at University of Westminster (2017-19). Over 25 years, Nicola built Arts Catalyst into one of the UK’s most distinctive and respected art and research organisations, distinguished by ambitious artists’ commissions, including notable projects by Tomás Saraceno, Otolith Group, Ashok Sukumaran, Marko Peljhan, Ariel Guzik, and Critical Art Ensemble. Nicola lectures and publishes internationally. <a href="https://nicolatriscott.org/" target="_blank">https://nicolatriscott.org/</a>
+    </p>
+    
+        {% endif %}
+    {% endfor %}
+</div>
+
+<div>
+    {% for panel in site.data.panels %}
+    {% if panel.id == 'P1' %}
+    <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
+    <p style="font-size: 0.8em;">{{ panel.day }}</p>
+    
+    
+    <h3 style="color: #00aeef;">Description</h3>
+    <p>
+        Research on the existence and nature of implicit bias has generated a significant amount of attention in psychology and other social sciences over the past few decades. Considerable scientific and policy interest in prejudice reduction and bias interventions date all the way back to such classic texts as Gordon Allport’s The Nature of Prejudice (1954), where intergroup contact theory as an approach to prejudice reduction was first introduced.  Thousands of hours and millions of dollars have been invested developing and implementing a wide variety of anti-discrimination and anti-bias training programs in different organizational and educational contexts. The efficacy of these efforts, and the conditions under which they are effective and for how long, continues to be an issue at the forefront of research on bias mitigation.
+    </p>
+    <p>
+        This panel assembles a diverse group of experts to discuss the opportunities and challenges in designing, developing, deploying, and assessing the effectiveness of VR-based interventions as a relatively new and novel approach to addressing implicit bias and related constructs including racial empathy and structural competence.
+    </p>
+    
+    <h3 style="color: #00aeef;">Moderator</h3>
+    <p>
+        <strong style="color: black">Victoria Interrante, Computer Science and Engineering, University of Minnesota, [interran@umn.edu]</strong>
+    </p>
+    <p>
+        Dr. Interrante is a Full Professor in the Department of Computer Science and Director of the university-wide Center for Cognitive Sciences at the University of Minnesota.  Her research focuses on applying insights from visual perception and cognition to the development of more effective virtual reality experiences and the more effective communication of complex information through visual imagery. She enjoys collaborating with colleagues in a wide variety of fields, from architectural design to engineering and medicine.
+    </p>
+    
+    <h3 style="color: #00aeef;">Panelists</h3>
+    <p>
+        <strong style="color: black">Eugene Borgida, Professor of Psychology and Law at the University of Minnesota, [borgi001@umn.edu]</strong>
+    </p>
+
+        {% endif %}
+    {% endfor %}
+</div>
+
+
