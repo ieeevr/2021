@@ -3,12 +3,65 @@ layout: ieeevr-default
 title: "Workshop Papers"
 ---
 
+<style>
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.9em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+</style>
+
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
         The following 14 workshops will be held at IEEE Virtual Reality 2021. The workshops will be held on March 27-28 and April 2-3, 2021
     </p>
+    
+    <table class="styled-table">
 
+        <tr>
+            <th>Workshops</th>
+        </tr>
+        {% for workshop in site.data.workshops %}
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#{{ workshop.id }}">{{ workshop.title }}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <!--
     <ul>
         <li> <a href="#TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </a> </li>
         <li> <a href="#SeatedVR"> Seated Virtual Reality & Embodiment (SeatedVR) </a> </li>
@@ -25,6 +78,7 @@ title: "Workshop Papers"
         <li> <a href="#PrXR"> PrXR: Towards a roadmap for privacy and security research for mixed reality applications </a> </li>
         <li> <a href="#ANIVAE"> Animation in Virtual and Augmented Environments - ANIVAE </a> </li>
     </ul>
+    -->
 
     <h2 id="TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
     <p>
