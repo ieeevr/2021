@@ -4,203 +4,221 @@ layout: default
 
 
 <style>
+    .topnav {
+        #position: fixed;
+        #top: 0px;
+        #width: 100%;
+        overflow: hidden;
+        background-color: white;
+        #border-bottom: 1px solid #00aeef;
+    }
 
-    
-.topnav {
-  #position: fixed;
-  #top: 0px;
-  #width: 100%;
-  overflow: hidden;
-  background-color: white;
-  #border-bottom: 1px solid #00aeef;
-}
+    .topnav a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
 
-.topnav a {
-  float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
+    .active {
+        background-color: white;
+        color: black;
+    }
 
-.active {
-  background-color: white;
-  color: black;
-}
+    .topnav .icon {
+        display: none;
+    }
 
-.topnav .icon {
-  display: none;
-}
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
 
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
+    .dropdown .dropbtn {
+        font-size: 17px;
+        border: none;
+        outline: none;
+        color: black;
+        padding: 16px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
 
-.dropdown .dropbtn {
-  font-size: 17px;    
-  border: none;
-  outline: none;
-  color: black;
-  padding: 16px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: aliceblue;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: aliceblue;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
 
-.dropdown-content a {
-  float: none;
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
+    .topnav a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: #00aeef;
+        color: white;
+    }
 
-.topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #00aeef;
-  color: white;
-}
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
 
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-.dropdown:checked .dropdown-content {
-  display: block;
-}
+    .dropdown:checked .dropdown-content {
+        display: block;
+    }
 
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child), .dropdown .dropbtn {
-    display: none;
-  }
-  .topnav a.icon {
-    float: right;
-    display: block;
-  }
-}
+    @media screen and (max-width: 600px) {
 
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-    height: inherit;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  .topnav.responsive .dropdown {float: none;}
-  .topnav.responsive .dropdown-content {position: relative;}
-  .topnav.responsive .dropdown .dropbtn {
-    display: block;
-    width: 100%;
-    text-align: left;
-  }
-}   
-    
-.ieeevrbanner{
-    padding: 0px;
-    border-radius: 7px;
-}
-    
-.column {
-    float: left;
-    padding: 10px;
-}
-.left {
-    width: 75%;
-}
-.center {
-    width: 2%;
-}
-    
-.right {
-    width: 22%;
-}
+        .topnav a:not(:first-child),
+        .dropdown .dropbtn {
+            display: none;
+        }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-    
-.sponsorsend {
-    display: block;
-}
-    
-.ieeevrfooter {
-    position: static;
-    padding-top: 10px;
-    bottom: 0;
-    width: 100%;
-    color: black;
-    text-align: center;
-    font-size: 16px;
-}
-    
-.social-icons {
-  text-align: center;
-  }  
-.social-icons li {
-  display:inline-block;
-  list-style-type:none;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  }
-.social-icons li a {
-  border-bottom: none;
-  }
-.social-icons li img {
-  width:50px;
-  height:50px;
-  margin-right: 30px;
-}
+        .topnav a.icon {
+            float: right;
+            display: block;
+        }
+    }
 
-    
+    @media screen and (max-width: 600px) {
+        .topnav.responsive {
+            position: relative;
+        }
 
-    
-@media screen and (max-width: 900px) {
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: inherit;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+
+        .topnav.responsive .dropdown {
+            float: none;
+        }
+
+        .topnav.responsive .dropdown-content {
+            position: relative;
+        }
+
+        .topnav.responsive .dropdown .dropbtn {
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .ieeevrbanner {
+        padding: 0px;
+        border-radius: 7px;
+    }
+
+    .column {
+        float: left;
+        padding: 10px;
+    }
+
     .left {
-        width: 100%;
+        width: 75%;
     }
-    .center {
-        display: none;
-    }
-    .right {
-        width: 100%;
-    }
-    .sidebar-header-icon
-    {
-        display: none;
-        padding: 0px 0px;
-    }
-    .confsponsors
-    {
-        #display: none;
-    }
-    .conf-icon {
-        width: 200px;
-    }    
-}
-    
-    
 
-    
-    
+    .center {
+        width: 2%;
+    }
+
+    .right {
+        width: 22%;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .sponsorsend {
+        display: block;
+    }
+
+    .ieeevrfooter {
+        position: static;
+        padding-top: 10px;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social-icons li {
+        display: inline-block;
+        list-style-type: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+    }
+
+    .social-icons li a {
+        border-bottom: none;
+    }
+
+    .social-icons li img {
+        width: 50px;
+        height: 50px;
+        margin-right: 30px;
+    }
+
+
+
+
+    @media screen and (max-width: 900px) {
+        .left {
+            width: 100%;
+        }
+
+        .center {
+            display: none;
+        }
+
+        .right {
+            width: 100%;
+        }
+
+        .sidebar-header-icon {
+            display: none;
+            padding: 0px 0px;
+        }
+
+        .confsponsors {
+            #display: none;
+        }
+
+        .conf-icon {
+            width: 200px;
+        }
+    }
+
 </style>
 
 
@@ -208,236 +226,239 @@ layout: default
 <button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
 
 <script>
-var mybutton = document.getElementById("myBtnTop");
+    var mybutton = document.getElementById("myBtnTop");
 
-window.onscroll = function() {scrollFunction()};
+    window.onscroll = function() {
+        scrollFunction()
+    };
 
-function scrollFunction() {
-  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
+    function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
 
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-    
-    
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+
+
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+
 </script>
 
 
 
 <div id="main" role="main">
-  <article class="splash" style="margins:0px;" itemscope itemtype="https://schema.org/CreativeWork">
+    <article class="splash" style="margins:0px;" itemscope itemtype="https://schema.org/CreativeWork">
 
-      
-      
-      <!-- navbar -->  
-      <div class="topnav" id="myTopnav">
-        <a href="/2021/" class="active">IEEE VR</a>
-        <a href="/2021/about">About</a>
-        <!-- <a href="#">Online</a>  -->
 
-        <div class="dropdown">
-            <button class="dropbtn">Attend &#9662;</button>
-            <div class="dropdown-content">
-            <a href="/2021/attend/code-of-conduct/">Code of Conduct</a> 
-            <a href="/2021/attend/why-attend/">Why Attend</a>
-            <a href="/2021/attend/registration/">Registration</a>
-            <a href="/2021/attend/diversity-and-inclusion-scholarship/">Diversity and Inclusion Scholarship</a>
-            <a href="/2021/attend/accessibility-faq/">Accessibility FAQ</a>
-            <a href="/2021/attend/mentorship-program/">Mentorship Program</a>
-            </div>
-        </div>
-        <div class="dropdown">
-            <button class="dropbtn">Program &#9662;</button>
-            <div class="dropdown-content">
-            <a href="/2021/program/overview/">Overview</a>
-            
-            <a href="/2021/program/panels/">Panels</a>
-                
-            </div>
-        </div>
-          
-        <div class="dropdown">
-            <button class="dropbtn">Contribute &#9662;</button>
-            <div class="dropdown-content">
-            <a href="/2021/contribute/exhibitors">Exhibitors and Sponsors</a>
-            <a href="/2021/contribute/">Call for Journal Papers</a>
-            <a href="/2021/contribute/conference-papers/">Call for Conference Papers</a>
-            <a href="/2021/contribute/demos/">Call for Research Demos</a>
-            <a href="/2021/contribute/workshoppapers/">Call for Workshop Papers</a>
-            <a href="/2021/contribute/panels/">Call for Panels</a>
-            <a href="/2021/contribute/3dui-contest/">Call 3DUI Contest Participation</a>    
-            <a href="/2021/contribute/doctoral-consortium/">Call for Doctoral Consortium</a>    
-            <a href="/2021/contribute/posters/">Call for Posters</a>    
-            <a href="/2021/contribute/workshops/">Call for Workshops</a>    
-            <a href="/2021/contribute/tutorials/">Call for Tutorials</a>
-            <a href="/2021/contribute/videos/">Call for Videos</a>
-            <a href="/2021/contribute/studentVolunteers/">Call for Student Volunteers</a>
-            <a href="/2021/contribute/bridge-to-vr/">Bridge to VR CFP</a>
-            <a href="/2021/contribute/presenterInfo">Presenter Guidelines</a>
-            <a href="/2021/contribute/videoInstructions/">Video Guidelines</a>
-                
-        </div>
-        </div>
-        <div class="dropdown">
-            <button class="dropbtn">Awards &#9662;</button>
-            <div class="dropdown-content">
-            <a href="/2021/awards/vgtc">VGTC Awards</a>  
-            </div>
-        </div>
-        
-        <div class="dropdown">
-            <button class="dropbtn">Committees &#9662;</button>
-            <div class="dropdown-content">
-            <a href="/2021/committees/conference-committee/">Conference Committee</a>
-            <a href="/2021/committees/steering-committee/">Steering Committee</a>
-            <a href="/2021/committees/program-committee/">Program Committee</a>
-            </div>
-        </div>
-        <a href="/2021/past-conferences/">Past Conferences</a>
-        <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
-      </div>
 
-      
-    <!-- banner -->  
-    <img class="ieeevrbanner" src="/2021/assets/images/ieeevr-banner-with-motto.jpg" alt="Image of the Belem Tower in Lisbon along with a view for the Tagus river. And the Logo for IEEEVR Lisbon 2021 with the moto: make virtual reality diverse and acessible.">
-      
-    <!-- content -->  
-    <section class="page__content" itemprop="text">
-        <div class="row">
+        <!-- navbar -->
+        <div class="topnav" id="myTopnav">
+            <a href="/2021/" class="active">IEEE VR</a>
+            <a href="/2021/about">About</a>
+            <!-- <a href="#">Online</a>  -->
 
-            
-            
-            <!-- left sidebar -->  
-            <div class="column left" style="">
-                
-
-                {{ content }}
-
-                
-            </div>
-            <div class="column center" style=""></div>
-            
-            <!-- Main Content -->  
-            <div class="column right" style="text-align: center">
-                
-                <!-- <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">-->
-                <!-- <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-                <div>
-                    <ul class="social-icons">
-                        <li><a href="https://facebook.com/ieeevr"><img src='/2021/assets/images/social/circle-color/Facebook.png' alt="Facebook"/></a></li>
-                        <li><a href="http://www.twitter.com/ieeevr"><img src='/2021/assets/images/social/circle-color/Twitter.png' alt='Twitter'/></a></li>
-                    </ul>
+            <div class="dropdown">
+                <button class="dropbtn">Attend &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/2021/attend/code-of-conduct/">Code of Conduct</a>
+                    <a href="/2021/attend/why-attend/">Why Attend</a>
+                    <a href="/2021/attend/registration/">Registration</a>
+                    <a href="/2021/attend/diversity-and-inclusion-scholarship/">Diversity and Inclusion Scholarship</a>
+                    <a href="/2021/attend/accessibility-faq/">Accessibility FAQ</a>
+                    <a href="/2021/attend/mentorship-program/">Mentorship Program</a>
                 </div>
-
-                <div class="confsponsors" id="sponsors">
-                    <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
-                    
-                    <div style="background-color: #00aeef; border-radius: 7px;">
-                    <b style="color: white;">Diamond</b>
-                    </div>
-                    <br>
-                    <a href="https://www.virbela.com/" target="_blank">
-                        <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
-                    </a>
-                    <br>
-                    <br>
-                    <div style="background-color: #00aeef; border-radius: 7px;">
-                    <b style="color: white;">Gold</b>
-                    </div>
-                    <br>
-                    <a href="https://tecnico.ulisboa.pt/en/" target="_blank">
-                        <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/IST_A_RGB_POS.png" alt="Instituto Superior Tecnico">
-                    </a>
-                    <br>
-                    <a href="https://immersivelrn.org/ilrn-virtual-campus/" target="_blank">
-                        <img class="conf-icon" style="width: 100%; padding-top: 20px;" src="/2021/assets/images/sponsors/ilrn.png" alt="immersive Learning Research Network">
-                    </a>
-                    <br>
-                    <br>
-                    <div style="background-color: #00aeef; border-radius: 7px;">
-                    <b style="color: white;">Silver</b>
-                    </div>
-                    <br>
-                    <a href="https://www.qualcomm.com/invention/extended-reality/virtual-reality" target="_blank">
-                        <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/qualcomm.jpeg" alt="Qualcomm Logo">
-                    </a>
-                    <br>
-                    <br>
-                    <div style="background-color: #00aeef; border-radius: 7px;">
-                    <b style="color: white;">Bronze</b>
-                    </div>
-                    <br>
-                    <a href="http://www.vicon.com/" target="_blank">
-                        <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/vicon-logo.png" alt="Vicon Logo">
-                    </a>
-                    <br>
-                    <a href="http://www.hitlabnz.org/" target="_blank">
-                        <img class="conf-icon" style="width: 80%;padding-top: 10px;" src="/2021/assets/images/sponsors/HITL-AIGI.jpg" alt="Hitlab logo">
-                    </a>
-                    <br>
-                    <a href="https://www.maquette.ms/" target="_blank">
-                        <img class="conf-icon" style="width: 90%;padding-top: 15px;" src="/2021/assets/images/sponsors/microsoft.png" alt="Microsoft Logo">
-                    </a>
-                    <br>
-                    <a href="https://appen.com" target="_blank">
-                        <img class="conf-icon" style="width: 90%; padding-top: 15px" src="/2021/assets/images/sponsors/Appen.png" alt="Appen Logo">
-                    </a>
-                    <br>
-                    <a href="https://about.fb.com/realitylabs/" target="_blank">
-                        <img class="conf-icon" style="width: 90%; padding-top: 15px" src="/2021/assets/images/sponsors/FRL_Research_Logo.png" alt="Facebook Reality Labs Logo">
-                    </a>
-                    <br>
-                    <a href="http://www.xrbootcamp.com/" target="_blank">
-                        <img class="conf-icon" style="width: 90%; padding-top: 20px" src="/2021/assets/images/sponsors/XR_bootcamp_Logo_Black.png" alt="XR Bootcamp Logo">
-                    </a>
-                    <br>
-                    
-                    <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporter</h4>
-                    <a href="https://gpcg.pt/website/en/" target="_blank">
-                        <img class="conf-icon" style="width: 95%;padding-top: 5px;" src="/2021/assets/images/sponsors/CGILogo.png" alt="GPCG Logo">
-                    </a>
-                    
-                    <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Doctoral Consortium Sponsors</h4>
-                    <a href="https://www.nsf.gov" target="_blank">
-                        <img class="conf-icon" style="width: 65%;" src="/2021/assets/images/sponsors/nsf.jpg" alt="NSF Logo">
-                    </a>
-                    <br>
-                    <a href="https://www.stochasticspace.com" target="_blank">
-                        <img class="conf-icon" style="width: 95%;" src="/2021/assets/images/sponsors/Fakespace-logo.png" alt="Fakespace Logo">
-                    </a>
-                    
-                    <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Partner</h4>
-                    <a href="https://www.cioapplicationseurope.com" target="_blank">
-                        <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/cio-applications-europe.png" alt="CIO Applications Europe Website">
-                    </a>
-                    <br>
-                    <br>
-                </div>
-                
-                
-                
             </div>
+            <div class="dropdown">
+                <button class="dropbtn">Program &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/2021/program/overview/">Overview</a>
+                    <a href="/2021/contribute/workshoppapers/">Workshops</a>
+                    <a href="/2021/program/panels/">Panels</a>
+
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <button class="dropbtn">Contribute &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/2021/contribute/exhibitors">Exhibitors and Sponsors</a>
+                    <a href="/2021/contribute/">Call for Journal Papers</a>
+                    <a href="/2021/contribute/conference-papers/">Call for Conference Papers</a>
+                    <a href="/2021/contribute/demos/">Call for Research Demos</a>
+                    <a href="/2021/contribute/workshoppapers/">Call for Workshop Papers</a>
+                    <a href="/2021/contribute/panels/">Call for Panels</a>
+                    <a href="/2021/contribute/3dui-contest/">Call 3DUI Contest Participation</a>
+                    <a href="/2021/contribute/doctoral-consortium/">Call for Doctoral Consortium</a>
+                    <a href="/2021/contribute/posters/">Call for Posters</a>
+                    <a href="/2021/contribute/workshops/">Call for Workshops</a>
+                    <a href="/2021/contribute/tutorials/">Call for Tutorials</a>
+                    <a href="/2021/contribute/videos/">Call for Videos</a>
+                    <a href="/2021/contribute/studentVolunteers/">Call for Student Volunteers</a>
+                    <a href="/2021/contribute/bridge-to-vr/">Bridge to VR CFP</a>
+                    <a href="/2021/contribute/presenterInfo">Presenter Guidelines</a>
+                    <a href="/2021/contribute/videoInstructions/">Video Guidelines</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Awards &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/2021/awards/vgtc">VGTC Awards</a>
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <button class="dropbtn">Committees &#9662;</button>
+                <div class="dropdown-content">
+                    <a href="/2021/committees/conference-committee/">Conference Committee</a>
+                    <a href="/2021/committees/steering-committee/">Steering Committee</a>
+                    <a href="/2021/committees/program-committee/">Program Committee</a>
+                </div>
+            </div>
+            <a href="/2021/past-conferences/">Past Conferences</a>
+            <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
         </div>
-        
-        <!--  footer --> 
-        <div class="ieeevrfooter">
-                <p>© IEEEVR Conference</p>    
-        </div>
-    </section>
-      
-  </article>
+
+
+        <!-- banner -->
+        <img class="ieeevrbanner" src="/2021/assets/images/ieeevr-banner-with-motto.jpg" alt="Image of the Belem Tower in Lisbon along with a view for the Tagus river. And the Logo for IEEEVR Lisbon 2021 with the moto: make virtual reality diverse and acessible.">
+
+        <!-- content -->
+        <section class="page__content" itemprop="text">
+            <div class="row">
+
+
+
+                <!-- left sidebar -->
+                <div class="column left" style="">
+
+
+                    {{ content }}
+
+
+                </div>
+                <div class="column center" style=""></div>
+
+                <!-- Main Content -->
+                <div class="column right" style="text-align: center">
+
+                    <!-- <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">-->
+                    <!-- <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                    <div>
+                        <ul class="social-icons">
+                            <li><a href="https://facebook.com/ieeevr"><img src='/2021/assets/images/social/circle-color/Facebook.png' alt="Facebook" /></a></li>
+                            <li><a href="http://www.twitter.com/ieeevr"><img src='/2021/assets/images/social/circle-color/Twitter.png' alt='Twitter' /></a></li>
+                        </ul>
+                    </div>
+
+                    <div class="confsponsors" id="sponsors">
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
+
+                        <div style="background-color: #00aeef; border-radius: 7px;">
+                            <b style="color: white;">Diamond</b>
+                        </div>
+                        <br>
+                        <a href="https://www.virbela.com/" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+                        </a>
+                        <br>
+                        <br>
+                        <div style="background-color: #00aeef; border-radius: 7px;">
+                            <b style="color: white;">Gold</b>
+                        </div>
+                        <br>
+                        <a href="https://tecnico.ulisboa.pt/en/" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/IST_A_RGB_POS.png" alt="Instituto Superior Tecnico">
+                        </a>
+                        <br>
+                        <a href="https://immersivelrn.org/ilrn-virtual-campus/" target="_blank">
+                            <img class="conf-icon" style="width: 100%; padding-top: 20px;" src="/2021/assets/images/sponsors/ilrn.png" alt="immersive Learning Research Network">
+                        </a>
+                        <br>
+                        <br>
+                        <div style="background-color: #00aeef; border-radius: 7px;">
+                            <b style="color: white;">Silver</b>
+                        </div>
+                        <br>
+                        <a href="https://www.qualcomm.com/invention/extended-reality/virtual-reality" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/qualcomm.jpeg" alt="Qualcomm Logo">
+                        </a>
+                        <br>
+                        <br>
+                        <div style="background-color: #00aeef; border-radius: 7px;">
+                            <b style="color: white;">Bronze</b>
+                        </div>
+                        <br>
+                        <a href="http://www.vicon.com/" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/vicon-logo.png" alt="Vicon Logo">
+                        </a>
+                        <br>
+                        <a href="http://www.hitlabnz.org/" target="_blank">
+                            <img class="conf-icon" style="width: 80%;padding-top: 10px;" src="/2021/assets/images/sponsors/HITL-AIGI.jpg" alt="Hitlab logo">
+                        </a>
+                        <br>
+                        <a href="https://www.maquette.ms/" target="_blank">
+                            <img class="conf-icon" style="width: 90%;padding-top: 15px;" src="/2021/assets/images/sponsors/microsoft.png" alt="Microsoft Logo">
+                        </a>
+                        <br>
+                        <a href="https://appen.com" target="_blank">
+                            <img class="conf-icon" style="width: 90%; padding-top: 15px" src="/2021/assets/images/sponsors/Appen.png" alt="Appen Logo">
+                        </a>
+                        <br>
+                        <a href="https://about.fb.com/realitylabs/" target="_blank">
+                            <img class="conf-icon" style="width: 90%; padding-top: 15px" src="/2021/assets/images/sponsors/FRL_Research_Logo.png" alt="Facebook Reality Labs Logo">
+                        </a>
+                        <br>
+                        <a href="http://www.xrbootcamp.com/" target="_blank">
+                            <img class="conf-icon" style="width: 90%; padding-top: 20px" src="/2021/assets/images/sponsors/XR_bootcamp_Logo_Black.png" alt="XR Bootcamp Logo">
+                        </a>
+                        <br>
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporter</h4>
+                        <a href="https://gpcg.pt/website/en/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 5px;" src="/2021/assets/images/sponsors/CGILogo.png" alt="GPCG Logo">
+                        </a>
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Doctoral Consortium Sponsors</h4>
+                        <a href="https://www.nsf.gov" target="_blank">
+                            <img class="conf-icon" style="width: 65%;" src="/2021/assets/images/sponsors/nsf.jpg" alt="NSF Logo">
+                        </a>
+                        <br>
+                        <a href="https://www.stochasticspace.com" target="_blank">
+                            <img class="conf-icon" style="width: 95%;" src="/2021/assets/images/sponsors/Fakespace-logo.png" alt="Fakespace Logo">
+                        </a>
+
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Partner</h4>
+                        <a href="https://www.cioapplicationseurope.com" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src="/2021/assets/images/sponsors/cio-applications-europe.png" alt="CIO Applications Europe Website">
+                        </a>
+                        <br>
+                        <br>
+                    </div>
+
+
+
+                </div>
+            </div>
+
+            <!--  footer -->
+            <div class="ieeevrfooter">
+                <p>© IEEEVR Conference</p>
+            </div>
+        </section>
+
+    </article>
 </div>
