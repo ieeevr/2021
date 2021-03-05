@@ -42,6 +42,76 @@ title: "Research Demos"
         color: #00aeef;
     }
 
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1.2rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.5rem;
+        color: #00aeef;
+        background: #ffffff;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        color: #FFF;
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid rgba(0, 105, 255, .45);
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
+    }
+    
 </style>
 
 
@@ -64,7 +134,13 @@ title: "Research Demos"
     
     <h3 id="{{ demo.id }}">{{ demo.title }}</h3>
     <p><i>{{ demo.authors }}</i></p>
-    <p><strong>Abstract:</strong><br/>{{ demo.abstract }}</p>
+    <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ demo.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ demo.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ demo.abstract }}</p>
+            </div>
+        </div>
+    </div>
     <hr>
     {% endfor %}
 </div>
