@@ -141,7 +141,6 @@ title: "Posters"
             </div>
         </div>
     </div>
-    <hr>
     {% endfor %}
 </div>
 

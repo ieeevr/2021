@@ -141,7 +141,6 @@ title: "Research Demos"
             </div>
         </div>
     </div>
-    <hr>
     {% endfor %}
 </div>
 

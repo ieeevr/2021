@@ -125,7 +125,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.schedule == 'Monday, March 29' %}
         <tr>
-            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -139,7 +139,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.schedule == 'Monday, March 29' %}
         <tr>
-            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -153,7 +153,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.schedule == 'Monday, March 29' %}
         <tr>
-            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -167,7 +167,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.schedule == 'Monday, March 29' %}
         <tr>
-            <td><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -196,7 +196,6 @@ title: "Papers"
                 </div>
             </div>
         </div>
-        <hr>
         {% endfor %}
     </div>
 
@@ -206,22 +205,4 @@ title: "Papers"
 
 
 
-    <!--
-    <ul>
-        {% for paper in site.data.papers %}
-            {% if paper.session == 'S1' %}
-            <li><a href="#{{ paper.id }}">{{ paper.title }}</a></li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-    
-    <div>
-        {% for paper in site.data.papers %}
-            {% if paper.session == 'S1' %}
-                <h3 id="{{ paper.id }}">{{ paper.title }}</h3>
-                <p>{{ paper.authors }}</p>
-            {% endif %}
-        {% endfor %}
-    </div>
-    -->
 </div>
