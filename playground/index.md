@@ -353,7 +353,7 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <p><strong>Lisbon WET, UTC</strong></p>
+                <center><strong>Lisbon WET, UTC</strong></center>
                 <div class="schedule-sat-27" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
