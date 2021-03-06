@@ -156,6 +156,8 @@ title: "Tutorials"
 
     </p>
 
+        {% endif %}
+    {% endfor %}
 
 </div>
 
@@ -195,6 +197,9 @@ title: "Tutorials"
         Attendees will learn how to design and set up a new VR-compatible behavioural experiments using bmlTUX. This should help attendees accelerate their workflows to create VR experiments, and greatly reduce the amount of coding required to get up and running. This tutorial will also familiarize users with implementing third-party packages into Unity Game Engine.
     </p>
 
+        {% endif %}
+    {% endfor %}
+    
 </div>
 
 <div>
@@ -234,6 +239,9 @@ title: "Tutorials"
         Value lies in the insights into the concept of Meaningful VR from both a psychological and design perspective and the demonstration and discussion of promising applications.
     </p>
 
+        {% endif %}
+    {% endfor %}
+    
 </div>
 
 <div>
@@ -275,6 +283,7 @@ title: "Tutorials"
         Given our current Covid-19 measures, it could add value to communications with family at a distance and close. Outside of that, visually impaired people could benefit from this. Also, long distance communication can benefit from this research.
     </p>
 
-    
+        {% endif %}
+    {% endfor %}
     
 </div>
