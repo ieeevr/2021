@@ -50,7 +50,7 @@ title: "Exhibitors and Sponsors"
 
 <table class="styled-table">
     <tr>
-        <th>Dedicated exhibit hours for IEEEVR </th>
+        <th>Dedicated exhibit hours </th>
         <th>(Lisbon WEST UTC+1)</th>
     </tr>
     <tr>
