@@ -522,7 +522,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
-                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Paper Session</h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
