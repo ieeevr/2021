@@ -62,7 +62,7 @@ title: "Tutorials"
 <div>
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T1' %}
-    <h2 id="{{ tutorial.id }}">Panel: {{ tutorial.title}}</h2>
+    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
 
     <p>
         <strong>Organizers</strong>
@@ -71,7 +71,7 @@ title: "Tutorials"
         Evan Suma Rosenberg, University of Minnesota, suma[at]umn.edu<br />
         Blair MacIntyre, Georgia Institute of Technology, blair[at]cc.gatech.edu<br />
     </p>
-    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorials.timezone1 }}</strong>
+    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
 
     <p>
         This tutorial will teach attendees how to develop web-based virtual reality (VR) experiences and design instructional content for teaching 3D user interface (3DUI) concepts in a remote learning modality. The tutorial content is based upon the instructors' experiences teaching Virtual Reality and 3D User Interfaces at the University of Minnesota and at Georgia Tech using Babylon.js. While the focus will be on the value of this approach for remote teaching, it was initially used for face-to-face classes because web-based tools, combined with stand-alone VR displays like the Oculus Quest, support a wider range of student computers and have a much faster development turnaround time compared to traditional game development environments such as Unity and Unreal.

@@ -388,7 +388,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="#">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T1">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
 
@@ -450,7 +450,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
                     <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="#">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T2">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
                     <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
