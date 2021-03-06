@@ -721,8 +721,9 @@ title: "Program Overview"
                 <div class="schedule" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830;">8:30</p>
 
@@ -746,6 +747,11 @@ title: "Program Overview"
 
                     <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
                         <h3 class="session-title">Break</h3>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1130;">
+                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">10:30 - 11:30</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
@@ -778,6 +784,12 @@ title: "Program Overview"
                         <span class="session-time">14:00 - 15:30</span>
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1530;">15:00</p>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">15:00 - 16:00</span>
+                    </div>
+                    
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
 
                     <div class="session session-10 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1630;">
