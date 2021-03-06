@@ -25,6 +25,44 @@ title: "Exhibitors and Sponsors"
         padding: 20px;
         position: relative;
     }
+    
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
 
 </style>
 
@@ -44,7 +82,7 @@ title: "Exhibitors and Sponsors"
     </tr>
     <tr>
         <td>Monday, March 29</td>
-        <td>16:00:00 - 17:30:00</td>
+        <td>16:00 - 17:30</td>
     </tr>
     <tr>
         <td>Tuesday, March 30</td>
