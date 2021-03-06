@@ -583,7 +583,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1800 / time-1930;">
                         <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition: Welcome Reception</a></h3>
-                        <span class="session-time">16:00 - 17:30</span>
+                        <span class="session-time">18:00 - 19:30</span>
                     </div>
 
                 </div>
@@ -626,7 +626,6 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1230;">
                         <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">10:30 - 12:30</span>
                         <span class="session-time">10:30 - 12:30</span>
                     </div>
                     
@@ -693,6 +692,11 @@ title: "Program Overview"
 
                     <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1830;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P1">Panel: Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation</a></h3>
+                        <span class="session-time">17:00 - 18:30</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-1830;">
+                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
                     </div>
 
