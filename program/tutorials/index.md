@@ -71,8 +71,9 @@ title: "Tutorials"
         Evan Suma Rosenberg, University of Minnesota, suma[at]umn.edu<br />
         Blair MacIntyre, Georgia Institute of Technology, blair[at]cc.gatech.edu<br />
     </p>
+    <p>
     <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
-
+    </p>
     <p>
         This tutorial will teach attendees how to develop web-based virtual reality (VR) experiences and design instructional content for teaching 3D user interface (3DUI) concepts in a remote learning modality. The tutorial content is based upon the instructors' experiences teaching Virtual Reality and 3D User Interfaces at the University of Minnesota and at Georgia Tech using Babylon.js. While the focus will be on the value of this approach for remote teaching, it was initially used for face-to-face classes because web-based tools, combined with stand-alone VR displays like the Oculus Quest, support a wider range of student computers and have a much faster development turnaround time compared to traditional game development environments such as Unity and Unreal.
     </p>
@@ -119,4 +120,59 @@ title: "Tutorials"
 
     {% endif %}
     {% endfor %}
+</div>
+
+<div>
+    {% for tutorial in site.data.tutorials %}
+    {% if tutorial.id == 'T2' %}
+    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+
+    <p>
+        <strong>Organizers</strong>
+    </p>
+    <p>
+        J. Edward Swan II, Mississippi State University, swan[at]acm.org<br />
+        Mohammed Safayet Arefin, Mississippi State University, arefin[at]acm.org<br />
+    </p>
+    <p>
+    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+    </p>
+    <p>
+        This tutorial will first discuss the replication crisis in empirical science. This term was coined to  describe recent significant failures to replicate empirical findings, in a number of fields, including  medicine and psychology. In many cases, over 50% of previously reported results could not be replicated.  This fact has shaken the foundations of these fields: Can empirical results really be  believed? Should, for example, medical decisions really be based on empirical research? How many psychological findings can we believe?
+    </p>
+    <p>
+        After describing the crisis, the tutorial will revisit enough of the basics of empirical science to explain the origins of the replication crisis. The key issue is that hypothesis testing, which in empirical science is used to establish truth, is the result of a probabilistic process.  However, the human mind is wired to reason absolutely: Humans have a difficult time understanding probabilistic reasoning.  The tutorial will discuss some of the ways that funding agencies, such as the US National Institutes of Health (NIH), have responded to the replication crisis, by, for  example, funding replication studies, and requiring that grant recipients publicly post anonymized  data.  Other professional organizations, including IEEE, have recently begun efforts to enhance the replicability of published research.  In addition, this tutorial will discuss the replication  scenario in different research domains including cognitive psychology, human computer interaction and human factor.
+    </p>
+    <p>
+        Finally, the tutorial will consider how the Virtual Environments community might respond to the replication crisis. In particular, in our community the reviewing process often considers work that involves systems, architectures, or algorithms.  In these cases, the reasoning behind the correctness of the results is usually absolute. Therefore, the standard for accepting papers is that the finding exhibits novelty—to some degree, the result should be surprising. However, this standard does not work for empirical studies, which typically involve human experimental subjects.  Because empirical reasoning is probabilistic, important results need to be replicated, sometimes multiple times, and by different laboratories.  As the replications mount, the field is justified in embracing increasing belief in the results.  In other words, consider a field that, in order to accept a paper reporting empirical results, always requires surprise: This is a field that will not progress in empirical knowledge.
+    </p>
+    <p>
+        The tutorial will end with a call for the community to be more accepting of replication studies. In addition, the tutorial will consider whether actions taken by other fields, in response to the replication crisis, might also be recommendable for the Mixed Reality community.
+    </p>
+    
+    <h3>Technical level, intended audience </h3>
+    <p>
+        Because of the coverage of statistical material, attendees who have some previous training in statistics might be better able to follow those parts of the tutorial. However, the material is presented at a very high level, with an emphasis on the logical reasoning behind hypothesis testing and probabilistic reasoning. Therefore, we believe that nearly all VR attendees could follow the presentation. 
+
+    </p>
+    
+    
+</div>
+
+<div>
+    {% for tutorial in site.data.tutorials %}
+    {% if tutorial.id == 'T2' %}
+    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+
+    <p>
+        <strong>Organizers</strong>
+    </p>
+    <p>
+        J. Edward Swan II, Mississippi State University, swan[at]acm.org<br />
+        Mohammed Safayet Arefin, Mississippi State University, arefin[at]acm.org<br />
+    </p>
+    <p>
+    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+    </p>
+    
 </div>
