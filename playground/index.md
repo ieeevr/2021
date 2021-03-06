@@ -357,10 +357,10 @@ title: "Program Overview"
                 <div class="schedule-sat-27" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WET, UTC</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;">Track 4</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
@@ -437,9 +437,9 @@ title: "Program Overview"
                 <div class="schedule-sun-28" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
@@ -490,9 +490,9 @@ title: "Program Overview"
                 <div class="schedule" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
@@ -575,9 +575,15 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
-                    <div class="session session-10 track-teal" style="grid-column: track-1-start / track-3-end; grid-row: time-1730 / time-1900;">
+                    <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
                         <h3 class="session-title">Welcome Reception</h3>
                         <span class="session-time">17:30 - 19:00</span>
+                    </div>
+                    
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1800 / time-1930;">
+                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition: Welcome Reception</a></h3>
+                        <span class="session-time">16:00 - 17:30</span>
                     </div>
 
                 </div>
@@ -595,9 +601,9 @@ title: "Program Overview"
                 <div class="schedule" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830;">8:30</p>
 
