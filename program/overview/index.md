@@ -403,7 +403,7 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 21:00</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <p class="time-slot" style="grid-row: time-1700;">15:30</p>
                     <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="#">Tutorial: OpenAR: Combining the Virtual and Real?</a></h3>
                         <span class="session-time">15:30 - 21:00</span>
