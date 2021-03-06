@@ -161,7 +161,7 @@ title: "Tutorials"
 
 <div>
     {% for tutorial in site.data.tutorials %}
-    {% if tutorial.id == 'T2' %}
+    {% if tutorial.id == 'T3' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
 
     <p>
