@@ -433,9 +433,9 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Sunday, March 28</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule-sun-28" aria-labelledby="schedule-heading">
-                    <center><strong>Lisbon WEST, UTC+1</strong></center>
+                    
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -486,9 +486,9 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Monday, March 29</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
-                    <center><strong>Lisbon WEST, UTC+1</strong></center>
+                    
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -597,10 +597,10 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible7" class="toggle" type="checkbox" checked> <label for="collapsible7" class="lbl-toggle">Tuesday, March 30</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    <center><strong>Lisbon WEST, UTC+1</strong></center>
+                    
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -718,10 +718,10 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    <center><strong>Lisbon WEST, UTC+1</strong></center>
+                    
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -839,10 +839,10 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible5" class="toggle" type="checkbox" checked> <label for="collapsible5" class="lbl-toggle">Thursday, April 1</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    <center><strong>Lisbon WEST, UTC+1</strong></center>
+                    
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -946,10 +946,10 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible6" class="toggle" type="checkbox" checked> <label for="collapsible6" class="lbl-toggle">Friday, April 2</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule-fri-2" aria-labelledby="schedule-heading">
 
-                    <center><strong>Lisbon WEST, UTC+1</strong></center>
+                    
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
