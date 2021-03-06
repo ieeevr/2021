@@ -365,7 +365,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
                     <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="#">Tutorial: Interactive Storytelling for VR</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T4">Tutorial: Interactive Storytelling for VR</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
@@ -967,7 +967,7 @@ title: "Program Overview"
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
                     <div class="session session-3 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="#">Tutorial: Emotion in Virtual Reality</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T5">Tutorial: Emotion in Virtual Reality</a></h3>
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
 

@@ -72,7 +72,7 @@ title: "Tutorials"
         Blair MacIntyre, Georgia Institute of Technology, blair[at]cc.gatech.edu<br />
     </p>
     <p>
-    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+        <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p>
     <p>
         This tutorial will teach attendees how to develop web-based virtual reality (VR) experiences and design instructional content for teaching 3D user interface (3DUI) concepts in a remote learning modality. The tutorial content is based upon the instructors' experiences teaching Virtual Reality and 3D User Interfaces at the University of Minnesota and at Georgia Tech using Babylon.js. While the focus will be on the value of this approach for remote teaching, it was initially used for face-to-face classes because web-based tools, combined with stand-alone VR displays like the Oculus Quest, support a wider range of student computers and have a much faster development turnaround time compared to traditional game development environments such as Unity and Unreal.
@@ -135,28 +135,28 @@ title: "Tutorials"
         Mohammed Safayet Arefin, Mississippi State University, arefin[at]acm.org<br />
     </p>
     <p>
-    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+        <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p>
     <p>
-        This tutorial will first discuss the replication crisis in empirical science. This term was coined to  describe recent significant failures to replicate empirical findings, in a number of fields, including  medicine and psychology. In many cases, over 50% of previously reported results could not be replicated.  This fact has shaken the foundations of these fields: Can empirical results really be  believed? Should, for example, medical decisions really be based on empirical research? How many psychological findings can we believe?
+        This tutorial will first discuss the replication crisis in empirical science. This term was coined to describe recent significant failures to replicate empirical findings, in a number of fields, including medicine and psychology. In many cases, over 50% of previously reported results could not be replicated. This fact has shaken the foundations of these fields: Can empirical results really be believed? Should, for example, medical decisions really be based on empirical research? How many psychological findings can we believe?
     </p>
     <p>
-        After describing the crisis, the tutorial will revisit enough of the basics of empirical science to explain the origins of the replication crisis. The key issue is that hypothesis testing, which in empirical science is used to establish truth, is the result of a probabilistic process.  However, the human mind is wired to reason absolutely: Humans have a difficult time understanding probabilistic reasoning.  The tutorial will discuss some of the ways that funding agencies, such as the US National Institutes of Health (NIH), have responded to the replication crisis, by, for  example, funding replication studies, and requiring that grant recipients publicly post anonymized  data.  Other professional organizations, including IEEE, have recently begun efforts to enhance the replicability of published research.  In addition, this tutorial will discuss the replication  scenario in different research domains including cognitive psychology, human computer interaction and human factor.
+        After describing the crisis, the tutorial will revisit enough of the basics of empirical science to explain the origins of the replication crisis. The key issue is that hypothesis testing, which in empirical science is used to establish truth, is the result of a probabilistic process. However, the human mind is wired to reason absolutely: Humans have a difficult time understanding probabilistic reasoning. The tutorial will discuss some of the ways that funding agencies, such as the US National Institutes of Health (NIH), have responded to the replication crisis, by, for example, funding replication studies, and requiring that grant recipients publicly post anonymized data. Other professional organizations, including IEEE, have recently begun efforts to enhance the replicability of published research. In addition, this tutorial will discuss the replication scenario in different research domains including cognitive psychology, human computer interaction and human factor.
     </p>
     <p>
-        Finally, the tutorial will consider how the Virtual Environments community might respond to the replication crisis. In particular, in our community the reviewing process often considers work that involves systems, architectures, or algorithms.  In these cases, the reasoning behind the correctness of the results is usually absolute. Therefore, the standard for accepting papers is that the finding exhibits novelty—to some degree, the result should be surprising. However, this standard does not work for empirical studies, which typically involve human experimental subjects.  Because empirical reasoning is probabilistic, important results need to be replicated, sometimes multiple times, and by different laboratories.  As the replications mount, the field is justified in embracing increasing belief in the results.  In other words, consider a field that, in order to accept a paper reporting empirical results, always requires surprise: This is a field that will not progress in empirical knowledge.
+        Finally, the tutorial will consider how the Virtual Environments community might respond to the replication crisis. In particular, in our community the reviewing process often considers work that involves systems, architectures, or algorithms. In these cases, the reasoning behind the correctness of the results is usually absolute. Therefore, the standard for accepting papers is that the finding exhibits novelty—to some degree, the result should be surprising. However, this standard does not work for empirical studies, which typically involve human experimental subjects. Because empirical reasoning is probabilistic, important results need to be replicated, sometimes multiple times, and by different laboratories. As the replications mount, the field is justified in embracing increasing belief in the results. In other words, consider a field that, in order to accept a paper reporting empirical results, always requires surprise: This is a field that will not progress in empirical knowledge.
     </p>
     <p>
         The tutorial will end with a call for the community to be more accepting of replication studies. In addition, the tutorial will consider whether actions taken by other fields, in response to the replication crisis, might also be recommendable for the Mixed Reality community.
     </p>
-    
+
     <h3>Technical level, intended audience </h3>
     <p>
-        Because of the coverage of statistical material, attendees who have some previous training in statistics might be better able to follow those parts of the tutorial. However, the material is presented at a very high level, with an emphasis on the logical reasoning behind hypothesis testing and probabilistic reasoning. Therefore, we believe that nearly all VR attendees could follow the presentation. 
+        Because of the coverage of statistical material, attendees who have some previous training in statistics might be better able to follow those parts of the tutorial. However, the material is presented at a very high level, with an emphasis on the logical reasoning behind hypothesis testing and probabilistic reasoning. Therefore, we believe that nearly all VR attendees could follow the presentation.
 
     </p>
-    
-    
+
+
 </div>
 
 <div>
@@ -168,23 +168,23 @@ title: "Tutorials"
         <strong>Organizers</strong>
     </p>
     <p>
-        Adam O. Bebko, Biomotionlab, York University, adambebko[at]gmail.com<br/>
-        Anne Thaler, Biomotionlab, York University, athaler[at]yorku.ca<br/>
+        Adam O. Bebko, Biomotionlab, York University, adambebko[at]gmail.com<br />
+        Anne Thaler, Biomotionlab, York University, athaler[at]yorku.ca<br />
     </p>
     <p>
-    <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+        <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p>
-    
+
     <p>
-        Advances in virtual reality (VR) technology have provided a wealth of valuable new approaches to researchers. Coding VR experiments from scratch is technically challenging. Therefore, researchers typically use software such as Unity game engine to create and edit virtual scenes that interface with VR displays. However, Unity lacks built-in tools for controlling experiments, and existing third -party add-ins require substantial scripting and coding knowledge to design even the simplest of experiments, especially for multifactorial designs. 
+        Advances in virtual reality (VR) technology have provided a wealth of valuable new approaches to researchers. Coding VR experiments from scratch is technically challenging. Therefore, researchers typically use software such as Unity game engine to create and edit virtual scenes that interface with VR displays. However, Unity lacks built-in tools for controlling experiments, and existing third -party add-ins require substantial scripting and coding knowledge to design even the simplest of experiments, especially for multifactorial designs.
     </p>
     <p>
-        In this tutorial, we will provide a brief overview of a free and open-source tool called the BiomotionLab Toolkit for Unity Experiments (bmlTUX): https://biomotionlab.github.io/TUX/. Unlike existing tools, bmlTUX provides a graphical interface for configuring factorial experimental designs and turning them into executable experiments. New experiments work “out-of-the-box” and can be created with fewer than twenty lines of code. The toolkit can automatically handle the combinatorics of both random and counterbalanced factors, mixed designs with within and between-subject factors, and blocking, repetition, and randomization of trial order. 
+        In this tutorial, we will provide a brief overview of a free and open-source tool called the BiomotionLab Toolkit for Unity Experiments (bmlTUX): https://biomotionlab.github.io/TUX/. Unlike existing tools, bmlTUX provides a graphical interface for configuring factorial experimental designs and turning them into executable experiments. New experiments work “out-of-the-box” and can be created with fewer than twenty lines of code. The toolkit can automatically handle the combinatorics of both random and counterbalanced factors, mixed designs with within and between-subject factors, and blocking, repetition, and randomization of trial order.
     </p>
     <p>
         During runtime, the experimenter can interactively control the flow of trials and monitor the progression of the experiment. Despite its simplicity, bmlTUX remains highly flexible and customizable, catering to both novice and advanced coders. The toolkit simplifies the process of getting experiments up and running quickly without the hassle of complicated scripting. The toolkit interfaces seamlessly with VR and AR packages, allowing for quick implementation of mixed reality experiments in Unity.
     </p>
-    
+
     <h3>Technical level and intended audience</h3>
     <p>
         Users should already have the latest version of Unity installed and be familiar with basic controls (Scene view, Game view, Inspectors, how to add scripts to GameObjects). Unity Editor version 2020.1 or above will be suitable. Users should also have some basic C# coding knowledge. We will target the novice-level coder by explaining all steps. However, some basic C# experience will be essential to follow along.
@@ -195,4 +195,63 @@ title: "Tutorials"
         Attendees will learn how to design and set up a new VR-compatible behavioural experiments using bmlTUX. This should help attendees accelerate their workflows to create VR experiments, and greatly reduce the amount of coding required to get up and running. This tutorial will also familiarize users with implementing third-party packages into Unity Game Engine.
     </p>
 
+</div>
+
+<div>
+    {% for tutorial in site.data.tutorials %}
+    {% if tutorial.id == 'T4' %}
+    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+
+    <p>
+        <strong>Organizers</strong>
+    </p>
+    <p>
+        Mirjam Vosmeer, Amsterdam University of Applied Sciences, m.s.vosmeer[at]hva.nl<br />
+        Christian Roth, Utrecht University of the Arts, christian.roth[at]hku.nl<br />
+    </p>
+    <p>
+        <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+    </p>
+
+    <p>
+        This tutorial will start by giving a general overview of research into storytelling for VR and about the field of interactive narrative design, presenting a number of cases studies and discussing ways to connect research with questions gained from the industry. The concept of interaction will be presented as a tool for storytelling, as well as the concept of Meaningful VR. A short overview of how VR producers have used the medium in attempts to change viewers’ attitudes and values, often by enabling them to enter another person’s body or experience a slice of another’s life is given. In this context a number of earlier initiatives such as VR for Good and VR for Impact will be presented.
+    </p>
+    <p>
+        After this introduction a range of related theoretical concepts, such as embodiment, acknowledgment, positive technology, media-effects, parasocial interaction, and ludonarrative meaning-making will be discussed, also addressing how technological developments have enabled new ways of including interaction in VR. Subsequently, a conceptual model that aims to bring together different concepts of interaction in VR will be presented: this model can be used to differentiate between narrative and physical interaction, which can be either active or passive.
+    </p>
+    <p>
+        In the following interactive part of the tutorial, participants will be asked to take half an hour offline to look into a VR experience or a 360° video of their choice, and use the conceptual model to interpret the observed interactive elements. After this break, participants will be asked to present and discuss their findings with the group.
+    </p>
+    <p>
+        In the last part of the tutorial, the research project VR for Diversity that was started in October 2020 will be presented, aiming to connect insights that have been gained in the previous part of the tutorial to explore the groups ideas on how interaction design can be applied to realize a Meaningful VR installation that will challenge viewers to (re)consider their views, beliefs and/or opinions on the topic of diversity.
+    </p>
+
+    <h3>Technical level, intended audience and value </h3>
+    <p>
+        The intended audience of this tutorial is interested in the possibilities of VR as a meaningful storytelling medium that can evoke positive change and create new insights with a transformative potential. Previous experience with different types of VR is helpful, but no technical skills are required.
+    </p>
+    <p>
+        Value lies in the insights into the concept of Meaningful VR from both a psychological and design perspective and the demonstration and discussion of promising applications.
+    </p>
+
+</div>
+
+<div>
+    {% for tutorial in site.data.tutorials %}
+    {% if tutorial.id == 'T5' %}
+    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+
+    <p>
+        <strong>Organizers</strong>
+    </p>
+    <p>
+        Mirjam Vosmeer, Amsterdam University of Applied Sciences, m.s.vosmeer[at]hva.nl<br />
+        Christian Roth, Utrecht University of the Arts, christian.roth[at]hku.nl<br />
+    </p>
+    <p>
+        <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+    </p>
+    
+    
+    
 </div>
