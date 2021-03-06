@@ -64,13 +64,22 @@ title: "Tutorials"
     {% if tutorial.id == 'T1' %}
     <h2 id="{{ tutorial.id }}">Panel: {{ tutorial.title}}</h2>
     
-    <h3 style="color: #00aeef;">Organizers</h3>
+    <p>
+        <strong>Organizers</strong>
+    </p>
     <p>
         Evan Suma Rosenberg, University of Minnesota, suma[at]umn.edu<br/>
         Blair MacIntyre, Georgia Institute of Technology, blair[at]cc.gatech.edu<br/>
     </p>
-    <p style="font-size: 0.8em;">{{ tutorial.schedule1 }}, {{ tutorials.timezone1 }}</p>
+    <strong style="font-size: 0.8em;color: black">> {{ tutorial.schedule1 }}, {{ tutorials.timezone1 }}</strong>
       
+    <p>
+    
+    
+    </p>
+    
+    
+    
     
     {% endif %}
     {% endfor %}
