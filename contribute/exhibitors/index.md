@@ -1,6 +1,6 @@
 ---
 layout: ieeevr-default
-title: "Exhibitors and Sponsors"
+title: "Call for Exhibitors and Sponsors"
 ---
 
 <style>
@@ -65,52 +65,6 @@ title: "Exhibitors and Sponsors"
     }
 
 </style>
-
-<div>
-    <h1>Exhibitors </h1>
-    <p>
-        <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces March 27-April 2, 2021, Virtual</strong>
-        <br />
-        <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
-    </p>
-</div>
-
-<table class="styled-table">
-    <tr>
-        <th>Dedicated exhibit hours for IEEEVR (Lisbon WEST UTC+1)</th>
-        <th></th>
-    </tr>
-    <tr>
-        <td>Monday, March 29</td>
-        <td>16:00 - 17:30</td>
-    </tr>
-    <tr>
-        <td>Tuesday, March 30</td>
-        <td>10:30 - 12:30<br/>17:00 - 18:30</td>
-    </tr>
-    <tr>
-        <td>Wednesday, March 31</td>
-        <td>10:30 - 11:30<br/>15:00 - 16:00</td>
-    </tr>
-    <tr>
-        <td>Thursday, April 1</td>
-        <td>11:30 - 13:00<br/>17:30 - 18:30</td>
-    </tr>
-</table>
-
-
-<table class="styled-table">
-    <tr>
-        <th>Welcome Reception (Lisbon WEST UTC+1)</th>
-        <th></th>
-    </tr>
-    <tr>
-        <td>Monday, March 29</td>
-        <td>18:00 - 19:30</td>
-    </tr>
-
-</table>
-
 
 
 <div>
