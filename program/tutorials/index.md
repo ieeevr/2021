@@ -81,7 +81,7 @@ title: "Tutorials"
         The tutorial will be divided into two 90 minutes sessions.
     </p>
     <p>
-        <strong>The first session</strong>will be aimed at developers and will introduce the audience to the fundamental concepts, software tools, and workflow for creating immersive virtual reality experiences that run in entirely within a web browser. Specific topics that will be covered include:
+        <strong>The first session</strong> will be aimed at developers and will introduce the audience to the fundamental concepts, software tools, and workflow for creating immersive virtual reality experiences that run in entirely within a web browser. Specific topics that will be covered include:
     </p>
     <ul>
         <li>Setting up a development environment using Node</li>
