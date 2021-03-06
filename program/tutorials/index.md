@@ -168,11 +168,31 @@ title: "Tutorials"
         <strong>Organizers</strong>
     </p>
     <p>
-        J. Edward Swan II, Mississippi State University, swan[at]acm.org<br />
-        Mohammed Safayet Arefin, Mississippi State University, arefin[at]acm.org<br />
+        Adam O. Bebko, Biomotionlab, York University, adambebko[at]gmail.com<br/>
+        Anne Thaler, Biomotionlab, York University, athaler[at]yorku.ca<br/>
     </p>
     <p>
     <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p>
     
+    <p>
+        Advances in virtual reality (VR) technology have provided a wealth of valuable new approaches to researchers. Coding VR experiments from scratch is technically challenging. Therefore, researchers typically use software such as Unity game engine to create and edit virtual scenes that interface with VR displays. However, Unity lacks built-in tools for controlling experiments, and existing third -party add-ins require substantial scripting and coding knowledge to design even the simplest of experiments, especially for multifactorial designs. 
+    </p>
+    <p>
+        In this tutorial, we will provide a brief overview of a free and open-source tool called the BiomotionLab Toolkit for Unity Experiments (bmlTUX): https://biomotionlab.github.io/TUX/. Unlike existing tools, bmlTUX provides a graphical interface for configuring factorial experimental designs and turning them into executable experiments. New experiments work “out-of-the-box” and can be created with fewer than twenty lines of code. The toolkit can automatically handle the combinatorics of both random and counterbalanced factors, mixed designs with within and between-subject factors, and blocking, repetition, and randomization of trial order. 
+    </p>
+    <p>
+        During runtime, the experimenter can interactively control the flow of trials and monitor the progression of the experiment. Despite its simplicity, bmlTUX remains highly flexible and customizable, catering to both novice and advanced coders. The toolkit simplifies the process of getting experiments up and running quickly without the hassle of complicated scripting. The toolkit interfaces seamlessly with VR and AR packages, allowing for quick implementation of mixed reality experiments in Unity.
+    </p>
+    
+    <h3>Technical level and intended audience</h3>
+    <p>
+        Users should already have the latest version of Unity installed and be familiar with basic controls (Scene view, Game view, Inspectors, how to add scripts to GameObjects). Unity Editor version 2020.1 or above will be suitable. Users should also have some basic C# coding knowledge. We will target the novice-level coder by explaining all steps. However, some basic C# experience will be essential to follow along.
+    </p>
+
+    <h3>Expected value to that audience</h3>
+    <p>
+        Attendees will learn how to design and set up a new VR-compatible behavioural experiments using bmlTUX. This should help attendees accelerate their workflows to create VR experiments, and greatly reduce the amount of coding required to get up and running. This tutorial will also familiarize users with implementing third-party packages into Unity Game Engine.
+    </p>
+
 </div>
