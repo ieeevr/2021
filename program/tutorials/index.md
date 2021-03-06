@@ -62,7 +62,7 @@ title: "Tutorials"
 <div>
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T1' %}
-    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+    <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
     <p>
         <strong>Organizers</strong>
@@ -125,7 +125,7 @@ title: "Tutorials"
 <div>
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T2' %}
-    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+    <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
     <p>
         <strong>Organizers</strong>
@@ -164,7 +164,7 @@ title: "Tutorials"
 <div>
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T3' %}
-    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+    <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
     <p>
         <strong>Organizers</strong>
@@ -205,7 +205,7 @@ title: "Tutorials"
 <div>
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T4' %}
-    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+    <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
     <p>
         <strong>Organizers</strong>
@@ -247,7 +247,7 @@ title: "Tutorials"
 <div>
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T5' %}
-    <h2 id="{{ tutorial.id }}">{{ tutorial.title}}</h2>
+    <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
     <p>
         <strong>Organizers</strong>
