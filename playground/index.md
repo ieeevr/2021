@@ -353,7 +353,7 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <center><strong>Lisbon WET, UTC</strong></center>
+                <center><strong>Lisbon WET, UTC</strong> <a href="">(Add to calendar <i class="far fa-calendar-alt"></i>)</a></center>
                 <div class="schedule-sat-27" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
@@ -557,7 +557,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-1730;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">16:00 - 17:30</span>
                     </div>
                     
@@ -582,7 +582,7 @@ title: "Program Overview"
                     
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1800 / time-1930;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition: Welcome Reception</a></h3>
+                        <h3 id="EW" class="session-title"><a href="/2021/program/exhibitors/">Exhibitors: Welcome Reception</a></h3>
                         <span class="session-time">18:00 - 19:30</span>
                     </div>
 
@@ -626,7 +626,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1230;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">10:30 - 12:30</span>
                     </div>
                     
@@ -697,7 +697,7 @@ title: "Program Overview"
                     </div>
                     
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-1830;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
                     </div>
 
@@ -752,7 +752,7 @@ title: "Program Overview"
                     </div>
                     
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1130;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">10:30 - 11:30</span>
                     </div>
 
@@ -788,7 +788,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1600;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E5" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">15:00 - 16:00</span>
                     </div>
                     
@@ -875,7 +875,7 @@ title: "Program Overview"
                     
                     <p class="time-slot" style="grid-row: time-1130;">11:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1300;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">11:30 - 13:00</span>
                     </div>
                     
@@ -931,7 +931,7 @@ title: "Program Overview"
                     
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1900;">
-                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="E7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:30 - 18:30</span>
                     </div>
 
