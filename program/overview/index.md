@@ -60,7 +60,7 @@ title: "Program Overview"
       */
 
             grid-template-columns:
-                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end];
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
         }
 
         .schedule-sat-27 {
@@ -230,6 +230,11 @@ title: "Program Overview"
 
     .track-orange {
         background-color: rgb(255, 149, 0);
+        color: #fff;
+    }
+    
+    .track-purple {
+        background-color: rgb(175, 82, 222);
         color: #fff;
     }
 
@@ -410,7 +415,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
-                        <span class="session-time">15:30 - 21:00</span>
+                        <span class="session-time">17:00 - 21:00</span>
                     </div>
                     <div class="session session-11 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
@@ -487,6 +492,7 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 3</span>
 
                     <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
