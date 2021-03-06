@@ -245,13 +245,36 @@ title: "Tutorials"
         <strong>Organizers</strong>
     </p>
     <p>
-        Mirjam Vosmeer, Amsterdam University of Applied Sciences, m.s.vosmeer[at]hva.nl<br />
-        Christian Roth, Utrecht University of the Arts, christian.roth[at]hku.nl<br />
+        Darlene Barker, University of Massachusetts Lowell, MA, darlene_barker[at]student.uml.edu<br/>
+        Haim Levkowitz, University of Massachusetts Lowell, MA, haim_levkowitz[at]uml.edu<br/>
     </p>
     <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p>
     
+    <p>
+        To make more impact on social interaction within virtual reality (VR), we need to consider the impact of emotions on our interpersonal communications and how we can express them within VR. This tutorial will show the introductory research on the topic, where we propose the use of emotions that are based upon the use of voice, facial expressions, and touch to create the emotional closeness and nonverbal intimacy needed in nonphysical interpersonal communication. Virtual and long-distance communications lack the physical contact that we have with in-person interaction as well as the nonverbal cues that enhance what the conversation is conveying. The use of haptic devices and tactile sensations can help with the delivery of touch between parties and machine learning can be used for emotion recognition based on data collected from other sensory devices; all working towards better long-distance communications.
+    </p>
+    <p>
+        In today’s world, we are forced to remain apart due to the global pandemic and the safety measures needed to prevent its spread. So, having a better means of communicating with loved ones would be invaluable. Outside of the pandemic, the ability to experience touch as well as other senses within VR could help enhance communication between family who lives at a distance or family who is separated because some of them must travel for work. Those who are visually impaired may also benefit from such technology.
+    </p>
+    <p>
+        Topics to be covered include the following:
+    </p>
+    <ul>
+        <li>Overview of how emotions are currently being interpreted.</li>
+        <li>Overview of the instructors’ implementing of emotions to include touch in VR from a software approach, an initial stage research.</li>
+        <li>More detailed approach of the interpretation of nonverbal communication in VR, movement, facial expressions, and touch by the avatar.</li>
+        <li>Applications of the use of emotions in VR.</li>
+        <li>Discussion of further research in emotions in VR</li>
+    </ul>
+
+    <h3>Technical level, intended audience and value </h3>
+    <p>
+        All can benefit from this. The tutorial will be accessible technically from high-schooler and above.
+        Given our current Covid-19 measures, it could add value to communications with family at a distance and close. Outside of that, visually impaired people could benefit from this. Also, long distance communication can benefit from this research.
+    </p>
+
     
     
 </div>
