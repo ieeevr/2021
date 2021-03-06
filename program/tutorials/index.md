@@ -53,7 +53,7 @@ title: "Tutorials"
         </tr>
         {% for tutorial in site.data.tutorials %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ tutorial.id }}">{{ panel.tutorial }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ tutorial.id }}">{{ tutorial.title }}</a></td>
         </tr>
         {% endfor %}
     </table>
