@@ -353,10 +353,10 @@ title: "Program Overview"
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
-
+                <p><strong>Lisbon WET, UTC</strong></p>
                 <div class="schedule-sat-27" aria-labelledby="schedule-heading">
 
-                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WET, UTC</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
@@ -947,9 +947,9 @@ title: "Program Overview"
                 <div class="schedule-fri-2" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;">Lisbon WEST UTC+1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
                     <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
