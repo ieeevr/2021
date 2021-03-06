@@ -522,7 +522,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
-                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Paper Session</h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
@@ -616,6 +616,12 @@ title: "Program Overview"
                         <span class="session-time">9:30 - 11:00</span>
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1230;">
+                        <h3 class="session-title"><a href="/2021/contribute/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">10:30 - 12:30</span>
+                    </div>
+                    
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-4 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1100 / time-1200;">
