@@ -527,24 +527,24 @@ title: "Program Overview"
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
-                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Paper Session</h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Lunch</h3>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
 
-                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1400 / time-1500;">
+                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1500;">
                         <h3 class="session-title">Paper Session</h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
 
-                    <div class="session session-9 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1400 / time-1500;">
+                    <div class="session session-9 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
                         <h3 class="session-title">Paper Session</h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
