@@ -958,11 +958,11 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-                    <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
+                    <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><a href="#">Tutorial: bmlTUX – a simple toolkit for building experiments in Unity</a></h3>
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
-                    <div class="session session-3 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1630;">
+                    <div class="session session-3 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><a href="#">Tutorial: Emotion in Virtual Reality</a></h3>
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
