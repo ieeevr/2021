@@ -49,7 +49,7 @@ title: "Tutorials"
     <table class="styled-table">
 
         <tr>
-            <th>tutorials</th>
+            <th>Tutorials</th>
         </tr>
         {% for tutorial in site.data.tutorials %}
         <tr>
@@ -60,16 +60,16 @@ title: "Tutorials"
 </div>
 
 <div>
-    {% for panel in site.data.panels %}
-    {% if panel.id == 'T1' %}
-    <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
-    <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
+    {% for tutorial in site.data.tutorials %}
+    {% if tutorial.id == 'T1' %}
+    <h2 id="{{ tutorial.id }}">Panel: {{ tutorial.title}}</h2>
     
-    
-    <h3 style="color: #00aeef;">Description</h3>
+    <h3 style="color: #00aeef;">Organizers</h3>
     <p>
-        Research on the existence and nature of implicit bias has generated a significant amount of attention in psychology and other social sciences over the past few decades. Considerable scientific and policy interest in prejudice reduction and bias interventions date all the way back to such classic texts as Gordon Allport’s The Nature of Prejudice (1954), where intergroup contact theory as an approach to prejudice reduction was first introduced.  Thousands of hours and millions of dollars have been invested developing and implementing a wide variety of anti-discrimination and anti-bias training programs in different organizational and educational contexts. The efficacy of these efforts, and the conditions under which they are effective and for how long, continues to be an issue at the forefront of research on bias mitigation.
+        Evan Suma Rosenberg, University of Minnesota, suma[at]umn.edu<br/>
+        Blair MacIntyre, Georgia Institute of Technology, blair[at]cc.gatech.edu<br/>
     </p>
+    <p style="font-size: 0.8em;">{{ tutorial.schedule1 }}, {{ tutorials.timezone1 }}</p>
       
     
     {% endif %}
