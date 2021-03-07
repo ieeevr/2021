@@ -132,7 +132,7 @@ title: "Videos"
 <div>
     {% for video in site.data.videos %}
 
-    <h2 id="{{ video.id }}">{{ video.title }}</h2>
+    <h3 id="{{ video.id }}">{{ video.title }}</h3>
     <p><i>{{ video.authors }}</i></p>
     <!--
     <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ video.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ video.id }}" class="lbl-toggle">Abstract</label>
