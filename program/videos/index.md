@@ -134,16 +134,20 @@ title: "Videos"
 
     <h3 id="{{ video.id }}">{{ video.title }}</h3>
     <p><i>{{ video.authors }}</i></p>
+    <!--
     <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ video.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ video.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
+-->
                 <p>{{ video.abstract }}</p>
-            </div>
+<!--
+</div>
         </div>
     </div>
+-->
     <div>
         <center>
-            <iframe width="420" height="315" src="{{ video.url }}">
+            <iframe width="560" height="315" src="{{ video.url }}">
             </iframe>
         </center>
     </div>
