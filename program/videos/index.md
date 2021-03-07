@@ -143,7 +143,7 @@ title: "Videos"
     </div>
     <div>
         <center>
-            <iframe width="420" height="315" src="video.url">
+            <iframe width="420" height="315" src="{{ video.url }}">
             </iframe>
         </center>
     </div>
