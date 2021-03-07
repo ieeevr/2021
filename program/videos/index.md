@@ -112,6 +112,27 @@ title: "Videos"
         margin-bottom: 0;
     }
 
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
 </style>
 
 
@@ -139,17 +160,24 @@ title: "Videos"
         <div class="collapsible-content">
             <div class="content-inner">
 -->
-                <p>{{ video.abstract }}</p>
-<!--
+    <p>{{ video.abstract }}</p>
+    <!--
 </div>
         </div>
     </div>
 -->
+
+    <!--
     <div>
         <center>
             <iframe width="560" height="315" src="{{ video.url }}">
             </iframe>
         </center>
+    </div>
+-->
+
+    <div class="video-container">
+        <iframe src="{{ video.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     {% endfor %}
