@@ -120,7 +120,7 @@ title: "Videos"
     }
 
     .video-container::after {
-        padding-top: 56.25%;
+        padding-top: 56.25%; /* 75% if 4:3*/
         display: block;
         content: '';
     }
