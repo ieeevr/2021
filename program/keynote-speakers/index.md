@@ -74,8 +74,9 @@ title: "Keynote Speakers"
     <br />
 
     <center><big><strong>{{ keynote.title }}</strong></big></center>
-    <center><small>{{ keynote.schedule }}</small></center>
-
+    <center><small>{{ keynote.day }} - {{ keynote.start }}, {{ keynote.timezone }}</small></center>
+    
+    
     <p>
         <strong>Abstract</strong><br />
         {{ keynote.abstract }}
