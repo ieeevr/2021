@@ -48,41 +48,48 @@ title: "Exhibitors and Sponsors"
     <h1>Exhibitors and Sponsors</h1>
 
 
-<table class="styled-table">
-    <tr>
-        <th>Dedicated exhibit hours </th>
-        <th>(Lisbon WEST UTC+1)</th>
-    </tr>
-    <tr>
-        <td>Monday, March 29</td>
-        <td><a href="/2021/program/overview/#EX1">16:00 - 17:30</a></td>
-    </tr>
-    <tr>
-        <td>Tuesday, March 30</td>
-        <td><a href="/2021/program/overview/#EX2">10:30 - 12:30</a><br/><a href="/2021/program/overview/#EX3">17:00 - 18:30</a></td>
-    </tr>
-    <tr>
-        <td>Wednesday, March 31</td>
-        <td><a href="/2021/program/overview/#EX4">10:30 - 11:30</a><br/><a href="/2021/program/overview/#EX5">15:00 - 16:00</a></td>
-    </tr>
-    <tr>
-        <td>Thursday, April 1</td>
-        <td><a href="/2021/program/overview/#EX6">11:30 - 13:00</a><br/><a href="/2021/program/overview/#EX7">17:30 - 18:30</a></td>
-    </tr>
-</table>
+    <div class="notice--info">
+        <p><strong>
+                Please click <a href="/2021/program/exhibitors/">HERE</a> for more exhibit and sponsor information.
+            </strong>
+        </p>
+    </div>
+
+    <table class="styled-table">
+        <tr>
+            <th>Dedicated exhibit hours </th>
+            <th>(Lisbon WEST UTC+1)</th>
+        </tr>
+        <tr>
+            <td>Monday, March 29</td>
+            <td><a href="/2021/program/overview/#EX1">16:00 - 17:30</a></td>
+        </tr>
+        <tr>
+            <td>Tuesday, March 30</td>
+            <td><a href="/2021/program/overview/#EX2">10:30 - 12:30</a><br /><a href="/2021/program/overview/#EX3">17:00 - 18:30</a></td>
+        </tr>
+        <tr>
+            <td>Wednesday, March 31</td>
+            <td><a href="/2021/program/overview/#EX4">10:30 - 11:30</a><br /><a href="/2021/program/overview/#EX5">15:00 - 16:00</a></td>
+        </tr>
+        <tr>
+            <td>Thursday, April 1</td>
+            <td><a href="/2021/program/overview/#EX6">11:30 - 13:00</a><br /><a href="/2021/program/overview/#EX7">17:30 - 18:30</a></td>
+        </tr>
+    </table>
 
 
-<table class="styled-table">
-    <tr>
-        <th>Welcome Reception</th>
-        <th>(Lisbon WEST UTC+1)</th>
-    </tr>
-    <tr>
-        <td>Monday, March 29</td>
-        <td><a href="/2021/program/overview/#EXW">18:00 - 19:30</a></td>
-    </tr>
+    <table class="styled-table">
+        <tr>
+            <th>Welcome Reception</th>
+            <th>(Lisbon WEST UTC+1)</th>
+        </tr>
+        <tr>
+            <td>Monday, March 29</td>
+            <td><a href="/2021/program/overview/#EXW">18:00 - 19:30</a></td>
+        </tr>
 
-</table>
+    </table>
 
 
 

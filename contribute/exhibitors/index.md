@@ -25,7 +25,7 @@ title: "Call for Exhibitors and Sponsors"
         padding: 20px;
         position: relative;
     }
-    
+
     .styled-table {
         border-collapse: collapse;
         margin: 25px 0;
@@ -74,6 +74,16 @@ title: "Call for Exhibitors and Sponsors"
         <br />
         <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
     </p>
+
+
+    <div class="notice--info">
+        <p><strong>
+            Please click <a href="/2021/program/exhibitors/">HERE</a> to see the conferences designated exhibit hours
+            </strong>
+        </p>
+    </div>
+
+
 
 
     <h2>Important Dates</h2>
