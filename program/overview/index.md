@@ -668,7 +668,9 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1430;">14:30</p>
 
                     <div class="session session-10 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1430 / time-1530;">
-                        <h3 class="session-title">Keynote</h3>
+                        <h3 class="session-title">
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver" target="_blank">Keynote by Nuria Oliver<br/>Data Science to fight against COVID-19</a>
+                        </h3>
                         <span class="session-time">14:30 - 15:30</span>
                     </div>
 
@@ -759,7 +761,9 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title">Keynote</h3>
+                        <h3 class="session-title">Keynote
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke<br/>B(l)ending Realities</a>
+                        </h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
 
@@ -918,7 +922,9 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
 
                     <div class="session session-11 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1630;">
-                        <h3 class="session-title">Keynote</h3>
+                        <h3 class="session-title">Keynote
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner<br/>AR Longa, VR Brevis? Thinking About Our Future</a>
+                        </h3>
                         <span class="session-time">15:30 - 16:30</span>
                     </div>
 
