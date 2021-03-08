@@ -85,6 +85,8 @@ title: "Keynote Speakers"
         <strong>Bio</strong><br />
         {{ keynote.bio }}
     </p>
+    
+    <hr>
 
 </div>
 
