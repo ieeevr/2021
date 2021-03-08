@@ -50,11 +50,13 @@ title: "Exhibitors and Sponsors"
 
     <div class="notice--info">
         <p><strong>
-                Please click <a href="/2021/program/exhibitors/">HERE</a> for more exhibit and sponsor information.
+                Please click <a href="/2021/contribute/exhibitors/">HERE</a> for more exhibit and sponsor information.
             </strong>
         </p>
     </div>
 
+    <br/>
+    
     <table class="styled-table">
         <tr>
             <th>Dedicated exhibit hours </th>
