@@ -922,7 +922,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
 
                     <div class="session session-11 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1630;">
-                        <h3 class="session-title">Keynote
+                        <h3 class="session-title">
                             <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner<br/>AR Longa, VR Brevis? Thinking About Our Future</a>
                         </h3>
                         <span class="session-time">15:30 - 16:30</span>
