@@ -510,7 +510,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
 
                     <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1030 / time-1130;">
-                        <h3 class="session-title">Keynote</h3>
+                        <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler" target="_blank">Keynote by Betty Mohler<br/>Self-avatars in Immersive Technology</a></h3>
                         <span class="session-time">10:30 - 11:30</span>
                     </div>
 
