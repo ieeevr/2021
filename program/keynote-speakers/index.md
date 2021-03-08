@@ -70,7 +70,7 @@ title: "Keynote Speakers"
     <center><strong><big>{{ keynote.name }}</big></strong></center>
     <center>{{ keynote.affiliation }}</center>
     <br />
-    <center><img src="{{ keynote.photo }}" alt="Photo of {{ keynote.name }}" width="60%"></center>
+    <center><img src="{{ keynote.photo }}" alt="Photo of {{ keynote.name }}" width="50%"></center>
     <br />
 
     <center><big><strong>{{ keynote.title }}</strong></big></center>
