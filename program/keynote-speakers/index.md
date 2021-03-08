@@ -55,7 +55,7 @@ title: "Keynote Speakers"
         </tr>
         {% for keynote in site.data.keynotes %}
         <tr>
-            <td><a href="#{{ keynote.id }}">Dr. {{ keynote.name }}</a></td>
+            <td><a href="#{{ keynote.id }}">{{ keynote.name }}</a></td>
             <td style="font-size: 0.875em;">{{ keynote.day }} - {{ keynote.start }} ({{ keynote.timezone }})</td>
         </tr>
         {% endfor %}
