@@ -206,7 +206,7 @@ title: "Registration"
     <li style="color: #00aeef:"><strong>Can a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
         Yes.</li>
     
-    <li style="color: #00aeef:"><strong>Can a participant registered to the conference, attend workshops and tutorials?</strong><br/>
+    <li style="color: #00aeef:"><strong>Can a participant registered for the conference, attend workshops and tutorials?</strong><br/>
         Yes.</li>
 </ol>
 
