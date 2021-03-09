@@ -203,7 +203,10 @@ title: "Registration"
     <li style="color: #00aeef:"><strong>What is an Invited TVCG paper?</strong><br/>
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2021 Journal Papers published in the special issue.</li>
 
-    <li style="color: #00aeef:"><strong>Can  a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
+    <li style="color: #00aeef:"><strong>Can a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
+        Yes.</li>
+    
+    <li style="color: #00aeef:"><strong>Can a participant registered to the conference, attend workshops and tutorials?</strong><br/>
         Yes.</li>
 </ol>
 
