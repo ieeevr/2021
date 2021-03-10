@@ -374,11 +374,6 @@ title: "Program Overview"
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
-                    <div class="session session-3 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#EXR">Workshop: Ethics in VR (EXR)</a></h3>
-                        <span class="session-time">9:00 - 12:00</span>
-                    </div>
-
                     <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
@@ -967,6 +962,12 @@ title: "Program Overview"
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <div class="session session-ex track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#EXR">Workshop: Ethics in VR (EXR)</a></h3>
+                        <span class="session-time">13:00 - 16:00</span>
+                    </div>
+                    
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><a href="/2021/program/tutorials/#T3">Tutorial: bmlTUX – a simple toolkit for building experiments in Unity</a></h3>
