@@ -791,7 +791,7 @@ title: "Program Overview"
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1445;">14:45</p>
-                    <div class="session session-xxx track-contest" style="grid-column: track-1-start / track-2-end; grid-row: time-1445 / time-1530;">
+                    <div class="session session-xxx track-3dui" style="grid-column: track-1-start / track-2-end; grid-row: time-1445 / time-1530;">
                         <h3 class="session-title">3DUI Contest</h3>
                         <span class="session-time">14:45 - 15:30</span>
                     </div>
