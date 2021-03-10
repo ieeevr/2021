@@ -254,8 +254,7 @@ title: "Program Overview"
     }
     
     .track-3dui {
-        /* background-color: rgb(88, 86, 214); */
-        background-color: rgb(255, 204, 0);
+        background-color: rgb(88, 86, 214);
         color: #fff;
     }
 
@@ -786,15 +785,14 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-                    <div class="session session-9 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1430;">
+                    <div class="session session-9 track-orange" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1530;">
                         <h3 class="session-title">Posters and Demos</h3>
-                        <span class="session-time">14:00 - 14:45</span>
+                        <span class="session-time">14:00 - 15:30</span>
                     </div>
                     
-                    <p class="time-slot" style="grid-row: time-1430;">14:45</p>
-                    <div class="session session-xxx track-3dui" style="grid-column: track-1-start / track-2-end; grid-row: time-1430 / time-1530;">
+                    <div class="session session-xxx track-3dui" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1530;">
                         <h3 class="session-title">3DUI Contest</h3>
-                        <span class="session-time">14:45 - 15:30</span>
+                        <span class="session-time">14:00 - 15:30</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
