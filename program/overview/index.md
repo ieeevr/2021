@@ -254,7 +254,8 @@ title: "Program Overview"
     }
     
     .track-3dui {
-        background-color: rgb(88, 86, 214);
+        /* background-color: rgb(88, 86, 214); */
+        background-color: rgb(255, 204, 0);
         color: #fff;
     }
 
