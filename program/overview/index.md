@@ -775,12 +775,14 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
+                    <!--
                     <div class="session session-7 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Mixer</h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
+                    -->
 
-                    <div class="session session-8 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Paper Session</h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
