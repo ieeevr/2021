@@ -387,7 +387,7 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1000 / time-1330;">
+                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1200 / time-1330;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
@@ -404,16 +404,16 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 17:00</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
-                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a></h3>
-                        <span class="session-time">15:00 - 21:00</span>
-                    </div>
-
                     <p class="time-slot" style="grid-row: time-1400;">14:15</p>
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1630;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">14:15 - 16:15</span>
+                    </div>
+                    
+                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a></h3>
+                        <span class="session-time">15:00 - 21:00</span>
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
@@ -433,7 +433,7 @@ title: "Program Overview"
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1700;">17:15</p>
-                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1500 / time-1830;">
+                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-1830;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">17:15 - 18:05</span>
                     </div>
