@@ -231,7 +231,7 @@ title: "Workshop Papers"
 
     <h2 id="DISCE"> Distributed Interactive Systems for Collaborative Experiences (DISCE) </h2>
     <p>
-        <strong style="color:black;">Website:</strong> TBD
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/disce/home" target="_blank">https://sites.google.com/view/disce/home</a>
     </p>
     <ul>
         <li> Submission deadline 18/01/2021 </li>
