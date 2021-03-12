@@ -317,7 +317,7 @@ title: "Tutorials"
     <p>
         <strong style="font-size: 0.8em;color: black">Saturday, March 27 16:00 - 17:30, Lisbon WET, UTC</strong>
     </p>
-    <h3 id="T6S1">Session 1, The Interoperable Open Spatial Computing Platform </h3>
+    <h3 id="T6S1" style="color: #00aeef;">Session 1, The Interoperable Open Spatial Computing Platform </h3>
 
     <p>
         will introduce the participants to a high-level overview of spatial computing concepts, ecosystem, use cases and some of the issues and concerns surrounding the current development of proprietary walled-garden solutions. The complexity of the technology tends towards proprietary hardware and siloed solutions, yet Open AR Cloud advocates for an open spatial web, available to everyone. The OARC’s approaches include developing an open, distributed architecture; defining components that anyone or any organization can deploy; and using standards (or developing new standards where they are absent) to ensure interoperability across solutions and services.
@@ -334,7 +334,7 @@ title: "Tutorials"
     <p>
         <strong style="font-size: 0.8em;color: black">Saturday, March 27 18:00 - 21:00, Lisbon WET, UTC</strong>
     </p>
-    <h3 id="T6S2">Session 2, Hands-on Tutorial: Developing Spatial Applications</h3>
+    <h3 id="T6S2" style="color: #00aeef;">Session 2, Hands-on Tutorial: Developing Spatial Applications</h3>
     <p>
         is a half-day hands-on interactive coding session where participants will gain knowledge about the design, development and use of localized AR technology, placing virtual content anchored to a digital-twin and building a client side application compatible with an Open Spatial Computing Platform (OSCP). Participants will also come away with better understanding of the challenges related to building a point-cloud ‘digital-twin’ of a real-world location, the practicalities of visual positioning and localization, and the integration of virtual content into the physical world with centimeter accuracy. The participants will learn how to publish immersive content leveraging open standards for GeoPose, Spatial Discovery Service(SDS) and Content Discovery Service(CDS), and both the technical and practical aspects of interacting with geospatially placed virtual content in the real world.
     </p>
@@ -359,7 +359,7 @@ title: "Tutorials"
     <p>
         <strong style="font-size: 0.8em;color: black">Friday, April 2 17:00 - 20:30, Lisbon WEST, UTC+1</strong>
     </p>
-    <h3 id="T6S3">Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions</h3>
+    <h3 id="T6S3" style="color: #00aeef;">Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions</h3>
     <p>
         will conclude the series by highlighting the accomplishments of the participants from <strong>Session 2, Hands-on Tutorial: Spatial Web Applications</strong>. Participants will have the opportunity to demonstrate their completed submissions and receive feedback from a panel of well known experts in the field.
     </p>
