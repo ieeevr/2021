@@ -232,7 +232,7 @@ title: "Program Overview"
         background-color: rgb(255, 149, 0);
         color: #fff;
     }
-    
+
     .track-purple {
         background-color: rgb(175, 82, 222);
         color: #fff;
@@ -252,7 +252,7 @@ title: "Program Overview"
         background-color: rgb(255, 45, 85);
         color: #fff;
     }
-    
+
     .track-3dui {
         /* background-color: rgb(88, 86, 214); */
         background-color: rgb(211, 15, 69);
@@ -413,13 +413,13 @@ title: "Program Overview"
                     <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-17:30;">
                         <h3 class="session-title">
                             <a href="/2021/program/tutorials/#T6S1">
-                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br/>
+                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br />
                                 Session 1, The Interoperable Open Spatial Computing Platform
                             </a>
                         </h3>
                         <span class="session-time">16:00 - 17:30</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
@@ -429,12 +429,12 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-9S2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1800 / time-21:00;">
                         <h3 class="session-title">
                             <a href="/2021/program/tutorials/#T6S2">
-                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br/>
+                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br />
                                 Session 2, Hands-on Tutorial: Developing Spatial Applications
                             </a>
                         </h3>
@@ -454,7 +454,7 @@ title: "Program Overview"
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule-sun-28" aria-labelledby="schedule-heading">
-                    
+
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -507,7 +507,7 @@ title: "Program Overview"
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
-                    
+
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -529,7 +529,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
 
                     <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1030 / time-1130;">
-                        <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler" target="_blank">Keynote by Betty Mohler<br/>Self-avatars in Immersive Technology</a></h3>
+                        <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler" target="_blank">Keynote by Betty Mohler<br />Self-avatars in Immersive Technology</a></h3>
                         <span class="session-time">10:30 - 11:30</span>
                     </div>
 
@@ -579,8 +579,8 @@ title: "Program Overview"
                         <h3 id="E1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">16:00 - 17:30</span>
                     </div>
-                    
-                    
+
+
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
                     <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1730;">
@@ -598,7 +598,7 @@ title: "Program Overview"
                         <h3 class="session-title">Welcome Reception</h3>
                         <span class="session-time">17:30 - 19:00</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1800 / time-1930;">
                         <h3 id="EW" class="session-title"><a href="/2021/program/exhibitors/">Exhibitors: Welcome Reception</a></h3>
@@ -619,7 +619,7 @@ title: "Program Overview"
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    
+
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -648,7 +648,7 @@ title: "Program Overview"
                         <h3 id="E2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">10:30 - 12:30</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
                     <div class="session session-4 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1100 / time-1200;">
@@ -688,7 +688,7 @@ title: "Program Overview"
 
                     <div class="session session-10 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1430 / time-1530;">
                         <h3 class="session-title">
-                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver" target="_blank">Keynote by Nuria Oliver<br/>Data Science to fight against COVID-19</a>
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver" target="_blank">Keynote by Nuria Oliver<br />Data Science to fight against COVID-19</a>
                         </h3>
                         <span class="session-time">14:30 - 15:30</span>
                     </div>
@@ -716,7 +716,7 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/program/panels/#P1">Panel: Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-1830;">
                         <h3 id="E3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
@@ -742,7 +742,7 @@ title: "Program Overview"
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    
+
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -771,7 +771,7 @@ title: "Program Overview"
                     <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
                         <h3 class="session-title">Break</h3>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1130;">
                         <h3 id="E4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">10:30 - 11:30</span>
@@ -781,7 +781,7 @@ title: "Program Overview"
 
                     <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1100 / time-1200;">
                         <h3 class="session-title">Keynote
-                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke<br/>B(l)ending Realities</a>
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke<br />B(l)ending Realities</a>
                         </h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
@@ -810,7 +810,7 @@ title: "Program Overview"
                         <h3 class="session-title">Posters and Demos</h3>
                         <span class="session-time">14:00 - 15:30</span>
                     </div>
-                    
+
                     <div class="session session-xxx track-3dui" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1530;">
                         <h3 class="session-title">3DUI Contest</h3>
                         <span class="session-time">14:00 - 15:30</span>
@@ -821,7 +821,7 @@ title: "Program Overview"
                         <h3 id="E5" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">15:00 - 16:00</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
 
                     <div class="session session-10 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1630;">
@@ -872,7 +872,7 @@ title: "Program Overview"
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule" aria-labelledby="schedule-heading">
 
-                    
+
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -902,14 +902,14 @@ title: "Program Overview"
                         <span class="session-time">10:30 - 12:00</span>
                     </div>
 
-                    
+
                     <p class="time-slot" style="grid-row: time-1130;">11:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1300;">
                         <h3 id="E6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">11:30 - 13:00</span>
                     </div>
-                    
-                    
+
+
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
 
                     <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
@@ -949,7 +949,7 @@ title: "Program Overview"
 
                     <div class="session session-11 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1630;">
                         <h3 class="session-title">
-                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner<br/>AR Longa, VR Brevis? Thinking About Our Future</a>
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner<br />AR Longa, VR Brevis? Thinking About Our Future</a>
                         </h3>
                         <span class="session-time">15:30 - 16:30</span>
                     </div>
@@ -960,7 +960,7 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="#">Closing</a></h3>
                         <span class="session-time">16:30 - 18:00</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1900;">
                         <h3 id="E7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
@@ -981,7 +981,7 @@ title: "Program Overview"
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
                 <div class="schedule-fri-2" aria-labelledby="schedule-heading">
 
-                    
+
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -998,7 +998,7 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#EXR">Workshop: Ethics in VR (EXR)</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><a href="/2021/program/tutorials/#T3">Tutorial: bmlTUX – a simple toolkit for building experiments in Unity</a></h3>
@@ -1024,7 +1024,7 @@ title: "Program Overview"
                         </h3>
                         <span class="session-time">17:00 - 20:30</span>
                     </div>
-                    
+
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#Finding-a-way-forward-in-VR-locomotion">Workshop: Finding a way forward in VR locomotion</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
