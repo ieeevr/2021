@@ -410,7 +410,7 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
-                    <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1730;">
+                    <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1800;">
                         <h3 class="session-title">
                             <a href="/2021/program/tutorials/#T6S1">
                                 Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 1
