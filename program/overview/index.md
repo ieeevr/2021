@@ -409,11 +409,18 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 21:00</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1700;">15:30</p>
-                    <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="#">Tutorial: OpenAR: Combining the Virtual and Real?</a></h3>
-                        <span class="session-time">15:30 - 21:00</span>
+                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+                    <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-17:30;">
+                        <h3 class="session-title">
+                            <a href="/2021/program/tutorials/#T6S1">
+                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br/>
+                                Session 1, The Interoperable Open Spatial Computing Platform
+                            </a>
+                        </h3>
+                        <span class="session-time">16:00 - 17:30</span>
                     </div>
+                    
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
@@ -421,6 +428,17 @@ title: "Program Overview"
                     <div class="session session-11 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                    
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <div class="session session-9S2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1800 / time-21:00;">
+                        <h3 class="session-title">
+                            <a href="/2021/program/tutorials/#T6S2">
+                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br/>
+                                Session 2, Hands-on Tutorial: Developing Spatial Applications
+                            </a>
+                        </h3>
+                        <span class="session-time">18:00 - 21:00</span>
                     </div>
 
                 </div>
@@ -998,10 +1016,25 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <div class="session session-9S3 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-20:30;">
+                        <h3 class="session-title">
+                            <a href="/2021/program/tutorials/#T6S3">
+                                Tutorial: Combining the Virtual and the Real: The Open Spatial Computing Platform<br/>
+                                Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions
+                            </a>
+                        </h3>
+                        <span class="session-time">17:00 - 20:30</span>
+                    </div>
+                    
+                    
                     <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2000;">
                         <h3 class="session-title"><a href="#">Tutorial: OpenAR: Combining the Virtual and Real?</a></h3>
                         <span class="session-time">17:00 - 20:00</span>
                     </div>
+                    
+                    
+                    
+                    
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#Finding-a-way-forward-in-VR-locomotion">Workshop: Finding a way forward in VR locomotion</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
