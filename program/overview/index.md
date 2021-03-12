@@ -380,14 +380,20 @@ title: "Program Overview"
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
 
-                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-0900 / time-1200;">
+                    <p class="time-slot" style="grid-row: time-1000;">10:00</p>
+                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1000 / time-1130;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
-                        <span class="session-time">9:00 - 12:00</span>
+                        <span class="session-time">10:00 - 11:45</span>
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1000 / time-1330;">
+                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+                        <span class="session-time">12:00 - 13:30</span>
+                    </div>
+                    
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-
                     <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
                         <h3 class="session-title"><a href="/2021/program/tutorials/#T1">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
@@ -398,17 +404,18 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 17:00</span>
                     </div>
 
-                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
-                        <span class="session-time">13:00 - 16:00</span>
-                    </div>
-
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a></h3>
                         <span class="session-time">15:00 - 21:00</span>
                     </div>
 
+                    <p class="time-slot" style="grid-row: time-1400;">14:15</p>
+                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1630;">
+                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+                        <span class="session-time">14:15 - 16:15</span>
+                    </div>
+                    
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1800;">
                         <h3 class="session-title">
@@ -424,9 +431,11 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
-                    <div class="session session-11 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-2100;">
+                    
+                    <p class="time-slot" style="grid-row: time-1700;">17:15</p>
+                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1500 / time-1830;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
-                        <span class="session-time">17:00 - 21:00</span>
+                        <span class="session-time">17:15 - 18:05</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
