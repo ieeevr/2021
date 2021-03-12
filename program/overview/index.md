@@ -146,7 +146,7 @@ title: "Program Overview"
     .session {
         padding: .5em;
         border-radius: 5px;
-        font-size: 14px;
+        font-size: 12px;
         box-shadow:
             rgba(255, 255, 255, .6) 1px 1px 0,
             rgba(0, 0, 0, .3) 4px 4px 0;
