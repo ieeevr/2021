@@ -118,7 +118,7 @@ title: "Papers"
 <h1>Papers</h1>
 
 <div>
-    <table class="styled-table">
+    <table class="styled-table" style="font-size: 0.6em; ">
         <tr>
             <th>Monday, March 29</th>
         </tr>
