@@ -189,6 +189,7 @@ title: "Papers"
     <h3 id="{{ session.id }}">Session: {{ session.name }}</h3>
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
     
+        <h2>Paper title</h2>
         <!-- FOR PAPERS -->
     
     {% endif%}
