@@ -126,7 +126,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Monday, March 29' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
         </tr>
         {% endif %}
@@ -142,7 +142,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Tuesday, March 30' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
         </tr>
         {% endif %}
@@ -158,7 +158,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Wednesday, March 31' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
         </tr>
         {% endif %}
@@ -174,7 +174,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Thursday, April 1' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
         </tr>
         {% endif %}
@@ -183,8 +183,16 @@ title: "Papers"
 </div>
 
 <div>
-
+    {% for session in site.data.sessions %}
+    {% if session.day == 'Monday, March 29' %}
     
+    <h3>Session: {{ session.name }}</h3>
+    <p><strong>{{ session.day }}, {{ session.startime }}, {{ session.timezone }}</strong></p>
+    
+    
+    
+    {% endif%}
+    {% endfor %}
 </div>
 
 
