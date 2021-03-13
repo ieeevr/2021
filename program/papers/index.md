@@ -118,7 +118,7 @@ title: "Papers"
 <h1>Papers</h1>
 
 <div>
-    <table class="styled-table" style="font-size: 0.6em; ">
+    <table class="styled-table" style="font-size: 0.7em; ">
         <tr>
             <th>Monday, March 29</th>
         </tr>
@@ -132,7 +132,7 @@ title: "Papers"
     </table>
 </div>
 <div>
-    <table class="styled-table">
+    <table class="styled-table" style="font-size: 0.7em; ">
         <tr>
             <th>Tuesday, March 30</th>
         </tr>
@@ -146,7 +146,7 @@ title: "Papers"
     </table>
 </div>
 <div>
-    <table class="styled-table">
+    <table class="styled-table" style="font-size: 0.7em; ">
         <tr>
             <th>Wednesday, March 31</th>
         </tr>
@@ -160,7 +160,7 @@ title: "Papers"
     </table>
 </div>
 <div>
-    <table class="styled-table">
+    <table class="styled-table" style="font-size: 0.7em; ">
         <tr>
             <th>Thursday, April 1</th>
         </tr>
