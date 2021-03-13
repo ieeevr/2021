@@ -182,9 +182,10 @@ title: "Papers"
     </table>
 </div>
 
+{% for day in site.data.days %}
 <div>
     {% for session in site.data.sessions %}
-    {% if session.day == 'Monday, March 29' %}
+    {% if session.day == day.day' %}
     
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
@@ -209,6 +210,8 @@ title: "Papers"
     {% endif %}
     {% endfor %}
 </div>
+{% endfor %}
+
 
 
 
