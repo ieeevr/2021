@@ -123,7 +123,7 @@ title: "Papers"
             <th>Monday, March 29</th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.schedule == 'Monday, March 29' %}
+        {% if session.day == 'Monday, March 29' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
@@ -137,7 +137,7 @@ title: "Papers"
             <th>Tuesday, March 30</th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.schedule == 'Monday, March 29' %}
+        {% if session.day == 'Tuesday, March 30' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
@@ -151,7 +151,7 @@ title: "Papers"
             <th>Wednesday, March 31</th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.schedule == 'Monday, March 29' %}
+        {% if session.day == 'Wednesday, March 31' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
@@ -165,7 +165,7 @@ title: "Papers"
             <th>Thursday, April 1</th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.schedule == 'Monday, March 29' %}
+        {% if session.day == 'Thursday, April 1' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
         </tr>
@@ -174,6 +174,8 @@ title: "Papers"
     </table>
 </div>
 
+
+<!--
 <div id="S1">
     {% for session in site.data.sessions %}
     {% if session.id == 'S1' %}
@@ -201,8 +203,5 @@ title: "Papers"
 
     {% endif %}
     {% endfor %}
-
-
-
-
 </div>
+-->
