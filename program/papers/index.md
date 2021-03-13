@@ -125,7 +125,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Monday, March 29' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -139,7 +139,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Tuesday, March 30' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -153,7 +153,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Wednesday, March 31' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -167,7 +167,7 @@ title: "Papers"
         {% for session in site.data.sessions %}
         {% if session.day == 'Thursday, April 1' %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}: {{ session.title }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
         </tr>
         {% endif %}
         {% endfor %}
