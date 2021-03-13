@@ -186,10 +186,10 @@ title: "Papers"
     {% for session in site.data.sessions %}
     {% if session.day == 'Monday, March 29' %}
     
-    <h3 id="{{ session.id }}">Session: {{ session.name }}</h3>
+    <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
     
-        <h2>Paper title</h2>
+        <h3>Paper title</h3>
         <!-- FOR PAPERS -->
     
     {% endif%}
