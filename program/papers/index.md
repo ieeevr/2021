@@ -203,6 +203,8 @@ title: "Papers"
                 {% assign source = site.data.conferencepapers %}
             {% endif %}
     
+            <p>{{ source }}</p>
+    
             {% for p in source %}
             {% if p == paper.id %}
             <p><i>{{ p.authors }}</i></p>
