@@ -135,11 +135,13 @@ title: "Papers"
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
             <th>Tuesday, March 30</th>
+            <th>Schedule</th>
         </tr>
         {% for session in site.data.sessions %}
         {% if session.day == 'Tuesday, March 30' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">Session: {{ session.name }}</a></td>
+            <td>{{ session.start }} - {{ session.end }}</td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -173,6 +175,18 @@ title: "Papers"
         {% endfor %}
     </table>
 </div>
+
+<div>
+    {% for session in site.data.sessions %}
+        {% if session.day == 'Monday' %}
+    
+    
+    {% endfor %}
+    
+</div>
+
+
+
 
 
 <!--
