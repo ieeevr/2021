@@ -203,10 +203,8 @@ title: "Papers"
                 {% assign source = site.data.conferencepapers %}
             {% endif %}
     
-            <p>{{ source }}</p>
-    
             {% for p in source %}
-            {% if p == paper.id %}
+            {% if p.id == paper.id %}
             <p><i>{{ p.authors }}</i></p>
             <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
                 <div class="collapsible-content">
