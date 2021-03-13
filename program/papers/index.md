@@ -55,9 +55,9 @@ title: "Papers"
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 0.5rem;
+        font-size: 0.8rem;
         text-align: left;
-        padding: 0.05rem;
+        padding: 0rem;
         color: #00aeef;
         background: #ffffff;
         cursor: pointer;
