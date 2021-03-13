@@ -55,9 +55,9 @@ title: "Papers"
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1rem;
+        font-size: 0.5rem;
         text-align: left;
-        padding: 0.1rem;
+        padding: 0.05rem;
         color: #00aeef;
         background: #ffffff;
         cursor: pointer;
@@ -182,6 +182,12 @@ title: "Papers"
     </table>
 </div>
 
+
+<!-- 
+INVITED MISSING
+-->
+
+
 {% for day in site.data.days %}
 <div>
     {% for session in site.data.sessions %}
@@ -196,7 +202,6 @@ title: "Papers"
             <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
             <p><strong>{{ paper.type }}</strong></p>
             
-            <p style="color: red">{{ paper.type }}</p>
             {% if paper.type == 'Journal' %}
                 {% assign source = site.data.journalpapers %}
             {% endif %}
@@ -204,8 +209,6 @@ title: "Papers"
             {% if paper.type == 'Conference' %}
                 {% assign source = site.data.conferencepapers %}
             {% endif %}
-    
-            
     
             {% for p in source %}
             {% if p.id == paper.id %}
