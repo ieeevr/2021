@@ -196,12 +196,16 @@ title: "Papers"
             <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
             <p><strong>{{ paper.type }}</strong></p>
             
-            {% if paper.type == 'Journal'%}
+            <p style="color: red">{{ paper.type }}</p>
+            {% if paper.type == 'Journal' %}
                 {% assign source = site.data.journalpapers %}
             {% endif %}
-            {% if paper.type == 'Conference'%}
+    
+            {% if paper.type == 'Conference' %}
                 {% assign source = site.data.conferencepapers %}
             {% endif %}
+    
+            
     
             {% for p in source %}
             {% if p.id == paper.id %}
