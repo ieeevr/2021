@@ -189,10 +189,13 @@ title: "Papers"
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
     
-        <h3>Paper title</h3>
-        <!-- FOR PAPERS -->
-    
-    {% endif%}
+        {% for paper in site.data.papers %}
+        {% if session.id == paper.session %}
+            <h3>{{ paper.title }}</h3>
+        {% endif %}
+        {% endfor %}    
+        
+    {% endif %}
     {% endfor %}
 </div>
 
