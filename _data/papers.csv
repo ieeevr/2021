@@ -1,128 +1,128 @@
-id,session,type,typeoriginal,title,authors,abstract
-JInvited04,1.1,Journal,Journal,Collaborative Work in Augmented Reality: A Survey,,
-C2224,1.1,Conference,Conf TA1,A VR/AR Environment for Multi-User Liver Anatomy Education,Danny Schott: Otto-von-Guericke University; Patrick Saalfeld: Otto-von-Guericke University; Gerd Schmidt: Otto-von-Guericke University; Fabian Joeres: Otto-von-Guericke University; Christian Boedecker: University Medicine of the Johannes Gutenberg-University; Florentine Huettl: University Medicine of the Johannes Gutenberg-University; Hauke Lang: University Medicine of the Johannes Gutenberg-University; Tobias Huber: University Medicine of the Johannes Gutenberg-University; Bernhard Preim: Otto-von-Guericke University; Christian Hansen: Otto-von-Guericke University,"We present a VR/AR multi-user prototype of a learning environment for liver anatomy education. Our system supports various learning scenarios, where users can participate in VR, AR, or via desktop PCs. A virtual organ library was created using nineteen liver datasets. As part of a user study with surgery lecturers (5) and medical students (5), we evaluated the usability and presence. A total of 435 individual statements were recorded and summarized to 49 statements. The results show that our prototype is usable, induces presence, and potentially support the teaching of liver anatomy and surgery in the future."
-J1036,1.1,Journal,Journal,Group Navigation for Guided Tours in Distributed Virtual Environments,,
-C2370,1.1,Conference,Conf TA3,StuckInSpace: Exploring the Difference Between Two Mediums of Play in a Multi-Modal Virtual Reality Game,,
-J1202,1.1,Journal,Journal,Quality of Service Impact on Edge Physics Simulations for VR,,
-C2047,1.2,Conference,Conf TA1,Impossible Staircase: Vertically Real Walking in an Infinite Virtual Tower,,
-C2379,1.2,Conference,Conf TA3,TapID: Rapid Touch Interaction in Virtual Reality using Wearable Sensing,,
-C2211,1.2,Conference,Conf TA2,Does Virtual Odor Representation Influence the Perception of Olfactory Intensity and Directionality in VR?,,
-C2256,1.2,Conference,Conf TA3,BouncyScreen: Physical Enhancement of Pseudo-Force Feedback,,
-C2537,1.2,Conference,Conf TA2,Optimal time window for the integration of spatial audio-visual information in virtual environments,,
-C2293,1.3,Conference,Conf TA2,VR based Power Wheelchair Simulator: Usability Evaluation through a Clinically Validated Task with Regular Users,,
-C2274,1.3,Conference,Conf TA1,The Impact of Implicit and Explicit Feedback on Performance and Experience during VR-Supported Motor Rehabilitation,,
-C2262,1.3,Conference,Conf TA2,Using Fuzzy Logic to Involve Individual Differences for Predicting Cybersickness during VR Navigation,,
-C2410,1.3,Conference,Conf TA2,Head Up Visualization of Spatial Sound Sources in Virtual Reality for Deaf and Hard-of-Hearing People,,
-C2414,1.3,Conference,Conf TA2,Multi-modal Spatial Object Localization in Virtual Reality for Deaf and Hard-of-Hearing People,,
-J1192,1.4,Journal,Journal,Floor-vibration VR: Mitigating Cybersickness Using Whole-body Tactile Stimuli in Highly Realistic Vehicle Driving Experiences,,
-J1169,1.4,Journal,Journal,Combining Dynamic Passive Haptics and Haptic Retargeting for Enhanced Haptic Feedback in Virtual Reality,,
-C2207,1.4,Conference,Conf TA2,EncounteredLimbs: A Room-scale Encountered-type Haptic Presentation using Wearable Robotic Arms,,
-J1160,1.4,Journal,Journal,Tactile Perceptual Thresholds of Electrovibration in VR,,
-C2109,1.4,Conference,Conf TA2,Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality,,
-C2361,1.5,Conference,Conf TA3,Evaluation of Body-centric Locomotion with Different Transfer Functions in Virtual Reality,,
-C2360,1.5,Conference,Conf TA3,I Feel More Engaged When I Move!: Deep Learning-based Backward Movement Detection and its Application,,
-C2311,1.5,Conference,Conf TA3,Larger Step Faster Speed: Investigating Gesture-based Locomotion in Place with Different Walking Speed in Virtual Reality,,
-C2253,1.5,Conference,Conf TA3,Spherical World in Miniature: Exploring the Tiny Planets Metaphor for Discrete Locomotion in Virtual Reality,,
-C2343,1.5,Conference,Conf TA3,Towards Sneaking as a Playful Input Modality for Virtual Environments,,
-C2278,1.6,Conference,Conf TA3,Magnoramas: Magnifying Dioramas for Precise Annotations in Asymmetric 3D Teleconsultation,,
-C2155,1.6,Conference,Conf TA1,DSNet: Deep Shadow Network for Illumination Estimation,,
-J1273,1.6,Journal,Journal,Instant Panoramic Texture Mapping with Semantic Object Matching for Large-Scale Urban Scene Reproduction,,
-C2154,1.6,Conference,Conf TA3,Bidirectional Shadow Rendering for Interactive Mixed 360° Videos,,
-J1096,1.6,Journal,Journal,Real-Time Omnidirectional Stereo Rendering: Generating 360° Surround-View Panoramic Images for Comfortable Immersive Viewing,,
-C2602,2.1,Conference,Conf TA3,A Rate-based Drone Control with Adaptive Origin Update in Telexistence,,
-C2371,2.1,Conference,Conf TA2,The Impact of Virtual Reality and Viewpoints in Body Motion Based Drone Teleoperation,,
-C2108,2.1,Conference,Conf TA3,Using Siamese Neural Networks to Perform Cross-System Behavioral Authentication in Virtual Reality,,
-C2401,2.1,Conference,Conf TA1,VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets,,
-J1068,2.1,Journal,Journal,A privacy-preserving approach to streaming eye-tracking data,,
-C2163,2.2,Conference,Conf TA1,Assessment of the Simulator Sickness Questionnaire for Omnidirectional Videos,,
-C2498,2.2,Conference,Conf TA2,Camera Space Synthesis of Motion Effects Emphasizing a Moving Object in 4D films,,
-J1171,2.2,Journal,Journal,A Log-Rectilinear Transformation for Foveated 360-degree Video Streaming,,
-C2538,2.2,Conference,Conf TA1,Comparing the Neuro-Physiological Effects of Cinematic Virtual Reality with 2D Monitors,,
-C2282,2.2,Conference,Conf TA1,Video Content Representation to Support the Hyper-reality Experience in Virtual Reality,,
-JInvited08,3.1,Journal,Journal,3D Curve Creation on and around Physical Objects with Mobile AR,,
-C2100,3.1,Conference,Conf TA2,Augmented Reality for Maritime Navigation Assistance - Egocentric Depth Perception in Large Distance Outdoor Environments,,
-C2578,3.1,Conference,Conf TA3,Do we still need physical monitors? An evaluation of the usability of AR virtual monitors for productivity work,,
-C2400,3.1,Conference,Conf TA1,DreamStore: A Data Platform for Enabling Shared Augmented Reality,,
-C2579,3.1,Conference,Conf TA3,Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday Uses,,
-C2530,3.1,Conference,Conf TA2,Story CreatAR: a Toolkit for Spatially-Adaptive Augmented Reality Storytelling,,
-C2216,3.2,Conference,Conf TA2,Visual Complexity and Scene Recognition: How Low Can You Go?,,
-J1185,3.2,Journal,Journal,Beaming Displays,,
-J1244,3.2,Journal,Journal,"DeProCams: Simultaneous Relighting, Compensation and Shape Reconstruction for Projector-Camera Systems",,
-J1050,3.2,Journal,Journal,"Lenslet VR: Thin, Flat and Wide-FOV Virtual Reality Display Using Fresnel Lens and Lenslet Array",,
-C2507,3.2,Conference,Conf TA2,Who Are Virtual Reality Headset Owners? A Survey and Comparison of Headset Owners and Non-Owners,,
-C2204,3.3,Conference,Conf TA1,Spatial Anchor Based Indoor Asset Tracking,,
-J1093,3.3,Journal,Journal,"Event-Based Near-Eye Gaze Tracking Beyond 10,000 Hz",,
-C2639,3.3,Conference,Conf TA1,Learning Acoustic Scattering Fields for Dynamic Interactive Sound Propagation,,
-C2164,3.3,Conference,Conf TA3,SuperPlane: 3D Plane Detection and Description from a Single Image,,
-J1305,3.3,Journal,Journal,EllSeg: An Ellipse Segmentation Framework for Robust Gaze Tracking,,
-C2048,4.1,Conference,Conf TA3,Climaxing VR Character with Scene-Aware Aesthetic Dress Synthesis,,
-C2429,4.1,Conference,Conf TA1,"Mobile, Egocentric Human Body Motion Reconstruction Using Only Eyeglasses-mounted Cameras and a Few Body-worn Inertial Sensors",,
-JInvited06,4.1,Journal,Journal,Output-Sensitive Avatar Representations for Immersive Telepresence,,
-C2239,4.1,Conference,Conf TA2,"The Impact of Avatar Appearance, Perspective and Context on Gait Variability and User Experience in Virtual Reality",,
-JInvited01,4.1,Journal,Journal,Virtual Co-Embodiment: Evaluation of the Sense of Agency while Sharing the Control of a Virtual Body among Two Individuals,,
-C2148,4.1,Conference,Conf TA1,Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents,,
-JInvited09,4.2,Journal,Journal,Capacitive Sensing for Improving Contact Rendering with Tangible Objects in VR,,
-C2403,4.2,Conference,Conf TA2,Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech,,
-J1119,4.2,Journal,Journal,GestOnHMD: Enabling Gesture-based Interaction on the Surface of Low-cost VR Head-Mounted Display,,
-C2547,4.2,Conference,Conf TA3,Freehand Grasping: An Analysis of Grasping for Docking Tasks in Virtual Reality,,
-C2173,4.2,Conference,Conf TA3,Stable Hand Pose Estimation under Tremor via Graph Neural Network,,
-C2627,4.2,Conference,Conf TA1,Mid-Air Finger Sketching for Tree Modelling,,
-C2462,4.3,Conference,Conf TA2,Adjusting Relative Translation Gains According to Space Size in Redirected Walking for Mixed Reality Mutual Space Generation,,
-J1044,4.3,Journal,Journal,ARC: Alignment-based Redirection Controller for Redirected Walking in Complex Environments,,
-C2090,4.3,Conference,Conf TA3,Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping,,
-C2446,4.3,Conference,Conf TA1,Dynamic Density-based Redirected Walking Towards Multi-user Virtual Environments,,
-J1254,4.3,Journal,Journal,LiveObj: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming,,
-C2319,4.3,Conference,Conf TA1,Walking Outside the Box: Estimation of Detection Thresholds for Non-Forward Steps,,
-JInvited07,5.1,Journal,Journal,Self-Illusion: A Study on Cognition of Role-Playing in Immersive Virtual Environments,,
-C2200,5.1,Conference,Conf TA1,VR-based Student Priming to Reduce Anxiety and Increase Cognitive Bandwidth,,
-C2421,5.1,Conference,Conf TA1,Exploiting Object-of-Interest Information to Understand Attention in VR Classrooms,,
-J1034,5.1,Journal,Journal,Evidence of Racial Bias Using Immersive Virtual Reality: Analysis of Head and Hand Motions During Shooting Decisions,,
-C2238,5.1,Conference,Conf TA2,Virtual Morality: Using Virtual Reality to Study Moral Behavior in Extreme Accident Situations,,
-C2501,5.1,Conference,Conf TA2,Donâ€™t Worry be Happy - Using virtual environments to induce emotional states measured by subjective scales and heart rate parameters,,
-C2020,5.2,Conference,Conf TA2,Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia,,
-C2254,5.2,Conference,Conf TA3,Proximity Effect Correction for Fresnel Holograms on Nanophotonic Phased Arrays,,
-C2096,5.2,Conference,Conf TA3,Realistic 3D Swept-Volume Display with Hidden-Surface Removal Using Physical Materials,,
-C2029,5.2,Conference,Conf TA3,Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions,,
-C2527,5.2,Conference,Conf TA1,"DCGH: Dynamic Computer Generated Holography for Speckle-Free, High Fidelity 3D Displays",,
-C2026,5.3,Conference,Conf TA3,Promoting Reality Awareness in Virtual Reality Through Proxemics,,
-C2245,5.3,Conference,Conf TA1,Egocentric Distance Judgments in Full-Cue Video-See-Through VR Conditions are No Better than Distance Judgments to Targets in a Void,,
-C2593,5.3,Conference,Conf TA2,Revisiting Distance Perception with Scaled Embodied Cues in Social Virtual Reality,,
-C2604,5.3,Conference,Conf TA3,Temporal Availability of Ebbinghaus Illusions on Perceiving and Interacting with 3D Objects in a Contextual Virtual Environment,,
-C2596,5.3,Conference,Conf TA2,The Effect of Feedback on Estimates of Reaching Ability in Virtual Reality,,
-C2427,5.3,Conference,Conf TA2,Empirically Evaluating the Effects of Perceptual Information Channels on Size Perception of Tangibles in Near-field Virtual Reality,,
-C2279,5.4,Conference,Conf TA2,Using Virtual Reality to Support Acting in Motion Capture with Differently Scaled Characters,,
-C2541,5.4,Conference,Conf TA1,VR System for the Restoration of Broken Cultural Artifacts on the Example of a Funerary Monument,,
-C2210,5.4,Conference,Conf TA1,Work Surface Arrangement Optimization Driven by Human Activity,,
-J1077,5.4,Journal,Journal,"SPinPong - Virtual Reality Table Tennis Skill Acquisition using Visual, Haptic and Temporal Cues",,
-J1177,5.4,Journal,Journal,Text Entry in Virtual Environments using Speech and a Midair Keyboard,,
-C2487,6.1,Conference,Conf TA3,Exploring Input Approximations for Control Panels in Virtual Reality,,
-C2172,6.1,Conference,Conf TA1,Disocclusion Headlight for Selection Assistance in VR,,
-JInvited02,6.1,Journal,Journal,Evaluating the Effects of Non-isomorphic Rotation on 3D Manipulation Tasks in Mixed Reality Simulation,,
-C2181,6.1,Conference,Conf TA3,Scene-Context-Aware Indoor Object Selection and Movement in VR,,
-C2589,6.1,Conference,Conf TA3,Evaluating Object Manipulation Interaction Techniques in Mixed Reality: Tangible User Interfaces and Gesture,,
-J1200,6.1,Journal,Journal,FixationNet: Forecasting Eye Fixations in Task-Oriented Virtual Environments,,
-JInvited10,7.1,Journal,Journal,Adapting Virtual Embodiment through Reinforcement Learning,,
-JInvited03,7.1,Journal,Journal,Impact of Information Placement and User Representations in VR on Performance and Embodiment,,
-C2050,7.1,Conference,Conf TA3,The Embodiment of Photorealistic Avatars Influences Female Body Weight Perception in Virtual Reality,,
-C2095,7.1,Conference,Conf TA3,"The influence of hand visualization in tool-based motor-skills training, a longitudinal study",,
-J1138,7.1,Journal,Journal,The Influence of Avatar Representation on Interpersonal Communication in Virtual Social Environments,,
-JInvited05,7.2,Journal,Journal,Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation,,
-J1035,7.2,Journal,Journal,Comparing and Combining Virtual Hand and Virtual Ray Pointer Interactions for Data Manipulation in Immersive Analytics,,
-J1231,7.2,Journal,Journal,Exploring the SenseMaking Process through Interactions and fNIRS in Immersive Visualization,,
-C2391,7.2,Conference,Conf TA1,Sensemaking Strategies with the Immersive Space to Think,,
-C2308,7.2,Conference,Conf TA1,Visualizing Planetary Spectroscopy through Immersive On-site Rendering,,
-C2162,8.1,Conference,Conf TA2,Effects of Language Familiarity in Simulated Natural Dialogue with a Virtual Crowd of Digital Humans on Emotion Contagion in Virtual Reality,,
-C2392,8.1,Conference,Conf TA1,Disturbance and Plausibility in a Virtual Rock Concert,,
-C2519,8.1,Conference,Conf TA2,Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality,,
-C2393,8.1,Conference,Conf TA3,The Most Social Platform Ever? A Survey about Activities & Motives of Social VR Users,,
-C2046,8.1,Conference,Conf TA3,Toward Understanding the Effects of Virtual Character Appearance on Avoidance Movement Behavior,,
-C2085,8.2,Conference,Conf TA3,The Effect of Pitch in Auditory Error Feedback for Fitts’ Tasks in Virtual Reality Training Systems,,
-C2334,8.2,Conference,Conf TA2,Correction of Avatar Hand Movements Supports Learning of a Motor Skill,,
-C2105,8.2,Conference,Conf TA3,Diegetic Tool Management in a Virtual Reality Training Simulation,,
-C2461,8.2,Conference,Conf TA2,The Effects of Cognitive Load on Engagement in a Virtual Reality Learning Environment,,
-C2338,8.2,Conference,Conf TA1,Virtual Reality Public Speaking Training: Experimental Evaluation of Direct Feedback Technology Acceptance,,
-C2070,8.3,Conference,Conf TA2,Blink-Suppressed Hand Redirection,,
-C2232,8.3,Conference,Conf TA3,Flashpen: A High-Fidelity and High-Precision Multi-Surface Pen for Virtual Reality,,
-C2014,8.3,Conference,Conf TA1,Design and Evaluation of a Free-Hand VR-based Authoring Environment for Automated Vehicle Testing,,
-J1222,8.3,Journal,Journal,Hands-free interaction in immersive virtual reality: A systematic review,,
-C2455,8.3,Conference,Conf TA1,Comparative Evaluation of Digital Writing and Art in Real and Immersive Virtual Environments,,
+id,session,type,typeoriginal,title
+JInvited04,1.1,Invited Journal,Journal,Collaborative Work in Augmented Reality: A Survey
+C2224,1.1,Conference,Conf TA1,A VR/AR Environment for Multi-User Liver Anatomy Education
+J1036,1.1,Journal,Journal,Group Navigation for Guided Tours in Distributed Virtual Environments
+C2370,1.1,Conference,Conf TA3,StuckInSpace: Exploring the Difference Between Two Mediums of Play in a Multi-Modal Virtual Reality Game
+J1202,1.1,Journal,Journal,Quality of Service Impact on Edge Physics Simulations for VR
+C2047,1.2,Conference,Conf TA1,Impossible Staircase: Vertically Real Walking in an Infinite Virtual Tower
+C2379,1.2,Conference,Conf TA3,TapID: Rapid Touch Interaction in Virtual Reality using Wearable Sensing
+C2211,1.2,Conference,Conf TA2,Does Virtual Odor Representation Influence the Perception of Olfactory Intensity and Directionality in VR?
+C2256,1.2,Conference,Conf TA3,BouncyScreen: Physical Enhancement of Pseudo-Force Feedback
+C2537,1.2,Conference,Conf TA2,Optimal time window for the integration of spatial audio-visual information in virtual environments
+C2293,1.3,Conference,Conf TA2,VR based Power Wheelchair Simulator: Usability Evaluation through a Clinically Validated Task with Regular Users
+C2274,1.3,Conference,Conf TA1,The Impact of Implicit and Explicit Feedback on Performance and Experience during VR-Supported Motor Rehabilitation
+C2262,1.3,Conference,Conf TA2,Using Fuzzy Logic to Involve Individual Differences for Predicting Cybersickness during VR Navigation
+C2410,1.3,Conference,Conf TA2,Head Up Visualization of Spatial Sound Sources in Virtual Reality for Deaf and Hard-of-Hearing People
+C2414,1.3,Conference,Conf TA2,Multi-modal Spatial Object Localization in Virtual Reality for Deaf and Hard-of-Hearing People
+J1192,1.4,Journal,Journal,Floor-vibration VR: Mitigating Cybersickness Using Whole-body Tactile Stimuli in Highly Realistic Vehicle Driving Experiences
+J1169,1.4,Journal,Journal,Combining Dynamic Passive Haptics and Haptic Retargeting for Enhanced Haptic Feedback in Virtual Reality
+C2207,1.4,Conference,Conf TA2,EncounteredLimbs: A Room-scale Encountered-type Haptic Presentation using Wearable Robotic Arms
+J1160,1.4,Journal,Journal,Tactile Perceptual Thresholds of Electrovibration in VR
+C2109,1.4,Conference,Conf TA2,Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality
+C2361,1.5,Conference,Conf TA3,Evaluation of Body-centric Locomotion with Different Transfer Functions in Virtual Reality
+C2360,1.5,Conference,Conf TA3,I Feel More Engaged When I Move!: Deep Learning-based Backward Movement Detection and its Application
+C2311,1.5,Conference,Conf TA3,Larger Step Faster Speed: Investigating Gesture-based Locomotion in Place with Different Walking Speed in Virtual Reality
+C2253,1.5,Conference,Conf TA3,Spherical World in Miniature: Exploring the Tiny Planets Metaphor for Discrete Locomotion in Virtual Reality
+C2343,1.5,Conference,Conf TA3,Towards Sneaking as a Playful Input Modality for Virtual Environments
+C2278,1.6,Conference,Conf TA3,Magnoramas: Magnifying Dioramas for Precise Annotations in Asymmetric 3D Teleconsultation
+C2155,1.6,Conference,Conf TA1,DSNet: Deep Shadow Network for Illumination Estimation
+J1273,1.6,Journal,Journal,Instant Panoramic Texture Mapping with Semantic Object Matching for Large-Scale Urban Scene Reproduction
+C2154,1.6,Conference,Conf TA3,Bidirectional Shadow Rendering for Interactive Mixed 360° Videos
+J1096,1.6,Journal,Journal,Real-Time Omnidirectional Stereo Rendering: Generating 360° Surround-View Panoramic Images for Comfortable Immersive Viewing
+C2602,2.1,Conference,Conf TA3,A Rate-based Drone Control with Adaptive Origin Update in Telexistence
+C2371,2.1,Conference,Conf TA2,The Impact of Virtual Reality and Viewpoints in Body Motion Based Drone Teleoperation
+C2108,2.1,Conference,Conf TA3,Using Siamese Neural Networks to Perform Cross-System Behavioral Authentication in Virtual Reality
+C2401,2.1,Conference,Conf TA1,VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets
+J1068,2.1,Journal,Journal,A privacy-preserving approach to streaming eye-tracking data
+C2163,2.2,Conference,Conf TA1,Assessment of the Simulator Sickness Questionnaire for Omnidirectional Videos
+C2498,2.2,Conference,Conf TA2,Camera Space Synthesis of Motion Effects Emphasizing a Moving Object in 4D films
+J1171,2.2,Journal,Journal,A Log-Rectilinear Transformation for Foveated 360-degree Video Streaming
+C2538,2.2,Conference,Conf TA1,Comparing the Neuro-Physiological Effects of Cinematic Virtual Reality with 2D Monitors
+C2282,2.2,Conference,Conf TA1,Video Content Representation to Support the Hyper-reality Experience in Virtual Reality
+JInvited08,3.1,Invited Journal,Journal,3D Curve Creation on and around Physical Objects with Mobile AR
+C2100,3.1,Conference,Conf TA2,Augmented Reality for Maritime Navigation Assistance - Egocentric Depth Perception in Large Distance Outdoor Environments
+C2578,3.1,Conference,Conf TA3,Do we still need physical monitors? An evaluation of the usability of AR virtual monitors for productivity work
+C2400,3.1,Conference,Conf TA1,DreamStore: A Data Platform for Enabling Shared Augmented Reality
+C2579,3.1,Conference,Conf TA3,Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday Uses
+C2530,3.1,Conference,Conf TA2,Story CreatAR: a Toolkit for Spatially-Adaptive Augmented Reality Storytelling
+C2216,3.2,Conference,Conf TA2,Visual Complexity and Scene Recognition: How Low Can You Go?
+J1185,3.2,Journal,Journal,Beaming Displays
+J1244,3.2,Journal,Journal,"DeProCams: Simultaneous Relighting, Compensation and Shape Reconstruction for Projector-Camera Systems"
+J1050,3.2,Journal,Journal,"Lenslet VR: Thin, Flat and Wide-FOV Virtual Reality Display Using Fresnel Lens and Lenslet Array"
+C2507,3.2,Conference,Conf TA2,Who Are Virtual Reality Headset Owners? A Survey and Comparison of Headset Owners and Non-Owners
+C2204,3.3,Conference,Conf TA1,Spatial Anchor Based Indoor Asset Tracking
+J1093,3.3,Journal,Journal,"Event-Based Near-Eye Gaze Tracking Beyond 10,000 Hz"
+C2639,3.3,Conference,Conf TA1,Learning Acoustic Scattering Fields for Dynamic Interactive Sound Propagation
+C2164,3.3,Conference,Conf TA3,SuperPlane: 3D Plane Detection and Description from a Single Image
+J1305,3.3,Journal,Journal,EllSeg: An Ellipse Segmentation Framework for Robust Gaze Tracking
+C2048,4.1,Conference,Conf TA3,Climaxing VR Character with Scene-Aware Aesthetic Dress Synthesis
+C2429,4.1,Conference,Conf TA1,"Mobile, Egocentric Human Body Motion Reconstruction Using Only Eyeglasses-mounted Cameras and a Few Body-worn Inertial Sensors"
+JInvited06,4.1,Invited Journal,Journal,Output-Sensitive Avatar Representations for Immersive Telepresence
+C2239,4.1,Conference,Conf TA2,"The Impact of Avatar Appearance, Perspective and Context on Gait Variability and User Experience in Virtual Reality"
+JInvited01,4.1,Invited Journal,Journal,Virtual Co-Embodiment: Evaluation of the Sense of Agency while Sharing the Control of a Virtual Body among Two Individuals
+C2148,4.1,Conference,Conf TA1,Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents
+JInvited09,4.2,Invited Journal,Journal,Capacitive Sensing for Improving Contact Rendering with Tangible Objects in VR
+C2403,4.2,Conference,Conf TA2,Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech
+J1119,4.2,Journal,Journal,GestOnHMD: Enabling Gesture-based Interaction on the Surface of Low-cost VR Head-Mounted Display
+C2547,4.2,Conference,Conf TA3,Freehand Grasping: An Analysis of Grasping for Docking Tasks in Virtual Reality
+C2173,4.2,Conference,Conf TA3,Stable Hand Pose Estimation under Tremor via Graph Neural Network
+C2627,4.2,Conference,Conf TA1,Mid-Air Finger Sketching for Tree Modelling
+C2462,4.3,Conference,Conf TA2,Adjusting Relative Translation Gains According to Space Size in Redirected Walking for Mixed Reality Mutual Space Generation
+J1044,4.3,Journal,Journal,ARC: Alignment-based Redirection Controller for Redirected Walking in Complex Environments
+C2090,4.3,Conference,Conf TA3,Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping
+C2446,4.3,Conference,Conf TA1,Dynamic Density-based Redirected Walking Towards Multi-user Virtual Environments
+J1254,4.3,Journal,Journal,LiveObj: Object Semantics-based Viewport Prediction for Live Mobile Virtual Reality Streaming
+C2319,4.3,Conference,Conf TA1,Walking Outside the Box: Estimation of Detection Thresholds for Non-Forward Steps
+JInvited07,5.1,Invited Journal,Journal,Self-Illusion: A Study on Cognition of Role-Playing in Immersive Virtual Environments
+C2200,5.1,Conference,Conf TA1,VR-based Student Priming to Reduce Anxiety and Increase Cognitive Bandwidth
+C2421,5.1,Conference,Conf TA1,Exploiting Object-of-Interest Information to Understand Attention in VR Classrooms
+J1034,5.1,Journal,Journal,Evidence of Racial Bias Using Immersive Virtual Reality: Analysis of Head and Hand Motions During Shooting Decisions
+C2238,5.1,Conference,Conf TA2,Virtual Morality: Using Virtual Reality to Study Moral Behavior in Extreme Accident Situations
+C2501,5.1,Conference,Conf TA2,Don't Worry be Happy - Using virtual environments to induce emotional states measured by subjective scales and heart rate parameters
+C2020,5.2,Conference,Conf TA2,Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia
+C2254,5.2,Conference,Conf TA3,Proximity Effect Correction for Fresnel Holograms on Nanophotonic Phased Arrays
+C2096,5.2,Conference,Conf TA3,Realistic 3D Swept-Volume Display with Hidden-Surface Removal Using Physical Materials
+C2029,5.2,Conference,Conf TA3,Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions
+C2527,5.2,Conference,Conf TA1,"DCGH: Dynamic Computer Generated Holography for Speckle-Free, High Fidelity 3D Displays"
+C2026,5.3,Conference,Conf TA3,Promoting Reality Awareness in Virtual Reality Through Proxemics
+C2245,5.3,Conference,Conf TA1,Egocentric Distance Judgments in Full-Cue Video-See-Through VR Conditions are No Better than Distance Judgments to Targets in a Void
+C2593,5.3,Conference,Conf TA2,Revisiting Distance Perception with Scaled Embodied Cues in Social Virtual Reality
+C2604,5.3,Conference,Conf TA3,Temporal Availability of Ebbinghaus Illusions on Perceiving and Interacting with 3D Objects in a Contextual Virtual Environment
+C2596,5.3,Conference,Conf TA2,The Effect of Feedback on Estimates of Reaching Ability in Virtual Reality
+C2427,5.3,Conference,Conf TA2,Empirically Evaluating the Effects of Perceptual Information Channels on Size Perception of Tangibles in Near-field Virtual Reality
+C2279,5.4,Conference,Conf TA2,Using Virtual Reality to Support Acting in Motion Capture with Differently Scaled Characters
+C2541,5.4,Conference,Conf TA1,VR System for the Restoration of Broken Cultural Artifacts on the Example of a Funerary Monument
+C2210,5.4,Conference,Conf TA1,Work Surface Arrangement Optimization Driven by Human Activity
+J1077,5.4,Journal,Journal,"SPinPong - Virtual Reality Table Tennis Skill Acquisition using Visual, Haptic and Temporal Cues"
+J1177,5.4,Journal,Journal,Text Entry in Virtual Environments using Speech and a Midair Keyboard
+C2487,6.1,Conference,Conf TA3,Exploring Input Approximations for Control Panels in Virtual Reality
+C2172,6.1,Conference,Conf TA1,Disocclusion Headlight for Selection Assistance in VR
+JInvited02,6.1,Invited Journal,Journal,Evaluating the Effects of Non-isomorphic Rotation on 3D Manipulation Tasks in Mixed Reality Simulation
+C2181,6.1,Conference,Conf TA3,Scene-Context-Aware Indoor Object Selection and Movement in VR
+C2589,6.1,Conference,Conf TA3,Evaluating Object Manipulation Interaction Techniques in Mixed Reality: Tangible User Interfaces and Gesture
+J1200,6.1,Journal,Journal,FixationNet: Forecasting Eye Fixations in Task-Oriented Virtual Environments
+JInvited10,7.1,Invited Journal,Journal,Adapting Virtual Embodiment through Reinforcement Learning
+JInvited03,7.1,Invited Journal,Journal,Impact of Information Placement and User Representations in VR on Performance and Embodiment
+C2050,7.1,Conference,Conf TA3,The Embodiment of Photorealistic Avatars Influences Female Body Weight Perception in Virtual Reality
+C2095,7.1,Conference,Conf TA3,"The influence of hand visualization in tool-based motor-skills training, a longitudinal study"
+J1138,7.1,Journal,Journal,The Influence of Avatar Representation on Interpersonal Communication in Virtual Social Environments
+JInvited05,7.2,Invited Journal,Journal,Visual Quality of 3D Meshes With Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation
+J1035,7.2,Journal,Journal,Comparing and Combining Virtual Hand and Virtual Ray Pointer Interactions for Data Manipulation in Immersive Analytics
+J1231,7.2,Journal,Journal,Exploring the SenseMaking Process through Interactions and fNIRS in Immersive Visualization
+C2391,7.2,Conference,Conf TA1,Sensemaking Strategies with the Immersive Space to Think
+C2308,7.2,Conference,Conf TA1,Visualizing Planetary Spectroscopy through Immersive On-site Rendering
+C2162,8.1,Conference,Conf TA2,Effects of Language Familiarity in Simulated Natural Dialogue with a Virtual Crowd of Digital Humans on Emotion Contagion in Virtual Reality
+C2392,8.1,Conference,Conf TA1,Disturbance and Plausibility in a Virtual Rock Concert
+C2519,8.1,Conference,Conf TA2,Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality
+C2393,8.1,Conference,Conf TA3,The Most Social Platform Ever? A Survey about Activities & Motives of Social VR Users
+C2046,8.1,Conference,Conf TA3,Toward Understanding the Effects of Virtual Character Appearance on Avoidance Movement Behavior
+C2085,8.2,Conference,Conf TA3,The Effect of Pitch in Auditory Error Feedback for Fitts’ Tasks in Virtual Reality Training Systems
+C2334,8.2,Conference,Conf TA2,Correction of Avatar Hand Movements Supports Learning of a Motor Skill
+C2105,8.2,Conference,Conf TA3,Diegetic Tool Management in a Virtual Reality Training Simulation
+C2461,8.2,Conference,Conf TA2,The Effects of Cognitive Load on Engagement in a Virtual Reality Learning Environment
+C2338,8.2,Conference,Conf TA1,Virtual Reality Public Speaking Training: Experimental Evaluation of Direct Feedback Technology Acceptance
+C2070,8.3,Conference,Conf TA2,Blink-Suppressed Hand Redirection
+C2232,8.3,Conference,Conf TA3,Flashpen: A High-Fidelity and High-Precision Multi-Surface Pen for Virtual Reality
+C2014,8.3,Conference,Conf TA1,Design and Evaluation of a Free-Hand VR-based Authoring Environment for Automated Vehicle Testing
+J1222,8.3,Journal,Journal,Hands-free interaction in immersive virtual reality: A systematic review
+C2455,8.3,Conference,Conf TA1,Comparative Evaluation of Digital Writing and Art in Real and Immersive Virtual Environments
