@@ -365,7 +365,7 @@ title: "Program Overview"
 <div class="notice--warning">
     <strong style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</strong>
     <p>
-        On the first day (Saturday, March 27), times are given in WET/UTC.<br/>
+        On the first day (Saturday, March 27), times are given in WET/UTC.
         The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
     </p>
 </div>
