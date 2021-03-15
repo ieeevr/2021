@@ -433,7 +433,7 @@ title: "Program Overview"
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1730;">17:15</p>
-                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1830;">
+                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
                         <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
                         <span class="session-time">17:15 - 18:05</span>
                     </div>
