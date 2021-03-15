@@ -200,7 +200,7 @@ INVITED MISSING
         {% if session.id == paper.session %}
             
             <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
-            <p><strong>{{ paper.type }}</strong></p>
+            <p><strong><small>{{ paper.type }}</small></strong></p>
             
             {% if paper.type == 'Journal' %}
                 {% assign source = site.data.journalpapers %}
