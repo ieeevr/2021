@@ -210,6 +210,10 @@ INVITED MISSING
                 {% assign source = site.data.conferencepapers %}
             {% endif %}
     
+            {% if paper.type == 'Invited Journal' %}
+                {% assign source = site.data.invitedjournalpapers %}
+            {% endif %}
+    
             {% for p in source %}
             {% if p.id == paper.id %}
             <p><i>{{ p.authors }}</i></p>
