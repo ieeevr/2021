@@ -1,7 +1,7 @@
 id,name,day,starttime,endtime,timezone
 1.1,Collaboration,"Tuesday, March 30",08:30,09:30,"Lisbon WEST, UTC+1"
 1.2,Multimodal Interfaces,"Tuesday, March 30",08:30,09:30,"Lisbon WEST, UTC+1"
-1.3,Acessible VR,"Wednesday, March 31",08:30,09:30,"Lisbon WEST, UTC+1"
+1.3,Accessible VR,"Wednesday, March 31",08:30,09:30,"Lisbon WEST, UTC+1"
 1.4,Haptics,"Wednesday, March 31",08:30,09:30,"Lisbon WEST, UTC+1"
 1.5,Locomotion,"Thursday, April 1",08:30,09:30,"Lisbon WEST, UTC+1"
 1.6,Rendering and Texture Mapping,"Thursday, April 1",08:30,09:30,"Lisbon WEST, UTC+1"
