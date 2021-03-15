@@ -75,7 +75,8 @@ title: "Registration"
 <table class="styled-table">
   <tr style="vertical-align: top;">
     <th><strong>Registration Type</strong></th>
-    <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
+    <!-- <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th> -->
+    <th><strong>Advance Registration</strong><br/><small style="color: rgb(255, 45, 85);">(On or Before March 25th)</small></th>
     <th><strong>Late Registration</strong></th>
   </tr>
   <tr>
