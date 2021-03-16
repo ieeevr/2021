@@ -426,7 +426,6 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
                     
-                    
 
                     <p class="time-slot" style="grid-row: time-1400;">14:15</p>
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1630;">
@@ -449,6 +448,11 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
+                        <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                    
+                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a> - Part II</h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
                     
