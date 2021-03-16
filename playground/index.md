@@ -327,7 +327,7 @@ title: "Call for Exhibitors and Sponsors"
                                 <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
                             </div>
                             <div class="li-text">
-                                <h3 class="li-head">Appen</h3>
+                                <h3 class="li-head">HIT Lab NZ</h3>
                                 <div class="li-sub">
                                     <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" target="_blank"> 
                                     <p>Human Interface Technology<br/>We put people before technology</p>
