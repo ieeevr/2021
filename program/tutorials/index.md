@@ -212,7 +212,7 @@ title: "Tutorials"
     </p>
     <p>
         Mirjam Vosmeer, Amsterdam University of Applied Sciences, m.s.vosmeer[at]hva.nl<br />
-        Christian Roth, Utrecht University of the Arts, christian.roth[at]hku.nl<br />
+        Christian Roth, HKU University of the Arts Utrecht, christian.roth[at]hku.nl<br />
     </p>
     <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>

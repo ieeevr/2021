@@ -69,6 +69,8 @@ title: "Call for Exhibitors and Sponsors"
 <h2>Literature Distribution</h2>
 <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
+
+<!--
 <div>
 
     <div class="exhibitors-center">
@@ -93,6 +95,6 @@ title: "Call for Exhibitors and Sponsors"
             </div>
         </div>
     </div>
-
-
 </div>
+-->
+
