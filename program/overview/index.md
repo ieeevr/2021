@@ -422,7 +422,7 @@ title: "Program Overview"
                     </div>
                     
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a> - Part I</h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) - 1 </a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
                     
@@ -452,7 +452,7 @@ title: "Program Overview"
                     </div>
                     
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) </a> - Part II</h3>
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) - 2</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                     </div>
                     
