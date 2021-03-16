@@ -315,7 +315,7 @@ title: "Call for Exhibitors and Sponsors"
                                 <h3 class="li-head">Appen</h3>
                                 <div class="li-sub">
                                     <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.pdf" target="_blank"> 
-                                    <p>Augmented and Virtual Reality<br/>Bring AR/VR and AI together to deliver a totally immersive experience</p>
+                                    <p>Augmented and Virtual Reality</p>
                                     </a>
                                 </div>
                             </div>
@@ -336,7 +336,36 @@ title: "Call for Exhibitors and Sponsors"
                             </div>
                         </a>
                     </li>
-                    
+                    <li>
+                        <a href="#" class="inner">
+                            <div class="li-img">
+                                <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
+                            </div>
+                            <div class="li-text">
+                                <h3 class="li-head">HIT Lab NZ</h3>
+                                <div class="li-sub">
+                                    <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" target="_blank"> 
+                                    <p>Microsoft Mixed Reality</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="inner">
+                            <div class="li-img">
+                                <img src="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.png" />
+                            </div>
+                            <div class="li-text">
+                                <h3 class="li-head">HIT Lab NZ</h3>
+                                <div class="li-sub">
+                                    <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" target="_blank"> 
+                                    <p>Virtual Recruiting Guide</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
                     
                 </ul>
             </div>
