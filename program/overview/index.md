@@ -421,7 +421,7 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 17:00</span>
                     </div>
                     
-                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
+                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1630;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE) - 1 </a></h3>
                         <span class="session-time">13:00 - 16:00</span>
                     </div>
