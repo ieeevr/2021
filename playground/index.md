@@ -251,7 +251,7 @@ title: "Call for Exhibitors and Sponsors"
 
             <center>
                 <a href="https://appen.com" target="_blank">
-                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/Appen.png">
+                    <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/Appen.png">
                 </a>
             </center>
             
@@ -320,7 +320,7 @@ title: "Call for Exhibitors and Sponsors"
 
             <center>
                 <a href="https://appen.com" target="_blank">
-                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/HITL-AIGI.jpg">
+                    <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/HITL-AIGI.jpg">
                 </a>
             </center>
 
@@ -389,7 +389,7 @@ title: "Call for Exhibitors and Sponsors"
 
             <center>
                 <a href="https://appen.com" target="_blank">
-                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/microsoft.png">
+                    <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/microsoft.png">
                 </a>
             </center>
             
@@ -458,7 +458,7 @@ title: "Call for Exhibitors and Sponsors"
 
             <center>
                 <a href="https://appen.com" target="_blank">
-                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/qualcomm.jpeg">
+                    <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/qualcomm.jpeg">
                 </a>
             </center>
             
