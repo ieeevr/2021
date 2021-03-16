@@ -300,26 +300,23 @@ title: "Call for Exhibitors and Sponsors"
     <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
 
-    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Appen</label>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Literature Distribution</label>
         <div class="collapsible-content">
             <div class="content-inner">
 
-                <center>
-                    <a href="https://appen.com" target="_blank">
-                        <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/Appen.png">
-                    </a>
-                </center>
-
                 <ul class="list img-list">
+                    
                     <li>
                         <a href="#" class="inner">
                             <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
+                                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.png" />
                             </div>
                             <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
+                                <h3 class="li-head">Appen</h3>
                                 <div class="li-sub">
-                                    <p>Summary of content.</p>
+                                    <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.pdf" target="_blank"> 
+                                    <p>Augmented and Virtual Reality<br/>Bring AR/VR and AI together to deliver a totally immersive experience</p>
+                                    </a>
                                 </div>
                             </div>
                         </a>
@@ -327,48 +324,27 @@ title: "Call for Exhibitors and Sponsors"
                     <li>
                         <a href="#" class="inner">
                             <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
+                                <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
                             </div>
                             <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
+                                <h3 class="li-head">Appen</h3>
                                 <div class="li-sub">
-                                    <p>Summary of content.</p>
+                                    <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" target="_blank"> 
+                                    <p>Human Interface Technology<br/>We put people before technology</p>
+                                    </a>
                                 </div>
                             </div>
                         </a>
                     </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                    <p>Sometimes we get more content than we expected.</p>
-                                    <p>The design should cope with this!</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
+                    
+                    
                 </ul>
             </div>
         </div>
     </div>
+    
+    
+    <!--
     <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">HIT Lab NZ</label>
         <div class="collapsible-content">
             <div class="content-inner">
@@ -575,6 +551,6 @@ title: "Call for Exhibitors and Sponsors"
                 </ul>
             </div>
         </div>
-    </div>
+    </div>-->
 
 </div>
