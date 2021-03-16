@@ -314,7 +314,7 @@ title: "Call for Exhibitors and Sponsors"
         </div>
     </div>
 </div>
-<div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">HIT Lab NZ</label>
+<div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">HIT Lab NZ</label>
     <div class="collapsible-content">
         <div class="content-inner">
 
@@ -383,7 +383,7 @@ title: "Call for Exhibitors and Sponsors"
         </div>
     </div>
 </div>
-<div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Microsoft</label>
+<div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Microsoft</label>
     <div class="collapsible-content">
         <div class="content-inner">
 
@@ -452,7 +452,7 @@ title: "Call for Exhibitors and Sponsors"
         </div>
     </div>
 </div>
-<div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Qualcomm</label>
+<div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Qualcomm</label>
     <div class="collapsible-content">
         <div class="content-inner">
 
