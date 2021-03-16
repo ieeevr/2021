@@ -249,8 +249,13 @@ title: "Call for Exhibitors and Sponsors"
     <div class="collapsible-content">
         <div class="content-inner">
 
-
-            <ul class="list img-list">
+            <center>
+                <a href="https://appen.com" target="_blank">
+                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/Appen.png">
+                </a>
+            </center>
+            
+        <ul class="list img-list">
                 <li>
                     <a href="#" class="inner">
                         <div class="li-img">
@@ -313,6 +318,11 @@ title: "Call for Exhibitors and Sponsors"
     <div class="collapsible-content">
         <div class="content-inner">
 
+            <center>
+                <a href="https://appen.com" target="_blank">
+                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/HITL-AIGI.jpg">
+                </a>
+            </center>
 
             <ul class="list img-list">
                 <li>
@@ -377,7 +387,12 @@ title: "Call for Exhibitors and Sponsors"
     <div class="collapsible-content">
         <div class="content-inner">
 
-
+            <center>
+                <a href="https://appen.com" target="_blank">
+                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/microsoft.png">
+                </a>
+            </center>
+            
             <ul class="list img-list">
                 <li>
                     <a href="#" class="inner">
@@ -441,7 +456,12 @@ title: "Call for Exhibitors and Sponsors"
     <div class="collapsible-content">
         <div class="content-inner">
 
-
+            <center>
+                <a href="https://appen.com" target="_blank">
+                    <img class="conf-icon" style="width: 40%;" src="/2021/assets/images/sponsors/qualcomm.jpeg">
+                </a>
+            </center>
+            
             <ul class="list img-list">
                 <li>
                     <a href="#" class="inner">
