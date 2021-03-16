@@ -300,80 +300,78 @@ title: "Call for Exhibitors and Sponsors"
     <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
 
-    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Literature Distribution</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
 
-                <ul class="list img-list">
-                    
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.png" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Appen</h3>
-                                <div class="li-sub">
-                                    <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.pdf" target="_blank"> 
-                                    <p>Augmented and Virtual Reality</p>
-                                    </a>
-                                </div>
-                            </div>
+
+    <ul class="list img-list">
+
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.png" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Appen</h3>
+                    <div class="li-sub">
+                        <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.pdf" target="_blank">
+                            <p>Augmented and Virtual Reality</p>
                         </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">HIT Lab NZ</h3>
-                                <div class="li-sub">
-                                    <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" target="_blank"> 
-                                    <p>Human Interface Technology<br/>We put people before technology</p>
-                                    </a>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">HIT Lab NZ</h3>
+                    <div class="li-sub">
+                        <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" target="_blank">
+                            <p>Human Interface Technology<br />We put people before technology</p>
                         </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">HIT Lab NZ</h3>
-                                <div class="li-sub">
-                                    <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" target="_blank"> 
-                                    <p>Microsoft Mixed Reality</p>
-                                    </a>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Microsoft</h3>
+                    <div class="li-sub">
+                        <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" target="_blank">
+                            <p>Microsoft Mixed Reality</p>
                         </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.png" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">HIT Lab NZ</h3>
-                                <div class="li-sub">
-                                    <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" target="_blank"> 
-                                    <p>Virtual Recruiting Guide</p>
-                                    </a>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.png" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Qualcomm</h3>
+                    <div class="li-sub">
+                        <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" target="_blank">
+                            <p>Virtual Recruiting Guide</p>
                         </a>
-                    </li>
-                    
-                </ul>
-            </div>
-        </div>
-    </div>
-    
-    
-    <!--
+                    </div>
+                </div>
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+
+
+
+<!--
     <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">HIT Lab NZ</label>
         <div class="collapsible-content">
             <div class="content-inner">
