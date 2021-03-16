@@ -64,37 +64,367 @@ title: "Call for Exhibitors and Sponsors"
         color: #00aeef;
     }
 
+    /* Collapsible */
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1.2rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.5rem;
+        color: #ffffff;
+        background: #00aeef;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        color: #FFF;
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid rgba(0, 105, 255, .45);
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
+    }
+
+    /* THUMBNAILS*/
+    .list {
+        max-width: 1400px;
+        margin: 20px auto;
+    }
+
+    .img-list a {
+        text-decoration: none;
+    }
+
+    .li-sub p {
+        margin: 0;
+    }
+
+    .list li {
+        border-bottom: 1px solid #ccc;
+        display: table;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .inner {
+        display: table-row;
+        overflow: hidden;
+    }
+
+    .li-img {
+        display: table-cell;
+        vertical-align: middle;
+        width: 30%;
+        padding-right: 1em;
+    }
+
+    .li-img img {
+        display: block;
+        width: 100%;
+        height: auto;
+
+    }
+
+    .li-text {
+        display: table-cell;
+        vertical-align: middle;
+        width: 70%;
+    }
+
+    .li-head {
+        margin: 10px 0 0 0;
+    }
+
+    .li-sub {
+        margin: 0;
+    }
+
+    @media all and (min-width: 45em) {
+        .list li {
+            float: left;
+            width: 50%;
+        }
+    }
+
+    @media all and (min-width: 75em) {
+        .list li {
+            width: 33.33333%;
+        }
+    }
+
+    /* for flexbox */
+    @supports(display: flex) {
+        .list {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .li-img,
+        .li-text,
+        .list li {
+            display: block;
+            float: none;
+        }
+
+        .li-img {
+            align-self: center;
+            /* to match the middle alignment of the original */
+        }
+
+        .inner {
+            display: flex;
+        }
+    }
+
+    /* for grid */
+    @supports(display: grid) {
+        .list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+        }
+
+        .list li {
+            width: auto;
+            /* this overrides the media queries */
+        }
+    }
+
 </style>
 
 <h2>Literature Distribution</h2>
 <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
 
-<!--
-<div>
+<div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Appen</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
 
-    <div class="exhibitors-center">
-        <div class="exhibitors-row">
-            <div class="exhibitors-column" style="flex: 70%;">
-                <strong style="color:white;font-size: 25px">Become a Sponsor or Exhibitor</strong>
-                <br /><br />
-                <p style="color:white; font-size:12pt; line-height:20px;">
-                    Connect with international experts and influencers who can evaluate your products and influence their adoption.
-                    <br /><br />
-                    Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees.
-                    <br /><br />
-                    Gain worldwide recognition and visibility for your brand with enhanced branding opportunities.
-                </p>
-            </div>
-            <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
-                <div style="">
-                    <p style="font-size: 20px;">
-                        <a href="/2021/assets/contribute/exhibitors/VR-Prospectus-2021-rp-online012021.pdf" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
-                    </p>
-                </div>
-            </div>
+
+            <ul class="list img-list">
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                                <p>Sometimes we get more content than we expected.</p>
+                                <p>The design should cope with this!</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq4.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq5.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq6.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq7.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq8.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq9.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq10.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq11.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq12.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="inner">
+                        <div class="li-img">
+                            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
+                        </div>
+                        <div class="li-text">
+                            <h3 class="li-head">Title of Content</h3>
+                            <div class="li-sub">
+                                <p>Summary of content.</p>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+
+
         </div>
     </div>
 </div>
--->
-
