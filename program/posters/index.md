@@ -54,9 +54,9 @@ title: "Posters"
         display: block;
         font-weight: bold;
         /* font-family: monospace; */
-        font-size: 1rem;
+        font-size: 0.8rem;
         text-align: left;
-        padding: 0.1rem;
+        padding: 0rem;
         color: #00aeef;
         background: #ffffff;
         cursor: pointer;
