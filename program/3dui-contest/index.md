@@ -114,16 +114,17 @@ title: "3DUI Contest"
 
 </style>
 
+
 <h1>3DUI Contest Entries</h1>
 
-<!--
+
 <div>
     <table class="styled-table">
 
         <tr>
             <th>3DUI Contest Entries</th>
         </tr>
-        {% for entry in site.data.entries %}
+        {% for entry in site.data.3duicontest %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ entry.id }}">{{ entry.title }}</a></td>
         </tr>
