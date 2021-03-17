@@ -164,7 +164,7 @@ title: "Call for Exhibitors and Sponsors"
     .li-img {
         display: table-cell;
         vertical-align: middle;
-        width: 30%;
+        width: 25%;
         padding-right: 1em;
     }
 
@@ -178,7 +178,7 @@ title: "Call for Exhibitors and Sponsors"
     .li-text {
         display: table-cell;
         vertical-align: middle;
-        width: 70%;
+        width: 75%;
     }
 
     .li-head {
