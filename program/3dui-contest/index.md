@@ -135,7 +135,7 @@ title: "3DUI Contest"
 
 <div>
     {% for entry in site.data.3duicontest %}
-    <h3 id="{{ demo.id }}">{{ entry.title }}</h3>
+    <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
     <p><i>{{ entry.authors }}</i></p>
     {% endfor %}
 </div>
