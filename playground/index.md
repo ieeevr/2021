@@ -164,6 +164,7 @@ title: "Call for Exhibitors and Sponsors"
         border-radius: 5px;
         padding: 20px;
     }
+
     .box:nth-child(even) {
         color: red;
     }
@@ -237,75 +238,9 @@ title: "Call for Exhibitors and Sponsors"
 
 <div>
     <h2>Literature Distribution</h2>
-    <p>Please click on the companies below to access more content from this year's exhibitors.</p>
+    <!-- <p>Please click on the companies below to access more content from this year's exhibitors.</p>-->
+    <p>Please see below more content from this year's exhibitors.</p>
 
-    <!--
-
-    <ul class="list img-list">
-
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.png" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Appen</h3>
-                    <div class="li-sub">
-                        <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One%20Pager.pdf" target="_blank">
-                            <p>Augmented and Virtual Reality</p>
-                        </a>
-                    </div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">HIT Lab NZ</h3>
-                    <div class="li-sub">
-                        <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" target="_blank">
-                            <p>Human Interface Technology<br />We put people before technology</p>
-                        </a>
-                    </div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Microsoft</h3>
-                    <div class="li-sub">
-                        <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" target="_blank">
-                            <p>Microsoft Mixed Reality</p>
-                        </a>
-                    </div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.png" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Qualcomm</h3>
-                    <div class="li-sub">
-                        <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" target="_blank">
-                            <p>Virtual Recruiting Guide</p>
-                        </a>
-                    </div>
-                </div>
-            </a>
-        </li>
-    </ul>
-
--->
 
     <div class="wrapper">
         <div class="box">
@@ -314,8 +249,8 @@ title: "Call for Exhibitors and Sponsors"
             </a>
         </div>
         <div class="box">
+            <strong><a href="https://appen.com" target="_blank">Appen</a></strong>
             <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <strong>Appen</strong>
                 <p>Virtual Reality</p>
             </a>
         </div>
@@ -325,8 +260,8 @@ title: "Call for Exhibitors and Sponsors"
             </a>
         </div>
         <div class="box">
+            <strong><a href="http://www.hitlabnz.org/" target="_blank">HIT Lab NZ</a></strong>
             <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" download>
-                <strong>HIT Lab NZ</strong>
                 <p>Human Interface Technology</p>
             </a>
         </div>
@@ -336,8 +271,8 @@ title: "Call for Exhibitors and Sponsors"
             </a>
         </div>
         <div class="box">
+            <strong><a href="https://www.maquette.ms/" target="_blank">Microsoft</a></strong>
             <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
-                <strong>Microsoft</strong>
                 <p>Microsoft Mixed Reality</p>
             </a>
         </div>
@@ -347,8 +282,8 @@ title: "Call for Exhibitors and Sponsors"
             </a>
         </div>
         <div class="box">
+            <strong><a href="https://www.qualcomm.com/research/extended-reality" target="_blank">Qualcomm</a></strong>
             <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" download>
-                <strong>Qualcomm</strong>
                 <p>Virtual Recruiting Guide</p>
             </a>
         </div>
