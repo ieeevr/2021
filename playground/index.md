@@ -273,10 +273,7 @@ title: "Call for Exhibitors and Sponsors"
             <td>Thursday, April 1</td>
             <td><a href="/2021/program/overview/#EX6">11:30 - 13:00</a><br /><a href="/2021/program/overview/#EX7">17:30 - 18:30</a></td>
         </tr>
-    </table>
-
-
-    <table class="styled-table">
+    
         <tr>
             <th>Welcome Reception</th>
             <th>(Lisbon WEST UTC+1)</th>
