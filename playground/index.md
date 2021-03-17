@@ -388,9 +388,7 @@ title: "Call for Exhibitors and Sponsors"
                 </div>
             </a>
         </li>
-
     </ul>
-</div>
 
 
 
