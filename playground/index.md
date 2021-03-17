@@ -135,109 +135,7 @@ title: "Call for Exhibitors and Sponsors"
         margin-bottom: 0;
     }
 
-    /* THUMBNAILS*/
-    .list {
-        max-width: 1400px;
-        margin: 20px auto;
-    }
 
-    .img-list a {
-        text-decoration: none;
-    }
-
-    .li-sub p {
-        margin: 0;
-    }
-
-    .list li {
-        border-bottom: 1px solid #ccc;
-        display: table;
-        border-collapse: collapse;
-        width: 100%;
-    }
-
-    .inner {
-        display: table-row;
-        overflow: hidden;
-    }
-
-    .li-img {
-        display: table-cell;
-        vertical-align: middle;
-        width: 25%;
-        padding-right: 1em;
-    }
-
-    .li-img img {
-        display: block;
-        width: 100%;
-        height: auto;
-
-    }
-
-    .li-text {
-        display: table-cell;
-        vertical-align: middle;
-        width: 75%;
-    }
-
-    .li-head {
-        margin: 10px 0 0 0;
-    }
-
-    .li-sub {
-        margin: 0;
-    }
-
-    @media all and (min-width: 45em) {
-        .list li {
-            float: left;
-            width: 50%;
-        }
-    }
-
-    @media all and (min-width: 75em) {
-        .list li {
-            width: 33.33333%;
-        }
-    }
-
-    /* for flexbox */
-    @supports(display: flex) {
-        .list {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .li-img,
-        .li-text,
-        .list li {
-            display: block;
-            float: none;
-        }
-
-        .li-img {
-            align-self: center;
-            /* to match the middle alignment of the original */
-        }
-
-        .inner {
-            display: flex;
-        }
-    }
-
-    /* for grid */
-    @supports(display: grid) {
-        .list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-        }
-
-        .list li {
-            width: auto;
-            /* this overrides the media queries */
-        }
-    }
 
     /* video container */
     .video-container {
@@ -259,6 +157,27 @@ title: "Call for Exhibitors and Sponsors"
         left: 0;
         width: 100%;
         height: 100%;
+    }
+
+    /* Thumbnails box */
+    .box {
+        background-color: #444;
+        color: #fff;
+        border-radius: 5px;
+        padding: 20px;
+        font-size: 150%;
+    }
+
+    .box:nth-child(even) {
+        background-color: #ccc;
+        color: #000;
+    }
+
+    .wrapper {
+        display: grid;
+        border: 1px solid #000;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, 100px 200px);
     }
 
 </style>
@@ -325,7 +244,7 @@ title: "Call for Exhibitors and Sponsors"
     <h2>Literature Distribution</h2>
     <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
-<!--
+    <!--
 
     <ul class="list img-list">
 
@@ -393,62 +312,52 @@ title: "Call for Exhibitors and Sponsors"
 
 -->
 
-    <ul class="list img-list">
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                        <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
-                    </a>
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Appen</h3>
-                    <div class="li-sub">
-                        <p>Virtual Reality.</p>
-                    </div>
-                </div>
+    <div class="wrapper">
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
             </a>
-        </li>
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Title of Content</h3>
-                    <div class="li-sub">
-                        <p>Summary of content.</p>
-                    </div>
-                </div>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <strong>Appen</strong>
+                <p>Virtual Reality</p>
             </a>
-        </li>
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Title of Content</h3>
-                    <div class="li-sub">
-                        <p>Summary of content.</p>
-                        <p>Sometimes we get more content than we expected.</p>
-                        <p>The design should cope with this!</p>
-                    </div>
-                </div>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
             </a>
-        </li>
-        <li>
-            <a href="#" class="inner">
-                <div class="li-img">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
-                </div>
-                <div class="li-text">
-                    <h3 class="li-head">Title of Content</h3>
-                    <div class="li-sub">
-                        <p>Summary of content.</p>
-                    </div>
-                </div>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <strong>Appen</strong>
+                <p>Virtual Reality</p>
             </a>
-        </li>
-    </ul>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <strong>Appen</strong>
+                <p>Virtual Reality</p>
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <strong>Appen</strong>
+                <p>Virtual Reality</p>
+            </a>
+        </div>
+    </div>
+
+
 </div>
