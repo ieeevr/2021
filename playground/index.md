@@ -273,7 +273,7 @@ title: "Call for Exhibitors and Sponsors"
         </p>
     </div>
 
-    <table class="styled-table" style="font-size: 0.9em;">
+    <table class="styled-table" style="font-size: 0.8em;">
         <tr>
             <th>Dedicated exhibit hours </th>
             <th>(Lisbon WEST UTC+1)</th>
