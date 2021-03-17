@@ -321,36 +321,36 @@ title: "Call for Exhibitors and Sponsors"
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+            <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" download>
+                <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <strong>Appen</strong>
-                <p>Virtual Reality</p>
+            <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" download>
+                <strong>HIT Lab NZ</strong>
+                <p>Human Interface Technology</p>
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+            <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
+                <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <strong>Appen</strong>
-                <p>Virtual Reality</p>
+            <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
+                <strong>Microsoft</strong>
+                <p>Microsoft Mixed Reality</p>
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+            <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" download>
+                <img src="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.png" />
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
-                <strong>Appen</strong>
-                <p>Virtual Reality</p>
+            <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" download>
+                <strong>Qualcomm</strong>
+                <p>Virtual Recruiting Guide</p>
             </a>
         </div>
     </div>
