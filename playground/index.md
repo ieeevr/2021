@@ -165,7 +165,6 @@ title: "Call for Exhibitors and Sponsors"
         color: #fff;
         border-radius: 5px;
         padding: 20px;
-        font-size: 150%;
     }
 
     .box:nth-child(even) {
@@ -175,9 +174,9 @@ title: "Call for Exhibitors and Sponsors"
 
     .wrapper {
         display: grid;
-        border: 1px solid #000;
+        /* border: 1px solid #000; */
         grid-gap: 10px;
-        grid-template-columns: repeat(auto-fill, 100px 200px);
+        grid-template-columns: repeat(auto-fill, 30% 70%);
     }
 
 </style>
