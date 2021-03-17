@@ -325,7 +325,7 @@ title: "Call for Exhibitors and Sponsors"
     <h2>Literature Distribution</h2>
     <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
-
+<!--
 
     <ul class="list img-list">
 
@@ -391,21 +391,20 @@ title: "Call for Exhibitors and Sponsors"
         </li>
     </ul>
 
-</div>
-
-
-<div>
+-->
 
     <ul class="list img-list">
         <li>
             <a href="#" class="inner">
                 <div class="li-img">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
+                    <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                        <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+                    </a>
                 </div>
                 <div class="li-text">
-                    <h3 class="li-head">Title of Content</h3>
+                    <h3 class="li-head">Appen</h3>
                     <div class="li-sub">
-                        <p>Summary of content.</p>
+                        <p>Virtual Reality.</p>
                     </div>
                 </div>
             </a>
