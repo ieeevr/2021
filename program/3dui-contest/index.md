@@ -115,7 +115,7 @@ title: "3DUI Contest"
 </style>
 
 
-<h1>3DUI Contest Entries</h1>
+<h1>3DUI Contest</h1>
 
 
 <div>
