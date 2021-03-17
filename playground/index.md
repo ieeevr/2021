@@ -391,12 +391,10 @@ title: "Call for Exhibitors and Sponsors"
         </li>
     </ul>
 
-
-
 </div>
 
 
-
+<div>
 
     <ul class="list img-list">
         <li>
@@ -454,3 +452,4 @@ title: "Call for Exhibitors and Sponsors"
             </a>
         </li>
     </ul>
+</div>
