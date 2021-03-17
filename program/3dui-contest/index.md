@@ -131,12 +131,13 @@ title: "3DUI Contest"
         {% endfor %}
     </table>
 </div>
--->
+
 
 
 <div>
     {% for entry in site.data.3duicontest %}
     <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
     <p><i>{{ entry.authors }}</i></p>
+    <hr>
     {% endfor %}
 </div>
