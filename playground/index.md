@@ -173,7 +173,7 @@ title: "Call for Exhibitors and Sponsors"
         display: grid;
         /* border: 1px solid #000; */
         grid-gap: 10px;
-        grid-template-columns: repeat(auto-fill, 200px 30%);
+        grid-template-columns: repeat(auto-fill, 150px 30%);
     }
 
 </style>
