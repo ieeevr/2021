@@ -238,6 +238,27 @@ title: "Call for Exhibitors and Sponsors"
             /* this overrides the media queries */
         }
     }
+    
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%; /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
 </style>
 
@@ -290,9 +311,12 @@ title: "Call for Exhibitors and Sponsors"
 
     <h2>
         <a href="https://www.virbela.com/" target="_blank">
-            <img style="width: 30%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+            <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
         </a>
     </h2>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/watch?v=TuOBgzJeQj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 </div>
 
