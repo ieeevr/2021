@@ -238,7 +238,7 @@ title: "Call for Exhibitors and Sponsors"
             /* this overrides the media queries */
         }
     }
-    
+
     /* video container */
     .video-container {
         overflow: hidden;
@@ -247,7 +247,8 @@ title: "Call for Exhibitors and Sponsors"
     }
 
     .video-container::after {
-        padding-top: 56.25%; /* 75% if 4:3*/
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
         display: block;
         content: '';
     }
@@ -392,214 +393,64 @@ title: "Call for Exhibitors and Sponsors"
 
 
 
-
-<!--
-    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">HIT Lab NZ</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-
-                <center>
-                    <a href="https://appen.com" target="_blank">
-                        <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/HITL-AIGI.jpg">
-                    </a>
-                </center>
-
-                <ul class="list img-list">
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                    <p>Sometimes we get more content than we expected.</p>
-                                    <p>The design should cope with this!</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Microsoft</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-
-                <center>
-                    <a href="https://appen.com" target="_blank">
-                        <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/microsoft.png">
-                    </a>
-                </center>
-
-                <ul class="list img-list">
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                    <p>Sometimes we get more content than we expected.</p>
-                                    <p>The design should cope with this!</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Qualcomm</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-
-                <center>
-                    <a href="https://appen.com" target="_blank">
-                        <img class="conf-icon" style="width: 20%;" src="/2021/assets/images/sponsors/qualcomm.jpeg">
-                    </a>
-                </center>
-
-                <ul class="list img-list">
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                    <p>Sometimes we get more content than we expected.</p>
-                                    <p>The design should cope with this!</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="inner">
-                            <div class="li-img">
-                                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
-                            </div>
-                            <div class="li-text">
-                                <h3 class="li-head">Title of Content</h3>
-                                <div class="li-sub">
-                                    <p>Summary of content.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>-->
-
 </div>
+
+
+
+
+    <ul class="list img-list">
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="Hot air balloons" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Title of Content</h3>
+                    <div class="li-sub">
+                        <p>Summary of content.</p>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="Hot air balloons" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Title of Content</h3>
+                    <div class="li-sub">
+                        <p>Summary of content.</p>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Title of Content</h3>
+                    <div class="li-sub">
+                        <p>Summary of content.</p>
+                        <p>Sometimes we get more content than we expected.</p>
+                        <p>The design should cope with this!</p>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="inner">
+                <div class="li-img">
+                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq13.jpg" alt="Hot air balloons" />
+                </div>
+                <div class="li-text">
+                    <h3 class="li-head">Title of Content</h3>
+                    <div class="li-sub">
+                        <p>Summary of content.</p>
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ul>
