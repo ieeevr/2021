@@ -163,7 +163,6 @@ title: "Call for Exhibitors and Sponsors"
     .box {
         border-radius: 5px;
         padding: 20px;
-        background-color: aqua;
     }
     .box:nth-child(even) {
         color: red;
