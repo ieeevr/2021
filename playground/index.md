@@ -273,7 +273,7 @@ title: "Call for Exhibitors and Sponsors"
             <td>Thursday, April 1</td>
             <td><a href="/2021/program/overview/#EX6">11:30 - 13:00</a><br /><a href="/2021/program/overview/#EX7">17:30 - 18:30</a></td>
         </tr>
-    
+
         <tr>
             <th>Welcome Reception</th>
             <th>(Lisbon WEST UTC+1)</th>
@@ -284,9 +284,15 @@ title: "Call for Exhibitors and Sponsors"
         </tr>
 
     </table>
+</div>
 
+<div>
 
-
+    <h2>
+        <a href="https://www.virbela.com/" target="_blank">
+            <img style="width: 30%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+        </a>
+    </h2>
 
 </div>
 
@@ -294,7 +300,7 @@ title: "Call for Exhibitors and Sponsors"
     <h2>Literature Distribution</h2>
     <p>Please click on the companies below to access more content from this year's exhibitors.</p>
 
-    
+
 
     <ul class="list img-list">
 
@@ -331,7 +337,7 @@ title: "Call for Exhibitors and Sponsors"
         <li>
             <a href="#" class="inner">
                 <div class="li-img">
-                    <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png"/>
+                    <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
                 </div>
                 <div class="li-text">
                     <h3 class="li-head">Microsoft</h3>
