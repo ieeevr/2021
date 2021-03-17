@@ -79,16 +79,16 @@ title: "Call for Exhibitors and Sponsors"
         /* font-family: monospace; */
         font-size: 1rem;
         text-align: left;
-        padding: 0.5rem;
-        color: #ffffff;
-        background: #00aeef;
+        padding: 0.1rem;
+        color: #00aeef;
+        background: #ffffff;
         cursor: pointer;
         border-radius: 7px;
         transition: all 0.25s ease-out;
     }
 
     .lbl-toggle:hover {
-        color: #FFF;
+        /*color: #FFF;*/
     }
 
     .lbl-toggle::before {
