@@ -161,16 +161,12 @@ title: "Call for Exhibitors and Sponsors"
 
     /* Thumbnails box */
     .box {
-        background-color: #444;
-        color: #fff;
         border-radius: 5px;
         padding: 20px;
-        width: 100px;
     }
-
-    .box:nth-child(even) {
-        background-color: #ccc;
-        color: #000;
+    .box:nth-child(odd) {
+        width: 200px;
+        color: red;
     }
 
     .wrapper {
