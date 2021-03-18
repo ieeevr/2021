@@ -219,6 +219,31 @@ title: "Venue"
                 <td>Storage: 2.5GB</td>
                 <td>Storage: 2.5GB</td>
             </tr>
+            
+            <tr>
+                <th>Recommended Windows Requirements</th>
+                <th>Recommended Mac Requirements</th>
+            </tr>
+            <tr>
+                <td>Windows 7 SP1+ or newer</td>
+                <td>Mac OS X 10.11 or newer</td>
+            </tr>
+            <tr>
+                <td>CPU: 2.5GHz Intel Core i7 or 2.2GHz AMD A8</td>
+                <td>CPU: 2.5GHz Intel Core i7</td>
+            </tr>
+            <tr>
+                <td>Memory: 8GB</td>
+                <td>Memory: 8GB</td>
+            </tr>
+            <tr>
+                <td>Graphics: Dedicated graphics device with DX11 (shader model 4.0) and at least 1GB of on-board memory</td>
+                <td>Graphics: GeForce GT 750M or better</td>
+            </tr>
+            <tr>
+                <td>Storage: 2.5GB</td>
+                <td>Storage: 2.5GB</td>
+            </tr>
 
         </table>
 
@@ -253,6 +278,7 @@ title: "Venue"
             <p>For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “<b>Play!</b>” button to launch VirBELA.</p>
         
         <!--    image here -->
+        <img src="assets\images\Images_IEEEVR\image1.png" alt="Play!Button">
 
             <ul>
                 <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help VirBELA run smoother.</li>
@@ -373,7 +399,7 @@ title: "Venue"
         <h2>FAQ</h2>
         
         <p><b>I’m in the virtual campus, however I am having issues with sound and talking?</b></p>
-        <p style="color:red;">Helloooooo Any technical issues when you are inside the world, VirBELA Concierge and technical staff will be available on campus to help you with. </p>
+        <p>Any technical issues when you are inside the world, VirBELA Concierge and technical staff will be available on campus to help you with. </p>
         
         <p><b>I’m hearing a background sound but cannot hear people talking, what should I do?</b></p>
         <p>To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
