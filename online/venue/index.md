@@ -398,9 +398,7 @@ title: "Venue"
     
         <h2>FAQ</h2>
         
-        <p><b style="font-size: 0.8em;color: black">I’m in the virtual campus, however I am having issues with sound and talking?</b></p>
-        <p>Any technical issues when you are inside the world, VirBELA Concierge and technical staff will be available on campus to help you with. </p>
-        
+
         <p><b style="font-size: 0.8em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b></p>
         <p>To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
         
