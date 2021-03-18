@@ -325,7 +325,7 @@ title: "Venue"
                 <td>Turn Right</td>
             </tr>
             <tr>
-                <td><strong>A</strong> or <i class='fas fa-arrow-left'></i></td>
+                <td><strong>A</strong> or &#8592 </i></td>
                 <td>Turn Left</td>
             </tr>
             <tr>
