@@ -324,7 +324,7 @@ title: "Venue"
         
         <table class="styled-table" style="font-size: 0.8em;">
             <tr>
-                <td><strong>W</strong> or <span style="font-family: Arial">&#8593</span> </td>
+                <td><strong>W</strong> or Wii <span style="font-family: Arial">&#8593</span> </td>
                 <td>Forward</td>
             </tr>
             <tr>
