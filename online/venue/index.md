@@ -285,7 +285,7 @@ title: "Venue"
             <p>For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “<b>Play!</b>” button to launch VirBELA.</p>
         
         <!--    image here <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
-        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" class="center">
+        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" <!-- class="center" -->>
 
             <ul>
                 <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help VirBELA run smoother.</li>
@@ -296,14 +296,14 @@ title: "Venue"
             <p>If you do not have an account, you need to register before using the virtual campus for the first time. You will need to provide the same email you used to register IEEE VR 2021 along with other personal information, such as name, organization (or institution), and others. After that, you will be automatically redirected to the login screen where you can login with your new account.</p>
         
         <!--    image here -->
-         <img src="/2021/assets/images/Images_IEEEVR/image2.png" alt="Registration" class="center">
+         <img src="/2021/assets/images/Images_IEEEVR/image2.png" alt="Registration" <!-- class="center" -->>
         
             <h3>Creating your Avatar</h3>
         
             <p>When you log in the first time, you will be taken to the character creation screen. Here you will be able to create your own avatar. This is how the other participants will see you, so you can be creative and have great fun setting up your avatar. Feel free to experiment because you can change it at any time using the <strong>GO TO</strong> menu.</p>
         
         <!--    image here -->
-         <img src="/2021/assets/images/Images_IEEEVR/image3.png" alt="Avatar Menu" class="center">
+         <img src="/2021/assets/images/Images_IEEEVR/image3.png" alt="Avatar Menu" <!-- class="center" -->>
         
             <p>After customizing your avatar using the menu (1), select save and exit using the green button in the bottom right hand corner of the character creation screen (2). This will then bring you into the virtual campus.</p>
 
@@ -357,7 +357,7 @@ title: "Venue"
         <p>This is the primary way to communicate in VirBELA. When you arrive in the virtual campus, your microphone will be on mute. It is advised to always keep it on mute when you are not talking to avoid background noise. To speak, you can click at the microphone icon to turn it on. Clicking it again and you will turn it off. You can also talk by pressing and holding the key 1 if you do not want your microphone on all the time.</p>
         
     <!--    image here -->
-     <img src="/2021/assets/images/Images_IEEEVR/image4.png" alt="Voice Communication" class="center">
+     <img src="/2021/assets/images/Images_IEEEVR/image4.png" alt="Voice Communication" <!-- class="center" -->>
         
         <p>When you are speaking, a chat bubble will appear both above your head and above the icon. You can only communicate with users who are in the same location as you. For example, if you’re in the Main Stage and someone else is in the Landing Zone, you will not be able to hear each other. Also, you can only hear and talk with people close to you when in open spaces because the audio is spatial in open places. Inside a room, on the other hand, you can hear and talk with anyone regardless of the distance.</p>
         
@@ -370,7 +370,7 @@ title: "Venue"
         <p>In the upper left corner of the screen sits the context menu. Here you will find information about how many users are in the same area as you, names of people in the area, and the GO TO menu, which allows you to navigate the world easily.</p>
         
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image5.png" alt="GO TO Menu" class="center">
+        <img src="/2021/assets/images/Images_IEEEVR/image5.png" alt="GO TO Menu" <!-- class="center" -->>
         
         <p>The GO TO menu within the context menu allows you to jump to different locations. For example, if you are in the Landing Zone and want to go to the Main Stage for the technical sessions, you would: Select <i>GO TO > Main Stage</i>. Your avatar will then be transported and arrive in the Main Stage.</p>
         
@@ -379,7 +379,7 @@ title: "Venue"
         <p>Below the GO TO Menu, you can see your name, which also reviews a menu that allows you to change your avatar, view your profile and use emotes and actions, such as greeting, clap and dance. You can also trigger them using the keys <strong>F1</strong> to <strong>F8</strong>.</p>
         
         <!--    image here -->
-        <img src="/2021/assets/images/Images_IEEEVR/image6.png" alt="Your Name" class="center">
+        <img src="/2021/assets/images/Images_IEEEVR/image6.png" alt="Your Name" <!-- class="center" -->>
         
         <h3>Gear Menu</h3>
         
