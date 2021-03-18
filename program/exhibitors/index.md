@@ -85,7 +85,7 @@ title: "Exhibitors and Sponsors"
         </tr>
         <tr>
             <td>Monday, March 29</td>
-            <td><a href="/2021/program/overview/#EXW">17:00 - 18:30</a></td>
+            <td><a href="/2021/program/overview/#EXW">17:30 - 18:30</a></td>
         </tr>
 
     </table>
