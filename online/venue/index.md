@@ -46,6 +46,7 @@ title: "Venue"
     .styled-table th,
     .styled-table td {
         padding: 12px 15px;
+        width: 50%;
     }
 
     .styled-table tbody tr {
