@@ -187,6 +187,9 @@ title: "Venue"
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
         display: table;
         width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        
         
     }
 
