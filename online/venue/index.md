@@ -285,8 +285,8 @@ title: "Venue"
         
         <table class="styled-table" style="font-size: 0.8em;">
             <tr>
-                <th><strong>W</strong> or <i class='fas fa-arrow-up'></i> </th>
-                <th>Forward</th>
+                <td><strong>W</strong> or <i class='fas fa-arrow-up'></i> </td>
+                <td>Forward</td>
             </tr>
             <tr>
                 <td><strong>S</strong> or <i class='fas fa-arrow-down'></i></td>
@@ -372,7 +372,7 @@ title: "Venue"
     
         <h2>FAQ</h2>
         
-        <p><b>I’m in the virtual campus, however I am having issues with sound and talking?</b></p>
+        <p style="color:black;"><b>I’m in the virtual campus, however I am having issues with sound and talking?</b></p>
         <p>Any technical issues when you are inside the world, VirBELA Concierge and technical staff will be available on campus to help you with. </p>
         
         <p><b>I’m hearing a background sound but cannot hear people talking, what should I do?</b></p>
