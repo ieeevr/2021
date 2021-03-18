@@ -679,13 +679,13 @@ title: "Program Overview"
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
 
-                    <div class="session session-5 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1100 / time-1200;">
+                    <div class="session session-5 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1100 / time-1200;">
                         <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#2.2">Embedded and Surround Videos</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Lunch</h3>
                     </div>
 
@@ -740,7 +740,7 @@ title: "Program Overview"
                         <span class="session-time">17:00 - 18:00</span>
                     </div>
 
-                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1830;">
+                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1700 / time-1830;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P1">Panel: Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
                     </div>
@@ -925,10 +925,9 @@ title: "Program Overview"
                     </div>
 
 
-                    <p class="time-slot" style="grid-row: time-1130;">11:30</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1300;">
-                        <h3 id="E6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">11:30 - 13:00</span>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1200;">
+                        <h3 id="EX6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">10:30 - 12:00</span>
                     </div>
 
 
@@ -939,7 +938,7 @@ title: "Program Overview"
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
-                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1330;">
+                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1330;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P3">Panel: What makes a virtual human human?</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
@@ -985,7 +984,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1900;">
-                        <h3 id="E7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="EX7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:30 - 18:30</span>
                     </div>
 
