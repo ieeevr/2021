@@ -178,12 +178,7 @@ title: "Venue"
         grid-template-columns: repeat(auto-fill, 150px 30%);
     }
     
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-        }
+  
     
     
 
