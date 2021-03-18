@@ -317,21 +317,21 @@ title: "Venue"
         <h2>Walking Around</h2>
         <p>By default, you can move around using the keyboard:</p>
         
-        <table class="styled-table" style="font-size: 0.8em;">
+        <table class="styled-table" width: 50%; style="font-size: 0.8em;">
             <tr>
-                <td><strong style="font-size: 1em;color: black">W</strong> or ↑ &#8593</td>
+                <td><strong style="font-size: 1em;color: black">W</strong> or ↑ </td>
                 <td>Forward</td>
             </tr>
             <tr>
-                <td><strong style="font-size: 1em;color: black">S</strong> or ↓ &#8595</td>
+                <td><strong style="font-size: 1em;color: black">S</strong> or ↓ </td>
                 <td>Backward</td>
             </tr>
             <tr>
-                <td><strong style="font-size: 1em;color: black">D</strong> or → &#8594</td>
+                <td><strong style="font-size: 1em;color: black">D</strong> or → </td>
                 <td>Turn Right</td>
             </tr>
             <tr>
-                <td><strong style="font-size: 1em;color: black">A</strong> or ← &#8592</td>
+                <td><strong style="font-size: 1em;color: black">A</strong> or ← </td>
                 <td>Turn Left</td>
             </tr>
             <tr>
