@@ -278,7 +278,7 @@ title: "Venue"
             <p>For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “<b>Play!</b>” button to launch VirBELA.</p>
         
         <!--    image here <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
-        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" class="center">
+        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button">
 
             <ul>
                 <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help VirBELA run smoother.</li>
@@ -407,16 +407,16 @@ title: "Venue"
         <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b></p>
         <p>To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
         
-        <p><b style="font-size: 0.8em;color: black">I can hear a lot of people talking, what shall I do?</b></p>
+        <p><b style="font-size: 1em;color: black">I can hear a lot of people talking, what shall I do?</b></p>
         <p>Like in a real-life event, if you are standing in a busy space with lots of people talking it’s going to be noisy. Like in real-life, if you move away from crowds of people the sound will get quieter.</p>
         
-        <p><b style="font-size: 0.8em;color: black">I keep getting feedback</b></p>
+        <p><b style="font-size: 1em;color: black">I keep getting feedback</b></p>
         <p>If you are experiencing feedback, turn off your microphone and hold down number 1 when you wish to speak.</p>
         
-        <p><b style="font-size: 0.8em;color: black">I am lost and don’t know how to get back to where I need to be</b></p>
+        <p><b style="font-size: 1em;color: black">I am lost and don’t know how to get back to where I need to be</b></p>
         <p>Virbela is a large place, however if you ever find you don’t know where you are. Use your GO TO menu to navigate back to campus. From campus you can then use the GO TO to get to any location in VirBELA.</p>
         
-        <p><b style="font-size: 0.8em;color: black">VirBELA seems to be running very slow</b></p>
+        <p><b style="font-size: 1em;color: black">VirBELA seems to be running very slow</b></p>
         <p>We recommend shutting down all other applications on your computer whilst running VirBELA to allow the application to run at full speed.</p>
     
     </div>
