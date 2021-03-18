@@ -313,15 +313,15 @@ title: "Venue"
         
         <table class="styled-table" style="font-size: 0.8em;">
             <tr>
-                <td><strong>W</strong> or <i class='fas fa-arrow-up'></i> </td>
+                <td><strong>W</strong> or &#8593</i> </td>
                 <td>Forward</td>
             </tr>
             <tr>
-                <td><strong>S</strong> or <i class='fas fa-arrow-down'></i></td>
+                <td><strong>S</strong> or &#8595</i></td>
                 <td>Backward</td>
             </tr>
             <tr>
-                <td><strong>D</strong> or <i class='fas fa-arrow-right'></i></td>
+                <td><strong>D</strong> or &#8594</i></td>
                 <td>Turn Right</td>
             </tr>
             <tr>
