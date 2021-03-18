@@ -282,7 +282,7 @@ title: "Venue"
             <p>For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “<b>Play!</b>” button to launch VirBELA.</p>
         
         <!--    image here <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
-        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" >
+        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" class="center" >
 
             <ul>
                 <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help VirBELA run smoother.</li>
