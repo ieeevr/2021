@@ -356,7 +356,7 @@ title: "Venue"
         <h2>Walking Around</h2>
         <p>By default, you can move around using the keyboard:</p>
         
-        <table class="styled-table" style="font-size: 0.8em;">
+        <table class="styled-table2" style="font-size: 0.8em;">
             <tr>
                 <td><strong style="font-size: 1em;color: black">W</strong> or ↑ </td>
                 <td>Forward</td>
