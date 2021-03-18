@@ -449,7 +449,7 @@ title: "Venue"
         <h2>FAQ</h2>
         
 
-        <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b>
+        <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b><br>
         To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
         
         <p><b style="font-size: 1em;color: black">I can hear a lot of people talking, what shall I do?</b></p>
