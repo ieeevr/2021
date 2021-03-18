@@ -600,10 +600,9 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-1730;">
-                        <h3 id="E1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">16:00 - 17:30</span>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1630;">
+                        <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">15:00 - 16:30</span>
                     </div>
 
 
@@ -625,10 +624,9 @@ title: "Program Overview"
                         <span class="session-time">17:30 - 19:00</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1800 / time-1930;">
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1830;">
                         <h3 id="EW" class="session-title"><a href="/2021/program/exhibitors/">Exhibitors: Welcome Reception</a></h3>
-                        <span class="session-time">18:00 - 19:30</span>
+                        <span class="session-time">17:30 - 18:30</span>
                     </div>
 
                 </div>
@@ -669,10 +667,9 @@ title: "Program Overview"
                         <span class="session-time">9:30 - 11:00</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1230;">
-                        <h3 id="E2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">10:30 - 12:30</span>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
+                        <h3 id="EX2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">9:30 - 11:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
@@ -682,13 +679,13 @@ title: "Program Overview"
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
 
-                    <div class="session session-5 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1100 / time-1200;">
+                    <div class="session session-5 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1100 / time-1200;">
                         <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#2.2">Embedded and Surround Videos</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Lunch</h3>
                     </div>
 
@@ -726,8 +723,13 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
-                    <div class="session session-12 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-1600 / time-1700;">
+                    <div class="session session-12 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1700;">
                         <h3 class="session-title">BOF/Social</h3>
+                        <span class="session-time">16:00 - 17:00</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-1700;">
+                        <h3 id="EX3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">16:00 - 17:00</span>
                     </div>
 
@@ -738,13 +740,8 @@ title: "Program Overview"
                         <span class="session-time">17:00 - 18:00</span>
                     </div>
 
-                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-1830;">
+                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1700 / time-1830;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P1">Panel: Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation</a></h3>
-                        <span class="session-time">17:00 - 18:30</span>
-                    </div>
-
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-1830;">
-                        <h3 id="E3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:00 - 18:30</span>
                     </div>
 
@@ -787,9 +784,14 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-0930;">09:30</p>
-                    <div class="session session-3 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-0930 / time-1030;">
+                    <div class="session session-3 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1030;">
                         <h3 class="session-title">BOF/Social</h3>
                         <span class="session-time">9:30 - 10:30</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
+                        <h3 id="EX4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">9:30 - 11:00</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
@@ -798,14 +800,9 @@ title: "Program Overview"
                         <h3 class="session-title">Break</h3>
                     </div>
 
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1130;">
-                        <h3 id="E4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">10:30 - 11:30</span>
-                    </div>
-
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
-                    <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-2-end; grid-row: time-1100 / time-1200;">
+                    <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1100 / time-1200;">
                         <h3 class="session-title">Keynote
                             <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke<br />B(l)ending Realities</a>
                         </h3>
@@ -842,10 +839,9 @@ title: "Program Overview"
                         <span class="session-time">14:00 - 15:30</span>
                     </div>
 
-                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1600;">
-                        <h3 id="E5" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">15:00 - 16:00</span>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1530;">
+                        <h3 id="EX5" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">14:00 - 15:30</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
@@ -855,7 +851,7 @@ title: "Program Overview"
                         <span class="session-time">15:30 - 16:30</span>
                     </div>
 
-                    <div class="session session-11 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
+                    <div class="session session-11 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P2">Panel: Shaping the Future of XR and Arts</a></h3>
                         <span class="session-time">15:30 - 17:00</span>
                     </div>
@@ -929,10 +925,9 @@ title: "Program Overview"
                     </div>
 
 
-                    <p class="time-slot" style="grid-row: time-1130;">11:30</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1300;">
-                        <h3 id="E6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
-                        <span class="session-time">11:30 - 13:00</span>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1200;">
+                        <h3 id="EX6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">10:30 - 12:00</span>
                     </div>
 
 
@@ -943,7 +938,7 @@ title: "Program Overview"
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 
-                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-2-end; grid-row: time-1200 / time-1330;">
+                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1330;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P3">Panel: What makes a virtual human human?</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
@@ -989,7 +984,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1900;">
-                        <h3 id="E7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <h3 id="EX7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">17:30 - 18:30</span>
                     </div>
 
