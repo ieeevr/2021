@@ -319,23 +319,23 @@ title: "Venue"
         
         <table class="styled-table" style="font-size: 0.8em;">
             <tr>
-                <td><strong>W</strong> or Wii <span style="font-family: Arial">&#8593</span> </td>
+                <td><strong style="font-size: 1em;color: black">W</strong> or ↑ &#8593</td>
                 <td>Forward</td>
             </tr>
             <tr>
-                <td><strong>S</strong> or &#8595</td>
+                <td><strong style="font-size: 1em;color: black">S</strong> or ↓ &#8595</td>
                 <td>Backward</td>
             </tr>
             <tr>
-                <td><strong>D</strong> or &#8594</td>
+                <td><strong style="font-size: 1em;color: black">D</strong> or → &#8594</td>
                 <td>Turn Right</td>
             </tr>
             <tr>
-                <td><strong>A</strong> or &#8592</td>
+                <td><strong style="font-size: 1em;color: black">A</strong> or ← &#8592</td>
                 <td>Turn Left</td>
             </tr>
             <tr>
-                <td><strong>Shift</strong></td>
+                <td><strong style="font-size: 1em;color: black">Shift</strong></td>
                 <td>Run</td>
             </tr>
             
