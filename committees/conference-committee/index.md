@@ -39,7 +39,7 @@ title: "Conference Committee"
     <ul>
         <li> Maurício Sousa &#x2012; <i> University of Toronto, Canada </i></li>
         <li> Jiannan Li &#x2012; <i> University of Toronto, Canada </i></li>
-        <!--			<li>	Beatriz	Peres	&#x2012; <i>	University of Madeira, Portugal	</i></li>	-->
+        <li>	Beatriz	Peres	&#x2012; <i>	University of Madeira, Portugal	</i></li>
         <li> Catarina Fidalgo &#x2012; <i> University of Lisbon, Portugal </i></li>
         <li> J. Adam Jones &#x2012; <i> University of Mississippi, USA </i></li>
         <li style="list-style: none"> web2021 [at] ieeevr.org </li>

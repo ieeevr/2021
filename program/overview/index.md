@@ -613,7 +613,7 @@ title: "Program Overview"
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
-                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1630 / time-1730;">
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1630 / time-1730;">
                         <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#7.2">Visualization</a></h3>
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
