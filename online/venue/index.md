@@ -178,7 +178,55 @@ title: "Venue"
         grid-template-columns: repeat(auto-fill, 150px 30%);
     }
     
-  
+  .styled-table2 {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        
+        
+    }
+
+    .styled-table2 thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table2 th,
+    .styled-table2 td {
+        padding: 12px 15px;
+        width: 50%;
+    }
+
+    .styled-table2 tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table2 tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table2 tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table2 tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+    
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
     
     
 
@@ -284,7 +332,7 @@ title: "Venue"
             <p>For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “<b>Play!</b>” button to launch VirBELA.</p>
         
         <!--    image here <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
-        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" class="center" >
+        <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button" >
 
             <ul>
                 <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help VirBELA run smoother.</li>
@@ -317,25 +365,25 @@ title: "Venue"
         <h2>Walking Around</h2>
         <p>By default, you can move around using the keyboard:</p>
         
-        <table class="styled-table" style="font-size: 0.8em;">
+        <table class="styled-table2" style="font-size: 0.8em;">
             <tr>
-                <td><strong>W</strong> or Wii <span style="font-family: Arial">&#8593</span> </td>
+                <td><strong style="font-size: 1em;color: black">W</strong> or ↑ </td>
                 <td>Forward</td>
             </tr>
             <tr>
-                <td><strong>S</strong> or &#8595</td>
+                <td><strong style="font-size: 1em;color: black">S</strong> or ↓ </td>
                 <td>Backward</td>
             </tr>
             <tr>
-                <td><strong>D</strong> or &#8594</td>
+                <td><strong style="font-size: 1em;color: black">D</strong> or → </td>
                 <td>Turn Right</td>
             </tr>
             <tr>
-                <td><strong>A</strong> or &#8592</td>
+                <td><strong style="font-size: 1em;color: black">A</strong> or ← </td>
                 <td>Turn Left</td>
             </tr>
             <tr>
-                <td><strong>Shift</strong></td>
+                <td><strong style="font-size: 1em;color: black">Shift</strong></td>
                 <td>Run</td>
             </tr>
             
@@ -410,20 +458,20 @@ title: "Venue"
         <h2>FAQ</h2>
         
 
-        <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b></p>
-        <p>To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
+        <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b><br>
+        To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
         
-        <p><b style="font-size: 1em;color: black">I can hear a lot of people talking, what shall I do?</b></p>
-        <p>Like in a real-life event, if you are standing in a busy space with lots of people talking it’s going to be noisy. Like in real-life, if you move away from crowds of people the sound will get quieter.</p>
+        <p><b style="font-size: 1em;color: black">I can hear a lot of people talking, what shall I do?</b><br>
+        Like in a real-life event, if you are standing in a busy space with lots of people talking it’s going to be noisy. Like in real-life, if you move away from crowds of people the sound will get quieter.</p>
         
-        <p><b style="font-size: 1em;color: black">I keep getting feedback</b></p>
-        <p>If you are experiencing feedback, turn off your microphone and hold down number 1 when you wish to speak.</p>
+        <p><b style="font-size: 1em;color: black">I keep getting feedback</b><br>
+        If you are experiencing feedback, turn off your microphone and hold down number 1 when you wish to speak.</p>
         
-        <p><b style="font-size: 1em;color: black">I am lost and don’t know how to get back to where I need to be</b></p>
-        <p>Virbela is a large place, however if you ever find you don’t know where you are. Use your GO TO menu to navigate back to campus. From campus you can then use the GO TO to get to any location in VirBELA.</p>
+        <p><b style="font-size: 1em;color: black">I am lost and don’t know how to get back to where I need to be</b><br>
+        Virbela is a large place, however if you ever find you don’t know where you are. Use your GO TO menu to navigate back to campus. From campus you can then use the GO TO to get to any location in VirBELA.</p>
         
-        <p><b style="font-size: 1em;color: black">VirBELA seems to be running very slow</b></p>
-        <p>We recommend shutting down all other applications on your computer whilst running VirBELA to allow the application to run at full speed.</p>
+        <p><b style="font-size: 1em;color: black">VirBELA seems to be running very slow</b><br>
+        We recommend shutting down all other applications on your computer whilst running VirBELA to allow the application to run at full speed.</p>
     
     </div>
         
