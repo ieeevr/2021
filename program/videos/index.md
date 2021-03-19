@@ -161,7 +161,7 @@ title: "Videos"
         <iframe src="http://www.youtube.com/embed/{{ video.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     
-    <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ poster.id }}" class="lbl-toggle">Abstract</label>
+    <div id="{{ video.id }}" class="wrap-collabsible"> <input id="collapsible{{ video.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ video.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <p>{{ video.abstract }}</p>
