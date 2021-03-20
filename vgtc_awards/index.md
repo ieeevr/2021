@@ -261,10 +261,11 @@ Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 19
      
 </div> 
 
-<center><h2>The 2021 VGTC Virtual Reality Technical Achievement Award}</h2></center>
-<center>{{David P. Luebke}}</center>
+<center><h2>The 2021 VGTC Virtual Reality Technical Achievement Award</h2></center>
+<center>David P. Luebke</center>
 <br />
 <center><img src="/2021/assets/images/Images_VGTC_Awards/image2.jpg" alt="David P. Luebke" width="50%"></center>
+<img src="/2021/assets/images/Images_IEEEVR/image2.png" alt="Registration" >
 <br />
 
 <!-- <center><big><strong>{{ keynote.title }}</strong></big></center> -->
