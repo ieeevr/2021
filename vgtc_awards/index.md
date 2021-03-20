@@ -241,7 +241,7 @@ img {
 <div>    
     
 <center><h2>The 2021 VGTC Virtual Reality Career Award</h2></center>
-<center>Mary Whitton</center>
+<center><strong>Mary Whitton</strong></center>
 <br />
 
 <img src="/2021/assets/images/Images_VGTC_Awards/image1.png" alt="Mary Whitton">
@@ -269,9 +269,9 @@ Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 19
 </div> 
 
 <center><h2>The 2021 VGTC Virtual Reality Technical Achievement Award</h2></center>
-<center>David P. Luebke</center>
+<center><strong>David P. Luebke</strong></center>
 <br />
-<img src="/2021/assets/images/Images_VGTC_Awards/image2.png" alt="David P. Luebke" width="50%" >
+<img src="/2021/assets/images/Images_VGTC_Awards/image2.png" alt="David P. Luebke" width="50%">
 <img src="/2021/assets/images/Images_IEEEVR/image2.png" alt="Registration" >
 <br />
 
