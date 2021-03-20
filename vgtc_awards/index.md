@@ -273,7 +273,7 @@ Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 19
 
 
 <p>
-<pre> The 2021 IEEE VGTC Virtual Reality Technical Achievement Award goes to David Luebke of NVIDIA, in recognition of his re-search and leadership at the intersection of rendering algorithms, display technology, and human perception.  With an interdisci-plinary orientation, Dr. Luebke and his team have advanced the state of virtual reality across topics as diverse as real-time render-ing, low-latency display, foveated resolution, redirected walking, haptics, and focus-supporting displays. </pre>
+The 2021 IEEE VGTC Virtual Reality Technical Achievement Award goes to David Luebke of NVIDIA, in recognition of his re-search and leadership at the intersection of rendering algorithms, display technology, and human perception.  With an interdisci-plinary orientation, Dr. Luebke and his team have advanced the state of virtual reality across topics as diverse as real-time render-ing, low-latency display, foveated resolution, redirected walking, haptics, and focus-supporting displays. 
    
 </p>
 
