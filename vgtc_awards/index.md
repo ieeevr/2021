@@ -235,6 +235,8 @@ img {
     
 <h1>VGTC Awards</h1>  
 
+<p>The IEEE VGTC Virtual and Augmented Reality Technical Awards program recognizes individuals who have made a significant contribution to the community through their research. </p>
+
 
 <div>
 
@@ -264,7 +266,7 @@ Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 19
 <center><h2>The 2021 VGTC Virtual Reality Technical Achievement Award</h2></center>
 <center>David P. Luebke</center>
 <br />
-<center><img src="/2021/assets/images/Images_VGTC_Awards/image2.jpg" alt="David P. Luebke" width="50%"></center>
+<center><img src="/2021/assets/images/Images_VGTC_Awards/image2.png" alt="David P. Luebke" width="50%"></center>
 <img src="/2021/assets/images/Images_IEEEVR/image2.png" alt="Registration" >
 <br />
 
