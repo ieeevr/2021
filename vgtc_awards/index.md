@@ -226,6 +226,11 @@ img {
         margin-right: auto;
     }
     
+div {
+        text-align: justify;
+        text-justify: inter-word;
+}
+    
     
 
 </style>
@@ -299,9 +304,6 @@ Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 19
 </p>
 
 <hr>
-
-</div>
-
 
 
 </div>
