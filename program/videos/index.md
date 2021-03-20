@@ -120,7 +120,8 @@ title: "Videos"
     }
 
     .video-container::after {
-        padding-top: 56.25%; /* 75% if 4:3*/
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
         display: block;
         content: '';
     }
@@ -155,29 +156,17 @@ title: "Videos"
 
     <h3 id="{{ video.id }}">{{ video.title }}</h3>
     <p><i>{{ video.authors }}</i></p>
-    <!--
-    <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ video.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ video.id }}" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
--->
-    <p>{{ video.abstract }}</p>
-    <!--
-</div>
-        </div>
-    </div>
--->
-
-    <!--
-    <div>
-        <center>
-            <iframe width="560" height="315" src="{{ video.url }}">
-            </iframe>
-        </center>
-    </div>
--->
 
     <div class="video-container">
-        <iframe src="{{ video.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="http://www.youtube.com/embed/{{ video.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+    <div id="{{ video.id }}" class="wrap-collabsible"> <input id="collapsible{{ video.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ video.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ video.abstract }}</p>
+            </div>
+        </div>
     </div>
 
     {% endfor %}
