@@ -169,7 +169,7 @@ title: "Posters"
             <div class="content-inner">
 
                 <div class="video-container">
-                    <iframe src="http://www.youtube.com/embed/{{ video.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="http://www.youtube.com/embed/{{ poster.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
