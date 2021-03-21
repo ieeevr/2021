@@ -137,19 +137,44 @@ title: "Posters"
 </style>
 
 
+
 <div>
     <table class="styled-table">
 
         <tr>
             <th>Posters</th>
+            <th>Location</th>
         </tr>
-        {% for poster in site.data.posters %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ poster.id }}">{{ poster.title }}</a></td>
+            <td><a href="#DCA">Doctoral Consortium Posters</a></td>
+            <td>Hall A</td>
         </tr>
-        {% endfor %}
+        <tr>
+            <td><a href="#DCB">Doctoral Consortium Posters</a></td>
+            <td>Hall B</td>
+        </tr>
+        <tr>
+            <td><a href="#PA">Posters</a></td>
+            <td>Hall A</td>
+        </tr>
+        <tr>
+            <td><a href="#PB">Posters</a></td>
+            <td>Hall B</td>
+        </tr>
     </table>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div>
     {% for poster in site.data.posters %}
