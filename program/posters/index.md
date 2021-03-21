@@ -112,6 +112,28 @@ title: "Posters"
         margin-bottom: 0;
     }
     
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
 </style>
 
 
@@ -131,18 +153,28 @@ title: "Posters"
 
 <div>
     {% for poster in site.data.posters %}
-    
+
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><i>{{ poster.authors }}</i></p>
-    <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ poster.id }}" class="lbl-toggle">Abstract</label>
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <p>{{ poster.abstract }}</p>
             </div>
         </div>
     </div>
+    {% if posters.url-embed != '' %}
+    <div id="video{{ poster.id }}" class="wrap-collabsible"> <input id="collapsiblevideo{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ poster.id }}" class="lbl-toggle">Video</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+
+                <div class="video-container">
+                    <iframe src="http://www.youtube.com/embed/{{ video.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% endif %}
     {% endfor %}
 </div>
-
-
-
