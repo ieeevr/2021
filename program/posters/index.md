@@ -167,13 +167,104 @@ title: "Posters"
 
 <div>
     
-    <h3 id="DCA"> Doctoral Consortium - Hall A</h3>
+    <h2 id="DCA"> Doctoral Consortium - Hall A</h2>
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'DC' %}
     {% if poster.location == 'Hall A' %}
     
-    <h3 id="{{ poster.id }}">DC: {{ poster.title }}</h3>
+    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    <p><strong>{{ poster.type }}</strong></p>
+    <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
+    
+    {% if poster.abstract %}
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ poster.abstract }}</p>
+            </div>
+        </div>
+    </div>   
+    {% endif %}
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div>
+    
+    <h2 id="DCB"> Doctoral Consortium - Hall B</h2>
+    
+    {% for poster in site.data.posters %}
+    {% if poster.type == 'DC' %}
+    {% if poster.location == 'Hall B' %}
+    
+    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    <p><strong>{{ poster.type }}</strong></p>
+    <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
+    
+    {% if poster.abstract %}
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ poster.abstract }}</p>
+            </div>
+        </div>
+    </div>   
+    {% endif %}
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div>
+    
+    <h2 id="PA"> Posters - Hall A</h2>
+    
+    {% for poster in site.data.posters %}
+    {% if poster.type == 'Poster' %}
+    {% if poster.location == 'Hall A' %}
+    
+    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    <p><strong>{{ poster.type }}</strong></p>
+    <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
+    
+    {% if poster.abstract %}
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ poster.abstract }}</p>
+            </div>
+        </div>
+    </div>   
+    {% endif %}
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div>
+    
+    <h2 id="PB"> Posters - Hall B</h2>
+    
+    {% for poster in site.data.posters %}
+    {% if poster.type == 'Poster' %}
+    {% if poster.location == 'Hall B' %}
+    
+    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    <p><strong>{{ poster.type }}</strong></p>
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
