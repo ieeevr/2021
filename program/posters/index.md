@@ -165,7 +165,21 @@ title: "Posters"
 </div>
 
 
-
+<div>
+    
+    <h3 id="DCA"> Doctoral Consortium - Hall A</h3>
+    
+    {% for poster in site.data.posters %}
+    {% if poster.type == 'DC' %}
+    {% if poster.location == 'Hall A' %}
+    
+        <p>poster.title</p>
+    
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
 
 
 
