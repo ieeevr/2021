@@ -164,16 +164,8 @@ title: "Posters"
         </div>
     </div>
     {% if posters.url-embed != '' %}
-    <div id="video{{ poster.id }}" class="wrap-collabsible"> <input id="collapsiblevideo{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsiblevideo{{ poster.id }}" class="lbl-toggle">Video</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-
-                <div class="video-container">
-                    <iframe src="http://www.youtube.com/embed/{{ poster.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
+    
+        <p><strong><a href="{{ poster.url }}" target="_blank">Video</a></strong></p>
 
     {% endif %}
     {% endfor %}
