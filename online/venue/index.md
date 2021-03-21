@@ -228,6 +228,11 @@ title: "Venue"
         margin-right: auto;
     }
     
+    div {
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    
     
 
 </style>
