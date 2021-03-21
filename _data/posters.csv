@@ -126,23 +126,23 @@ C2532,Poster,Effective close-range accuracy comparison of Microsoft HoloLens Gen
 C2609,Poster,LighterBody: RNN based Anticipated Virtual Body Makes You Feel Lighter,Tatsuya Kure: SonyCSL; Shunichi Kasahara: Sony CSL,"The virtual body representation had shown the potential of intervention into the sense of body. To investigate how the temporal shift of body representation affects the user’s kinetic sensation, we developed a system to anticipate body movement with RNN. We then conducted a user study to assess the effect with the anticipated body movement and the system baseline. Results revealed that the transition from the baseline to the anticipated body induced a lighter bodyweight feeling, and the opposite transition induced a heavier feeling. Our work enlightens the potential of interactive manipulation of the full-body kinetic sensation using virtual body representation.",https://www.youtube.com/watch?v=Dnzxbyhz3o4,Hall B
 C2622,Poster,Detecting the Point of Release of Virtual Projectiles in AR/VR,Goksu Yamac: Trinity College Dublin; Niloy Mitra: University College London; Carol O'Sullivan: Trinity College Dublin,"Our aim is to detect the point of release of a thrown virtual projectile in VR/AR. We capture the full-body motion of 18 participants throwing virtual projectiles and extract motion features, such as position, velocity, rotation and rotational velocity for arm joints. Frame-level binary classifiers that estimate the point of release are trained and evaluated using a metric that prioritizes detection timing to obtain an importance ranking of joints and motion features. We find that the wrist joint and the rotation motion feature are most accurate, which can guide the placement of simple motion tracking sensors for real-time throw detection.",https://youtu.be/cLgMRZIkBDs,Hall B
 C2628,Poster,Self-Avatars in Virtual Reality: A Study Protocol for Investigating the Impact of the Deliberateness of Choice and the Context-Match,"Andrea Bartl: University of Würzburg, Department of Computer Science, HCI Group; Sungchul Jung: University of Canterbury; Peter Kullmann: University of Würzburg; Stephan Wenninger: TU Dortmund University; Jascha Achenbach: Bielefeld University; Erik Wolf: University of Würzburg, Department of Computer Science, HCI Group; Christian Schell: Department of Computer Science, HCI Group; Robert W. Lindeman: University of Canterbury; Mario Botsch: TU Dortmund University; Marc Erich Latoschik: Department of Computer Science, HCI Group","The illusion of virtual body ownership (VBO) plays a critical role in virtual reality (VR). VR applications provide a broad design space which includes contextual aspects of the virtual surroundings as well as user-driven deliberate choices of their appearance in VR potentially influencing VBO and other well-known effects of VR. We propose a protocol for an experiment to investigate the influence of deliberateness and context-match on VBO and presence. In a first study, we found significant interactions with the environment. Based on our results we derive recommendations for future experiments.",https://youtu.be/qA2szcu1CzI,Hall B
-1001,DC,VirSec: Virtual Reality as Cost-Effective Test Bed for Usability and Security Evaluations,,,,Hall A
-1002,DC,Eye Fixation Forecasting in Task-Oriented Virtual Reality,,,,Hall B
-1008,DC,Presence in VR: Developing measure and stimulus,,,,Hall B
-1012,DC,Emotion regulation via Eyegaze,,,,Hall B
-1014,DC,Exploring Body Gestures for Small Object Selection in Dense Environment in HMD VR for Data Visualization Applications,,,,Hall B
-1015,DC,Privacy in VR: Empowering Users with Emotional Privacy from Verbal and Non-verbal Behavior of their Avatars.,,,,Hall B
-1017,DC,Glanceable AR: Towards an Always-on Augmented Reality Future,,,,Hall A
-1018,DC,Attitude Change in Immersive Virtual Environments,,,,Hall B
-1019,DC,Situated augmented reality: beyond the egocentric viewpoint,,,,Hall A
-1021,DC,Clinical Application of Immersive VR in Spatial Cognition: The Assessment of Spatial Memory and Unilateral Spatial Neglect in Neurological Patients,,,,Hall B
-1022,DC,Embodying an avatar with an asymmetrical lower body to modulate the dynamic characteristics of gait initiation,,,,Hall A
-1024,DC,Analyzing Visual Perception and Predicting Locomotion using Virtual Reality and Eye Tracking,,,,Hall B
-1025,DC,The Effect of Modulating The Step Length of an Embodied Self-Avatars on Gait Symmetry During Treadmill Walking,,,,Hall A
-1026,DC,SharpView AR: Enhanced Visual Acuity for Out-of-Focus Virtual Content,,,,Hall A
-1028,DC,Gait Differences in the Real World and Virtual Reality: The Effect of Prior Virtual Reality Experience,,,,Hall A
-1031,DC,Towards Universal VR Sickness Mitigation Strategies,,,,Hall A
-1034,DC,“SHOW YOUR DEDICATION:” VR Games and Outmersion,,,,Hall A
-1035,DC,Psychophysical Effects of Augmented Reality Experiences,,,,Hall B
-1037,DC,Immersive Journalism - The Future of the News?,,,,Hall B
-1038,DC,The Adaptation of Caribbean Literary Texts into VR,,,,Hall A
+1001,DC,VirSec: Virtual Reality as Cost-Effective Test Bed for Usability and Security Evaluations,Florian Mathis,,,Hall A
+1002,DC,Eye Fixation Forecasting in Task-Oriented Virtual Reality,Zhiming Hu,,,Hall B
+1008,DC,Presence in VR: Developing measure and stimulus,Eugene Kukshinov,,,Hall B
+1012,DC,Emotion regulation via Eyegaze,Nermin Shaltout,,,Hall B
+1014,DC,Exploring Body Gestures for Small Object Selection in Dense Environment in HMD VR for Data Visualization Applications,Shimmila Bhowmick,,,Hall B
+1015,DC,Privacy in VR: Empowering Users with Emotional Privacy from Verbal and Non-verbal Behavior of their Avatars.,Dilshani Rangana Kumarapeli,,,Hall B
+1017,DC,Glanceable AR: Towards an Always-on Augmented Reality Future,Feiyu Lu,,,Hall A
+1018,DC,Attitude Change in Immersive Virtual Environments,Alina Nikolaou,,,Hall B
+1019,DC,Situated augmented reality: beyond the egocentric viewpoint,Nuno Martins,,,Hall A
+1021,DC,Clinical Application of Immersive VR in Spatial Cognition: The Assessment of Spatial Memory and Unilateral Spatial Neglect in Neurological Patients,Julia Belger,,,Hall B
+1022,DC,Embodying an avatar with an asymmetrical lower body to modulate the dynamic characteristics of gait initiation,Valentin Vallageas,,,Hall A
+1024,DC,Analyzing Visual Perception and Predicting Locomotion using Virtual Reality and Eye Tracking,Niklas Stein,,,Hall B
+1025,DC,The Effect of Modulating The Step Length of an Embodied Self-Avatars on Gait Symmetry During Treadmill Walking,Iris Willaert,,,Hall A
+1026,DC,SharpView AR: Enhanced Visual Acuity for Out-of-Focus Virtual Content,Mohammed Safayet Arefin,,,Hall A
+1028,DC,Gait Differences in the Real World and Virtual Reality: The Effect of Prior Virtual Reality Experience,Moloud Nasiri,,,Hall A
+1031,DC,Towards Universal VR Sickness Mitigation Strategies,Isayas Berhe Adhanom,,,Hall A
+1034,DC,“SHOW YOUR DEDICATION:” VR Games and Outmersion,PS Berge,,,Hall A
+1035,DC,Psychophysical Effects of Augmented Reality Experiences,Daniel Eckhoff,,,Hall B
+1037,DC,Immersive Journalism - The Future of the News?,Hannah Greber,,,Hall B
+1038,DC,The Adaptation of Caribbean Literary Texts into VR,Amanda Teneil Zilla,,,Hall A
