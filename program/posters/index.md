@@ -163,7 +163,7 @@ title: "Posters"
             </div>
         </div>
     </div>
-    {% if poster.url != '' %}
+    {% if poster.url %}
     
         <p><strong><a href="{{ poster.url }}" target="_blank">Video</a></strong></p>
 
