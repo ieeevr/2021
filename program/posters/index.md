@@ -173,7 +173,18 @@ title: "Posters"
     {% if poster.type == 'DC' %}
     {% if poster.location == 'Hall A' %}
     
-        <p>poster.title</p>
+    <h3 id="{{ poster.id }}">DC: {{ poster.title }}</h3>
+    <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
+    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ poster.abstract }}</p>
+            </div>
+        </div>
+    </div>    
     
     
     {% endif %}
@@ -188,7 +199,7 @@ title: "Posters"
 
 
 
-
+<!--
 
 <div>
     {% for poster in site.data.posters %}
@@ -207,3 +218,4 @@ title: "Posters"
     </div>
     {% endfor %}
 </div>
+-->
