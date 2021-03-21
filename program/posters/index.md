@@ -156,6 +156,9 @@ title: "Posters"
 
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><i>{{ poster.authors }}</i></p>
+    {% if poster.url %}
+        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
+    {% endif %}
     <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
@@ -163,10 +166,5 @@ title: "Posters"
             </div>
         </div>
     </div>
-    {% if poster.url %}
-    
-        <p><strong><a href="{{ poster.url }}" target="_blank">Video</a></strong></p>
-
-    {% endif %}
     {% endfor %}
 </div>
