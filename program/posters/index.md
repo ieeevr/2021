@@ -163,9 +163,9 @@ title: "Posters"
             </div>
         </div>
     </div>
-    {% if posters.url-embed != '' %}
+    {% if poster.url != '' %}
     
-        <p><strong><a href="{{ poster.url }}" target="_blank">Video</a></strong></p>
+        <p><a href="{{ poster.url }}" target="_blank">Video</a></p>
 
     {% endif %}
     {% endfor %}
