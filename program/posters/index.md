@@ -174,7 +174,7 @@ title: "Posters"
     {% if poster.location == 'Hall A' %}
     
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
-    <p><strong>{{ poster.type }}</strong></p>
+    <p><strong>Doctoral Consortium</strong></p>
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
@@ -204,7 +204,7 @@ title: "Posters"
     {% if poster.location == 'Hall B' %}
     
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
-    <p><strong>{{ poster.type }}</strong></p>
+    <p><strong>Doctoral Consortium</strong></p>
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
