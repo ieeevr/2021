@@ -165,7 +165,7 @@ title: "Posters"
     </div>
     {% if poster.url != '' %}
     
-        <p><a href="{{ poster.url }}" target="_blank">Video</a></p>
+        <p><strong><a href="{{ poster.url }}" target="_blank">Video</a></strong></p>
 
     {% endif %}
     {% endfor %}
