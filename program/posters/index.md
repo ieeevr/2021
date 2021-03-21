@@ -164,7 +164,7 @@ title: "Posters"
         </div>
     </div>
     {% if posters.url-embed != '' %}
-    <div id="video{{ poster.id }}" class="wrap-collabsible"> <input id="collapsiblevideo{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ poster.id }}" class="lbl-toggle">Video</label>
+    <div id="video{{ poster.id }}" class="wrap-collabsible"> <input id="collapsiblevideo{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsiblevideo{{ poster.id }}" class="lbl-toggle">Video</label>
         <div class="collapsible-content">
             <div class="content-inner">
 
