@@ -835,7 +835,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-xxx track-3dui" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1530;">
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2021/program/3dui-contest/">3DUI Contest</a></h3>
                         <span class="session-time">14:00 - 15:30</span>
                     </div>
 
