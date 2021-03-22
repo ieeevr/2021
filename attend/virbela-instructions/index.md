@@ -1,6 +1,6 @@
 ---
 layout: ieeevr-default
-title: "Venue"
+title: "Virbela Instructions"
 ---
 
 <style>
