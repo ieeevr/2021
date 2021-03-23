@@ -1,4 +1,3 @@
----
 layout: ieeevr-default
 title: "Conference Committee"
 ---
@@ -9,7 +8,7 @@ title: "Conference Committee"
         <li> Joaquim Jorge &#x2012; <i> Universidade de Lisboa, Portugal </i></li>
         <li> Kyle Johnsen &#x2012; <i> University of Georgia, USA </i></li>
         <li> J. Edward Swan II &#x2012; <i> Mississippi State University, USA </i></li>
-        <li> Pedro Campos &#x2012; <i> University of Madeira, Portugal </i></li>
+        <li> Pedro Campos &#x2012; <i> University of Madeira, ITI/LARSyS, Portugal </i></li>
         <li style="list-style: none"> general2021 [at] ieeevr.org </li>
     </ul>
 
