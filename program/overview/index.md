@@ -692,7 +692,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
                     <div class="session session-7 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
-                        <h3 class="session-title"><a href="/2021/program/posters/">Posters</a> and <a href="/2021/program/demos/">Demos</a></h3>
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#4.1">Virtual Humans and Agents</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
 
