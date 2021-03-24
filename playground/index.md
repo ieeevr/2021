@@ -35,6 +35,11 @@ title: "IEEEVR 2021"
         height: 100%;
     }
 
+    notice--info {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+    
 </style>
 
 
@@ -57,7 +62,7 @@ title: "IEEEVR 2021"
 
     <span id=hideThis></span>
 
-    <a id="toggleButton" style="font-size: .8em:" onclick="toggleText();" href="javascript:void(0);">See previous notices</a>
+    <a id="toggleButton" style="font-size: 0.5em:" onclick="toggleText();" href="javascript:void(0);">See previous notices</a>
     <script>
         var status = "less";
 
