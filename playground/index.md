@@ -55,30 +55,27 @@ title: "IEEEVR 2021"
         </p>
     </div>
 
-    <span id=hideThis>
-
-        <div class="notice--info">
-            <strong>Registration Information (20 Feb 2021):</strong>
-            <p>
-                Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
-                You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
-            </p>
-        </div>
-
-        <div class="notice--info">
-            <strong>Important Information:</strong>
-            <p>
-                Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
-            </p>
-        </div>
-    </span>
+    <span id=hideThis></span>
 
     <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
     <script>
         var status = "less";
 
         function toggleText() {
-            var text = "Here is some text that I want added to the HTML file";
+            var text = `
+            <div class="notice--info">
+            <strong>Registration Information (20 Feb 2021):</strong>
+            <p>
+                Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
+                You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
+            </p>
+        </div>
+        <div class="notice--info">
+            <strong>Important Information:</strong>
+            <p>
+                Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
+            </p>
+        </div>`;
 
             if (status == "less") {
                 document.getElementById("hideThis").innerHTML = text;
