@@ -39,6 +39,7 @@ title: "IEEEVR 2021"
     #scrollarea-invalid {
         margin-right: auto;
         background-color: white;
+        border: 
         overflow-y: scroll;
     }
 
