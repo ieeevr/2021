@@ -233,6 +233,28 @@ title: "Virbela Instructions"
         text-justify: inter-word;
     }
 
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
 </style>
 
 
@@ -249,6 +271,16 @@ title: "Virbela Instructions"
     <div>
 
         <h2>Setting up VirBELA</h2>
+
+
+        <h2>
+            <a href="https://www.virbela.com/" target="_blank">
+                <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+            </a>
+        </h2>
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/Et-8EIRN_mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
         <p>
             IEEEVR 2021 will happen in the iLRN Virtual Campus using VirBELA. To download and install it, use the link we provided to you after registration.
@@ -368,7 +400,7 @@ title: "Virbela Instructions"
         </ul>
 
         <p>
-            If you do not have an account, you need to register before using the virtual campus for the first time. You will need to provide the same email you used to register IEEEVR 2021 along with other personal information, such as name, organization (or institution), and others. After that, you will be automatically redirected to the login screen where you can login with your new account.    
+            If you do not have an account, you need to register before using the virtual campus for the first time. You will need to provide the same email you used to register IEEEVR 2021 along with other personal information, such as name, organization (or institution), and others. After that, you will be automatically redirected to the login screen where you can login with your new account.
         </p>
 
         <!--    image here -->
@@ -491,7 +523,7 @@ title: "Virbela Instructions"
 
         <p><b style="font-size: 1em;color: black">I’m in the virtual campus, however I am having issues with sound and talking?</b><br>
             Any technical issues when you are inside the world, VirBELA Concierge and technical staff will be available on campus to help you with. </p>
-        
+
         <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b><br>
             To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
 
