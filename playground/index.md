@@ -52,7 +52,7 @@ title: "IEEEVR 2021"
 
 </style>
 
-<div id='scrollarea-invalid' style="width:100%; height:400px; border: 1px; border-radius: 5px;">
+<div id='scrollarea-invalid' style="width:100%; height:300px; border: 1px; border-radius: 5px;">
     <div id='scrollarea-content'>
 
         <div class="notice--info">
