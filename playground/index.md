@@ -233,15 +233,16 @@ title: "Call for Exhibitors and Sponsors"
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/TuOBgzJeQj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
-        
-        <p>
+    </div>
+    
+    <!--
+    <p>
             Virbela builds engaging virtual worlds for remote work, learning, and events. Founded in 2012 by a team of behavioral psychologists, Virbela’s mission is to help organizations and people thrive in a remote-first future. Virbela is excited to partner with the iLRN team to provide the IEEE Conference with a platform to foster collaboration and networking.
         </p>
         <p>
-            To learn more, visit virbela.com and follow us on <a href="https://twitter.com/VirBELA1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/company/virbela/" target="_blank">LinkedIn</a>.
+            To learn more, visit virbela.com and follow us on <a href="https://twitter.com/VirbelaHQ" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/company/virbela/" target="_blank">LinkedIn</a>.
         </p>
-    </div>
-
+    -->
 </div>
 
 <div>

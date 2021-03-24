@@ -92,5 +92,60 @@ title: "Exhibitors and Sponsors"
 
 
 
+</div>
+
+<div>
+    <h2>Literature Distribution</h2>
+    <!-- <p>Please click on the companies below to access more content from this year's exhibitors.</p>-->
+    <p>Please see below more content from this year's exhibitors.</p>
+
+
+    <div class="wrapper">
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <img src="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.png" />
+            </a>
+        </div>
+        <div class="box">
+            <strong><a href="https://appen.com" target="_blank">Appen</a></strong>
+            <a href="/2021/assets/exhibitors/Appen-Augmented-and-Virtual-Reality-One-Pager.pdf" download>
+                <p>Virtual Reality</p>
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" download>
+                <img src="/2021/assets/exhibitors/HITLabNZ_Brochure.png" />
+            </a>
+        </div>
+        <div class="box">
+            <strong><a href="http://www.hitlabnz.org/" target="_blank">HIT Lab NZ</a></strong>
+            <a href="/2021/assets/exhibitors/HITLabNZ_Brochure.pdf" download>
+                <p>Human Interface Technology</p>
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
+                <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
+            </a>
+        </div>
+        <div class="box">
+            <strong><a href="https://www.maquette.ms/" target="_blank">Microsoft</a></strong>
+            <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
+                <p>Microsoft Mixed Reality</p>
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" download>
+                <img src="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.png" />
+            </a>
+        </div>
+        <div class="box">
+            <strong><a href="https://www.qualcomm.com/research/extended-reality" target="_blank">Qualcomm</a></strong>
+            <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" download>
+                <p>Virtual Recruiting Guide</p>
+            </a>
+        </div>
+    </div>
+
 
 </div>
