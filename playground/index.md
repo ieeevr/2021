@@ -42,15 +42,22 @@ title: "IEEEVR 2021"
         border: 1px solid #00aeef;
         border-radius: 5px;
         overflow-y: scroll;
+        width:100%; 
+        height:300px;
     }
 
     #scrollarea-content {
         min-height: 101%;
     }
+    
+    /*  */
+    notice--info {
+        width: 95%;
+    }
 
 </style>
 
-<div id='scrollarea-invalid' style="width:100%; height:300px;">
+<div id='scrollarea-invalid'>
     <div id='scrollarea-content'>
 
         <div class="notice--info">
