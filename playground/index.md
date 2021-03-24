@@ -35,79 +35,7 @@ title: "IEEEVR 2021"
         height: 100%;
     }
 
-    /* show more show less */
-    @mixin truncate($rows, $line-height, $background: '') {
-  position: relative;
-  overflow: hidden;
-  max-height: $line-height * $rows;
-  line-height: $line-height;
-
-  &:after {
-    content: "";
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 100px;
-    height: $line-height;
-
-    @if $background != '' {
-      background: linear-gradient(to right, rgba($background, 0) 0%, rgba($background, 1) 100%);
-    }
-  }
-
-  @supports (-webkit-line-clamp: $rows) {
-    display: -webkit-box;
-    -webkit-line-clamp: $rows;
-    -webkit-box-orient: vertical;
-
-    &:after {
-      display: none;
-    }
-  }
-}
-
-.show-hide-text {
-  display: flex;
-  flex-wrap: wrap;
-
-  a {
-    order: 2;
-  }
-
-  p {
-    @include truncate(3, 20px, #fff); // rows, line-height, gradient fallback
-  }
-}
-
-.show-less {
-  display: none;
-
-  &:target {
-    display: block;
-
-    ~ p {
-      display: block;
-      max-height: 100%;
-    }
-
-    + a {
-      display: none;
-    }
-  }
-}
-
-    
 </style>
-
-
-
-<div class="show-hide-text wrapper">
-  <a  id="show-more" class="show-less" href="#show-less">Show less</a>
-  <a  id="show-less" class="show-more" href="#show-more">Show more</a>
-  <p>
-    Lorem Ipsum is simply dummy text of  the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  </p>
-</div>
 
 
 <div>
@@ -127,7 +55,7 @@ title: "IEEEVR 2021"
         </p>
     </div>
 
-    <span id="more">
+    <span id=hideThis>
 
         <div class="notice--info">
             <strong>Registration Information (20 Feb 2021):</strong>
@@ -145,7 +73,25 @@ title: "IEEEVR 2021"
         </div>
     </span>
 
+    <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+    <script>
+        var status = "less";
 
+        function toggleText() {
+            var text = "Here is some text that I want added to the HTML file";
+
+            if (status == "less") {
+                document.getElementById("hideThis").innerHTML = text;
+                document.getElementById("toggleButton").innerText = "See Less";
+                status = "more";
+            } else if (status == "more") {
+                document.getElementById("hideThis").innerHTML = "";
+                document.getElementById("toggleButton").innerText = "See More";
+                status = "less"
+            }
+        }
+
+    </script>
 </div>
 
 
