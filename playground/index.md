@@ -35,40 +35,52 @@ title: "IEEEVR 2021"
         height: 100%;
     }
 
+    /* scrollabe area */
+    #scrollarea-invalid {
+        overflow-y: scroll;
+        height: 350px;
+    }
+
+    #scrollarea-content {
+        min-height: 101%;
+    }
+
 </style>
 
-<div style="width:100%; height:200px; overflow: auto;">
+<div id='scrollarea-invalid'>
+    <div id='scrollarea-content' style="width:100%; height:400px; overflow: auto; border: 1px; border-radius: 5px;">
 
-    <div class="notice--info">
-        <strong>Registration Information (15 Mar 2021):</strong>
-        <p>
-            The <strong>Advance Registration</strong> deadline was postponed to <strong>March 25th</strong>!!
-            Register <a href="/2021/attend/registration/">here</a>.
-        </p>
+        <div class="notice--info">
+            <strong>Registration Information (15 Mar 2021):</strong>
+            <p>
+                The <strong>Advance Registration</strong> deadline was postponed to <strong>March 25th</strong>!!
+                Register <a href="/2021/attend/registration/">here</a>.
+            </p>
+        </div>
+
+        <div class="notice--info">
+            <strong>Registration Information (24 Feb 2021):</strong>
+            <p>
+                Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
+            </p>
+        </div>
+
+        <div class="notice--info">
+            <strong>Registration Information (20 Feb 2021):</strong>
+            <p>
+                Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
+                You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
+            </p>
+        </div>
+
+        <div class="notice--info">
+            <strong>Important Information:</strong>
+            <p>
+                Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
+            </p>
+        </div>
+
     </div>
-
-    <div class="notice--info">
-        <strong>Registration Information (24 Feb 2021):</strong>
-        <p>
-            Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
-        </p>
-    </div>
-
-    <div class="notice--info">
-        <strong>Registration Information (20 Feb 2021):</strong>
-        <p>
-            Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
-            You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
-        </p>
-    </div>
-
-    <div class="notice--info">
-        <strong>Important Information:</strong>
-        <p>
-            Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
-        </p>
-    </div>
-
 </div>
 
 <div>
