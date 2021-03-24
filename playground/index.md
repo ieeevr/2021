@@ -38,7 +38,6 @@ title: "IEEEVR 2021"
     /* scrollabe area */
     #scrollarea-invalid {
         overflow-y: scroll;
-        height: 350px;
     }
 
     #scrollarea-content {
@@ -47,8 +46,8 @@ title: "IEEEVR 2021"
 
 </style>
 
-<div id='scrollarea-invalid'>
-    <div id='scrollarea-content' style="width:100%; height:400px; overflow: auto; border: 1px; border-radius: 5px;">
+<div id='scrollarea-invalid' style="width:100%; height:400px; border: 1px; border-radius: 5px;">
+    <div id='scrollarea-content'>
 
         <div class="notice--info">
             <strong>Registration Information (15 Mar 2021):</strong>
