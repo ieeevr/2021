@@ -369,9 +369,14 @@ title: "Program Overview"
         The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
     </p>
 </div>
-    
-
-
+<!--
+<div class="notice--warning">
+    <strong>Note:</strong>
+    <p>
+        The indications for locations in this program refer to virtual locations in the Virbela platform. Please find more information about and how to use Virbela <a href="/2021/attend/virbela-instructions/">here</a>.
+    </p>
+</div>
+-->
 <div>
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
