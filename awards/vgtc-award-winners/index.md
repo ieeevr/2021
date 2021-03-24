@@ -1,6 +1,6 @@
 ---
 layout: ieeevr-default
-title: "VGTC Awards"
+title: "VGTC Award Winners"
 ---
 
 <style>
