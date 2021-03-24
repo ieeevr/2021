@@ -57,7 +57,7 @@ title: "IEEEVR 2021"
 
     <span id=hideThis></span>
 
-    <a id="toggleButton" onclick="toggleText();" href="javascript:void(0);">See More</a>
+    <a id="toggleButton" style="font-size: .8em:" onclick="toggleText();" href="javascript:void(0);">See previous notices</a>
     <script>
         var status = "less";
 
@@ -79,11 +79,11 @@ title: "IEEEVR 2021"
 
             if (status == "less") {
                 document.getElementById("hideThis").innerHTML = text;
-                document.getElementById("toggleButton").innerText = "See Less";
+                document.getElementById("toggleButton").innerText = "See less";
                 status = "more";
             } else if (status == "more") {
                 document.getElementById("hideThis").innerHTML = "";
-                document.getElementById("toggleButton").innerText = "See More";
+                document.getElementById("toggleButton").innerText = "See previous notices";
                 status = "less"
             }
         }
