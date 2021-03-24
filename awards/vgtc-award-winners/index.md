@@ -227,64 +227,66 @@ title: "VGTC Award Winners"
         margin-right: auto;
     }
 
+    /*
     div {
         text-align: justify;
         text-justify: inter-word;
     }
+    */
 
 </style>
 
 
+<h1>VGTC Awards</h1>
+
+<p>The IEEE VGTC Virtual and Augmented Reality Technical Awards program recognizes individuals who have made a significant contribution to the community through their research. </p>
+
+
 <div>
 
-    <h1>VGTC Awards</h1>
+    <center>
+        <h2>The 2021 VGTC Virtual Reality Career Award</h2>
+    </center>
+    <center><strong>Mary Whitton</strong></center>
+    <br />
 
-    <p>The IEEE VGTC Virtual and Augmented Reality Technical Awards program recognizes individuals who have made a significant contribution to the community through their research. </p>
+    <img src="/2021/assets/images/Images_VGTC_Awards/image1.png" alt="Mary Whitton">
 
-
-    <div>
-
-        <center>
-            <h2>The 2021 VGTC Virtual Reality Career Award</h2>
-        </center>
-        <center><strong>Mary Whitton</strong></center>
-        <br />
-
-        <img src="/2021/assets/images/Images_VGTC_Awards/image1.png" alt="Mary Whitton">
-
-        <br />
+    <br />
 
 
-        <p>The 2021 IEEE VGTC Virtual Reality Career Award goes to Mary C. Whitton in recognition of her lifetime contributions to the technologies, techniques, and theory that enable virtual and mixed reality systems and applications to better achieve their intended goals. Throughout her career, she has applied the technical rigors of engineering and psychological measurement to evaluating and improving the user experience in VR and MR. As an entrepreneur, Whitton designed innovative hardware components for interactive 3D graphics and focused on the user benefits of her companies’ pioneering technologies. As co-lead, with Fred Brooks, of the Effective Virtual Environments (EVE) research team at UNC-Chapel Hill, she and her students applied knowledge of hardware, human perception, and user evaluation to improving virtual and mixed reality experiences. The EVE group launched the research areas of Redirected Walking and Passive Haptics and was a pioneer in the use of physiological measures to evaluate stress-inducing virtual environments.</p>
+    <p>The 2021 IEEE VGTC Virtual Reality Career Award goes to Mary C. Whitton in recognition of her lifetime contributions to the technologies, techniques, and theory that enable virtual and mixed reality systems and applications to better achieve their intended goals. Throughout her career, she has applied the technical rigors of engineering and psychological measurement to evaluating and improving the user experience in VR and MR. As an entrepreneur, Whitton designed innovative hardware components for interactive 3D graphics and focused on the user benefits of her companies’ pioneering technologies. As co-lead, with Fred Brooks, of the Effective Virtual Environments (EVE) research team at UNC-Chapel Hill, she and her students applied knowledge of hardware, human perception, and user evaluation to improving virtual and mixed reality experiences. The EVE group launched the research areas of Redirected Walking and Passive Haptics and was a pioneer in the use of physiological measures to evaluate stress-inducing virtual environments.</p>
 
-        <p><strong>Bio</strong></p>
+    <p><strong>Bio</strong></p>
 
-        <p>
-            Mary C. Whitton is a research professor (retired) of computer science at the University of North Carolina at Chapel Hill. She has worked in the areas of interactive 3D computer graphics and virtual and mixed reality since 1976. It was then that she left public school teaching to study computer graphics at North Carolina State University where she joined Prof. John Staudhammer’s pioneering graphics research group. Having earned M.S. degrees in Guidance and Personnel Services (Counseling) (1974) and in Electrical and Computer Engineering (1984) from NCSU, Whitton’s lifetime work is deeply grounded in both graphics systems technology and the human-centered discipline of psychological measurement.
-        </p>
-        <p>
-            Interrupting her formal education, Professor Whitton, with her husband Nick England, co-founded Ikonas Graphics Systems (1978) and Trancept Systems (1986). Both companies designed and sold highend, user-programmable graphics hardware and libraries for graphics, image processing, volume rendering, and visualization. The companies’ products were widely adopted in academic and industrial research laboratories for applications including seismic exploration, 3D medical imaging, intelligence analysis, computer animation, and scientific modeling and simulation. The Ikonas RDS-3000 is the ancestor of today’s programmable graphics processing units, even though it was about the size of a dorm refrigerator. As Ikonas’ primary contact with customers from many disciplines, Whitton developed a keen sense of the user’s perspective.
-        </p>
-        <p>
-            After joining UNC-Chapel Hill in 1994, Whitton co-led the Effective Virtual Environments (EVE) research group that developed and evaluated technologies to make virtual environment systems more effective for applications such as simulation, training, and rehabilitation. The fundamental questions that drove EVE research (1996–2016) were: What are the characteristics of hardware, software, and applications that make virtual environments successful; what techniques can researchers invent or improve, and then use, to make VEs more successful; and how should developers measure “success”? These questions led to groundbreaking work in redirected walking and passive haptics, and studies to understand the extent to which VR systems and interface techniques could fool the visual and tactile senses.
-        </p>
-        <p>
+    <p>
+        Mary C. Whitton is a research professor (retired) of computer science at the University of North Carolina at Chapel Hill. She has worked in the areas of interactive 3D computer graphics and virtual and mixed reality since 1976. It was then that she left public school teaching to study computer graphics at North Carolina State University where she joined Prof. John Staudhammer’s pioneering graphics research group. Having earned M.S. degrees in Guidance and Personnel Services (Counseling) (1974) and in Electrical and Computer Engineering (1984) from NCSU, Whitton’s lifetime work is deeply grounded in both graphics systems technology and the human-centered discipline of psychological measurement.
+    </p>
+    <p>
+        Interrupting her formal education, Professor Whitton, with her husband Nick England, co-founded Ikonas Graphics Systems (1978) and Trancept Systems (1986). Both companies designed and sold highend, user-programmable graphics hardware and libraries for graphics, image processing, volume rendering, and visualization. The companies’ products were widely adopted in academic and industrial research laboratories for applications including seismic exploration, 3D medical imaging, intelligence analysis, computer animation, and scientific modeling and simulation. The Ikonas RDS-3000 is the ancestor of today’s programmable graphics processing units, even though it was about the size of a dorm refrigerator. As Ikonas’ primary contact with customers from many disciplines, Whitton developed a keen sense of the user’s perspective.
+    </p>
+    <p>
+        After joining UNC-Chapel Hill in 1994, Whitton co-led the Effective Virtual Environments (EVE) research group that developed and evaluated technologies to make virtual environment systems more effective for applications such as simulation, training, and rehabilitation. The fundamental questions that drove EVE research (1996–2016) were: What are the characteristics of hardware, software, and applications that make virtual environments successful; what techniques can researchers invent or improve, and then use, to make VEs more successful; and how should developers measure “success”? These questions led to groundbreaking work in redirected walking and passive haptics, and studies to understand the extent to which VR systems and interface techniques could fool the visual and tactile senses.
+    </p>
+    <p>
 
-            Whitton collaborated with UNC colleagues, frequently Henry Fuchs, on multiple augmented and mixed reality projects. In the early 2000s, Whitton led a multi-disciplinary team that designed and evaluated the distributed Nanomanipulator system, a distributed collaboration system for multi-modal, mixed-reality scientific data exploration.
-            Throughout her decades of pioneering work, Professor Whitton has mentored generations of students at UNC-Chapel Hill and from other university research groups with whom she collaborated.</p>
-        <p>
+        Whitton collaborated with UNC colleagues, frequently Henry Fuchs, on multiple augmented and mixed reality projects. In the early 2000s, Whitton led a multi-disciplinary team that designed and evaluated the distributed Nanomanipulator system, a distributed collaboration system for multi-modal, mixed-reality scientific data exploration.
+        Throughout her decades of pioneering work, Professor Whitton has mentored generations of students at UNC-Chapel Hill and from other university research groups with whom she collaborated.</p>
+    <p>
 
-            Building on student work that proposed the construct of <i>coherence</i> as an objective measure for VR’s Plausibility Illusion, Whitton’s most recent collaborative work reexamines and proposes revisions to Milgram and Kishino’s 1994 reality-virtuality continuum and taxonomic framework for VR and MR.</p>
-        <p>
+        Building on student work that proposed the construct of <i>coherence</i> as an objective measure for VR’s Plausibility Illusion, Whitton’s most recent collaborative work reexamines and proposes revisions to Milgram and Kishino’s 1994 reality-virtuality continuum and taxonomic framework for VR and MR.</p>
+    <p>
 
-            Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 1995, and the recipient of the 2013 SIGGRAPH Outstanding Service Award. She is a Life Senior Member of IEEE and currently serves on the Steering Committee for the IEEE Virtual Reality Conference. In her retirement, she enjoys spending time with ACM committees working on preserving computer graphics history.
-        </p>
+        Professor Whitton was President of the ACM SIGGRAPH organization from 1993 to 1995, and the recipient of the 2013 SIGGRAPH Outstanding Service Award. She is a Life Senior Member of IEEE and currently serves on the Steering Committee for the IEEE Virtual Reality Conference. In her retirement, she enjoys spending time with ACM committees working on preserving computer graphics history.
+    </p>
 
-        <strong>Award Information</strong><br />
+    <strong>Award Information</strong><br />
 
-        <p>The IEEE VGTC Virtual Reality Career Award was established in 2005. It is given every year to an individual to honor that person’s lifetime contributions to virtual & augmented reality. Nominations for the Virtual Reality Career Award can be submitted to the awards current chair, Henry Fuchs, at vgtc-vr-awards[at]vgtc.org.</p>
+    <p>The IEEE VGTC Virtual Reality Career Award was established in 2005. It is given every year to an individual to honor that person’s lifetime contributions to virtual & augmented reality. Nominations for the Virtual Reality Career Award can be submitted to the awards current chair, Henry Fuchs, at vgtc-vr-awards[at]vgtc.org.</p>
 
-    </div>
+</div>
+
+<div>
 
     <center>
         <h2>The 2021 VGTC Virtual Reality Technical Achievement Award</h2>
@@ -327,7 +329,6 @@ title: "VGTC Award Winners"
 
     </p>
 
-    <hr>
-
-
 </div>
+
+<hr>
