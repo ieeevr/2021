@@ -228,11 +228,6 @@ title: "Virbela Instructions"
         margin-right: auto;
     }
 
-    div {
-        text-align: justify;
-        text-justify: inter-word;
-    }
-
     /* video container */
     .video-container {
         overflow: hidden;
@@ -272,12 +267,6 @@ title: "Virbela Instructions"
 
         <h2>Setting up VirBELA</h2>
 
-
-        <h2>
-            <a href="https://www.virbela.com/" target="_blank">
-                <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
-            </a>
-        </h2>
         <div class="video-container">
             <iframe src="https://www.youtube.com/embed/Et-8EIRN_mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
