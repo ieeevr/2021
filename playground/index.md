@@ -12,7 +12,29 @@ title: "IEEEVR 2021"
 </div>
 -->
 
+<style>
+/* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
 
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
 
 <div class="notice--info">
     <strong>Registration Information (15 Mar 2021):</strong>
@@ -63,9 +85,11 @@ title: "IEEEVR 2021"
         To learn more, visit virbela.com and follow us on <a href="https://twitter.com/VirbelaHQ" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/company/virbela/" target="_blank">LinkedIn</a>.
     </p>
     <div style="">
-        <p style="font-size: 20px;">
-            <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="" target="_blank">Getting Started with Virbela</a>
-        </p>
+        <center>
+            <p style="font-size: 20px;">
+                <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="">Getting Started with Virbela</a>
+            </p>
+        </center>
     </div>
 </div>
 
