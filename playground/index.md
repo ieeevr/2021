@@ -35,7 +35,80 @@ title: "IEEEVR 2021"
         height: 100%;
     }
 
+    /* show more show less */
+    @mixin truncate($rows, $line-height, $background: '') {
+  position: relative;
+  overflow: hidden;
+  max-height: $line-height * $rows;
+  line-height: $line-height;
+
+  &:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100px;
+    height: $line-height;
+
+    @if $background != '' {
+      background: linear-gradient(to right, rgba($background, 0) 0%, rgba($background, 1) 100%);
+    }
+  }
+
+  @supports (-webkit-line-clamp: $rows) {
+    display: -webkit-box;
+    -webkit-line-clamp: $rows;
+    -webkit-box-orient: vertical;
+
+    &:after {
+      display: none;
+    }
+  }
+}
+
+.show-hide-text {
+  display: flex;
+  flex-wrap: wrap;
+
+  a {
+    order: 2;
+  }
+
+  p {
+    @include truncate(3, 20px, #fff); // rows, line-height, gradient fallback
+  }
+}
+
+.show-less {
+  display: none;
+
+  &:target {
+    display: block;
+
+    ~ p {
+      display: block;
+      max-height: 100%;
+    }
+
+    + a {
+      display: none;
+    }
+  }
+}
+
+    
 </style>
+
+
+
+<div class="show-hide-text wrapper">
+  <a  id="show-more" class="show-less" href="#show-less">Show less</a>
+  <a  id="show-less" class="show-more" href="#show-more">Show more</a>
+  <p>
+    Lorem Ipsum is simply dummy text of  the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  </p>
+</div>
+
 
 <div>
 
@@ -53,7 +126,7 @@ title: "IEEEVR 2021"
             Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
         </p>
     </div>
-    <span id="dots">...</span>
+
     <span id="more">
 
         <div class="notice--info">
@@ -71,25 +144,7 @@ title: "IEEEVR 2021"
             </p>
         </div>
     </span>
-    <button onclick="myFunction()" id="myBtn">Read more</button>
 
-    <script>
-        function myFunction() {
-            var dots = document.getElementById("dots");
-            var moreText = document.getElementById("more");
-            var btnText = document.getElementById("myBtn");
-
-            if (dots.style.display === "none") {
-                dots.style.display = "inline";
-                btnText.innerHTML = "Read more";
-                moreText.style.display = "none";
-            } else {
-                dots.style.display = "none";
-                btnText.innerHTML = "Read less";
-                moreText.style.display = "inline";
-            }
-        }
-    </script>
 
 </div>
 
