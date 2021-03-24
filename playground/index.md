@@ -39,7 +39,8 @@ title: "IEEEVR 2021"
     #scrollarea-invalid {
         margin-right: auto;
         background-color: white;
-        border: 
+        border: 1px solid #00aeef;
+        border-radius: 5px;
         overflow-y: scroll;
     }
 
@@ -84,7 +85,7 @@ title: "IEEEVR 2021"
 
     </div>
 </div>
-
+<br/>
 <div>
     <h1>Come and Join Us</h1>
 
