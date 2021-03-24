@@ -38,11 +38,7 @@ title: "IEEEVR 2021"
     /* scrollabe area */
     #scrollarea-invalid {
         margin-right: auto;
-        margin-top: 20px;
         background-color: white;
-        box-shadow: #254C58 1px 0px;
-        border: #3C7D91 5px double; 
-        padding: 10px 10px 10px 10px;
         overflow-y: scroll;
     }
 
