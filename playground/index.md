@@ -35,45 +35,26 @@ title: "IEEEVR 2021"
         height: 100%;
     }
 
-    /* scrollabe area */
-    #scrollarea-invalid {
-        margin-right: auto;
-        background-color: white;
-        border: 1px solid #00aeef;
-        border-radius: 5px;
-        overflow-y: scroll;
-        width:100%; 
-        height:300px;
-    }
-
-    #scrollarea-content {
-        min-height: 101%;
-    }
-    
-    /*  */
-    notice--info {
-        width: 95%;
-    }
-
 </style>
 
-<div id='scrollarea-invalid'>
-    <div id='scrollarea-content'>
+<div>
 
-        <div class="notice--info">
-            <strong>Registration Information (15 Mar 2021):</strong>
-            <p>
-                The <strong>Advance Registration</strong> deadline was postponed to <strong>March 25th</strong>!!
-                Register <a href="/2021/attend/registration/">here</a>.
-            </p>
-        </div>
+    <div class="notice--info">
+        <strong>Registration Information (15 Mar 2021):</strong>
+        <p>
+            The <strong>Advance Registration</strong> deadline was postponed to <strong>March 25th</strong>!!
+            Register <a href="/2021/attend/registration/">here</a>.
+        </p>
+    </div>
 
-        <div class="notice--info">
-            <strong>Registration Information (24 Feb 2021):</strong>
-            <p>
-                Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
-            </p>
-        </div>
+    <div class="notice--info">
+        <strong>Registration Information (24 Feb 2021):</strong>
+        <p>
+            Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
+        </p>
+    </div>
+    <span id="dots">...</span>
+    <span id="more">
 
         <div class="notice--info">
             <strong>Registration Information (20 Feb 2021):</strong>
@@ -89,10 +70,31 @@ title: "IEEEVR 2021"
                 Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
             </p>
         </div>
+    </span>
+    <button onclick="myFunction()" id="myBtn">Read more</button>
 
-    </div>
+    <script>
+        function myFunction() {
+            var dots = document.getElementById("dots");
+            var moreText = document.getElementById("more");
+            var btnText = document.getElementById("myBtn");
+
+            if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "Read more";
+                moreText.style.display = "none";
+            } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "Read less";
+                moreText.style.display = "inline";
+            }
+        }
+    </script>
+
 </div>
-<br/>
+
+
+<br />
 <div>
     <h1>Come and Join Us</h1>
 
