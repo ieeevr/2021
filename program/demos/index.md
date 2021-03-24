@@ -137,6 +137,7 @@ title: "Research Demos"
     {% if demo.url %}
         <p>Teaser Video: <a href="{{ demo.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
+    {% if demo.abstract %}
     <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ demo.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ demo.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
@@ -144,6 +145,7 @@ title: "Research Demos"
             </div>
         </div>
     </div>
+    {% endif %}
     {% endfor %}
 </div>
 
