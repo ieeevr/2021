@@ -37,6 +37,12 @@ title: "IEEEVR 2021"
 
     /* scrollabe area */
     #scrollarea-invalid {
+        margin-right: auto;
+        margin-top: 20px;
+        background-color: white;
+        box-shadow: #254C58 1px 0px;
+        border: #3C7D91 5px double; 
+        padding: 10px 10px 10px 10px;
         overflow-y: scroll;
     }
 
@@ -83,6 +89,20 @@ title: "IEEEVR 2021"
 </div>
 
 <div>
+    <h1>Come and Join Us</h1>
+
+    <!--    
+    <p>
+        Present your latest and greatest work at IEEE VR 2021. We are planning for VR 2021 to occur in both physical and virtual spaces.  The physical conference will be held at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a>, one mile from the Lisbon airport, superbly located in downtown Lisbon. The sunniest European capital, Lisbon is one of the world’s most ancient cities, with a very rich history. Our goal is for IEEE VR 2021 to combine the best of traditional face-to-face meetings, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break.  Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops. 
+    </p>
+-->
+    <p>
+        Present your latest and greatest work at IEEE VR 2021. The conference will be virtual. Our goal is for IEEE VR 2021 to provide the best virtual experience, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break. Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops.
+    </p>
+
+</div>
+
+<div>
     <h2>
         <a href="https://www.virbela.com/" target="_blank">
             <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
@@ -107,20 +127,4 @@ title: "IEEEVR 2021"
             </p>
         </center>
     </div>
-</div>
-
-
-<div>
-    <h1>Come and Join Us</h1>
-
-    <!--    
-    <p>
-        Present your latest and greatest work at IEEE VR 2021. We are planning for VR 2021 to occur in both physical and virtual spaces.  The physical conference will be held at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a>, one mile from the Lisbon airport, superbly located in downtown Lisbon. The sunniest European capital, Lisbon is one of the world’s most ancient cities, with a very rich history. Our goal is for IEEE VR 2021 to combine the best of traditional face-to-face meetings, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break.  Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops. 
-    </p>
--->
-    <p>
-        Present your latest and greatest work at IEEE VR 2021. The conference will be virtual. Our goal is for IEEE VR 2021 to provide the best virtual experience, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break. Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops.
-    </p>
-
-
 </div>
