@@ -37,7 +37,7 @@ title: "IEEEVR 2021"
 
 </style>
 
-<div style="width:100%; height:100px; overflow: auto;">
+<div style="width:100%; height:200px; overflow: auto;">
 
     <div class="notice--info">
         <strong>Registration Information (15 Mar 2021):</strong>
