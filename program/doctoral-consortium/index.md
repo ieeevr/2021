@@ -156,11 +156,13 @@ title: "Doctoral Consortium"
         <tr>
             <th>Student</th>
             <th>Title</th>
+            <th>Affiliation</th>
         </tr>
         {% for student in site.data.dc %}
         <tr>
             <td style="font-size: 0.9em;"><span style="color: #00aeef;">{{ student.author }}</span></td>
             <td>{{ student.title }}</td>
+            <td>{{ student.affiliation }}</td>
         </tr>
         {% endfor %}
     </table>
