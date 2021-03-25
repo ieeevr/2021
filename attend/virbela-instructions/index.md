@@ -505,6 +505,20 @@ title: "Virbela Instructions"
         </ul>
 
     </div>
+    
+    
+    <div>
+        <h2>Map</h2>
+        <img src="/2021/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.jpg" style="width: 100%;" alt="Virbela Virtual Environment map">
+        <div style="">
+        <center>
+            <p style="font-size: 20px;">
+                <a href="/2021/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.pdf" class="btn btn--primary" style="" download>Download Map as PDF</a>
+            </p>
+        </center>
+    </div>
+    </div>
+    
 
     <div>
 
