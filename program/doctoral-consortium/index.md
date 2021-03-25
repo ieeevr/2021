@@ -45,27 +45,34 @@ title: "Doctoral Consortium"
 </style>
 
 <h1>Doctoral Consortium</h1>
+<div>
+    <p>
+        Here is the proposed schedule with mentor assignments. All of this time is Lisbon time (GMT+0). All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible, however we understand that our different time zones may make attendance difficult at particular times. All talks will be recorded and available for later viewing. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both.
+    </p>
+    <p>
+        Mentors listed first next to a student will meet during the Mentor Group 1 Breakout session, and mentors listed second will meet with that student during the Mentor Group 2 Breakout session.
+    </p>
+</div>
 
-<p style="color:red;">
-    The DC is a concentrated full-day event where students present their research interests/plans/results to a panel of senior researchers in the field and receive specific constructive feedback, followed by a reception in the evening and networking opportunities during the following days. Accepted students will give in-depth presentations of their research and will receive constructive comments from mentors. Additionally, accepted students will create a poster about their work to allow IEEE VR attendees to quickly familiarize themselves with each other’s work and to be shown to a broader audience during the conference poster session.
-</p>
+<div>
+
+
+</div>
+
 
 <h2>Accepted Students</h2>
 
 <div>
-    <table class="styled-table">
-
+    <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
             <th>Student</th>
             <th>Title</th>
-            <th>Affiliation</th>
         </tr>
-
+        {% for student in site.data.dc %}
         <tr>
-            <td>James Student</td>
-            <td>Title</td>
-            <td>Affff</td>
+            <td style="font-size: 0.9em;"><a href="#{{ student.id }}">{{ student.author }}</a></td>
+            <td>{{ student.title }}</td>
         </tr>
+        {% endfor %}
     </table>
 </div>
-
