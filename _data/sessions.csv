@@ -1,25 +1,25 @@
-id,name,day,starttime,endtime,timezone
-1.1,Collaboration,"Tuesday, March 30",08:30,09:30,"Lisbon WEST, UTC+1"
-1.2,Multimodal Interfaces,"Tuesday, March 30",08:30,09:30,"Lisbon WEST, UTC+1"
-1.3,Accessible VR,"Wednesday, March 31",08:30,09:30,"Lisbon WEST, UTC+1"
-1.4,Haptics,"Wednesday, March 31",08:30,09:30,"Lisbon WEST, UTC+1"
-1.5,Locomotion,"Thursday, April 1",08:30,09:30,"Lisbon WEST, UTC+1"
-1.6,Rendering and Texture Mapping,"Thursday, April 1",08:30,09:30,"Lisbon WEST, UTC+1"
-2.1,Security and Drone Teleoperation,"Tuesday, March 30",11:00,12:00,"Lisbon WEST, UTC+1"
-2.2,Embedded and Surround Videos,"Tuesday, March 30",11:00,12:00,"Lisbon WEST, UTC+1"
-3.1,Augmented Reality,"Monday, March 29",12:00,13:00,"Lisbon WEST, UTC+1"
-3.2,VR Displays,"Monday, March 29",12:00,13:00,"Lisbon WEST, UTC+1"
-3.3,"Tracking, Vision and Sound","Thursday, April 1",12:00,13:00,"Lisbon WEST, UTC+1"
-4.1,Virtual Humans and Agents,"Tuesday, March 30",13:00,14:00,"Lisbon WEST, UTC+1"
-4.2,"Hands, Gestures and Grasping","Tuesday, March 30",13:00,14:00,"Lisbon WEST, UTC+1"
-4.3,Redirected Locomotion,"Wednesday, March 31",13:00,14:00,"Lisbon WEST, UTC+1"
-5.1,Emotion and Cognition,"Monday, March 29",14:00,15:00,"Lisbon WEST, UTC+1"
-5.2,Holographic and Inertial Displays,"Monday, March 29",14:00,15:00,"Lisbon WEST, UTC+1"
-5.3,Perception,"Thursday, April 1",14:00,15:00,"Lisbon WEST, UTC+1"
-5.4,VR Applications,"Thursday, April 1",14:00,15:00,"Lisbon WEST, UTC+1"
-6.1,Selection and Manipulation,"Wednesday, March 31",15:30,16:30,"Lisbon WEST, UTC+1"
-7.1,Embodiment,"Monday, March 29",16:30,17:30,"Lisbon WEST, UTC+1"
-7.2,Visualization,"Monday, March 29",16:30,17:30,"Lisbon WEST, UTC+1"
-8.1,"Plausibility, Presence and Social VR","Tuesday, March 30",17:00,18:00,"Lisbon WEST, UTC+1"
-8.2,Training and Learning,"Wednesday, March 31",17:00,18:00,"Lisbon WEST, UTC+1"
-8.3,Pen-based and Hands-free Interaction,"Wednesday, March 31",17:00,18:00,"Lisbon WEST, UTC+1"
+id,name,day,starttime,endtime,timezone,sessionchair,discord-category
+1.1,Collaboration,"Tuesday, March 30",08:30,09:30,Lisbon WEST UTC+1,Thierry Duval, 
+1.2,Multimodal Interfaces,"Tuesday, March 30",08:30,09:30,Lisbon WEST UTC+1,Takuji Narumi, 
+1.3,Accessible VR,"Wednesday, March 31",08:30,09:30,Lisbon WEST UTC+1,Simon Hoermann, 
+1.4,Haptics,"Wednesday, March 31",08:30,09:30,Lisbon WEST UTC+1,Gabriel Zachmann, 
+1.5,Locomotion,"Thursday, April 1",08:30,09:30,Lisbon WEST UTC+1,Adalberto Simeone, 
+1.6,Rendering and Texture Mapping,"Thursday, April 1",08:30,09:30,Lisbon WEST UTC+1,Taehyun Rhee, 
+2.1,Security and Drone Teleoperation,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,,
+2.2,Embedded and Surround Videos,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,Rob Lindeman ,
+3.1,Augmented Reality,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Dieter Schmalstieg,
+3.2,VR Displays,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Daisuke Iwai,
+3.3,"Tracking, Vision and Sound","Thursday, April 1",12:00,13:00,Lisbon WEST UTC+1,Bobby Bodenheimer,
+4.1,Virtual Humans and Agents,"Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,Ronan Boulic,
+4.2,"Hands, Gestures and Grasping","Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,Ryan P McMahan,
+4.3,Redirected Locomotion,"Wednesday, March 31",13:00,14:00,Lisbon WEST UTC+1,Evan Suma Rosenberg,
+5.1,Emotion and Cognition,"Monday, March 29",14:00,15:00,Lisbon WEST UTC+1,Victoria Interrante,
+5.2,Holographic and Inertial Displays,"Monday, March 29",14:00,15:00,Lisbon WEST UTC+1,Dirk Reiners,
+5.3,Perception,"Thursday, April 1",14:00,15:00,Lisbon WEST UTC+1,J. Adam Jones,
+5.4,VR Applications,"Thursday, April 1",14:00,15:00,Lisbon WEST UTC+1,Richard Skarbez,
+6.1,Selection and Manipulation,"Wednesday, March 31",15:30,16:30,Lisbon WEST UTC+1,Rob Teather,
+7.1,Embodiment,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,John Quarles,
+7.2,Visualization,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,Jian Chen,
+8.1,"Plausibility, Presence and Social VR","Tuesday, March 30",17:00,18:00,Lisbon WEST UTC+1,Mar Gonzalez Franco,
+8.2,Training and Learning,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,Mary C. Whitton,
+8.3,Pen-based and Hands-free Interaction,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,Doug Bowman,

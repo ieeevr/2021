@@ -192,44 +192,47 @@ INVITED MISSING
 <div>
     {% for session in site.data.sessions %}
     {% if session.day == day.day' %}
-    
+
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
-    
-        {% for paper in site.data.papers %}
-        {% if session.id == paper.session %}
-            
-            <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
-            <p><strong><small>{{ paper.type }}</small></strong></p>
-            
-            {% if paper.type == 'Journal' %}
-                {% assign source = site.data.journalpapers %}
-            {% endif %}
-    
-            {% if paper.type == 'Conference' %}
-                {% assign source = site.data.conferencepapers %}
-            {% endif %}
-    
-            {% if paper.type == 'Invited Journal' %}
-                {% assign source = site.data.invitedjournalpapers %}
-            {% endif %}
-    
-            {% for p in source %}
-            {% if p.id == paper.id %}
-            <p><i>{{ p.authors }}</i></p>
-            <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
-                <div class="collapsible-content">
-                    <div class="content-inner">
-                        <p>{{ p.abstract }}</p>
-                    </div>
-                </div>
+    {% if session.sessionchair %}
+    <p>Session Chair: <i>{{ session.chair }}</i></p>
+    {% endif %}
+
+    {% for paper in site.data.papers %}
+    {% if session.id == paper.session %}
+
+    <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
+    <p><strong><small>{{ paper.type }}</small></strong></p>
+
+    {% if paper.type == 'Journal' %}
+    {% assign source = site.data.journalpapers %}
+    {% endif %}
+
+    {% if paper.type == 'Conference' %}
+    {% assign source = site.data.conferencepapers %}
+    {% endif %}
+
+    {% if paper.type == 'Invited Journal' %}
+    {% assign source = site.data.invitedjournalpapers %}
+    {% endif %}
+
+    {% for p in source %}
+    {% if p.id == paper.id %}
+    <p><i>{{ p.authors }}</i></p>
+    <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p>{{ p.abstract }}</p>
             </div>
-            {% endif %}
-            {% endfor %} 
-    
-        {% endif %}
-        {% endfor %}    
-        
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    {% endif %}
+    {% endfor %}
+
     {% endif %}
     {% endfor %}
 </div>
