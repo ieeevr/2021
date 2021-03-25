@@ -404,13 +404,13 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
                     <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1000 / time-1130;">
-                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">10:00 - 11:45</span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1200 / time-1330;">
-                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
                     
@@ -434,7 +434,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1430;">14:15</p>
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1430 / time-1630;">
-                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">14:15 - 16:15</span>
                     </div>
                     
@@ -458,7 +458,7 @@ title: "Program Overview"
                     
                     <p class="time-slot" style="grid-row: time-1730;">17:15</p>
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
-                        <h3 class="session-title"><a href="#">Doctoral Consortium</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">17:15 - 18:05</span>
                     </div>
 
