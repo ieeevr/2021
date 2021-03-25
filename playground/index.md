@@ -67,7 +67,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0830] auto [time-0900] auto [time-0930] auto [time-1000] auto [time-1030] auto [time-1100] auto [time-1130] auto [time-1200] auto [time-1230] auto [time-1300] auto [time-1330] auto [time-1400] auto [time-1430] auto [time-1500] auto [time-1530] auto [time-1600] auto [time-1630] auto [time-1700] auto [time-1730] auto [time-1800] auto [time-1830] auto [time-1900] auto;
+                [tracks] auto [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end];
