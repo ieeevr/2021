@@ -508,8 +508,9 @@ title: "Virbela Instructions"
     
     
     <div>
-        <h2>Map</h2>
+        <h2 id="map">Map</h2>
         <img src="/2021/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.jpg" style="width: 100%;" alt="Virbela Virtual Environment map">
+        <br/>
         <div style="">
         <center>
             <p style="font-size: 20px;">
