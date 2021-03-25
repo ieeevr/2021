@@ -76,7 +76,7 @@ title: "Keynote Speakers"
     <center><big><strong>{{ keynote.title }}</strong></big></center>
     <center><small>{{ keynote.day }} - {{ keynote.start }}, {{ keynote.timezone }}</small></center>
     {% if keynote.chair %}
-    <center>Session Chair: <i>{{ keynote.chair }}</i></center>
+    <center><small>Session Chair: <i>{{ keynote.chair }}</i></small></center>
     {% endif %}
     
     <p>
