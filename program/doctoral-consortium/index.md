@@ -65,6 +65,12 @@ title: "Doctoral Consortium"
         <tr>
             <td style="font-size: 0.9em;"><span style="color: #00aeef;">10:00 - 10:15 am</span></td>
             <td>
+                Welcome + Ice Breaker
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">10:15 - 11:45 am</span></td>
+            <td>
                 <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
                 Daniel Eckhoff - Dr. Gruchalla & Dr. Billinghurst<br/>
                 Nermin Shaltout - Dr. Billinghurst and Dr. Quarles<br/>
@@ -72,6 +78,68 @@ title: "Doctoral Consortium"
                 Zhiming Hu - Dr. Robb and Dr. Potter<br/>
                 Hannah Greber - Dr. Skarbez and Dr. Khadka<br/>
                 Dilshani Kumarapeli - Dr. Stevenson Won and Dr. Skarbez<br/>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">11:45 - 12:00 pm</span></td>
+            <td>
+                Break
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">12:00 - 1:30 pm</span></td>
+            <td>
+                <strong>Presentations 7 - 12 (8 min talk + 4 min questions)</strong><br/>
+                Julia Belger - Dr. Stevenson Won and Dr. Suma Rosenberg<br/>
+                Niklas Stein - Dr. Johnsen and Dr. Steed<br/>
+                Alina Nikolaou - Dr. Potter and Dr. Johnsen<br/>
+                Florian Mathis - Dr. Holz and Dr. Santos<br/>
+                Eugene Kukshinov - Dr. Cutchin and Dr. Holz<br/>
+                Nuno Cid Martins - Dr. Feiner and Dr. Khadka*
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">1:30 - 2:15 pm</span></td>
+            <td>
+                Break
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">2:15 - 4:15 pm</span></td>
+            <td>
+                <strong>Presentations 13 - 20 (8 min talk + 4 min questions)</strong><br/>
+                Iris Willaert - Dr. Quarles and Dr. Gruchalla<br/>
+                Valentin Vallageas - Dr. Suma Rosenberg and Dr. Peck<br/>
+                Mohammed Safayet Arefin - Dr. Santos and Dr. Inami<br/>
+                Feiyu Lu - Dr. Steed and Dr. Feiner<br/>
+                Moloud Nasiri - Dr. Correia and Dr. Peck<br/>
+                Amanda Zilla - Dr. Bowman and Dr. Cutchin<br/>
+                Isayas Adhanom - Dr. Khadka and Dr. Bowman<br/>
+                PS Berge - Dr. Inami and Dr. Robb
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">4:15 - 5:00 pm</span></td>
+            <td>
+                Mentoring Group 1 Breakout (45 min)
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">5:00 - 5:15 pm</span></td>
+            <td>
+                Break
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">5:15 - 6:00 pm</span></td>
+            <td>
+                Mentoring Group 2 Breakout (45 min)
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">6:00 - 6:05 pm</span></td>
+            <td>
+                Closing
             </td>
         </tr>
     </table>
