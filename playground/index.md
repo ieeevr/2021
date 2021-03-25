@@ -645,11 +645,10 @@ title: "Program Overview"
                         <span class="session-time">17:30 - 18:30</span>
                     </div>
                     
-                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1830;">
-                        <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Expo Session</a></h3>
-                        <h3 class="session-title"><a href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></h3>
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
+                        <h3 id="EX1" class="session-title">Expo Session:<a href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></h3>
                         <span class="session-time">17:30</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> Theater 1</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater 1</a></span>
                     </div>
 
                 </div>
