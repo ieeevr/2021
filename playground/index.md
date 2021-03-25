@@ -63,6 +63,16 @@ title: "Program Overview"
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
         }
 
+        .schedule-with-expo {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
+        }
+        
         .schedule-sat-27 {
             display: grid;
             grid-gap: 1em;
@@ -537,12 +547,13 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
-                <div class="schedule" aria-labelledby="schedule-heading">
+                <div class="schedule-with-expo" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
@@ -632,6 +643,11 @@ title: "Program Overview"
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1830;">
                         <h3 id="EW" class="session-title"><a href="/2021/program/exhibitors/">Exhibitors: Welcome Reception</a></h3>
                         <span class="session-time">17:30 - 18:30</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1830;">
+                        <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Expo Session</a></h3>
+                        <span class="session-time">15:00 - 16:30</span>
                     </div>
 
                 </div>
