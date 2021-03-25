@@ -625,7 +625,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
-                        <h3 class="session-title">Welcome Reception</h3>
+                        <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
                         <span class="session-time">17:30 - 19:00</span>
                     </div>
 
