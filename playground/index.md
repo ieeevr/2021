@@ -1,142 +1,1067 @@
 ---
 layout: ieeevr-default
-title: "IEEEVR 2021"
+title: "Program Overview"
 ---
 
-<!--
-<div class="notice--warning">
-    <strong style="color: red">Important notice:</strong>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pharetra lectus ut scelerisque. Suspendisse fermentum fringilla tellus, ac malesuada lectus aliquet tincidunt. Donec aliquam mollis efficitur. Etiam non sapien nisi.
-    </p>
-</div>
--->
-
 <style>
-    /* video container */
-    .video-container {
-        overflow: hidden;
-        position: relative;
-        width: 100%;
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.9em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
     }
 
-    .video-container::after {
-        padding-top: 56.25%;
-        /* 75% if 4:3*/
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+
+
+    /*************************
+ * GRID SCHEDULE LAYOUT from there: https://css-tricks.com/building-a-conference-schedule-with-css-grid/
+ *************************/
+    @media screen and (min-width:700px) {
+        .schedule {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+            /* Note 1:
+      Use 24hr time for gridline names for simplicity
+
+      Note 2: Use "auto" instead of "0.5fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
+      Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
+      */
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
+        }
+
+        .schedule-sat-27 {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 5px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-2000] 5px [time-2100] 5px;
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end];
+        }
+
+        .schedule-sun-28 {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 5px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-1930] 5px [time-2000] 5px [time-2030] 5px;
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
+        }
+
+        .schedule-fri-2 {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 10px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-1930] 5px [time-2000] 5px [time-2030] 5px;
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
+        }
+    }
+
+    .time-slot {
+        grid-column: times;
+        text-decoration: none;
+
+    }
+
+    .track-slot {
+        display: none;
+        /* hidden on small screens and browsers without grid support */
+    }
+
+    @supports(display:grid) {
+        @media screen and (min-width:700px) {
+            .track-slot {
+                display: block;
+                padding: 10px 5px 5px;
+                position: sticky;
+                top: 0;
+                z-index: 1000;
+                background-color: rgba(255, 255, 255, .9);
+            }
+        }
+    }
+
+    /* Small-screen & fallback styles */
+    .session {
+        margin-bottom: 1em;
+    }
+
+    @supports(display:grid) {
+        @media screen and (min-width: 700px) {
+            .session {
+                margin: 0;
+            }
+        }
+    }
+
+    /*************************
+ * VISUAL STYLES
+ * Design-y stuff ot particularly important to the demo
+ ************************
+    body {
+        padding: 50px;
+        max-width: 1100px;
+        margin: 0 auto;
+        line-height: 1.5;
+    }
+    */
+
+    .session {
+        padding: .5em;
+        border-radius: 5px;
+        font-size: 12px;
+        box-shadow:
+            rgba(255, 255, 255, .6) 1px 1px 0,
+            rgba(0, 0, 0, .3) 4px 4px 0;
+    }
+
+    .session-title,
+    .session-time,
+    .session-track,
+    .session-presenter {
         display: block;
-        content: '';
     }
 
-    .video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
+    .session-title,
+    .time-slot {
+        margin: 0;
+        font-size: 1em;
     }
 
-    notice--info {
-        padding-top: 2px;
-        padding-bottom: 2px;
+    .session-title a {
+        color: #fff;
+        text-decoration-style: dotted;
+
+        &:hover {
+            font-style: italic;
+        }
+
+        &:focus {
+            outline: 2px dotted rgba(255, 255, 255, .8);
+        }
+    }
+
+    .track-slot,
+    .time-slot {
+        font-weight: bold;
+        font-size: .75em;
+    }
+
+    .track-1 {
+        background-color: #1259B2;
+        color: #fff;
+    }
+
+    .track-2 {
+        background-color: #687f00;
+        color: #fff;
+    }
+
+    .track-3 {
+        background-color: #544D69;
+        color: #fff;
+    }
+
+    .track-4 {
+        background-color: #c35500;
+        color: #fff;
+    }
+
+    .track-all {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ccc;
+        color: #000;
+        box-shadow: none;
+    }
+
+    .track-teal {
+        background-color: #00aeef;
+        color: #fff;
+    }
+
+    .track-break {
+        background-color: #ddf6ff;
+        color: #464646;
+    }
+
+    .track-green {
+        background-color: rgb(52, 199, 89);
+        color: #fff;
+    }
+
+    .track-orange {
+        background-color: rgb(255, 149, 0);
+        color: #fff;
+    }
+
+    .track-purple {
+        background-color: rgb(175, 82, 222);
+        color: #fff;
+    }
+
+    .track-event {
+        background-color: rgb(90, 200, 250);
+        color: #fff;
+    }
+
+    .track-panel {
+        background-color: rgb(0, 122, 255);
+        color: #fff;
+    }
+
+    .track-keynote {
+        background-color: rgb(255, 45, 85);
+        color: #fff;
+    }
+
+    .track-3dui {
+        /* background-color: rgb(88, 86, 214); */
+        background-color: rgb(211, 15, 69);
+        color: #fff;
+    }
+
+    .text {
+        max-width: 750px;
+        font-size: 18px;
+        margin: 0 auto 50px;
+    }
+
+    .meta {
+        color: #555;
+        font-style: italic;
+    }
+
+    .meta a {
+        color: #555;
+    }
+
+    hr {
+        margin: 40px 0;
+    }
+
+
+    /* Collapsible */
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .wrap-collabsible {
+        margin: 1.2rem 0;
+    }
+
+    .lbl-toggle {
+        display: block;
+        font-weight: bold;
+        /* font-family: monospace; */
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.5rem;
+        color: #ffffff;
+        background: #00aeef;
+        cursor: pointer;
+        border-radius: 7px;
+        transition: all 0.25s ease-out;
+    }
+
+    .lbl-toggle:hover {
+        color: #FFF;
+    }
+
+    .lbl-toggle::before {
+        content: ' ';
+        display: inline-block;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid currentColor;
+        vertical-align: middle;
+        margin-right: .7rem;
+        transform: translateY(-2px);
+        transition: transform .2s ease-out;
+    }
+
+    .toggle:checked+.lbl-toggle::before {
+        transform: rotate(90deg) translateX(-3px);
+    }
+
+    .collapsible-content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .25s ease-in-out;
+    }
+
+    .toggle:checked+.lbl-toggle+.collapsible-content {
+        max-height: 1500px;
+    }
+
+    .toggle:checked+.lbl-toggle {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .collapsible-content .content-inner {
+        background: white;
+        /* rgba(0, 105, 255, .2);*/
+        border-bottom: 1px solid rgba(0, 105, 255, .45);
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+        padding: .5rem 1rem;
+    }
+
+    .collapsible-content p {
+        margin-bottom: 0;
     }
 
 </style>
 
 
-<div>
+<h1>Program Overview</h1>
 
-    <div class="notice--info">
-        <strong>Registration Information (15 Mar 2021):</strong>
-        <p>
-            The <strong>Advance Registration</strong> deadline was postponed to <strong>March 25th</strong>!!
-            Register <a href="/2021/attend/registration/">here</a>.
-        </p>
-    </div>
-
-    <div class="notice--info">
-        <strong>Registration Information (24 Feb 2021):</strong>
-        <p>
-            Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
-        </p>
-    </div>
-
-    <span id=hideThis></span>
-    <div class="notice--info">
-
-        <a id="toggleButton" style="font-size: 10px:" onclick="toggleText();" href="javascript:void(0);">See previous notices</a>
-    </div>
-    <script>
-        var status = "less";
-
-        function toggleText() {
-            var text = `
-            <div class="notice--info">
-            <strong>Registration Information (20 Feb 2021):</strong>
-            <p>
-                Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
-                You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
-            </p>
-        </div>
-        <div class="notice--info">
-            <strong>Important Information:</strong>
-            <p>
-                Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
-            </p>
-        </div>`;
-
-            if (status == "less") {
-                document.getElementById("hideThis").innerHTML = text;
-                document.getElementById("toggleButton").innerText = "See less";
-                status = "more";
-            } else if (status == "more") {
-                document.getElementById("hideThis").innerHTML = "";
-                document.getElementById("toggleButton").innerText = "See previous notices";
-                status = "less"
-            }
-        }
-
-    </script>
-</div>
-
-
-<br />
-<div>
-    <h1>Come and Join Us</h1>
-
-    <!--    
-    <p>
-        Present your latest and greatest work at IEEE VR 2021. We are planning for VR 2021 to occur in both physical and virtual spaces.  The physical conference will be held at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a>, one mile from the Lisbon airport, superbly located in downtown Lisbon. The sunniest European capital, Lisbon is one of the world’s most ancient cities, with a very rich history. Our goal is for IEEE VR 2021 to combine the best of traditional face-to-face meetings, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break.  Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops. 
-    </p>
+<!--
+<h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</h3>
+<p>
+    On the first day (Saturday, March 27), times are given in WET/UTC.
+    The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
+</p>
 -->
+<div class="notice--warning">
+    <strong style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</strong>
     <p>
-        Present your latest and greatest work at IEEE VR 2021. The conference will be virtual. Our goal is for IEEE VR 2021 to provide the best virtual experience, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break. Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops.
+        On the first day (Saturday, March 27), times are given in WET/UTC.
+        The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
     </p>
+</div>
+<!--
+<div class="notice--warning">
+    <strong>Note:</strong>
+    <p>
+        The indications for locations in this program refer to virtual locations in the Virbela platform. Please find more information about and how to use Virbela <a href="/2021/attend/virbela-instructions/">here</a>.
+    </p>
+</div>
+-->
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WET, UTC</strong></center>
+                <div class="schedule-sat-27" aria-labelledby="schedule-heading">
 
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+
+                    <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T4">Tutorial: Interactive Storytelling for VR</a></h3>
+                        <span class="session-time">9:00 - 12:00</span>
+                    </div>
+
+                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SIVE">Workshop: Sonic Interactions in Virtual Environments (SIVE) </a></h3>
+                        <span class="session-time">9:00 - 12:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1000;">10:00</p>
+                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1000 / time-1130;">
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
+                        <span class="session-time">10:00 - 11:45</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+                    <div class="session session-4 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1200 / time-1330;">
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
+                        <span class="session-time">12:00 - 13:30</span>
+                    </div>
+                    
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T1">Tutorial: Web-Based VR Development and Instruction using Babylon.js</a></h3>
+                        <span class="session-time">13:00 - 16:00</span>
+                    </div>
+
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#NIDIT">Workshop: Novel Input Devices and Interaction Techniques (NIDIT)</a></h3>
+                        <span class="session-time">13:00 - 17:00</span>
+                    </div>
+                    
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE)</a></h3>
+                        <span class="session-time">14:00 - 21:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1430;">14:15</p>
+                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1430 / time-1630;">
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
+                        <span class="session-time">14:15 - 16:15</span>
+                    </div>
+                    
+                    
+                    
+                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+                    <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1800;">
+                        <h3 class="session-title">
+                            <a href="/2021/program/tutorials/#T6S1">
+                                Tutorial: Combining the Virtual and the Real, Session 1
+                            </a>
+                        </h3>
+                        <span class="session-time">16:00 - 17:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
+                        <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                    
+                    <p class="time-slot" style="grid-row: time-1730;">17:15</p>
+                    <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
+                        <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
+                        <span class="session-time">17:15 - 18:05</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <div class="session session-9S2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1800 / time-2100;">
+                        <h3 class="session-title">
+                            <a href="/2021/program/tutorials/#T6S2">
+                                Tutorial: Combining the Virtual and the Real, Session 2
+                            </a>
+                        </h3>
+                        <span class="session-time">18:00 - 21:00</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
 </div>
 
 <div>
-    <h2>
-        <a href="https://www.virbela.com/" target="_blank">
-            <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
-        </a>
-    </h2>
-    <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/TuOBgzJeQj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Sunday, March 28</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
+                <div class="schedule-sun-28" aria-labelledby="schedule-heading">
 
-    </div>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
 
+                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
 
-    <p>
-        Virbela builds engaging virtual worlds for remote work, learning, and events. Founded in 2012 by a team of behavioral psychologists, Virbela’s mission is to help organizations and people thrive in a remote-first future. Virbela is excited to partner with the iLRN team to provide the IEEE Conference with a platform to foster collaboration and networking.
-    </p>
-    <p>
-        To learn more, visit virbela.com and follow us on <a href="https://twitter.com/VirbelaHQ" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/company/virbela/" target="_blank">LinkedIn</a>.
-    </p>
-    <div style="">
-        <center>
-            <p style="font-size: 20px;">
-                <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="">Getting Started with Virbela</a>
-            </p>
-        </center>
+                    <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ANIVAE">Workshop: Animation in Virtual and Augmented Environments (ANIVAE)</a></h3>
+                        <span class="session-time">9:00 - 12:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T2">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
+                        <span class="session-time">13:00 - 16:00</span>
+                    </div>
+                    <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#PrXR">Workshop: PrXR: Towards a roadmap for privacy and security research for mixed reality applications</a></h3>
+                        <span class="session-time">13:00 - 16:00</span>
+                    </div>
+                    <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 1</a></h3>
+                        <span class="session-time">13:00 - 16:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SeatedVR">Workshop: Seated Virtual Reality & Embodiment (SeatedVR) </a></h3>
+                        <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#WISP">Workshop: Workshop on Immersive Sickness Prevention (WISP)</a></h3>
+                        <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                    <div class="session session-7 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 2</a></h3>
+                        <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
 </div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Monday, March 29</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
+                <div class="schedule" aria-labelledby="schedule-heading">
+
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
+
+                    <div class="session session-1 track-teal" style="grid-column: track-1-start / track-3-end; grid-row: time-0830 / time-1000;">
+                        <h3 class="session-title"><a href="#">Opening</a></h3>
+                        <span class="session-time">8:30 - 10:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1000;">10:00</p>
+
+                    <div class="session session-2 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1000 / time-1030;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
+
+                    <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1030 / time-1130;">
+                        <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler" target="_blank">Keynote by Betty Mohler<br />Self-avatars in Immersive Technology</a></h3>
+                        <span class="session-time">10:30 - 11:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1130;">11:30</p>
+
+                    <div class="session session-4 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1130 / time-1200;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+
+                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#3.1">Augmented Reality</a></h3>
+                        <span class="session-time">12:00 - 13:00</span>
+                    </div>
+
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1300;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#3.2">VR Displays</a></h3>
+                        <span class="session-time">12:00 - 13:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title">Lunch</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+
+                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#5.1">Emotion and Cognition</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+
+                    <div class="session session-9 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#5.2">Holographic and Inertial Displays</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    <div class="session session-10 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1500 / time-1630;">
+                        <h3 class="session-title"><a href="/2021/program/posters/">Posters</a> and <a href="/2021/program/demos/">Demos</a></h3>
+                        <span class="session-time">15:00 - 16:30</span>
+                    </div>
+
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1630;">
+                        <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">15:00 - 16:30</span>
+                    </div>
+
+
+                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
+
+                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1730;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#7.1">Embodiment</a></h3>
+                        <span class="session-time">16:30 - 17:30</span>
+                    </div>
+
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1630 / time-1730;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#7.2">Visualization</a></h3>
+                        <span class="session-time">16:30 - 17:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1730;">17:30</p>
+                    <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
+                        <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
+                        <span class="session-time">17:30 - 19:00</span>
+                    </div>
+
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1830;">
+                        <h3 id="EW" class="session-title"><a href="/2021/program/exhibitors/">Exhibitors: Welcome Reception</a></h3>
+                        <span class="session-time">17:30 - 18:30</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible7" class="toggle" type="checkbox" checked> <label for="collapsible7" class="lbl-toggle">Tuesday, March 30</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
+                <div class="schedule" aria-labelledby="schedule-heading">
+
+
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0830;">8:30</p>
+
+                    <div class="session session-1 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#1.1">Collaboration</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+
+                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#1.2">Multimodal Interfaces</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-0930;">9:30</p>
+                    <div class="session session-3 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1100;">
+                        <h3 class="session-title"><a href="/2021/program/posters/">Posters</a> and <a href="/2021/program/demos/">Demos</a></h3>
+                        <span class="session-time">9:30 - 11:00</span>
+                    </div>
+
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
+                        <h3 id="EX2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">9:30 - 11:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1100;">11:00</p>
+
+                    <div class="session session-4 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1100 / time-1200;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#2.1">Security and Drone Teleoperation</a></h3>
+                        <span class="session-time">11:00 - 12:00</span>
+                    </div>
+
+                    <div class="session session-5 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1100 / time-1200;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#2.2">Embedded and Surround Videos</a></h3>
+                        <span class="session-time">11:00 - 12:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
+                        <h3 class="session-title">Lunch</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+
+                    <div class="session session-7 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#4.1">Virtual Humans and Agents</a></h3>
+                        <span class="session-time">13:00 - 14:00</span>
+                    </div>
+
+                    <div class="session session-8 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#4.2">Hands, Gestures and Grasping</a></h3>
+                        <span class="session-time">13:00 - 14:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+
+                    <div class="session session-9 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1400 / time-1430;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1430;">14:30</p>
+
+                    <div class="session session-10 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1430 / time-1530;">
+                        <h3 class="session-title">
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver" target="_blank">Keynote by Nuria Oliver<br />Data Science to fight against COVID-19</a>
+                        </h3>
+                        <span class="session-time">14:30 - 15:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1530;">15:30</p>
+
+                    <div class="session session-11 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1600;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+                    <div class="session session-12 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1700;">
+                        <h3 class="session-title">BOF/Social</h3>
+                        <span class="session-time">16:00 - 17:00</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-1700;">
+                        <h3 id="EX3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">16:00 - 17:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+
+                    <div class="session session-13 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1800;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#8.1">Plausibility, Presence and Social VR</a></h3>
+                        <span class="session-time">17:00 - 18:00</span>
+                    </div>
+
+                    <div class="session session-14 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1700 / time-1830;">
+                        <h3 class="session-title"><a href="/2021/program/panels/#P1">Panel: Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation</a></h3>
+                        <span class="session-time">17:00 - 18:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <div class="session session-15 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1800 / time-1900;">
+                        <h3 class="session-title">Mixer</h3>
+                        <span class="session-time">18:00 - 19:00</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
+                <div class="schedule" aria-labelledby="schedule-heading">
+
+
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0830;">8:30</p>
+
+                    <div class="session session-1 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#1.3">Accessible VR</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+
+                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#1.4">Haptics</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-0930;">09:30</p>
+                    <div class="session session-3 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1030;">
+                        <h3 class="session-title">BOF/Social</h3>
+                        <span class="session-time">9:30 - 10:30</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
+                        <h3 id="EX4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">9:30 - 11:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
+
+                    <div class="session session-4 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1100;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1100;">11:00</p>
+
+                    <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1100 / time-1200;">
+                        <h3 class="session-title">Keynote
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke<br />B(l)ending Realities</a>
+                        </h3>
+                        <span class="session-time">11:00 - 12:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
+                        <h3 class="session-title">Lunch</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+
+                    <!--
+                    <div class="session session-7 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title">Mixer</h3>
+                        <span class="session-time">13:00 - 14:00</span>
+                    </div>
+                    -->
+
+                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#4.3">Redirected Locomotion</a></h3>
+                        <span class="session-time">13:00 - 14:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+                    <div class="session session-9 track-orange" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1530;">
+                        <h3 class="session-title"><a href="/2021/program/posters/">Posters</a> and <a href="/2021/program/demos/">Demos</a></h3>
+                        <span class="session-time">14:00 - 15:30</span>
+                    </div>
+
+                    <div class="session session-xxx track-3dui" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1530;">
+                        <h3 class="session-title"><a href="/2021/program/3dui-contest/">3DUI Contest</a></h3>
+                        <span class="session-time">14:00 - 15:30</span>
+                    </div>
+
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1530;">
+                        <h3 id="EX5" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">14:00 - 15:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1530;">15:30</p>
+
+                    <div class="session session-10 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1630;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#6.1">Selection and Manipulation</a></h3>
+                        <span class="session-time">15:30 - 16:30</span>
+                    </div>
+
+                    <div class="session session-11 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1530 / time-1700;">
+                        <h3 class="session-title"><a href="/2021/program/panels/#P2">Panel: Shaping the Future of XR and Arts</a></h3>
+                        <span class="session-time">15:30 - 17:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
+
+                    <div class="session session-12 track-break" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1700;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+
+                    <div class="session session-13 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1800;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#8.2">Training and Learning</a></h3>
+                        <span class="session-time">17:00 - 18:00</span>
+                    </div>
+
+                    <div class="session session-14 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1700 / time-1800;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#8.3">Pen-based and Hands-free Interaction</a></h3>
+                        <span class="session-time">17:00 - 18:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <div class="session session-15 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-1800 / time-1900;">
+                        <h3 class="session-title">Mixer</h3>
+                        <span class="session-time">18:00 - 19:00</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible5" class="toggle" type="checkbox" checked> <label for="collapsible5" class="lbl-toggle">Thursday, April 1</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
+                <div class="schedule" aria-labelledby="schedule-heading">
+
+
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0830;">8:30</p>
+
+                    <div class="session session-1 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#1.5">Locomotion</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+
+                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#1.6">Rendering and Texture Mapping</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-0930;">09:30</p>
+                    <div class="session session-3 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-0930 / time-1030;">
+                        <h3 class="session-title">BOF/Social</h3>
+                        <span class="session-time">9:30 - 10:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
+                    <div class="session session-4 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1030 / time-1200;">
+                        <h3 class="session-title"><a href="/2021/program/posters/">Posters</a> and <a href="/2021/program/demos/">Demos</a></h3>
+                        <span class="session-time">10:30 - 12:00</span>
+                    </div>
+
+
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1030 / time-1200;">
+                        <h3 id="EX6" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">10:30 - 12:00</span>
+                    </div>
+
+
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+
+                    <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1200 / time-1300;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#3.3">Tracking, Vision and Sound</a></h3>
+                        <span class="session-time">12:00 - 13:00</span>
+                    </div>
+
+                    <div class="session session-5 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1330;">
+                        <h3 class="session-title"><a href="/2021/program/panels/#P3">Panel: What makes a virtual human human?</a></h3>
+                        <span class="session-time">12:00 - 13:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <div class="session session-7 track-break" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
+                        <h3 class="session-title">Lunch</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+
+                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#5.3">Perception</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+
+                    <div class="session session-9 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#5.4">VR Applications</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+
+                    <div class="session session-10 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1500 / time-1530;">
+                        <h3 class="session-title">Break</h3>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1530;">15:30</p>
+
+                    <div class="session session-11 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1630;">
+                        <h3 class="session-title">
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner<br />AR Longa, VR Brevis? Thinking About Our Future</a>
+                        </h3>
+                        <span class="session-time">15:30 - 16:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
+
+                    <div class="session session-2 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1800;">
+                        <h3 class="session-title"><a href="#">Closing</a></h3>
+                        <span class="session-time">16:30 - 18:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1730;">17:30</p>
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1900;">
+                        <h3 id="EX7" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
+                        <span class="session-time">17:30 - 18:30</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible6" class="toggle" type="checkbox" checked> <label for="collapsible6" class="lbl-toggle">Friday, April 2</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Lisbon WEST, UTC+1</strong></center>
+                <div class="schedule-fri-2" aria-labelledby="schedule-heading">
+
+
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+
+                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+                    <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#WEVR">Workshop: Everyday Virtual Reality (WEVR)</a></h3>
+                        <span class="session-time">9:00 - 12:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <div class="session session-ex track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#EXR">Workshop: Ethics in VR (EXR)</a></h3>
+                        <span class="session-time">13:00 - 16:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+                    <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1700;">
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T3">Tutorial: bmlTUX – a simple toolkit for building experiments in Unity</a></h3>
+                        <span class="session-time">14:00 - 16:30</span>
+                    </div>
+                    <div class="session session-3 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1700;">
+                        <h3 class="session-title"><a href="/2021/program/tutorials/#T5">Tutorial: Emotion in Virtual Reality</a></h3>
+                        <span class="session-time">14:00 - 16:30</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+                    <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#KELVAR">Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
+                        <span class="session-time">16:00 - 21:00</span>
+                    </div>
+
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2030;">
+                        <h3 class="session-title">
+                            <a href="/2021/program/tutorials/#T6S3">
+                                Tutorial: Combining the Virtual and the Real, Session 3
+                            </a>
+                        </h3>
+                        <span class="session-time">17:00 - 20:30</span>
+                    </div>
+
+                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#Finding-a-way-forward-in-VR-locomotion">Workshop: Finding a way forward in VR locomotion</a></h3>
+                        <span class="session-time">17:00 - 21:00</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
