@@ -61,25 +61,6 @@ title: "Workshop Papers"
         {% endfor %}
     </table>
 
-    <!--
-    <ul>
-        <li> <a href="#TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </a> </li>
-        <li> <a href="#SeatedVR"> Seated Virtual Reality & Embodiment (SeatedVR) </a> </li>
-        <li> <a href="#SIVE"> Sonic Interactions in Virtual Environments (SIVE) </a> </li>
-        <li> <a href="#VHCIE2021"> 6th Workshop on Virtual Humans and Crowds for Immersive Environments (VHCIE 2021) </a> </li>
-        <li> <a href="#WISP"> Workshop on Immersive Sickness Prevention (WISP) </a> </li>
-        <li> <a href="#NIDIT"> Novel Input Devices and Interaction Techniques – NIDIT </a> </li>
-        <li> <a href="#WEVR"> WEVR: 7th Annual Workshop on Everyday Virtual Reality </a> </li>
-        <li> <a href="#KELVAR"> KELVAR: 6th Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality </a> </li>
-        <li> <a href="#EXR"> Ethics in XR (EXR) </a> </li>
-        <li> <a href="#DISCE"> Distributed Interactive Systems for Collaborative Experiences (DISCE) </a> </li>
-        <li> <a href="#Combining-the-Virtual-and-the-Real"> Combining the Virtual and the Real in a World that Works for Everyone </a> </li>
-        <li> <a href="#Finding-a-way-forward-in-VR-locomotion"> Finding a way forward in VR locomotion </a> </li>
-        <li> <a href="#PrXR"> PrXR: Towards a roadmap for privacy and security research for mixed reality applications </a> </li>
-        <li> <a href="#ANIVAE"> Animation in Virtual and Augmented Environments - ANIVAE </a> </li>
-    </ul>
-    -->
-
     <h2 id="TrainingXR"> 2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2021" target="_blank"> https://sites.google.com/view/trainingxrieeevr2021 </a>
@@ -245,6 +226,7 @@ title: "Workshop Papers"
         <strong style="color:black;">Principal Organizer:</strong> Francisco R. Ortega
     </p>
 
+    <!--
     <h2 id="Combining-the-Virtual-and-the-Real"> Combining the Virtual and the Real in a World that Works for Everyone </h2>
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://openarcloud/IEEE2021" target="_blank">https://openarcloud/IEEE2021</a>
@@ -260,6 +242,7 @@ title: "Workshop Papers"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Suzan Oslin
     </p>
+    -->
 
     <h2 id="Finding-a-way-forward-in-VR-locomotion"> Finding a way forward in VR locomotion </h2>
     <p>
