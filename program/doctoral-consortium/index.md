@@ -23,7 +23,7 @@ title: "Doctoral Consortium"
     .styled-table th,
     .styled-table td {
         padding: 12px 15px;
-        font-size: 0.8em;
+        font-size: 0.9em;
     }
 
     .styled-table tbody tr {
