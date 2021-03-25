@@ -56,7 +56,28 @@ title: "Doctoral Consortium"
 
 <div>
 
-
+<div>
+    <table class="styled-table" style="font-size: 0.9em; ">
+        <tr>
+            <th>Schedule</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">10:00 - 10:15 am</span></td>
+            <td>
+                <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
+                Daniel Eckhoff - Dr. Gruchalla & Dr. Billinghurst<br/>
+                Nermin Shaltout - Dr. Billinghurst and Dr. Quarles<br/>
+                Shimmila Bhowmick - Dr. Froehlich and Dr. Correia<br/>
+                Zhiming Hu - Dr. Robb and Dr. Potter<br/>
+                Hannah Greber - Dr. Skarbez and Dr. Khadka<br/>
+                Dilshani Kumarapeli - Dr. Stevenson Won and Dr. Skarbez<br/>
+            </td>
+        </tr>
+    </table>
+</div>
+    
+    
 </div>
 
 
