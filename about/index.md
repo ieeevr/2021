@@ -12,7 +12,7 @@ title: "About"
     <br/>
     <center>
         <p style="font-size: 20px;">
-            <a href="/2021/attend/code-of-conduct/f" class="btn btn--primary" style="">IEEE VR 2021 Code of Conduct</a>
+            <a href="/2021/attend/code-of-conduct/" class="btn btn--primary" style="">IEEE VR 2021 Code of Conduct</a>
         </p>
     </center>
 </div>
