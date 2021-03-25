@@ -191,7 +191,7 @@ title: "Program Overview"
     .track-slot,
     .time-slot {
         font-weight: bold;
-        font-size: .75em;
+        font-size: .8em;
     }
 
     .track-1 {
@@ -648,7 +648,7 @@ title: "Program Overview"
                     <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
                         <h3 id="EX1" class="session-title">Expo Session:<a href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></h3>
                         <span class="session-time">17:30</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater 1</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
 
                 </div>
