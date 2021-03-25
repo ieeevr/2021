@@ -70,7 +70,7 @@ title: "Doctoral Consortium"
         </tr>
         {% for student in site.data.dc %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ student.id }}">{{ student.author }}</a></td>
+            <td style="font-size: 0.9em;"><span style="color: #00aeef;">{{ student.author }}</span></td>
             <td>{{ student.title }}</td>
         </tr>
         {% endfor %}
