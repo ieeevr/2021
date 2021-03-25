@@ -23,6 +23,7 @@ title: "Doctoral Consortium"
     .styled-table th,
     .styled-table td {
         padding: 12px 15px;
+        font-size: 0.8em;
     }
 
     .styled-table tbody tr {
@@ -63,13 +64,13 @@ title: "Doctoral Consortium"
             <th></th>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">10:00 - 10:15 am</span></td>
+            <td><span style="color: #00aeef;">10:00 - 10:15 am</span></td>
             <td>
                 Welcome + Ice Breaker
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">10:15 - 11:45 am</span></td>
+            <td><span style="color: #00aeef;">10:15 - 11:45 am</span></td>
             <td>
                 <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
                 Daniel Eckhoff - Dr. Gruchalla & Dr. Billinghurst<br/>
@@ -81,13 +82,13 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">11:45 - 12:00 pm</span></td>
+            <td ><span style="color: #00aeef;">11:45 - 12:00 pm</span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">12:00 - 1:30 pm</span></td>
+            <td ><span style="color: #00aeef;">12:00 - 1:30 pm</span></td>
             <td>
                 <strong>Presentations 7 - 12 (8 min talk + 4 min questions)</strong><br/>
                 Julia Belger - Dr. Stevenson Won and Dr. Suma Rosenberg<br/>
@@ -99,13 +100,13 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">1:30 - 2:15 pm</span></td>
+            <td><span style="color: #00aeef;">1:30 - 2:15 pm</span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">2:15 - 4:15 pm</span></td>
+            <td><span style="color: #00aeef;">2:15 - 4:15 pm</span></td>
             <td>
                 <strong>Presentations 13 - 20 (8 min talk + 4 min questions)</strong><br/>
                 Iris Willaert - Dr. Quarles and Dr. Gruchalla<br/>
@@ -119,25 +120,25 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">4:15 - 5:00 pm</span></td>
+            <td ><span style="color: #00aeef;">4:15 - 5:00 pm</span></td>
             <td>
                 Mentoring Group 1 Breakout (45 min)
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">5:00 - 5:15 pm</span></td>
+            <td><span style="color: #00aeef;">5:00 - 5:15 pm</span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">5:15 - 6:00 pm</span></td>
+            <td ><span style="color: #00aeef;">5:15 - 6:00 pm</span></td>
             <td>
                 Mentoring Group 2 Breakout (45 min)
             </td>
         </tr>
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">6:00 - 6:05 pm</span></td>
+            <td ><span style="color: #00aeef;">6:00 - 6:05 pm</span></td>
             <td>
                 Closing
             </td>
