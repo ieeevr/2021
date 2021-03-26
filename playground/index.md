@@ -1061,12 +1061,14 @@ title: "Program Overview"
                     <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#WEVR">Workshop: Everyday Virtual Reality (WEVR)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
                     <div class="session session-ex track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#EXR">Workshop: Ethics in VR (EXR)</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
@@ -1085,6 +1087,7 @@ title: "Program Overview"
                     <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#KELVAR">Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
                         <span class="session-time">16:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
@@ -1101,6 +1104,7 @@ title: "Program Overview"
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#Finding-a-way-forward-in-VR-locomotion">Workshop: Finding a way forward in VR locomotion</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
                 </div>
 
