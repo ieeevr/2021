@@ -63,6 +63,17 @@ title: "Tutorials"
     {% for tutorial in site.data.tutorials %}
     {% if tutorial.id == 'T1' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
+    
+    {% for event in site.data.events %}
+    {% if event.id == 'T1' %}
+    {% if event.location %}
+        <strong>Location:</strong> {{ event.location }}
+    {% endif %}
+    {% if event.stream-url %}
+        Watch live: <a href="{{ event.stream-url }}">HERE</a>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 
     <p>
         <strong>Organizers</strong>
