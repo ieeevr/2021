@@ -805,7 +805,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
 
-                    <div class="session session-13 track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1700 / time-1800;">
+                    <div class="session session-13 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-1700 / time-1800;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#8.1">Plausibility, Presence and Social VR</a></h3>
                         <span class="session-time">17:00 - 18:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
