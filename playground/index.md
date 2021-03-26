@@ -848,7 +848,7 @@ title: "Program Overview"
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
-                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-0830 / time-0930;">
+                    <div class="session session-2 track-green" style="grid-column: track-3-start / track-4-end; grid-row: time-0830 / time-0930;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#1.4">Haptics</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
