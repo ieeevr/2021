@@ -641,6 +641,14 @@ title: "Program Overview"
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1630 / time-1900;">
+                        <h3 id="EX1" class="session-title">Expo Session:</h3>
+                        <span class="session-time">16:30: <a style="color: white;" href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></span>
+                        <span class="session-time">16:35: <a style="color: white;" href="https://www.youtube.com/watch?v=5xjweXT_N4g">Microsoft</a></span>
+                        <span class="session-time">16:40: <a style="color: white;" href="https://www.youtube.com/watch?v=nq0NdCiB3FI">Facebook</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
+                    </div>
+                    
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
                         <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
@@ -653,13 +661,6 @@ title: "Program Overview"
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
                     
-                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
-                        <h3 id="EX1" class="session-title">Expo Session:</h3>
-                        <span class="session-time">17:30: <a style="color: white;" href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></span>
-                        <span class="session-time">17:35: <a style="color: white;" href="https://www.youtube.com/watch?v=5xjweXT_N4g">Microsoft</a></span>
-                        <span class="session-time">17:40: <a style="color: white;" href="https://www.youtube.com/watch?v=nq0NdCiB3FI">Facebook</a></span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
-                    </div>
 
                 </div>
 
@@ -705,10 +706,9 @@ title: "Program Overview"
                         <span class="session-time">9:30 - 11:00</span>
                     </div>
                     
-                    <p class="time-slot" style="grid-row: time-1030;">10:30</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1030 / time-1200;">
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
                         <h3 id="EX1" class="session-title">Expo Session:</h3>
-                        <span class="session-time">10:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
+                        <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
 
