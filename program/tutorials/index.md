@@ -67,10 +67,11 @@ title: "Tutorials"
     {% for event in site.data.events %}
     {% if event.id == 'T1' %}
     {% if event.location %}
-        <strong>Location:</strong> {{ event.location }}
+        <small><strong>Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)<small>
     {% endif %}
     {% if event.stream-url %}
-        Watch live: <a href="{{ event.stream-url }}">HERE</a>
+        <br/>
+        <small>Watch live: <a href="{{ event.stream-url }}">HERE</a></small>
     {% endif %}
     {% endif %}
     {% endfor %}
