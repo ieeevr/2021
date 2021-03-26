@@ -68,12 +68,13 @@ title: "Tutorials"
     {% if event.id == 'T1' %}
     {% if event.location %}
     <div class="notice--info">
+        <strong>Take me to the event:</strong>
         <p>
-        <strong>Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+        <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
     
     {% if event.stream-url %}
         <br/>
-        Watch Stream live: <a href="{{ event.stream-url }}">HERE</a>
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
     {% endif %}
     {% endif %}    
     </p>
