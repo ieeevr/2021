@@ -589,7 +589,7 @@ title: "Program Overview"
                     </div>
 
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1300;">
-                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#3.2">VR Displays</a></h3>
+                        <h3 class="session-title">Paper Session: <a href="/2021/program/papers/#3.2">VR/AR Displays</a></h3>
                         <span class="session-time">12:00 - 13:00</span>
                     </div>
 

@@ -8,7 +8,7 @@ id,name,day,starttime,endtime,timezone,sessionchair,discord-category
 2.1,Security and Drone Teleoperation,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,,
 2.2,Embedded and Surround Videos,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,Rob Lindeman ,
 3.1,Augmented Reality,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Dieter Schmalstieg,
-3.2,VR Displays,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Daisuke Iwai,
+3.2,VR/AR Displays,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Daisuke Iwai,
 3.3,"Tracking, Vision and Sound","Thursday, April 1",12:00,13:00,Lisbon WEST UTC+1,Bobby Bodenheimer,
 4.1,Virtual Humans and Agents,"Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,Ronan Boulic,
 4.2,"Hands, Gestures and Grasping","Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,Ryan P McMahan,
