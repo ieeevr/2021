@@ -616,7 +616,7 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
 
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1645;">
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1500 / time-1630;">
                         <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
