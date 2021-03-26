@@ -65,7 +65,7 @@ title: "Workshop Papers"
     
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
-    {% if event.id == 'TrainingXR' %}
+    {% if event.id == 'TrainingXR-1' %}
     {% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
