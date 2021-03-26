@@ -198,6 +198,27 @@ INVITED MISSING
     {% if session.sessionchair %}
     <p>Session Chair: <i>{{ session.sessionchair }}</i></p>
     {% endif %}
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == '{{ session.id }}' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
 
     {% for paper in site.data.papers %}
     {% if session.id == paper.session %}
