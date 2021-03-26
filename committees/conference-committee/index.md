@@ -84,7 +84,7 @@ title: "Conference Committee"
     <ul>
         <li> João Pereira &#x2012; <i> INESC-ID/University of Lisbon </i></li>
         <li> Sabine Coquillart &#x2012; <i> INRIA Grenoble Rhône-Alpes, France </i></li>
-        <li> Jason Gerald &#x2012; <i> NextGen Interactions, Raleigh, NC, USA </i></li>
+        <li> Jason Jerald &#x2012; <i> NextGen Interactions, Raleigh, NC, USA </i></li>
         <li> Mashhuda Glencross &#x2012; <i> The University of Queensland, Australia </i></li>
         <li style="list-style: none"> workshops2021 [at] ieeevr.org </li>
     </ul>
