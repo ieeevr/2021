@@ -620,13 +620,6 @@ title: "Program Overview"
                         <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
-
-                    <p class="time-slot" style="grid-row: time-1530;">15:30</p>
-                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1530 / time-1700;">
-                        <h3 id="EX1" class="session-title">Expo Session:</h3>
-                        <span class="session-time">15:30: <a style="color: white;" href="https://www.youtube.com/watch?v=Et-8EIRN_mw&t=4s">Virbela</a></span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
-                    </div>
                     
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
@@ -652,7 +645,9 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
                         <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
+                        <span class="session-time"><a style="color: white;" href="https://www.youtube.com/watch?v=Et-8EIRN_mw&t=4s">Virbela</a></span>
                         <span class="session-time">17:30 - 19:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
 
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1830;">
