@@ -588,6 +588,7 @@ title: "Program Overview"
                     <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1030 / time-1130;">
                         <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler" target="_blank">Keynote by Betty Mohler<br />Self-avatars in Immersive Technology</a></h3>
                         <span class="session-time">10:30 - 11:30</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1130;">11:30</p>
@@ -763,6 +764,7 @@ title: "Program Overview"
                             <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver" target="_blank">Keynote by Nuria Oliver<br />Data Science to fight against COVID-19</a>
                         </h3>
                         <span class="session-time">14:30 - 15:30</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
@@ -856,6 +858,7 @@ title: "Program Overview"
                             <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke<br />B(l)ending Realities</a>
                         </h3>
                         <span class="session-time">11:00 - 12:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
@@ -1022,6 +1025,7 @@ title: "Program Overview"
                             <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner<br />AR Longa, VR Brevis? Thinking About Our Future</a>
                         </h3>
                         <span class="session-time">15:30 - 16:30</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
