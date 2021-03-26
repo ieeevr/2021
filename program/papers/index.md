@@ -197,7 +197,7 @@ INVITED MISSING
     
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
-    {% if event.id == '{{ session.id }}' %}
+    {% if event.id == session.id %}
     {% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
