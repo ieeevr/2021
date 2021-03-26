@@ -411,6 +411,7 @@ title: "Program Overview"
                     <div class="session session-2 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SIVE">Workshop: Sonic Interactions in Virtual Environments (SIVE) </a></h3>
                         <span class="session-time">9:00 - 12:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
@@ -437,12 +438,14 @@ title: "Program Overview"
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1700;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#NIDIT">Workshop: Novel Input Devices and Interaction Techniques (NIDIT)</a></h3>
                         <span class="session-time">13:00 - 17:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE)</a></h3>
                         <span class="session-time">14:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1430;">14:15</p>
@@ -467,6 +470,7 @@ title: "Program Overview"
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#VHCIE2021">Workshop: Virtual Humans and Crowds for Immersive Environments (VHCIE 2021)</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
                     
                     <p class="time-slot" style="grid-row: time-1730;">17:15</p>
@@ -510,6 +514,7 @@ title: "Program Overview"
                     <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ANIVAE">Workshop: Animation in Virtual and Augmented Environments (ANIVAE)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
@@ -521,24 +526,29 @@ title: "Program Overview"
                     <div class="session session-3 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1300 / time-1600;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#PrXR">Workshop: PrXR: Towards a roadmap for privacy and security research for mixed reality applications</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
                     <div class="session session-4 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1300 / time-1600;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 1</a></h3>
                         <span class="session-time">13:00 - 16:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SeatedVR">Workshop: Seated Virtual Reality & Embodiment (SeatedVR) </a></h3>
                         <span class="session-time">17:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
                     <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#WISP">Workshop: Workshop on Immersive Sickness Prevention (WISP)</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
                     <div class="session session-7 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 2</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
                 </div>
 
