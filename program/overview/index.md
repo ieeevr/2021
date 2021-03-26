@@ -63,6 +63,16 @@ title: "Program Overview"
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
         }
 
+        .schedule-with-expo {
+            display: grid;
+            grid-gap: 1em;
+            grid-template-rows:
+                [tracks] auto [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end];
+        }
+        
         .schedule-sat-27 {
             display: grid;
             grid-gap: 1em;
@@ -181,7 +191,7 @@ title: "Program Overview"
     .track-slot,
     .time-slot {
         font-weight: bold;
-        font-size: .75em;
+        font-size: .8em;
     }
 
     .track-1 {
@@ -537,12 +547,13 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
-                <div class="schedule" aria-labelledby="schedule-heading">
+                <div class="schedule-with-expo" aria-labelledby="schedule-heading">
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
@@ -609,7 +620,7 @@ title: "Program Overview"
                         <h3 id="EX1" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">15:00 - 16:30</span>
                     </div>
-
+                    
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
@@ -623,16 +634,27 @@ title: "Program Overview"
                         <span class="session-time">16:30 - 17:30</span>
                     </div>
 
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1630 / time-1800;">
+                        <h3 id="EX1" class="session-title">Expo Session:</h3>
+                        <span class="session-time">16:30: <a style="color: white;" href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></span>
+                        <span class="session-time">16:35: <a style="color: white;" href="https://www.youtube.com/watch?v=5xjweXT_N4g">Microsoft</a></span>
+                        <span class="session-time">16:40: <a style="color: white;" href="https://www.youtube.com/watch?v=nq0NdCiB3FI">Facebook</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
+                    </div>
+                    
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
-                    <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1900;">
+                    <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1930;">
                         <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
                         <span class="session-time">17:30 - 19:00</span>
                     </div>
 
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1830;">
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1730 / time-1900;">
                         <h3 id="EW" class="session-title"><a href="/2021/program/exhibitors/">Exhibitors: Welcome Reception</a></h3>
+                        <span class="session-time"><a style="color: white;" href="https://www.youtube.com/watch?v=Et-8EIRN_mw&t=4s">Virbela</a></span>
                         <span class="session-time">17:30 - 18:30</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
+                    
 
                 </div>
 
@@ -646,13 +668,14 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
-                <div class="schedule" aria-labelledby="schedule-heading">
+                <div class="schedule-with-expo" aria-labelledby="schedule-heading">
 
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830;">8:30</p>
 
@@ -675,6 +698,12 @@ title: "Program Overview"
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
                         <h3 id="EX2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
+                        <h3 id="EX1" class="session-title">Expo Session:</h3>
+                        <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
@@ -1065,154 +1094,3 @@ title: "Program Overview"
 
 
 
-<!--
-<div>
-    <h2>Panel Sessions</h2>
-
-    <table class="styled-table">
-
-        <tr>
-            <th>Session</th>
-            <th>Topic Area</th>
-        </tr>
-
-        <tr>
-            <td>1</td>
-            <td>Ethics and Privacy in Mixed Reality</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Ethics and Privacy in Mixed Reality</td>
-        </tr>
-
-    </table>
-
-
-
-    <h2>Paper Sessions</h2>
-
-    <table class="styled-table">
-
-        <tr>
-            <th>Session</th>
-            <th>Topic Area</th>
-        </tr>
-
-        <tr>
-            <td>1</td>
-            <td>Ethics and Privacy in Mixed Reality</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Ethics and Privacy in Mixed Reality</td>
-        </tr>
-
-    </table>
-</div>
-    -->
-
-
-
-<!--
-<div class="schedule" aria-labelledby="schedule-heading">
-  
-  <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;">Track 1</span>
-  <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;">Track 2</span>
-  <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;">Track 3</span>
-  <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;">Track 4</span>
-  
-  <h2 class="time-slot" style="grid-row: time-0800;">8:00am</h2>
-
-  <div class="session session-1 track-1" style="grid-column: track-1; grid-row: time-0800 / time-0900;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">8:00 - 9:00</span>
-    <span class="session-track">Track: 1</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <div class="session session-2 track-2" style="grid-column: track-2; grid-row: time-0800 / time-0830;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">8:00 - 8:30</span>
-    <span class="session-track">Track: 2</span>
-    <span class="session-presenter">Presenter</span>
-  </div>  
-  
-  <div class="session session-3 track-3" style="grid-column: track-3; grid-row: time-0800 / time-0830;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">8:00 - 8:30</span>
-    <span class="session-track">Track: 3</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <div class="session session-4 track-4" style="grid-column: track-4; grid-row: time-0800 / time-1000;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">8:00 - 10:00</span>
-    <span class="session-track">Track: 2</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <h2 class="time-slot" style="grid-row: time-0830;">8:30am</h2>
-  
-  <div class="session session-5 track-3" style="grid-column: track-3; grid-row: time-0830 / time-1000;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">8:30 - 10:00</span>
-    <span class="session-track">Track: 1</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <h2 class="time-slot" style="grid-row: time-0900;">9:00am</h2>
-  
-  <div class="session session-6 track-1" style="grid-column: track-1-start / track-2-end; grid-row: time-0900 / time-1000;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">9:00 - 10:00</span>
-    <span class="session-track">Track: 1 & 2</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <h2 class="time-slot" style="grid-row: time-1000;">10:00am</h2>
-  
-  <div class="session session-7 track-all" style="grid-column: track-1-start / track-4-end; grid-row: time-1000 / time-1030;">
-    <h3 class="session-title">Take a break!</h3>
-  </div>
-  
-  <h2 class="time-slot" style="grid-row: time-1030;">10:30am</h2>
-  
-  <div class="session session-8 track-1" style="grid-column: track-1; grid-row: time-1030 / time-1130;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">10:30 - 11:30</span>
-    <span class="session-track">Track: 1</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <div class="session session-9 track-2" style="grid-column: track-2-start / track-3-end; grid-row: time-1030 / time-1100;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">10:30 - 11:00</span>
-    <span class="session-track">Track: 2 & 3</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <div class="session session-10 track-4" style="grid-column: track-4; grid-row: time-1030 / time-1100;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">10:30 - 11:00</span>
-    <span class="session-track">Track: 4</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <h2 class="time-slot" style="grid-row: time-1100;">11:00am</h2>
-  
-  <div class="session session-11 track-2" style="grid-column: track-2; grid-row: time-1100 / time-1200;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">11:00 - 12:00</span>
-    <span class="session-track">Track: 2</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-  <div class="session session-11 track-3" style="grid-column: track-3; grid-row: time-1100 / time-1200;">
-    <h3 class="session-title"><a href="#">Talk Title</a></h3>
-    <span class="session-time">11:00 - 12:00</span>
-    <span class="session-track">Track: 3</span>
-    <span class="session-presenter">Presenter</span>
-  </div>
-  
-</div>
--->
