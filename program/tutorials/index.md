@@ -501,6 +501,7 @@ title: "Tutorials"
     <p>
         <strong style="font-size: 0.8em;color: black">Friday, April 2 17:00 - 20:30, Lisbon WEST, UTC+1</strong>
     </p>
+    
     <h3 id="T6S3" style="color: #00aeef;">Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions</h3>
 
     <!-- TAKE ME TO THE EVENT START -->
@@ -518,7 +519,7 @@ title: "Tutorials"
             {% endif %}
             {% endif %}
         </p>
-    </div>
+    </div> 
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
