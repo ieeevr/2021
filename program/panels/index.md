@@ -63,6 +63,28 @@ title: "Panels"
     {% for panel in site.data.panels %}
     {% if panel.id == 'P1' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == panel.id %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    
     <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
@@ -123,6 +145,26 @@ title: "Panels"
     {% for panel in site.data.panels %}
     {% if panel.id == 'P2' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == panel.id %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
     <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
@@ -182,6 +224,27 @@ title: "Panels"
     {% for panel in site.data.panels %}
     {% if panel.id == 'P3' %}
     <h2 id="{{ panel.id }}">Panel: {{ panel.title}}</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == panel.id %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
     <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
