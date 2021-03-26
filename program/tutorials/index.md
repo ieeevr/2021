@@ -68,7 +68,7 @@ title: "Tutorials"
     {% if event.id == 'T1' %}
     {% if event.location %}
     <div class="notice--info">
-        <strong>Take me to the event:</strong>
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
         <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
     
