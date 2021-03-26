@@ -831,7 +831,7 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
-                <div class="schedule" aria-labelledby="schedule-heading">
+                <div class="schedule-with-expo" aria-labelledby="schedule-heading">
 
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
@@ -840,7 +840,7 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
-                    <p class="time-slot-with-expo" style="grid-row: time-0830;">8:30</p>
+                    <p class="time-slot" style="grid-row: time-0830;">8:30</p>
 
                     <div class="session session-1 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#1.3">Accessible VR</a></h3>
