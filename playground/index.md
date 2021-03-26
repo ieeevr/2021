@@ -724,17 +724,13 @@ title: "Program Overview"
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Expo Hall B</a></span>
                     </div>
 
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-4-end; grid-row: time-0930 / time-1100;">
                         <h3 id="EX2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
                     
-                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
-                        <h3 id="EX1" class="session-title">Expo Session:</h3>
-                        <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
-                    </div>
+                    
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
@@ -842,8 +838,9 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
-                    <p class="time-slot" style="grid-row: time-0830;">8:30</p>
+                    <p class="time-slot-with-expo" style="grid-row: time-0830;">8:30</p>
 
                     <div class="session session-1 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#1.3">Accessible VR</a></h3>
@@ -866,6 +863,12 @@ title: "Program Overview"
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
                         <h3 id="EX4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
+                    </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
+                        <h3 id="EX1" class="session-title">Expo Session:</h3>
+                        <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
 
