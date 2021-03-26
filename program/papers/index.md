@@ -194,10 +194,6 @@ INVITED MISSING
     {% if session.day == day.day' %}
 
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
-    <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
-    {% if session.sessionchair %}
-    <p>Session Chair: <i>{{ session.sessionchair }}</i></p>
-    {% endif %}
     
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
@@ -218,6 +214,13 @@ INVITED MISSING
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
+    
+    
+    <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
+    {% if session.sessionchair %}
+    <p>Session Chair: <i>{{ session.sessionchair }}</i></p>
+    {% endif %}
+    
     
 
     {% for paper in site.data.papers %}
