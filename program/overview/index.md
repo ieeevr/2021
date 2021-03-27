@@ -724,17 +724,13 @@ title: "Program Overview"
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Expo Hall B</a></span>
                     </div>
 
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
+                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-4-end; grid-row: time-0930 / time-1100;">
                         <h3 id="EX2" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
                     
-                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
-                        <h3 id="EX1" class="session-title">Expo Session:</h3>
-                        <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
-                    </div>
+                    
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
@@ -835,23 +831,24 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
-                <div class="schedule" aria-labelledby="schedule-heading">
+                <div class="schedule-with-expo" aria-labelledby="schedule-heading">
 
 
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
 
                     <p class="time-slot" style="grid-row: time-0830;">8:30</p>
 
-                    <div class="session session-1 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
+                    <div class="session session-1 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-0830 / time-0930;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#1.3">Accessible VR</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
-                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-0830 / time-0930;">
+                    <div class="session session-2 track-green" style="grid-column: track-3-start / track-4-end; grid-row: time-0830 / time-0930;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#1.4">Haptics</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
@@ -868,6 +865,12 @@ title: "Program Overview"
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
+                    
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
+                        <h3 id="EX1" class="session-title">Expo Session:</h3>
+                        <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
+                    </div>
 
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
 
@@ -877,7 +880,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
-                    <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1100 / time-1200;">
+                    <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-4-end; grid-row: time-1100 / time-1200;">
                         <h3 class="session-title">Keynote
                             <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke, B(l)ending Realities</a>
                         </h3>
@@ -886,7 +889,7 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-4-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Lunch</h3>
                     </div>
 
@@ -899,25 +902,25 @@ title: "Program Overview"
                     </div>
                     -->
 
-                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1300 / time-1400;">
+                    <div class="session session-8 track-green" style="grid-column: track-1-start / track-4-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#4.3">Redirected Locomotion</a></h3>
                         <span class="session-time">13:00 - 14:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-                    <div class="session session-9 track-orange" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1530;">
+                    <div class="session session-9 track-orange" style="grid-column: track-1-start / track-2-end; grid-row: time-1400 / time-1530;">
                         <h3 class="session-title"><a href="/2021/program/posters/">Posters</a> and <a href="/2021/program/demos/">Demos</a></h3>
                         <span class="session-time">14:00 - 15:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Expo Hall A and B</a></span>
                     </div>
 
-                    <div class="session session-xxx track-3dui" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1530;">
+                    <div class="session session-xxx track-3dui" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1530;">
                         <h3 class="session-title"><a href="/2021/program/3dui-contest/">3DUI Contest</a></h3>
                         <span class="session-time">14:00 - 15:30</span>
                     </div>
 
-                    <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1530;">
+                    <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1530;">
                         <h3 id="EX5" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">14:00 - 15:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
@@ -925,13 +928,13 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1530;">15:30</p>
 
-                    <div class="session session-10 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1630;">
+                    <div class="session session-10 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-1530 / time-1630;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#6.1">Selection and Manipulation</a></h3>
                         <span class="session-time">15:30 - 16:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
-                    <div class="session session-11 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1530 / time-1700;">
+                    <div class="session session-11 track-panel" style="grid-column: track-3-start / track-4-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P2">Panel: Shaping the Future of XR and Arts</a></h3>
                         <span class="session-time">15:30 - 17:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
@@ -939,26 +942,26 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
-                    <div class="session session-12 track-break" style="grid-column: track-1-start / track-1-end; grid-row: time-1630 / time-1700;">
+                    <div class="session session-12 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1700;">
                         <h3 class="session-title">Break</h3>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
 
-                    <div class="session session-13 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1800;">
+                    <div class="session session-13 track-green" style="grid-column: track-1-start / track-2-end; grid-row: time-1700 / time-1800;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#8.2">Training and Learning</a></h3>
                         <span class="session-time">17:00 - 18:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
 
-                    <div class="session session-14 track-green" style="grid-column: track-2-start / track-3-end; grid-row: time-1700 / time-1800;">
+                    <div class="session session-14 track-green" style="grid-column: track-3-start / track-4-end; grid-row: time-1700 / time-1800;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#8.3">Pen-based and Hands-free Interaction</a></h3>
                         <span class="session-time">17:00 - 18:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
-                    <div class="session session-15 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-1800 / time-1900;">
+                    <div class="session session-15 track-event" style="grid-column: track-1-start / track-4-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title">Mixer</h3>
                         <span class="session-time">18:00 - 19:00</span>
                     </div>
