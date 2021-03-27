@@ -516,7 +516,7 @@ title: "Virbela Instructions"
     
     
     <div>
-        <h2 id="map">Map</h2>
+        <h2 id="map">Campus Map</h2>
         <img src="/2021/assets/virbela/iLRN_Virtual_Campus_Map_-_IEEE_VR_2021.jpg" style="width: 100%;" alt="Virbela Virtual Environment map">
         <br/>
         <div style="">
@@ -531,7 +531,7 @@ title: "Virbela Instructions"
 
     <div>
 
-        <h2>FAQ</h2>
+        <h2>FAQs</h2>
 
         <p><b style="font-size: 1em;color: black">I’m in the virtual campus, however I am having issues with sound and talking?</b><br>
             Once you are in the iLRN Virtual Campus, student volunteers and iLRN support staff will be available to assist you with troubleshooting sound and other technical issues. If you are having difficulty getting into the iLRN Virtual Campus, please reach out to the IEEE VR 2021 helpdesk on Discord. </p>
