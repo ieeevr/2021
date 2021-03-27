@@ -27,7 +27,7 @@ DC1,DoctoraConsortium,Doctoral Consortium,"Saturday, March 27",10:00,11:45,Lisbo
 DC2,DoctoraConsortium,Doctoral Consortium,"Sunday, March 28",12:00,13:30,Lisbon WET UTC,,,,,
 DC3,DoctoraConsortium,Doctoral Consortium,"Monday, March 29",14:15,16:15,Lisbon WET UTC,,,,,
 DC4,DoctoraConsortium,Doctoral Consortium,"Tuesday, March 30",17:15,18:05,Lisbon WET UTC,,,,,
-T1,Tutorial,Web-Based VR Development and Instruction using Babylon.js,"Saturday, March 27",13:00,16:00,Lisbon WET UTC,,Stream1,Auditorium A,,yes
+T1,Tutorial,Web-Based VR Development and Instruction using Babylon.js,"Saturday, March 27",13:00,16:00,Lisbon WET UTC,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
 T2,Tutorial,The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR,"Sunday, March 28",13:00,16:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,,yes
 T3,Tutorial,bmlTUX – a simple toolkit for building experiments in Unity,"Friday, April 2",14:00,16:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,,yes
 T4,Tutorial,Interactive Storytelling for VR,"Saturday, March 27",09:00,12:00,Lisbon WET UTC,,Stream1,Auditorium A,,yes
@@ -41,7 +41,7 @@ SeatedVR,Workshop,Seated Virtual Reality & Embodiment (SeatedVR),"Sunday, March 
 SIVE,Workshop,Sonic Interactions in Virtual Environments (SIVE),"Saturday, March 27",09:00,12:00,Lisbon WET UTC,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
 VHCIE2021,Workshop,6th Workshop on Virtual Humans and Crowds for Immersive Environments (VHCIE 2021),"Saturday, March 27",17:00,21:00,Lisbon WET UTC,,Stream2,Auditorium B,,yes
 WISP,Workshop,Workshop on Immersive Sickness Prevention (WISP),"Sunday, March 28",17:00,21:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
-NIDIT,Workshop,Novel Input Devices and Interaction Techniques – NIDIT,"Saturday, March 27",13:00,17:00,Lisbon WET UTC,,Stream2,Auditorium B,,yes
+NIDIT,Workshop,Novel Input Devices and Interaction Techniques – NIDIT,"Saturday, March 27",13:00,17:00,Lisbon WET UTC,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
 WEVR,Workshop,WEVR: 7th Annual Workshop on Everyday Virtual Reality,"Friday, April 2",09:00,12:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
 KELVAR,Workshop,KELVAR: 6th Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality,"Friday, April 2",16:00,21:00,Lisbon WEST UTC+1,,Stream3,Auditorium C,,yes
 EXR,Workshop,Ethics in XR (EXR),"Friday, April 2",13:00,16:00,Lisbon WEST UTC+1,,Stream3,Auditorium C,,yes
