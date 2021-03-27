@@ -376,7 +376,7 @@ title: "Virbela Instructions"
         </p>
 
         <p>
-            <strong>Note:</strong> If the iLRN Virtual Campus application failed to properly install or run, you may need to do a clean install. On Windows, re-run the installer and make sure you check the box labeled "Remove any existing downloads and caches". On Mac, before you reinstall, in the Finder, click on <i> Go > Go to folder </i> and type in <b>~/Library</b> . Search through the folders and delete any folder that begins with “Virbela” or “iLRN”.
+            <strong>Note:</strong> If the iLRN Virtual Campus application failed to properly install or run, you may need to do a clean install. On Windows, re-run the installer and make sure you check the box labeled "Remove any existing downloads and caches". On Mac, before you reinstall, in the Finder, click on <i> Go > Go to folder </i> and type in <b style="font-size: 1em;color: black">~/Library</b> . Search through the folders and delete any folder that begins with “Virbela” or “iLRN”.
         </p>
             If the problem persists, you can contact Virbela technical support at help[at]virbela.com. (For issues specific to the iLRN Virtual Campus, please email campussupport[at]immersivelrn.org .)
         <p>
@@ -397,7 +397,7 @@ title: "Virbela Instructions"
         </ul>
 
         <p>
-            If you Accepted the email invitation that was sent to you, you should not need to use the registration feature on the login screen of the iLRN Virtual Campus application. However, if you did not receive the email (make sure you check your spam!), you can attempt to register yourself, but you must <b> make sure you use the same email address </b> you used to register IEEE VR 2021. (Otherwise, upon entry to the Virutal Campus you will not have access to the rooms/spaces designated for the conference.). You will also be prompted to enter other information, including your name and organization (or institution). Following registration, you will be automatically redirected to the login screen where you can login with your new account.
+            If you Accepted the email invitation that was sent to you, you should not need to use the registration feature on the login screen of the iLRN Virtual Campus application. However, if you did not receive the email (make sure you check your spam!), you can attempt to register yourself, but you must <b style="font-size: 1em;color: black"> make sure you use the same email address </b> you used to register IEEE VR 2021. (Otherwise, upon entry to the Virutal Campus you will not have access to the rooms/spaces designated for the conference.). You will also be prompted to enter other information, including your name and organization (or institution). Following registration, you will be automatically redirected to the login screen where you can login with your new account.
         </p>
 
         <!--    image here -->
@@ -413,7 +413,7 @@ title: "Virbela Instructions"
         <img src="/2021/assets/images/Images_IEEEVR/image3.png" alt="Avatar Menu">
 
         <p>
-            After customizing your avatar using the menu (1), select save and exit using the green button in the bottom <b>right hand </b> corner of the character creation screen (2). This will then bring you into the virtual campus.
+            After customizing your avatar using the menu (1), select save and exit using the green button in the bottom <b style="font-size: 1em;color: black">right hand </b> corner of the character creation screen (2). This will then bring you into the virtual campus.
         </p>
 
     </div>
