@@ -132,6 +132,7 @@ title: "3DUI Contest"
     </table>
 </div>
 
+<div>
 <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == '3dui1' %}
@@ -145,13 +146,14 @@ title: "3DUI Contest"
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
             {% endif %}
-            {% endif %}
+    {% endif %}
         </p>
     </div>
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-
+</div>
+    
 <div>
     {% for entry in site.data.3duicontest %}
     <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
