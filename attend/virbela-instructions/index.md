@@ -254,30 +254,34 @@ title: "Virbela Instructions"
 
 
 <div>
-    <h1>Virbela Instructions</h1>
+    <h1>Virbela / iLRN Virtual Campus Instructions</h1>
 
     <p>
         Dear IEEEVR 2021 attendee,
     </p>
     <p>
-        This year, we will have the poster, doctoral consortium, demo, 3DUI contest, and video presentations in VirBELA, the 3D venue for the conference. Below is a quick guide to help you set up and navigate the VR platform.
+        This year, we will have the poster, doctoral consortium, demo, 3DUI contest, and video presentations on the iLRN Virtual Campus, the 3D venue for the conference, which runs on the Virbela platform. Below is a quick guide to help you set up and navigate the platform and environment.
     </p>
 
     <div>
 
-        <h2>Setting up VirBELA</h2>
+        <h2>Accessing the iLRN Virtual Campus</h2>
 
         <div class="video-container">
             <iframe src="https://www.youtube.com/embed/Et-8EIRN_mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
         <p>
-            IEEEVR 2021 will happen in the iLRN Virtual Campus using VirBELA. To download and install it, use the link we provided to you after registration.
+            IEEE VR 2021 will happen on the iLRN Virtual Campus, powered by Virbela. You should have received an email inviting you to access the Campus; you will need to click on the “Accept Invitation” link in that email to finish creating your account and download the software.
         </p>
+        
+        <p> <b>IMPORTANT:</b> The iLRN Virtual Campus is <b style="font-size: 1em;color: black"> not </b> the same as the Virbela Open Campus application that can be downloaded from Virbela’s website. Please use the link provided in the invitation email to access the correct Campus. The application icon should be labelled “iLRN” and not “Virbela”. </p>
+        
+        <p> Also, if you already have an account associated with your email address on the iLRN Virtual Campus from a previous visit (e.g., the IEEE ISMAR 2020 conference), you will not receive an email invitation. Simply log in to the Campus to gain access. If you need to re-download the software, you can find it at <a href="https://immersivelrn.org/ilrn-virtual-campus">https://immersivelrn.org/ilrn-virtual-campus</a></p>
 
         <h3>System Requirements</h3>
 
-        <p>VirBELA runs on Windows and Mac computers. The minimum and recommended requirements are listed below:</p>
+        <p>Virbela runs on Windows and Mac computers. (At this time, the iLRN Virtual Campus does not support mobile devices.)  The minimum and recommended requirements are listed below:</p>
 
         <table class="styled-table" style="font-size: 0.8em;">
             <tr>
@@ -346,7 +350,7 @@ title: "Virbela Instructions"
         <h3>VR Headsets</h3>
 
         <p>
-            As of today, VirBELA supports Oculus Rift and HTC Vive.
+            As of today, Virbela supports only tethered headsets, namely Oculus Rift, HTC Vive, and Oculus (both 1 and 2) with a Link cable. Some users have also reported success using Windows Mixed Reality headsets with the platform.
         </p>
 
         <h3>Installing on Windows</h3>
@@ -368,11 +372,15 @@ title: "Virbela Instructions"
         <h2>Configuring VirBELA</h2>
 
         <p>
-            Once you open the iLRN Virtual Campus using VirBELA, it will download and install the virtual assets for IEEEVR 2021. This may take a while for the first time.
+            Once you open the iLRN Virtual Campus application, it will download and install the virtual assets for IEEE VR 2021. This may take a while for the first time.
         </p>
 
         <p>
-            <strong>Note:</strong> If VirBELA failed to properly install or run, you may need to remove all previous campuses and do a clean install. If the problem persists, you can contact VirBELA technical support at help@virbela.com.
+            <strong>Note:</strong> If the iLRN Virtual Campus application failed to properly install or run, you may need to do a clean install. On Windows, re-run the installer and make sure you check the box labeled "Remove any existing downloads and caches". On Mac, before you reinstall, in the Finder, click on <i> Go > Go to folder </i> and type in <b>~/Library</b> . Search through the folders and delete any folder that begins with “Virbela” or “iLRN”.
+        </p>
+            If the problem persists, you can contact Virbela technical support at help[at]virbela.com. (For issues specific to the iLRN Virtual Campus, please email campussupport[at]immersivelrn.org .)
+        <p>
+            
         </p>
 
         <p>
@@ -389,7 +397,7 @@ title: "Virbela Instructions"
         </ul>
 
         <p>
-            If you do not have an account, you need to register before using the virtual campus for the first time. You will need to provide the same email you used to register IEEEVR 2021 along with other personal information, such as name, organization (or institution), and others. After that, you will be automatically redirected to the login screen where you can login with your new account.
+            If you Accepted the email invitation that was sent to you, you should not need to use the registration feature on the login screen of the iLRN Virtual Campus application. However, if you did not receive the email (make sure you check your spam!), you can attempt to register yourself, but you must <b> make sure you use the same email address </b> you used to register IEEE VR 2021. (Otherwise, upon entry to the Virutal Campus you will not have access to the rooms/spaces designated for the conference.). You will also be prompted to enter other information, including your name and organization (or institution). Following registration, you will be automatically redirected to the login screen where you can login with your new account.
         </p>
 
         <!--    image here -->
@@ -405,16 +413,16 @@ title: "Virbela Instructions"
         <img src="/2021/assets/images/Images_IEEEVR/image3.png" alt="Avatar Menu">
 
         <p>
-            After customizing your avatar using the menu (1), select save and exit using the green button in the bottom right hand corner of the character creation screen (2). This will then bring you into the virtual campus.
+            After customizing your avatar using the menu (1), select save and exit using the green button in the bottom <b>right hand </b> corner of the character creation screen (2). This will then bring you into the virtual campus.
         </p>
 
     </div>
 
     <div>
 
-        <h3>Using VirBELA</h3>
+        <h3>Using Virbela</h3>
 
-        <p>Once inside VirBELA, you can explore the virtual campus and interact with other IEEE VR 2021 attendees.</p>
+        <p>Once inside the iLRN Virtual Campus, you can explore the campus environment and interact with other IEEE VR 2021 attendees.</p>
 
         <h2>Walking Around</h2>
         <p>By default, you can move around using the keyboard:</p>
@@ -451,11 +459,11 @@ title: "Virbela Instructions"
 
         <h3>Talking with People</h3>
 
-        <p>There are two main ways of communicating within VirBELA and you can find them in the lower left of the screen.</p>
+        <p>There are two main ways of communicating within Virbela and you can find them in the lower left of the screen.</p>
 
         <h4><i>Voice Communication</i></h4>
 
-        <p>This is the primary way to communicate in VirBELA. When you arrive in the virtual campus, your microphone will be on mute. It is advised to always keep it on mute when you are not talking to avoid background noise. To speak, you can click at the microphone icon to turn it on. Clicking it again and you will turn it off. You can also talk by pressing and holding the key 1 if you do not want your microphone on all the time.</p>
+        <p>This is the primary way to communicate in Virbela. When you arrive in the virtual campus, your microphone will be on mute. It is advised to always keep it on mute when you are not talking to avoid background noise. To speak, you can click at the microphone icon to turn it on. Clicking it again and you will turn it off. You can also talk by pressing and holding the key 1 if you do not want your microphone on all the time.</p>
 
         <!--    image here -->
         <img src="/2021/assets/images/Images_IEEEVR/image4.png" alt="Voice Communication">
@@ -526,22 +534,22 @@ title: "Virbela Instructions"
         <h2>FAQ</h2>
 
         <p><b style="font-size: 1em;color: black">I’m in the virtual campus, however I am having issues with sound and talking?</b><br>
-            Any technical issues when you are inside the world, VirBELA Concierge and technical staff will be available on campus to help you with. </p>
+            Once you are in the iLRN Virtual Campus, student volunteers and iLRN support staff will be available to assist you with troubleshooting sound and other technical issues. If you are having difficulty getting into the iLRN Virtual Campus, please reach out to the IEEE VR 2021 helpdesk on Discord. </p>
 
-        <p><b style="font-size: 1em;color: black">I’m hearing a background sound but cannot hear people talking, what should I do?</b><br>
-            To solve this problem using <i>Windows</i>, open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. </p>
+        <p><b style="font-size: 1em;color: black">I’m hearing background/environment sounds (e.g., footsteps, birds chirping) but cannot hear other people talking, what should I do?</b><br>
+            This is a common issue on Windows computers. To solve this problem open your <i>Control Panel > Hardware and Sounds > Manage Audio devices</i> and select your headphone/speaker as your default device selecting it and clicking on <i>Set Default</i> option. Detailed instructions can be found <a href="https://support.virbela.com/portal/en/kb/articles/can-hear-ambient-noise-but-not-voice-windows"><strong>here</strong></a></p>
 
         <p><b style="font-size: 1em;color: black">I can hear a lot of people talking, what shall I do?</b><br>
-            Like in a real-life event, if you are standing in a busy space with lots of people talking it’s going to be noisy. Like in real-life, if you move away from crowds of people the sound will get quieter.</p>
+            Many parts of the iLRN Virtual Campus are configured with spatial audio, meaning that like in a real-life event, if you are standing in a busy space with lots of people talking, it’s going to be noisy! Like in real life, if you move away from crowds of people the sound will get quieter. You can also look for private volumes (areas marked by either a dotted blue line or a glowing blue outline); when you step into a private volume, only users within the same private volume will be able to hear one another.</p>
 
         <p><b style="font-size: 1em;color: black">I keep getting feedback</b><br>
-            If you are experiencing feedback, turn off your microphone and hold down number 1 when you wish to speak.</p>
+            If you are experiencing feedback, mute your microphone and hold down number 1 when you wish to speak. (This is the push-to-talk function, which works somewhat like a walkie-talkie.)</p>
 
         <p><b style="font-size: 1em;color: black">I am lost and don’t know how to get back to where I need to be</b><br>
-            Virbela is a large place, however if you ever find you don’t know where you are. Use your GO TO menu to navigate back to campus. From campus you can then use the GO TO to get to any location in VirBELA.</p>
+            The iLRN Virtual Campus is a large place, however if you ever find you don’t know where you are. Use your GO TO menu to navigate back to Campus. From Campus you can then use the GO TO to get to any location on the Campus.</p>
 
         <p><b style="font-size: 1em;color: black">VirBELA seems to be running very slow</b><br>
-            We recommend shutting down all other applications on your computer whilst running VirBELA to allow the application to run at full speed.</p>
+            We recommend shutting down all other applications on your computer while running Virbela to allow the application to run at full speed. Please also see the minimum and recommended hardware specifications listed above. <a href="https://support.virbela.com/portal/en/kb/articles/virbela-is-running-slowly"><strong>This article</strong></a> also contains some additional tips you can try to help alleviate performance issues.</p>
 
     </div>
 
