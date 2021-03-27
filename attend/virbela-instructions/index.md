@@ -350,7 +350,7 @@ title: "Virbela Instructions"
         <h3>VR Headsets</h3>
 
         <p>
-            As of today, Virbela supports only tethered headsets, namely Oculus Rift, HTC Vive, and Oculus (both 1 and 2) with a Link cable. Some users have also reported success using Windows Mixed Reality headsets with the platform.
+            As of today, Virbela supports only tethered headsets, namely Oculus Rift, HTC Vive, and Oculus Quest (both 1 and 2) with a Link cable. Some users have also reported success using Windows Mixed Reality headsets with the platform.
         </p>
 
         <h3>Installing on Windows</h3>
