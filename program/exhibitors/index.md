@@ -188,8 +188,8 @@ title: "Exhibitors and Sponsors"
         </p>
     </div>
 
-    <br/>
-    
+    <br />
+
     <table class="styled-table" style="font-size: 0.8em;">
         <tr>
             <th>Dedicated exhibit hours </th>
@@ -276,6 +276,17 @@ title: "Exhibitors and Sponsors"
             <strong><a href="https://www.qualcomm.com/research/extended-reality" target="_blank">Qualcomm</a></strong>
             <a href="/2021/assets/exhibitors/Qualcomm-Virtual-Recruiting-Guide.pdf" download>
                 <p>Virtual Recruiting Guide</p>
+            </a>
+        </div>
+        <div class="box">
+            <a href="/2021/assets/exhibitors/FRL-R-IEEEVR-2021.pdf" download>
+                <img src="/2021/assets/exhibitors/FRL-R-IEEEVR-2021.png" />
+            </a>
+        </div>
+        <div class="box">
+            <strong><a href="https://facebook.com/careers" target="_blank">Facebook Reality Labs</a></strong>
+            <a href="/2021/assets/exhibitors/FRL-R-IEEEVR-2021.pdf" download>
+                <p>Careers</p>
             </a>
         </div>
     </div>
