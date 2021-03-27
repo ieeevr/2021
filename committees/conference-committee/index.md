@@ -9,7 +9,7 @@ title: "Conference Committee"
         <li> Joaquim Jorge &#x2012; <i> Universidade de Lisboa, Portugal </i></li>
         <li> Kyle Johnsen &#x2012; <i> University of Georgia, USA </i></li>
         <li> J. Edward Swan II &#x2012; <i> Mississippi State University, USA </i></li>
-        <li> Pedro Campos &#x2012; <i> University of Madeira, Portugal </i></li>
+        <li> Pedro Campos &#x2012; <i> University of Madeira, ITI/LARSyS, Portugal </i></li>
         <li style="list-style: none"> general2021 [at] ieeevr.org </li>
     </ul>
 
@@ -39,7 +39,7 @@ title: "Conference Committee"
     <ul>
         <li> Maurício Sousa &#x2012; <i> University of Toronto, Canada </i></li>
         <li> Jiannan Li &#x2012; <i> University of Toronto, Canada </i></li>
-        <li>	Beatriz	Peres	&#x2012; <i>	University of Madeira, Portugal	</i></li>
+        <li> Beatriz Peres &#x2012; <i> University of Madeira, Portugal </i></li>
         <li> Catarina Fidalgo &#x2012; <i> University of Lisbon, Portugal </i></li>
         <li> J. Adam Jones &#x2012; <i> University of Mississippi, USA </i></li>
         <li style="list-style: none"> web2021 [at] ieeevr.org </li>
@@ -84,7 +84,7 @@ title: "Conference Committee"
     <ul>
         <li> João Pereira &#x2012; <i> INESC-ID/University of Lisbon </i></li>
         <li> Sabine Coquillart &#x2012; <i> INRIA Grenoble Rhône-Alpes, France </i></li>
-        <li> Jason Gerald &#x2012; <i> NextGen Interactions, Raleigh, NC, USA </i></li>
+        <li> Jason Jerald &#x2012; <i> NextGen Interactions, Raleigh, NC, USA </i></li>
         <li> Mashhuda Glencross &#x2012; <i> The University of Queensland, Australia </i></li>
         <li style="list-style: none"> workshops2021 [at] ieeevr.org </li>
     </ul>
@@ -119,7 +119,7 @@ title: "Conference Committee"
     <h2> Awards Commitee </h2>
     <ul>
         <li> Wenping Wang (Chair) &#x2012; <i> Texas A&M University, College Station TX </i></li>
-        <li> Ming Lin &#x2012; <i> University of Maryland College Park, USA </i></li>
+        <!--			<li>	Ming	Lin	&#x2012; <i>	University of Maryland College Park, USA	</i></li>	-->
         <li> Greg Welch &#x2012; <i> University of Central Florida, USA </i></li>
         <li> Mary Whitton &#x2012; <i> UNC, Chapel Hill, NC </i></li>
         <li> Frank Steinicke &#x2012; <i> Univ Hamburg, Germany </i></li>

@@ -12,7 +12,38 @@ title: "IEEEVR 2021"
 </div>
 -->
 
+<style>
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
 
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    notice--info {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+
+</style>
+
+
+<div>
 
     <div class="notice--info">
         <strong>Registration Information (15 Mar 2021):</strong>
@@ -29,22 +60,46 @@ title: "IEEEVR 2021"
         </p>
     </div>
 
+    <span id=hideThis></span>
     <div class="notice--info">
-        <strong>Registration Information (20 Feb 2021):</strong>
-        <p>
-            Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
-            You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
-        </p>
+
+        <a id="toggleButton" style="font-size: 10px:" onclick="toggleText();" href="javascript:void(0);">See previous notices</a>
     </div>
+    <script>
+        var status = "less";
 
-    <div class="notice--info">
-        <strong>Important Information:</strong>
-        <p>
-            Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
-        </p>
-    </div>
+        function toggleText() {
+            var text = `
+            <div class="notice--info">
+            <strong>Registration Information (20 Feb 2021):</strong>
+            <p>
+                Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
+                You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
+            </p>
+        </div>
+        <div class="notice--info">
+            <strong>Important Information:</strong>
+            <p>
+                Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
+            </p>
+        </div>`;
+
+            if (status == "less") {
+                document.getElementById("hideThis").innerHTML = text;
+                document.getElementById("toggleButton").innerText = "See less";
+                status = "more";
+            } else if (status == "more") {
+                document.getElementById("hideThis").innerHTML = "";
+                document.getElementById("toggleButton").innerText = "See previous notices";
+                status = "less"
+            }
+        }
+
+    </script>
+</div>
 
 
+<br />
 <div>
     <h1>Come and Join Us</h1>
 
@@ -57,5 +112,31 @@ title: "IEEEVR 2021"
         Present your latest and greatest work at IEEE VR 2021. The conference will be virtual. Our goal is for IEEE VR 2021 to provide the best virtual experience, while following the historical footsteps of the Virtual Experience of VR 2020 in Atlanta. The conference will take place from 27 of March to April 3rd, during Easter break. Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality, featuring oral presentations, posters, research demos, tutorials, and workshops.
     </p>
 
+</div>
 
+<div>
+    <h2>
+        <a href="https://www.virbela.com/" target="_blank">
+            <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo">
+        </a>
+    </h2>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/TuOBgzJeQj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+
+
+    <p>
+        Virbela builds engaging virtual worlds for remote work, learning, and events. Founded in 2012 by a team of behavioral psychologists, Virbela’s mission is to help organizations and people thrive in a remote-first future. Virbela is excited to partner with the iLRN team to provide the IEEE Conference with a platform to foster collaboration and networking.
+    </p>
+    <p>
+        To learn more, visit virbela.com and follow us on <a href="https://twitter.com/VirbelaHQ" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/company/virbela/" target="_blank">LinkedIn</a>.
+    </p>
+    <div style="">
+        <center>
+            <p style="font-size: 20px;">
+                <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="">Getting Started with Virbela</a>
+            </p>
+        </center>
+    </div>
 </div>
