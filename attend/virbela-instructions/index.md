@@ -271,7 +271,7 @@ title: "Virbela Instructions"
             <iframe src="https://www.youtube.com/embed/Et-8EIRN_mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
-        <p> <\br> <\br>
+        <p> <br> <br>
             IEEE VR 2021 will happen on the iLRN Virtual Campus, powered by Virbela. You should have received an email inviting you to access the Campus; you will need to click on the “Accept Invitation” link in that email to finish creating your account and download the software.
         </p>
         
