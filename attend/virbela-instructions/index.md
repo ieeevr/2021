@@ -362,14 +362,14 @@ title: "Virbela Instructions"
         <h3>Installing on Mac OSX</h3>
 
         <p>
-            After downloading the virtual campus, double click the dmg file and then drag the VirBELA icon into the Applications folder. When opening VirBELA for the first time, the system will ask you if you are sure you want to open it. Click “Open”.
+            After downloading the virtual campus, double click the dmg file and then drag the Virbela icon into the Applications folder. When opening Virbela for the first time, the system will ask you if you are sure you want to open it. Click “Open”.
         </p>
 
     </div>
 
     <div>
 
-        <h2>Configuring VirBELA</h2>
+        <h2>Configuring Virbela</h2>
 
         <p>
             Once you open the iLRN Virtual Campus application, it will download and install the virtual assets for IEEE VR 2021. This may take a while for the first time.
@@ -384,15 +384,15 @@ title: "Virbela Instructions"
         </p>
 
         <p>
-            For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “Play!” button to launch VirBELA.
+            For Windows users, once you open the virtual campus, you can configure some aspects before clicking the “Play!” button to launch Virbela.
         </p>
 
         <!--    image here <img style="width: 20%;" src="/2021/assets/images/sponsors/Virbela-logo.png" alt="Virbela Logo"> -->
         <img src="/2021/assets/images/Images_IEEEVR/image1.png" alt="Play!Button">
 
         <ul>
-            <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help VirBELA run smoother.</li>
-            <li>Select “Windowed” if you don’t want VirBELA to take up your whole screen.</li>
+            <li>You can change the resolution or graphics quality at this point to reduce the load on your graphics device, which will help Virbela run smoother.</li>
+            <li>Select “Windowed” if you don’t want Virbela to take up your whole screen.</li>
             <li>Try the “Best” graphics quality, but if you notice stuttering or other performance issues, try one of the lower settings.</li>
         </ul>
 
@@ -548,7 +548,7 @@ title: "Virbela Instructions"
         <p><b style="font-size: 1em;color: black">I am lost and don’t know how to get back to where I need to be</b><br>
             The iLRN Virtual Campus is a large place, however if you ever find you don’t know where you are. Use your GO TO menu to navigate back to Campus. From Campus you can then use the GO TO to get to any location on the Campus.</p>
 
-        <p><b style="font-size: 1em;color: black">VirBELA seems to be running very slow</b><br>
+        <p><b style="font-size: 1em;color: black">Virbela seems to be running very slow</b><br>
             We recommend shutting down all other applications on your computer while running Virbela to allow the application to run at full speed. Please also see the minimum and recommended hardware specifications listed above. <a href="https://support.virbela.com/portal/en/kb/articles/virbela-is-running-slowly"><strong>This article</strong></a> also contains some additional tips you can try to help alleviate performance issues.</p>
 
     </div>
