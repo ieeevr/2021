@@ -195,7 +195,15 @@ INVITED MISSING
 
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
     
-    <!-- TAKE ME TO THE EVENT START -->
+
+    
+    
+    <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
+    {% if session.sessionchair %}
+    <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
+    {% endif %}
+    
+        <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == session.id %}
     {% if event.location %}
@@ -214,12 +222,6 @@ INVITED MISSING
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-    
-    
-    <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
-    {% if session.sessionchair %}
-    <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
-    {% endif %}
     
     
 
