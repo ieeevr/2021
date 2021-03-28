@@ -365,6 +365,12 @@ title: "Program Overview"
 
 <h1>Program Overview</h1>
 
+
+<div style="text-align:center;">
+        <small><span style="color:gray;">Conference local time</span></small>
+        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
+</div>
+
 <!--
 <h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</h3>
 <p>
@@ -399,11 +405,6 @@ title: "Program Overview"
 </div>
 -->
 
-
-<div style="text-align:center;">
-        <small><span style="color:gray;">Conference local time</span></small>
-        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
-</div>
 
 
 <div>
