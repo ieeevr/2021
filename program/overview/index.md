@@ -379,7 +379,7 @@ title: "Program Overview"
         The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
     </p>
 </div>
-<div class="info--warning">
+<div class="notice--info">
     <strong>Locations</strong>
     <p>
         Locations in the program below refer to virtual places in the Virbela platform.
