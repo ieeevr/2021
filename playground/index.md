@@ -7,13 +7,15 @@ title: "playgorund"
 
 <p>
 
-    <a href="https://discord.com/channels/785628120471699507/825745847366451220" target="_blank">vai para o browser</a>
+    <a href="https://discord.com/channels/785628120471699507/825745847366451220" target="_blank">se clicares aqui vai para o browser, certo?</a>
     
 </p>
 
 <p>
 
-    <a href="discord://discord.com/channels/785628120471699507/825745847366451220" target="_blank">vai para a app</a>
+    <a href="discord://discord.com/channels/785628120471699507/825745847366451220" target="_blank">se clicares aqui o browser pede para ir para a app, certo?</a>
     
 </p>
+
+<p><strong>Entao vai dizer ao Mauricio que esta a funcionar.</strong></p>
 
