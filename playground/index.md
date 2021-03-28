@@ -365,7 +365,7 @@ title: "Program Overview"
 
 <script>
 function removeiframe() {
-            alert("Hello Lovely World");
+            
             var markup = document.body.innerHTML;
             
             var filtered=markup.replace(/(<iframe.*?>.*?<\/iframe>)/g,"");
