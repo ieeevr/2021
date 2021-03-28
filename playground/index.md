@@ -369,6 +369,14 @@ title: "Program Overview"
 
 <div style="text-align:left;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
+
+
+          <table>
+              <tr><td style="text-align: center;"><canvas id="canvas_tt60606d6288fef" width="250" height="250"></canvas></td></tr>
+              <tr><td style="text-align: center; font-weight: bold"><a href="//24timezones.com/Lisbon/time" style="text-decoration: none" class="clock24" id="tz24-1616932194-c1133-eyJzaXplIjoiMjUwIiwiYmdjb2xvciI6IkZGRkZGRiIsImxhbmciOiJlbiIsInR5cGUiOiJhIiwiY2FudmFzX2lkIjoiY2FudmFzX3R0NjA2MDZkNjI4OGZlZiJ9" title="Lisbon time" target="_blank" rel="nofollow">Lisbon time</a></td></tr>
+          </table>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
+
 <!--
 <h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</h3>
 <p>
