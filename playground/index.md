@@ -374,6 +374,8 @@ title: "Program Overview"
 
 <div style="text-align:left;padding:1em 0;"> <h1><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057">Current local time in<br />Lisbon, Portugal</a></h1> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
 
+<div style="text-align:left;padding:1em 0;"> <p><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057">Current local time in<br />Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
+
 
 
 
