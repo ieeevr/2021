@@ -79,6 +79,28 @@ title: "Keynote Speakers"
     <center><small>Session Chair: <i>{{ keynote.chair }}</i></small></center>
     {% endif %}
     
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == keynote.id %}
+    {% if event.location %}
+    <div id="{{ keynote.id }}-program" class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    
     <p>
         <strong>Abstract</strong><br />
         {{ keynote.abstract }}

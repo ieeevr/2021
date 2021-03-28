@@ -243,6 +243,29 @@ title: "VGTC Award Winners"
 
 
 <div>
+<!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == 'O2' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+</div>
+
+
+<div>
 
     <center>
         <h2>The 2021 VGTC Virtual Reality Career Award</h2>

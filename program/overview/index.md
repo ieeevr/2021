@@ -72,7 +72,7 @@ title: "Program Overview"
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end];
         }
-        
+
         .schedule-sat-27 {
             display: grid;
             grid-gap: 1em;
@@ -379,6 +379,17 @@ title: "Program Overview"
         The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
     </p>
 </div>
+<div class="notice--info">
+    <strong>Locations</strong>
+    <p>
+        Locations in the program below refer to virtual places in the Virbela platform.
+    </p>
+    <center>
+        <p style="font-size: 20px;">
+            <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="color: white:">Getting Started with Virbela</a>
+        </p>
+    </center>
+</div>
 <!--
 <div class="notice--warning">
     <strong>Note:</strong>
@@ -388,7 +399,7 @@ title: "Program Overview"
 </div>
 -->
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" > <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WET, UTC</strong></center>
@@ -425,7 +436,7 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
-                    
+
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
                     <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
@@ -440,7 +451,7 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 17:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE)</a></h3>
@@ -453,9 +464,9 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">14:15 - 16:15</span>
                     </div>
-                    
-                    
-                    
+
+
+
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1800;">
                         <h3 class="session-title">
@@ -472,7 +483,7 @@ title: "Program Overview"
                         <span class="session-time">17:00 - 21:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1730;">17:15</p>
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
                         <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
@@ -573,7 +584,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-0830; text-decoration: none;">8:30</p>
 
                     <div class="session session-1 track-teal" style="grid-column: track-1-start / track-4-end; grid-row: time-0830 / time-1000;">
-                        <h3 class="session-title"><a href="#">Opening</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/plenary-sessions/#O1">Opening</a></h3>
                         <span class="session-time">8:30 - 10:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
@@ -587,7 +598,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1030;">10:30</p>
 
                     <div class="session session-3 track-keynote" style="grid-column: track-1-start / track-4-end; grid-row: time-1030 / time-1130;">
-                        <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler" target="_blank">Keynote by Betty Mohler, Self-avatars in Immersive Technology</a></h3>
+                        <h3 class="session-title"><a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-mohler">Keynote by Betty Mohler, Self-avatars in Immersive Technology</a></h3>
                         <span class="session-time">10:30 - 11:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
@@ -643,7 +654,7 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 16:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
+
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
@@ -666,10 +677,10 @@ title: "Program Overview"
                         <span class="session-time">16:40: <a style="color: white;" href="https://www.youtube.com/watch?v=nq0NdCiB3FI">Facebook</a></span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1930;">
-                        <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
+                        <h3 class="session-title"><a href="/2021/program/plenary-sessions/#O2">Welcome Reception</a> (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
                         <span class="session-time">17:30 - 19:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
@@ -680,7 +691,7 @@ title: "Program Overview"
                         <span class="session-time">17:30 - 18:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
-                    
+
 
                 </div>
 
@@ -729,8 +740,8 @@ title: "Program Overview"
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
-                    
+
+
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
@@ -775,7 +786,7 @@ title: "Program Overview"
 
                     <div class="session session-10 track-keynote" style="grid-column: track-1-start / track-4-end; grid-row: time-1430 / time-1530;">
                         <h3 class="session-title">
-                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver" target="_blank">Keynote by Nuria Oliver, Data Science to fight against COVID-19</a>
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-oliver">Keynote by Nuria Oliver, Data Science to fight against COVID-19</a>
                         </h3>
                         <span class="session-time">14:30 - 15:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
@@ -792,7 +803,7 @@ title: "Program Overview"
                         <h3 class="session-title">BOF/Social</h3>
                         <span class="session-time">16:00 - 17:00</span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-4-end; grid-row: time-1600 / time-1700;">
                         <h3 id="EX3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">16:00 - 17:00</span>
@@ -827,7 +838,7 @@ title: "Program Overview"
 </div>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
+    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox"> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
@@ -859,13 +870,13 @@ title: "Program Overview"
                         <h3 class="session-title">BOF/Social</h3>
                         <span class="session-time">9:30 - 10:30</span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
                         <h3 id="EX4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
                         <h3 id="EX1" class="session-title">Expo Session:</h3>
                         <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
@@ -882,7 +893,7 @@ title: "Program Overview"
 
                     <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-4-end; grid-row: time-1100 / time-1200;">
                         <h3 class="session-title">Keynote
-                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke" target="_blank">Keynote by Frank Steinicke, B(l)ending Realities</a>
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-steinicke">Keynote by Frank Steinicke, B(l)ending Realities</a>
                         </h3>
                         <span class="session-time">11:00 - 12:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
@@ -1066,7 +1077,7 @@ title: "Program Overview"
 
                     <div class="session session-11 track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1630;">
                         <h3 class="session-title">
-                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner" target="_blank">Keynote by Steven Feiner, AR Longa, VR Brevis? Thinking About Our Future</a>
+                            <a href="http://ieeevr.org/2021/program/keynote-speakers/#keynote-feiner">Keynote by Steven Feiner, AR Longa, VR Brevis? Thinking About Our Future</a>
                         </h3>
                         <span class="session-time">15:30 - 16:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
@@ -1075,7 +1086,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
                     <div class="session session-2 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1630 / time-1800;">
-                        <h3 class="session-title"><a href="#">Closing</a></h3>
+                        <h3 class="session-title"><a href="/2021/program/plenary-sessions/#O3">Closing</a></h3>
                         <span class="session-time">16:30 - 18:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
@@ -1160,7 +1171,3 @@ title: "Program Overview"
         </div>
     </div>
 </div>
-
-
-
-
