@@ -398,6 +398,14 @@ title: "Program Overview"
     </p>
 </div>
 -->
+
+
+<div style="text-align:center;">
+        <small><span style="color:gray;">Conference local time</span></small>
+        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
+</div>
+
+
 <div>
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" > <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
