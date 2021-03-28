@@ -365,26 +365,12 @@ title: "Program Overview"
 
 <h1>Program Overview</h1>
 
-<h2> Find on the left the current time in our beautiful city of Lisbon:</h2>
-
-<div style="text-align:left;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
-
-<h2> Or here:</h2>
-
-
-
-<iframe src="https://free.timeanddate.com/clock/i7qlezkd/n1422/szw160/szh160/hoc000/hbw0/hfc999/cf100/hnce1ead6/hwc000/fav0/fiv0/mqcfff/mqs4/mql15/mqw6/mqd94/mhcfff/mhl15/mhw4/mhd94/mmv0/hhcbbb/hmcddd/hsceee" frameborder="0" width="160" height="160"></iframe>
-
-<iframe src="https://free.timeanddate.com/clock/i7qlezkd/n1422/szw210/szh210/hoc777/hbw3/cf100/hgr0/fas16/fdi64/mqc000/mqs4/mql20/mqw2/mqd94/mhc000/mhs3/mhl20/mhw2/mhd94/mmc000/mml10/mmw1/mmd94/hmr7/hsc000/hss1/hsl90" frameborder="0" width="210" height="210"></iframe>
-
-
-
 
 <!-- clock widget start -->
 <script type="text/javascript"> var css_file=document.createElement("link"); css_file.setAttribute("rel","stylesheet"); css_file.setAttribute("type","text/css"); css_file.setAttribute("href","//s.bookcdn.com//css/cl/bw-cl-ri-pr.css?v=0.0.1"); document.getElementsByTagName("head")[0].appendChild(css_file); </script> <div id="tw_23_1852602607"><div style="width:200px; height:px; margin: 0 auto;"></div></div> <script type="text/javascript"> function setWidgetData_1852602607(data){ if(typeof(data) != 'undefined' && data.results.length > 0) { for(var i = 0; i < data.results.length; ++i) { var objMainBlock = ''; var params = data.results[i]; objMainBlock = document.getElementById('tw_'+params.widget_type+'_'+params.widget_id); if(objMainBlock !== null) objMainBlock.innerHTML = params.html_code; } } } var clock_timer_1852602607 = -1; widgetSrc = "https://widgets.booked.net/time/info?ver=2&domid=209&type=23&id=1852602607&scode=124&city_id=102829&wlangid=1&mode=2&details=0&background=ffffff&border_color=ffffff&color=686868&add_background=ffffff&add_color=333333&head_color=ffffff&border=1&transparent=0"; var widgetUrl = location.href; widgetSrc += '&ref=' + widgetUrl; var wstrackId = "9166811"; if (wstrackId) { widgetSrc += ';wstrackId=' + wstrackId + ';' } var timeBookedScript = document.createElement("script"); timeBookedScript.setAttribute("type", "text/javascript"); timeBookedScript.src = widgetSrc; document.body.appendChild(timeBookedScript); </script>
 <!-- clock widget end -->
 
-<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
+<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
 
 
 
