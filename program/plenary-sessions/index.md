@@ -155,7 +155,9 @@ title: "Plenary Sessions"
     {% for session in site.data.plenarysessions %}
 
     <h3 id="{{ session.id }}">{{ session.title }}</h3>
-    
+    <p>
+        <small>{{ session.day }} - {{ session.starttime }}, {{ session.timezone }}</small>
+    </p>
     
     {% if session.chair %}
     <p>Chair <i>{{ session.chair }}</i></p>
