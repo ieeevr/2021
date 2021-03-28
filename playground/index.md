@@ -367,7 +367,7 @@ title: "Program Overview"
 
 <h2> Here is the current time in our beautiful city of Lisbon:</h2>
 
-<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
+<div style="text-align:left;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
 <!--
 <h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</h3>
