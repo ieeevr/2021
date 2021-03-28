@@ -216,7 +216,6 @@ INVITED MISSING
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
             {% endif %}
-            {% endif %}
             {% if event.discordurl %}
             <br />
             <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
