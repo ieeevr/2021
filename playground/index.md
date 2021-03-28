@@ -365,6 +365,8 @@ title: "Program Overview"
 
 <h1>Program Overview</h1>
 
+<h2> Here is our lovely time today:</h2>
+
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
 <!--
