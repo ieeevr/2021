@@ -160,7 +160,7 @@ title: "Plenary Sessions"
             <strong>{{ session.day }} - {{ session.starttime }}, {{ session.timezone }}</strong>
             {% if session.chair %}
             <br/>
-            Chair: <b style="font-family: 'Courier New', monospace;">{{ session.chair }}</b>
+            Session Chair: <b style="font-family: 'Courier New', monospace; color: black">{{ session.chair }}</b>
             {% endif %}
 
         </small>
