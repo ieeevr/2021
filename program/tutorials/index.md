@@ -532,6 +532,7 @@ title: "Tutorials"
     
     <h3 id="T6S3" style="color: #00aeef;">Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions</h3>
 
+    <div>
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == 'T6.3' %}
@@ -555,6 +556,7 @@ title: "Tutorials"
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
+    </div>
 
     <p>
         will conclude the series by highlighting the accomplishments of the participants from <strong>Session 2, Hands-on Tutorial: Spatial Web Applications</strong>. Participants will have the opportunity to demonstrate their completed submissions and receive feedback from a panel of well known experts in the field.
