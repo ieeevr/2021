@@ -156,13 +156,15 @@ title: "Plenary Sessions"
 
     <h3 id="{{ session.id }}">{{ session.title }}</h3>
     <p>
-        <small>{{ session.day }} - {{ session.starttime }}, {{ session.timezone }}</small>
+        <small>{{ session.day }} - {{ session.starttime }}, {{ session.timezone }}
+            {% if session.chair %}
+            <br/>
+            <p>Chair <i>{{ session.chair }}</i></p>
+            {% endif %}
+
+        </small>
     </p>
-    
-    {% if session.chair %}
-    <p>Chair <i>{{ session.chair }}</i></p>
-    {% endif %}
-    
+
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == session.id %}
@@ -182,7 +184,7 @@ title: "Plenary Sessions"
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-    
+
 
     {% endfor %}
 </div>
