@@ -218,7 +218,7 @@ INVITED MISSING
     
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}</strong></p>
     {% if session.sessionchair %}
-    <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</small></p>
+    <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
     {% endif %}
     
     
