@@ -242,7 +242,7 @@ title: "VGTC Award Winners"
 <p>The IEEE VGTC Virtual and Augmented Reality Technical Awards program recognizes individuals who have made a significant contribution to the community through their research. </p>
 
 
-
+<div>
 <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == 'O2' %}
@@ -262,7 +262,7 @@ title: "VGTC Award Winners"
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-
+</div>
 
 
 <div>
