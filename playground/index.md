@@ -376,14 +376,6 @@ title: "Program Overview"
 
 
 
-<div style="text-align:center;">
-    <p>
-        <a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057">
-            <span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a>
-    </p>
-        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
-</div>
-
 
 
 
@@ -411,6 +403,17 @@ title: "Program Overview"
     </p>
 </div>
 -->
+
+
+
+<div style="text-align:center;">
+        <a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br/>Lisbon, 
+        Portugal</a>
+        <br/>
+        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
+</div>
+
+
 <div>
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
