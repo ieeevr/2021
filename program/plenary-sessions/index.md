@@ -154,7 +154,7 @@ title: "Plenary Sessions"
 <div>
     {% for session in site.data.plenarysessions %}
 
-    <h3 id="{{ session.id }}">{{ session.title }}</h3>
+    <h2 id="{{ session.id }}">{{ session.title }}</h2>
     <p>
         <small>
             <strong>{{ session.day }} - {{ session.starttime }}, {{ session.timezone }}</strong>
