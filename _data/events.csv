@@ -27,32 +27,32 @@ DC1,DoctoraConsortium,Doctoral Consortium,"Saturday, March 27",10:00,11:45,Lisbo
 DC2,DoctoraConsortium,Doctoral Consortium,"Sunday, March 28",12:00,13:30,Lisbon WET UTC,,,,,
 DC3,DoctoraConsortium,Doctoral Consortium,"Monday, March 29",14:15,16:15,Lisbon WET UTC,,,,,
 DC4,DoctoraConsortium,Doctoral Consortium,"Tuesday, March 30",17:15,18:05,Lisbon WET UTC,,,,,
-T1,Tutorial,Web-Based VR Development and Instruction using Babylon.js,"Saturday, March 27",13:00,16:00,Lisbon WET UTC,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
+T1,Tutorial,Web-Based VR Development and Instruction using Babylon.js,"Saturday, March 27",13:00,16:00,Lisbon WET UTC,,Stream1,Auditorium A,https://youtu.be/4Fh_huMZNFk?t=2029,yes
 T2,Tutorial,The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR,"Sunday, March 28",13:00,16:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,,yes
 T3,Tutorial,bmlTUX – a simple toolkit for building experiments in Unity,"Friday, April 2",14:00,16:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,,yes
 T4,Tutorial,Interactive Storytelling for VR,"Saturday, March 27",09:00,12:00,Lisbon WET UTC,,Stream1,Auditorium A,,yes
 T5,Tutorial,Emotion in Virtual Reality,"Friday, April 2",14:00,16:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
-T6.1,Tutorial,"Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 1","Saturday, March 27",16:00,17:30,Lisbon WET UTC,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
-T6.2,Tutorial,"Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 2","Saturday, March 27",18:00,21:00,Lisbon WET UTC,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
-T6.3,Tutorial,"Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 3","Friday, April 2",17:00,20:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
+T6.1,Tutorial,"Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 1","Saturday, March 27",16:00,17:30,Lisbon WET UTC,,Stream1,Auditorium A,https://youtu.be/4Fh_huMZNFk?t=13331,yes
+T6.2,Tutorial,"Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 2","Saturday, March 27",18:00,21:00,Lisbon WET UTC,,Stream1,Auditorium A,https://youtu.be/4hwiSH-9ruE?t=5167,yes
+T6.3,Tutorial,"Combining the Virtual and the Real: The Open Spatial Computing Platform, Session 3","Friday, April 2",17:00,20:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,,yes
 TrainingXR-1,Workshop,2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 1,"Sunday, March 28",13:00,16:00,Lisbon WEST UTC+1,,Stream3,Auditorium C,,yes
 TrainingXR-2,Workshop,2nd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 1,"Sunday, March 28",17:00,21:00,Lisbon WEST UTC+1,,Stream3,Auditorium C,,yes
 SeatedVR,Workshop,Seated Virtual Reality & Embodiment (SeatedVR),"Sunday, March 28",17:00,21:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,,yes
-SIVE,Workshop,Sonic Interactions in Virtual Environments (SIVE),"Saturday, March 27",09:00,12:00,Lisbon WET UTC,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
-VHCIE2021,Workshop,6th Workshop on Virtual Humans and Crowds for Immersive Environments (VHCIE 2021),"Saturday, March 27",17:00,21:00,Lisbon WET UTC,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
+SIVE,Workshop,Sonic Interactions in Virtual Environments (SIVE),"Saturday, March 27",09:00,12:00,Lisbon WET UTC,,Stream2,Auditorium B,https://youtu.be/IvVfty2XFpM?t=320,yes
+VHCIE2021,Workshop,6th Workshop on Virtual Humans and Crowds for Immersive Environments (VHCIE 2021),"Saturday, March 27",17:00,21:00,Lisbon WET UTC,,Stream2,Auditorium B,https://youtu.be/D1R-EUDlDDk?t=16706,yes
 WISP,Workshop,Workshop on Immersive Sickness Prevention (WISP),"Sunday, March 28",17:00,21:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
-NIDIT,Workshop,Novel Input Devices and Interaction Techniques – NIDIT,"Saturday, March 27",13:00,17:00,Lisbon WET UTC,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
+NIDIT,Workshop,Novel Input Devices and Interaction Techniques – NIDIT,"Saturday, March 27",13:00,17:00,Lisbon WET UTC,,Stream2,Auditorium B,https://youtu.be/D1R-EUDlDDk?t=2481,yes
 WEVR,Workshop,WEVR: 7th Annual Workshop on Everyday Virtual Reality,"Friday, April 2",09:00,12:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
 KELVAR,Workshop,KELVAR: 6th Annual Workshop on K-12+ Embodied Learning through Virtual and Augmented Reality,"Friday, April 2",16:00,21:00,Lisbon WEST UTC+1,,Stream3,Auditorium C,,yes
 EXR,Workshop,Ethics in XR (EXR),"Friday, April 2",13:00,16:00,Lisbon WEST UTC+1,,Stream3,Auditorium C,,yes
-DISCE,Workshop,Distributed Interactive Systems for Collaborative Experiences (DISCE),"Saturday, March 27",14:00,21:00,Lisbon WET UTC,,Stream3,Auditorium C,https://www.twitch.tv/ieee_vr_stream_c,yes
+DISCE,Workshop,Distributed Interactive Systems for Collaborative Experiences (DISCE),"Saturday, March 27",14:00,21:00,Lisbon WET UTC,,Stream3,Auditorium C,https://youtu.be/xPp9jWH7oOk?t=276,yes
 Finding-a-way-forward-in-VR-locomotion,Workshop,Finding a way forward in VR locomotion,"Friday, April 2",17:00,21:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
 PrXR,Workshop,PrXR: Towards a roadmap for privacy and security research for mixed reality applications,"Sunday, March 28",13:00,16:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
-ANIVAE,Workshop,Animation in Virtual and Augmented Environments - ANIVAE,"Sunday, March 28",09:00,12:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,,yes
-keynote-mohler,Keynote,Betty Mohler: Self-avatars in Immersive Technology,"Monday, 29 March, 2021",10:30,11:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
-keynote-oliver,Keynote,Nuria Oliver: Data Science to fight against COVID-19,"Tuesday, 30 March, 2021",14:30,15:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
-keynote-steinicke,Keynote,Frank Steinicke: B(l)ending Realities,"Wednesday, 31 March, 2021",11:00,12:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
-keynote-feiner,Keynote,"Steven Feiner: AR Longa, VR Brevis? Thinking About Our Future","Thursday, 1 April, 2021",15:30,16:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
+ANIVAE,Workshop,Animation in Virtual and Augmented Environments - ANIVAE,"Sunday, March 28",09:00,12:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
+keynote-mohler,Keynote,Betty Mohler: Self-avatars in Immersive Technology,"Monday, 29 March, 2021",10:30,11:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
+keynote-oliver,Keynote,Nuria Oliver: Data Science to fight against COVID-19,"Tuesday, 30 March, 2021",14:30,15:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
+keynote-steinicke,Keynote,Frank Steinicke: B(l)ending Realities,"Wednesday, 31 March, 2021",11:00,12:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
+keynote-feiner,Keynote,"Steven Feiner: AR Longa, VR Brevis? Thinking About Our Future","Thursday, 1 April, 2021",15:30,16:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yes
 P1,Panel,Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation,"Tuesday, March 30",17:00,18:30,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
 P2,Panel,Shaping the Future of XR and Arts,"Wednesday, March 31",15:30,17:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
 P3,Panel,What makes a virtual human human?,"Thursday, April 1",12:00,13:30,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yes
@@ -68,12 +68,12 @@ EX4,Exhibition,Exhibition Hours,"Wednesday, March 31",09:30,11:00,Lisbon WEST UT
 EX5,Exhibition,Exhibition Hours,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,,,Theatre,,
 EX6,Exhibition,Exhibition Hours,"Thursday, April 1",10:30,12:00,Lisbon WEST UTC+1,,,Theatre,,
 EX7,Exhibition,Exhibition Hours,"Thursday, April 1",17:30,18:30,Lisbon WEST UTC+1,,,Theatre,,
-3dui1,3DUIContest,3DUI Contest,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,,,Expo Hall A,,yes
-BOFSocial1,BOFSocial,BOF/Social,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,,,Expo Hall A,,
+3dui1,3DUIContest,3DUI Contest,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,,,Expo Hall A,,
+BOFSocial1,BOFSocial,BOF/Social,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,,,Virbela,,
 BOFSocial2,BOFSocial,BOF/Social,"Wednesday, March 31",09:30,10:30,Lisbon WEST UTC+1,,,Virbela,,
 BOFSocial3,BOFSocial,BOF/Social,"Thursday, April 1",09:30,10:30,Lisbon WEST UTC+1,,,Virbela,,
 Mixer1,Mixer,Mixer,"Tuesday, March 30",18:00,19:00,Lisbon WEST UTC+1,,,Virbela,,
 Mixer2,Mixer,Mixer,"Wednesday, March 31",18:00,19:00,Lisbon WEST UTC+1,,,Virbela,,
 O1,Other,Opening,"Monday, March 29",08:30,10:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
-O1,Other,Welcome Reception (including TVCG Awards),"Monday, March 29",17:30,19:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
-O1,Other,Closing,"Thursday, April 1",16:30,18:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
+O2,Other,Welcome Reception (including TVCG Awards),"Monday, March 29",17:30,19:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
+O3,Other,Closing,"Thursday, April 1",16:30,18:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
