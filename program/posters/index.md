@@ -164,6 +164,7 @@ title: "Posters"
     </table>
 </div>
 
+<div>
 <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == 'posters-all' %}
@@ -187,7 +188,7 @@ title: "Posters"
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-
+</div>
 
 <div>
     
