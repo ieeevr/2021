@@ -382,7 +382,7 @@ title: "Program Overview"
 <div class="info--warning">
     <strong>Locations</strong>
     <p>
-        Locations in the program refer to virtual locations in the Virbela platform.
+        Locations in the program below refer to virtual locations in the Virbela platform.
     </p>
     <center>
         <p style="font-size: 20px;">
