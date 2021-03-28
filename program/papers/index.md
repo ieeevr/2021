@@ -218,7 +218,7 @@ INVITED MISSING
             {% endif %}
             {% if event.discordurl %}
             <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
             {% endif %}
             {% endif %}
         </p>
