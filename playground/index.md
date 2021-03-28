@@ -150,6 +150,7 @@ title: "Program Overview"
         max-width: 1100px;
         margin: 0 auto;
         line-height: 1.5;
+        
     }
     */
 
@@ -362,6 +363,19 @@ title: "Program Overview"
 
 </style>
 
+<script>
+function removeiframe() {
+            alert("Hello Lovely World");
+            var markup = document.body.innerHTML;
+            
+            var filtered=markup.replace(/(<iframe.*?>.*?<\/iframe>)/g,"");
+            alert("he: " + markup);
+//markup = Regex.Replace(markup, @"<script.*?/script>", "", RegexOptions.IgnoreCase);
+//markup = Regex.Replace(markup, @"<iframe.*?/iframe>", "", RegexOptions.IgnoreCase);
+markup = filtered;
+document.body.innerHTML = markup + "<hr><hr>HELLO";
+        }
+</script>
 
 <h1>Program Overview</h1>
 
@@ -372,11 +386,14 @@ title: "Program Overview"
 
 <div style="text-align:center;padding:1em 0;"> <h1><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h1> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
 
+<body onload="removeiframe()">
+    
+        <div style="text-align:left;"> <p style="font-size: 1em;color: black"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br /> Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
+
+</body>
 
 
-<div style="text-align:left;"> <p style="font-size: 1em;color: black"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br /> Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
 
-<br />
 
 
 <!--
