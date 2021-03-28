@@ -10,19 +10,19 @@ id,type,title,day,starttime,endtime,timezone,discordchannel,stream,location,stre
 3.1,PaperSession,Augmented Reality,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825744740246880307,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
 3.2,PaperSession,VR/AR Displays,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825744882605621278,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
 3.3,PaperSession,"Tracking, Vision and Sound","Thursday, April 1",12:00,13:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746592992591902,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-4.1,PaperSession,Virtual Humans and Agents,"Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-4.2,PaperSession,"Hands, Gestures and Grasping","Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
-4.3,PaperSession,Redirected Locomotion,"Wednesday, March 31",13:00,14:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-5.1,PaperSession,Emotion and Cognition,"Monday, March 29",14:00,15:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-5.2,PaperSession,Holographic and Inertial Displays,"Monday, March 29",14:00,15:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
-5.3,PaperSession,Perception,"Thursday, April 1",14:00,15:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-5.4,PaperSession,VR Applications,"Thursday, April 1",14:00,15:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
-6.1,PaperSession,Selection and Manipulation,"Wednesday, March 31",15:30,16:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-7.1,PaperSession,Embodiment,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-7.2,PaperSession,Visualization,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
-8.1,PaperSession,"Plausibility, Presence and Social VR","Tuesday, March 30",17:00,18:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-8.2,PaperSession,Training and Learning,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
-8.3,PaperSession,Pen-based and Hands-free Interaction,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
+4.1,PaperSession,Virtual Humans and Agents,"Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746046041718784,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+4.2,PaperSession,"Hands, Gestures and Grasping","Tuesday, March 30",13:00,14:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746093919699004,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
+4.3,PaperSession,Redirected Locomotion,"Wednesday, March 31",13:00,14:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746315714756628,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+5.1,PaperSession,Emotion and Cognition,"Monday, March 29",14:00,15:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825745389579010089,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+5.2,PaperSession,Holographic and Inertial Displays,"Monday, March 29",14:00,15:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825745644891013141,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
+5.3,PaperSession,Perception,"Thursday, April 1",14:00,15:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825747163187249162,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+5.4,PaperSession,VR Applications,"Thursday, April 1",14:00,15:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825747075794468874,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
+6.1,PaperSession,Selection and Manipulation,"Wednesday, March 31",15:30,16:30,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746358244999228,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+7.1,PaperSession,Embodiment,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825745715674349578,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+7.2,PaperSession,Visualization,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825745787308212295,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
+8.1,PaperSession,"Plausibility, Presence and Social VR","Tuesday, March 30",17:00,18:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746143697698846,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+8.2,PaperSession,Training and Learning,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746399198314536,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a
+8.3,PaperSession,Pen-based and Hands-free Interaction,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/825746447898509342,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b
 DC1,DoctoraConsortium,Doctoral Consortium,"Saturday, March 27",10:00,11:45,Lisbon WET UTC,https://discord.com/channels/785628120471699507/823244568069013513,,,
 DC2,DoctoraConsortium,Doctoral Consortium,"Sunday, March 28",12:00,13:30,Lisbon WET UTC,https://discord.com/channels/785628120471699507/823244568069013513,,,
 DC3,DoctoraConsortium,Doctoral Consortium,"Monday, March 29",14:15,16:15,Lisbon WET UTC,https://discord.com/channels/785628120471699507/823244568069013513,,,
@@ -68,7 +68,7 @@ EX4,Exhibition,Exhibition Hours,"Wednesday, March 31",09:30,11:00,Lisbon WEST UT
 EX5,Exhibition,Exhibition Hours,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,,,Theatre,
 EX6,Exhibition,Exhibition Hours,"Thursday, April 1",10:30,12:00,Lisbon WEST UTC+1,,,Theatre,
 EX7,Exhibition,Exhibition Hours,"Thursday, April 1",17:30,18:30,Lisbon WEST UTC+1,,,Theatre,
-3dui1,3DUIContest,3DUI Contest,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,,,Expo Hall A,
+3dui1,3DUIContest,3DUI Contest,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,https://discord.com/channels/785628120471699507/823244428104958033,,Expo Hall A,
 BOFSocial1,BOFSocial,BOF/Social,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,,,Virbela,
 BOFSocial2,BOFSocial,BOF/Social,"Wednesday, March 31",09:30,10:30,Lisbon WEST UTC+1,,,Virbela,
 BOFSocial3,BOFSocial,BOF/Social,"Thursday, April 1",09:30,10:30,Lisbon WEST UTC+1,,,Virbela,
