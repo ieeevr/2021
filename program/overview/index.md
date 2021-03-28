@@ -399,7 +399,7 @@ title: "Program Overview"
 </div>
 -->
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" > <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WET, UTC</strong></center>
