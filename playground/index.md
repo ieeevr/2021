@@ -72,7 +72,7 @@ title: "Program Overview"
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr [track-4-end];
         }
-        
+
         .schedule-sat-27 {
             display: grid;
             grid-gap: 1em;
@@ -372,13 +372,22 @@ title: "Program Overview"
 <script type="text/javascript"> var css_file=document.createElement("link"); css_file.setAttribute("rel","stylesheet"); css_file.setAttribute("type","text/css"); css_file.setAttribute("href","//s.bookcdn.com//css/cl/bw-cl-ri-pr.css?v=0.0.1"); document.getElementsByTagName("head")[0].appendChild(css_file); </script> <div id="tw_23_1852602607"><div style="width:200px; height:px; margin: 0 auto;"></div></div> <script type="text/javascript"> function setWidgetData_1852602607(data){ if(typeof(data) != 'undefined' && data.results.length > 0) { for(var i = 0; i < data.results.length; ++i) { var objMainBlock = ''; var params = data.results[i]; objMainBlock = document.getElementById('tw_'+params.widget_type+'_'+params.widget_id); if(objMainBlock !== null) objMainBlock.innerHTML = params.html_code; } } } var clock_timer_1852602607 = -1; widgetSrc = "https://widgets.booked.net/time/info?ver=2&domid=209&type=23&id=1852602607&scode=124&city_id=102829&wlangid=1&mode=2&details=0&background=ffffff&border_color=ffffff&color=686868&add_background=ffffff&add_color=333333&head_color=ffffff&border=1&transparent=0"; var widgetUrl = location.href; widgetSrc += '&ref=' + widgetUrl; var wstrackId = "9166811"; if (wstrackId) { widgetSrc += ';wstrackId=' + wstrackId + ';' } var timeBookedScript = document.createElement("script"); timeBookedScript.setAttribute("type", "text/javascript"); timeBookedScript.src = widgetSrc; document.body.appendChild(timeBookedScript); </script>
  clock widget end -->
 
-<div style="width: 30%;">
-<div style="text-align:center;padding:1em 0;"> <h1><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h1> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
+<div style="text-align:center;padding:1em 0;">
+    <h1><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a></h1> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
 </div>
 
 
-    
-<div style="text-align:left;"> <p style="font-size: 1em;color: black"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br /> Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> </div>
+
+
+<div style="text-align:left;">
+    <p style="font-size: 1em;color: black">
+        <a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057">
+            <span style="color:gray;">Current local time in</span><br />Lisbon, Portugal</a>
+    </p>
+    <div style="width: 100px;">
+        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
+    </div>
+</div>
 
 
 
@@ -445,7 +454,7 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
                     </div>
-                    
+
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
                     <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
@@ -460,7 +469,7 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 17:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#DISCE">Workshop: Distributed Interactive Systems for Collaborative Experiences (DISCE)</a></h3>
@@ -473,9 +482,9 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">14:15 - 16:15</span>
                     </div>
-                    
-                    
-                    
+
+
+
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <div class="session session-9 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1600 / time-1800;">
                         <h3 class="session-title">
@@ -492,7 +501,7 @@ title: "Program Overview"
                         <span class="session-time">17:00 - 21:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1730;">17:15</p>
                     <div class="session session-7 track-orange" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1900;">
                         <h3 class="session-title"><a href="/2021/program/doctoral-consortium/">Doctoral Consortium</a></h3>
@@ -663,7 +672,7 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 16:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
+
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
 
@@ -686,7 +695,7 @@ title: "Program Overview"
                         <span class="session-time">16:40: <a style="color: white;" href="https://www.youtube.com/watch?v=nq0NdCiB3FI">Facebook</a></span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
+
                     <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-10 track-teal" style="grid-column: track-1-start / track-2-end; grid-row: time-1730 / time-1930;">
                         <h3 class="session-title">Welcome Reception (including <a href="/2021/awards/vgtc-award-winners/">TVCG Awards</a>)</h3>
@@ -700,7 +709,7 @@ title: "Program Overview"
                         <span class="session-time">17:30 - 18:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span>
                     </div>
-                    
+
 
                 </div>
 
@@ -749,8 +758,8 @@ title: "Program Overview"
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
-                    
+
+
 
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
 
@@ -812,7 +821,7 @@ title: "Program Overview"
                         <h3 class="session-title">BOF/Social</h3>
                         <span class="session-time">16:00 - 17:00</span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-4-end; grid-row: time-1600 / time-1700;">
                         <h3 id="EX3" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">16:00 - 17:00</span>
@@ -879,13 +888,13 @@ title: "Program Overview"
                         <h3 class="session-title">BOF/Social</h3>
                         <span class="session-time">9:30 - 10:30</span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-3-start / track-3-end; grid-row: time-0930 / time-1100;">
                         <h3 id="EX4" class="session-title"><a href="/2021/program/exhibitors/">Exhibition Hours</a></h3>
                         <span class="session-time">9:30 - 11:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
-                    
+
                     <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-0930 / time-1030;">
                         <h3 id="EX1" class="session-title">Expo Session:</h3>
                         <span class="session-time">9:30: <a style="color: white;" href="https://youtu.be/17YUBD7V-KQ">HIT Lab NZ</a></span>
@@ -1179,7 +1188,3 @@ title: "Program Overview"
         </div>
     </div>
 </div>
-
-
-
-
