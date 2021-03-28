@@ -386,7 +386,7 @@ title: "Program Overview"
     </p>
     <center>
         <p style="font-size: 20px;">
-            <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="">Getting Started with Virbela</a>
+            <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="color: white:">Getting Started with Virbela</a>
         </p>
     </center>
 </div>
