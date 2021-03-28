@@ -77,6 +77,10 @@ title: "Tutorials"
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
             {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
             {% endif %}
         </p>
     </div>
@@ -160,6 +164,10 @@ title: "Tutorials"
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
             {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
             {% endif %}
         </p>
     </div>
@@ -218,6 +226,10 @@ title: "Tutorials"
             {% if event.stream-url %}
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
             {% endif %}
             {% endif %}
         </p>
@@ -280,6 +292,10 @@ title: "Tutorials"
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
             {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
             {% endif %}
         </p>
     </div>
@@ -341,6 +357,10 @@ title: "Tutorials"
             {% if event.stream-url %}
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
             {% endif %}
             {% endif %}
         </p>
@@ -432,6 +452,10 @@ title: "Tutorials"
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
             {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
             {% endif %}
         </p>
     </div>
@@ -468,6 +492,10 @@ title: "Tutorials"
             {% if event.stream-url %}
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
             {% endif %}
             {% endif %}
         </p>
@@ -516,6 +544,10 @@ title: "Tutorials"
             {% if event.stream-url %}
             <br />
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
             {% endif %}
             {% endif %}
         </p>
