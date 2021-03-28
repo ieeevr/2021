@@ -379,7 +379,7 @@ title: "Program Overview"
 <div style="text-align:left;"> <p style="font-size: 1em;color: black"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br /> Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="140" frameborder="0" seamless></iframe> </div>
 
     
-<div style="text-align:left;"> <p style="font-size: 1em;color: black"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br /> Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="70" frameborder="0" seamless></iframe> </div>
+<div style="text-align:left;"> <p style="font-size: 1em;color: black"><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/2267057"><span style="color:gray;">Current local time in</span><br /> Lisbon, Portugal</a></p> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Europe%2FLisbon&show=hour_minute" width="60%" height="70" frameborder="1" seamless></iframe> </div>
 
 
 
