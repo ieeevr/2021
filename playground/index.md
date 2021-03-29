@@ -66,6 +66,15 @@ title: "playground"
 
 </div>
 
+<div>
+    <table class="styled-table">
 
+        {% for panel in site.data.bof %}
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#{{ bof.id }}">{{ bof.name }}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
 
 
