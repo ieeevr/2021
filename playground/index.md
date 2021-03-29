@@ -115,7 +115,8 @@ title: "playground"
     <!-- TAKE ME TO THE EVENT END-->
     
     
-     <h3> {bof.name} </h3>
+    <h3> {{bof.chair}} <br> </h3>
+    <p> {{bof.description}} </p>
     
     
     {% endfor %}
