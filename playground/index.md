@@ -66,29 +66,54 @@ title: "playground"
 
 </div>
 
+<div>
+    <table class="styled-table">
+
+        {% for bof in site.data.bof %}
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#{{ bof.id }}">{{ bof.title }}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
 
 
 <div>
+    {% for bof in site.data.bof %}
+    <h2 id="{{ bof.id }}">BoF: {{ bof.title}}</h2>
+    
+    <!-- TAKE ME TO THE EVENT START-->
+    {% for event in site.data.events %}
+    {% if event.id == bof.id %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
 
-
-<table class="styled-table" style="font-size: 0.8em;">
-                <tr>
-                    <th>BoF Session</th>
-                    <th>Description</th>
-                    <th>Chair</th>
-                    <th>Time</th>
-                </tr>
-                {% for bof in site.data.bof %}
-                <tr>
-                    <td ><strong>{{ bof.name }}</strong></td>
-                    <td style="font-size: 0.9em;">{{ bof.description }}</td>
-                    <td style="font-size: 0.9em;">{{ bof.chair }}</td>
-                    <td style="font-size: 0.9em;">{{ bof.session }}</td>
-
-</tr>
-                {% endfor %}
-
-</table>
-
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    
+    <h3 style="color: #00aeef;">{bof.name}</h3>
+    <h2> {bof.chair} <br> </h2>
+    <p> {bof.session} <br> </p>
+    <p> {bof.description} <br> </p>
+    
+    {% endif %}
+    {% endfor %}
 </div>
+
 
