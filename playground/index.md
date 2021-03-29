@@ -78,14 +78,14 @@ title: "playground"
 </div>
 
 
-<div>
+<!-- <div>
     {% for bof in site.data.bof %}
     <h2 id="{{ bof.id }}">BoF: {{ bof.title}}</h2>
     
-    <!-- TAKE ME TO THE EVENT START-->
-    {% for event in site.data.events %}
-    {% if event.id == bof.id %}
-    {% if event.location %}
+   
+{% for event in site.data.events %}
+{% if event.id == bof.id %}
+{% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
@@ -101,10 +101,10 @@ title: "playground"
             {% endif %}
             {% endif %}
         </p>
-    </div>
+</div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+ 
     
     
     <h3 style="color: #00aeef;">{bof.name}</h3>
@@ -114,6 +114,7 @@ title: "playground"
     
     {% endif %}
     {% endfor %}
-</div>
+    
+</div> -->
 
 
