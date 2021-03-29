@@ -46,7 +46,7 @@ title: "playground"
 
 <div>
 
-<p> NOTHING WORKS Register a BoF session using the google form on VR’s Discord </p>
+<p> NOTHING WORKS </p>
 
 <h1>IEEE VR 2021 Birds of a Feather</h1>
 
