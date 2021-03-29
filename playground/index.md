@@ -43,7 +43,8 @@ title: "playground"
 
 </style>
 
-
+<div>
+    
 <h1>IEEE VR 2021 Birds of a Feather</h1>
 
 <p> Shared interests bring VR 2021 attendees together! Registered attendees are invited to create their own social sessions using IEEE VR 2021 Virbela, Discord. 
@@ -52,6 +53,7 @@ title: "playground"
     <p> <strong>How?</strong> Register a BoF session using the google form on VR’s Discord (<b style="color: black">#bof</b>) <br></p> 
     <p>We will collect them until Monday afternoon and create separate Discord channels for each. These will be published on Monday, also on the website, and in Virbela. Each organizer can use a Virbela room, the Discord channel, and will need to provide a zoom link for the video. As the organizer, you are responsible for ensuring a safe environment that follows the conference Code of Conduct. Please feel free to reach out to anyone on the conference committee if you need assistance, and please report any problematic behavior.</p>
 
+</div>
 
 <table class="styled-table" style="font-size: 0.8em;">
                 <tr>
