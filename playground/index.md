@@ -114,6 +114,7 @@ title: "playground"
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
     
+    <p style="font-size: 0.8em;">{{ bof.session }}</p>
     
     <h3> {{bof.chair}} <br> </h3>
     <p> {{bof.description}} </p>
