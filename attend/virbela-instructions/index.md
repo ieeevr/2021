@@ -249,6 +249,11 @@ title: "Virbela Instructions"
         width: 100%;
         height: 100%;
     }
+    
+    div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 </style>
 
