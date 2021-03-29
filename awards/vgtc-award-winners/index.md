@@ -254,7 +254,7 @@ title: "VGTC Award Winners"
 
             {% if event.stream-url %}
             <br />
-            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
             {% endif %}
             {% endif %}
         </p>

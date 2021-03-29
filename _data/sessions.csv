@@ -5,7 +5,7 @@ id,name,day,starttime,endtime,timezone,sessionchair,discord-category
 1.4,Haptics,"Wednesday, March 31",08:30,09:30,Lisbon WEST UTC+1,Gabriel Zachmann, 
 1.5,Locomotion,"Thursday, April 1",08:30,09:30,Lisbon WEST UTC+1,Adalberto Simeone, 
 1.6,Rendering and Texture Mapping,"Thursday, April 1",08:30,09:30,Lisbon WEST UTC+1,Taehyun Rhee, 
-2.1,Security and Drone Teleoperation,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,,
+2.1,Security and Drone Teleoperation,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,Stefanie Zollmann,
 2.2,Embedded and Surround Videos,"Tuesday, March 30",11:00,12:00,Lisbon WEST UTC+1,Rob Lindeman ,
 3.1,Augmented Reality,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Dieter Schmalstieg,
 3.2,VR/AR Displays,"Monday, March 29",12:00,13:00,Lisbon WEST UTC+1,Daisuke Iwai,
