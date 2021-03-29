@@ -56,14 +56,16 @@ We encourage attendees to consider any topic or idea, including purely social ga
 <div>
     <table class="styled-table">
 
-        {% for bof in site.data.bof %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="{{ bof.timestamp}}">{{ bof.name }}</td>
+            <th>Tutorials</th>
+        </tr>
+        {% for tutorial in site.data.tutorials %}
+        <tr>
+            <td style="font-size: 0.9em;"><a href="#{{ tutorial.id }}">{{ tutorial.title }}</a></td>
         </tr>
         {% endfor %}
     </table>
 </div>
-
 
 
 
