@@ -170,7 +170,7 @@ title: "3DUI Contest"
     </p>
     <center>
         <p style="font-size: 20px;">
-            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white:" target="_blank">Vote!</a>
+            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
 </div>
