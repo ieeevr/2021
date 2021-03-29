@@ -109,7 +109,7 @@ title: "playground"
 <div>
 
 
-<table class="styled-table2" style="font-size: 0.8em;">
+<table class="styled-table1" style="font-size: 0.8em;">
                 <tr>
                     <th>BoF Session</th>
                     <th>Description</th>
