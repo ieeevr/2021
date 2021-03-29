@@ -57,7 +57,7 @@ title: "playground"
 
 <table class="styled-table" style="font-size: 0.8em;">
                 <tr>
-                    <th>BoF Session's Name</th>
+                    <th>BoF Session</th>
                     <th>Description</th>
                     <th>Chair</th>
                     <th>Time</th>
@@ -75,7 +75,7 @@ title: "playground"
 </table>
 
 
-<!--
+
 <table class="styled-table" style="font-size: 0.8em;">
                 <tr>
                     <th>BoF Session's Name</th>
@@ -95,5 +95,5 @@ title: "playground"
 
 </table>
 
--->
+
 
