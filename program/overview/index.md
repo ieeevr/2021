@@ -681,8 +681,8 @@ title: "Program Overview"
 
                     <div class="session session-ex track-purple" style="grid-column: track-4-start / track-4-end; grid-row: time-1630 / time-1800;">
                         <h3 id="EX1" class="session-title">Expo Session:</h3>
-                        <span class="session-time">16:30: <a style="color: white;" href="https://www.youtube.com/watch?v=b_MMypnh_AI">Qualcomm</a></span>
-                        <span class="session-time">16:35: <a style="color: white;" href="https://www.youtube.com/watch?v=5xjweXT_N4g">Microsoft</a></span>
+                        <span class="session-time">16:30: Qualcomm</span>
+                        <span class="session-time">16:35: <a style="color: white;" href="https://www.youtube.com/watch?v=Sgw1DSbbSMY">Microsoft</a></span>
                         <span class="session-time">16:40: <a style="color: white;" href="https://www.youtube.com/watch?v=nq0NdCiB3FI">Facebook</a></span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Theater</a></span>
                     </div>
