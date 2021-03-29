@@ -144,7 +144,11 @@ title: "3DUI Contest"
 
             {% if event.stream-url %}
             <br />
+            {% if event.aindanaoaconteceu %}
             <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch Recorded Stream:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
             {% endif %}
             {% if event.discordurl %}
             <br />
