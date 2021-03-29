@@ -257,13 +257,13 @@ title: "Exhibitors and Sponsors"
             </a>
         </div>
         <div class="box">
-            <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
-                <img src="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.png" />
+            <a href="/2021/assets/exhibitors/IEEE_VR_2021_3.pdf" download>
+                <img src="/2021/assets/exhibitors/IEEE_VR_2021_3.png" />
             </a>
         </div>
         <div class="box">
             <strong><a href="https://www.maquette.ms/" target="_blank">Microsoft</a></strong>
-            <a href="/2021/assets/exhibitors/IEEE_VR_2021-Microsoft.pdf" download>
+            <a href="/2021/assets/exhibitors/IEEE_VR_2021_3.pdf" download>
                 <p>Microsoft Mixed Reality</p>
             </a>
         </div>
