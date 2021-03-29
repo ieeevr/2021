@@ -75,7 +75,7 @@ title: "playground"
 </table>
 
 <div>
-<h1>IEEE VR 2021 Birds of a Feather</h1>
+
 
 <table class="styled-table" style="font-size: 0.8em;">
                 <tr>
