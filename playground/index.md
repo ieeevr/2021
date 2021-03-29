@@ -70,7 +70,7 @@ title: "playground"
     .styled-table2 th,
     .styled-table2 td {
         padding: 12px 15px;
-        width: 50%;
+        width: 100%;
     }
 
     .styled-table2 tbody tr {
