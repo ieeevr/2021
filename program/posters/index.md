@@ -201,7 +201,7 @@ title: "Posters"
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>Doctoral Consortium</strong></p>
     
-<p>{{ poster.booth }} <br> </p>
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
     
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
@@ -234,7 +234,7 @@ title: "Posters"
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>Doctoral Consortium</strong></p>
     
-<p>{{ poster.booth }} <br> </p>
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
     
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
@@ -267,7 +267,7 @@ title: "Posters"
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p> 
     
-<p>{{ poster.booth }} <br> </p>
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
 
     <p><i>{{ poster.authors }}</i></p>
     
@@ -301,7 +301,7 @@ title: "Posters"
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p>
     
-<p>{{ poster.booth }} <br> </p>
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
     
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
@@ -337,7 +337,7 @@ title: "Posters"
 
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     
-<p>{{ poster.booth }}</p>
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
     
     <p><i>{{ poster.authors }}</i></p>
     
