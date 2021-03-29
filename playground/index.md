@@ -43,6 +43,7 @@ title: "playground"
     }
 
 </style>
+<p> <strong>NOTHING WORKS</strong> Register a BoF session using the google form on VR’s Discord (<b style="color: black">#bof</b>) <br></p>
 
 <h1>IEEE VR 2021 Birds of a Feather</h1>
 
