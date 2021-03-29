@@ -260,6 +260,7 @@ title: "VGTC Award Winners"
             <strong style="color: black;">Watch Recorded Stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
             {% endif %}
             {% endif %}
+            {% endif %}
         </p>
     </div>
     {% endif %}
