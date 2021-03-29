@@ -66,15 +66,59 @@ title: "playground"
 
 </div>
 
+
+
 <div>
     <table class="styled-table">
 
-        {% for panel in site.data.bof %}
+        {% for bof in site.data.bof %}
         <tr>
-            <td style="font-size: 0.9em;"><!--<a href="#{{ bof.id }}">-->{{ bof.name }}</a></td>
+            <td style="font-size: 0.9em;"><a href="#{{ bof.id }}">{{ bof.name }}</a></td>
         </tr>
         {% endfor %}
     </table>
+</div>
+
+
+
+
+
+
+<div>
+    {% for bof in site.data.bof %}
+    
+    <h2 id="{{ bof.id }}">BOF: {{ bof.name}}</h2>
+    
+    <!-- TAKE ME TO THE EVENT START -->
+    {% for event in site.data.events %}
+    {% if event.id == bof.id %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}">HERE</a>
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    
+     <h3> {bof.name} </h3>
+    
+    
+    {% endfor %}
 </div>
 
 
