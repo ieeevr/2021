@@ -809,7 +809,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <div class="session session-12 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1600 / time-1700;">
-                        <h3 class="session-title">BOF/Social</h3>
+                        <h3 class="session-title">Social Event: <a href="/2021/program/bofs/">Birds of a Feather</a></h3>
                         <span class="session-time">16:00 - 17:00</span>
                     </div>
 
@@ -876,7 +876,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-0930;">09:30</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-0930 / time-1030;">
-                        <h3 class="session-title">BOF/Social</h3>
+                        <h3 class="session-title">Social Event: <a href="/2021/program/bofs/">Birds of a Feather</a></h3>
                         <span class="session-time">9:30 - 10:30</span>
                     </div>
 
@@ -1023,7 +1023,7 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-0930;">09:30</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-3-end; grid-row: time-0930 / time-1030;">
-                        <h3 class="session-title">BOF/Social</h3>
+                        <h3 class="session-title">Social Event: <a href="/2021/program/bofs/">Birds of a Feather</a></h3>
                         <span class="session-time">9:30 - 10:30</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Expo Hall A</a></span>
                     </div>
