@@ -909,9 +909,14 @@ title: "Program Overview"
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-4-end; grid-row: time-1200 / time-1300;">
+                    <div class="session session-6 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1300;">
                         <h3 class="session-title">Lunch</h3>
                     </div>
+                    <div class="session session-6fasgfsx track-3dui" style="grid-column: track-4-start / track-4-end; grid-row: time-1200 / time-1230;">
+                        <h3 class="session-title"><a href="/2021/program/3dui-contest/">3DUI Contest Fast Forward</a></h3>
+                    </div>
+                    
+                    
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
