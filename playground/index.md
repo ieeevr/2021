@@ -11,6 +11,10 @@ title: "playground"
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
         display: table;
+        
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .styled-table thead tr {
@@ -22,6 +26,7 @@ title: "playground"
     .styled-table th,
     .styled-table td {
         padding: 12px 15px;
+        width: 25%;
     }
 
     .styled-table tbody tr {
