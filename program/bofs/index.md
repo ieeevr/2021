@@ -46,10 +46,10 @@ title: "BoFs"
         color: #00aeef;
     }
     
-  <!--  div {
+  /*div {
         text-align: justify;
         text-justify: inter-word;
-        } -->
+        }*/
         
     
 </style>
