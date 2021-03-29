@@ -59,25 +59,36 @@ title: "playground"
 </div>
 
 <!--
-<table class="styled-table" style="font-size: 0.8em;">
-            <tr>
-                <th>BoF Session's Name</th>
-                <th>Description</th>
-                <th>Chair</th>
-                <th>Time</th>
-            </tr>
-            {% for bof in site.data.bof %}
-            <tr>
-                <td style="font-size: 0.9em;">{{ bof.name }}</td>
-                <td style="font-size: 0.9em;">{{ bof.description }}</td>
-                <td style="font-size: 0.9em;">{{ bof.chair }}</td>
-                <td style="font-size: 0.9em;">{{ bof.session }}</td>
-                
-            </tr>
-            {% endfor %}
-            
-            </table>
-            -->
+
+    <h1>IEEE VR 2021 Birds of a Feather</h1>
+
+    <p> Shared interests bring VR 2021 attendees together! Registered attendees are invited to create their own social sessions using IEEE VR 2021 Virbela, Discord. 
+    These are attendee-organized explorations or collaborations on topics impacting the field.
+    We encourage attendees to consider any topic or idea, including purely social gatherings aimed at hanging out and chatting with other attendees. <br> </p> 
+    <p> <strong>How?</strong> Register a BoF session using the google form on VR’s Discord (<b style="color: black">#bof</b>) <br></p> 
+    <p>We will collect them until Monday afternoon and create separate Discord channels for each. These will be published on Monday, also on the website, and in Virbela. Each organizer can use a Virbela room, the Discord channel, and will need to provide a zoom link for the video. As the organizer, you are responsible for ensuring a safe environment that follows the conference Code of Conduct. Please feel free to reach out to anyone on the conference committee if you need assistance, and please report any problematic behavior.</p>
+
+
+
+    <table class="styled-table" style="font-size: 0.8em;">
+                <tr>
+                    <th>BoF Session's Name</th>
+                    <th>Description</th>
+                    <th>Chair</th>
+                    <th>Time</th>
+                </tr>
+                {% for bof in site.data.bof %}
+                <tr>
+                    <td style="font-size: 0.9em;">{{ bof.name }}</td>
+                    <td style="font-size: 0.9em;">{{ bof.description }}</td>
+                    <td style="font-size: 0.9em;">{{ bof.chair }}</td>
+                    <td style="font-size: 0.9em;">{{ bof.session }}</td>
+
+                </tr>
+                {% endfor %}
+
+                </table>
+-->
 
 
 
