@@ -176,6 +176,9 @@ title: "Research Demos"
     
     <h3 id="{{ demo.id }}">{{ demo.title }}</h3>
     <p><i>{{ demo.authors }}</i></p>
+    
+<p> <small><strong style="color: black;"> Booth: {{ demo.booth }} - {{ demo.hall }} </strong></small> <br> </p>    
+    
     {% if demo.url %}
         <p>Teaser Video: <a href="{{ demo.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
