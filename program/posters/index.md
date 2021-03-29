@@ -196,10 +196,13 @@ title: "Posters"
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'DC' %}
-    {% if poster.location == 'Hall A' %}
+    {% if poster.location == 'Expo Hall A' %}
     
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>Doctoral Consortium</strong></p>
+    
+<p>{{ poster.booth }} <br> </p>
+    
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
@@ -226,10 +229,13 @@ title: "Posters"
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'DC' %}
-    {% if poster.location == 'Hall B' %}
+    {% if poster.location == 'Expo Hall B' %}
     
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>Doctoral Consortium</strong></p>
+    
+<p>{{ poster.booth }} <br> </p>
+    
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
@@ -256,11 +262,15 @@ title: "Posters"
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'Poster' %}
-    {% if poster.location == 'Hall A' %}
+    {% if poster.location == 'Expo Hall A' %}
     
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
-    <p><strong>{{ poster.type }}</strong></p>
+    <p><strong>{{ poster.type }}</strong></p> 
+    
+<p>{{ poster.booth }} <br> </p>
+
     <p><i>{{ poster.authors }}</i></p>
+    
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
@@ -286,10 +296,13 @@ title: "Posters"
     
     {% for poster in site.data.posters %}
     {% if poster.type == 'Poster' %}
-    {% if poster.location == 'Hall B' %}
+    {% if poster.location == 'Expo Hall B' %}
     
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p>
+    
+<p>{{ poster.booth }} <br> </p>
+    
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
@@ -323,7 +336,13 @@ title: "Posters"
     {% for poster in site.data.posters %}
 
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
+    
+<p>{{ poster.booth }}</p>
+    
     <p><i>{{ poster.authors }}</i></p>
+    
+    
+    
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
