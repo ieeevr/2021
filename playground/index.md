@@ -116,7 +116,7 @@ title: "playground"
     
     <p style="font-size: 0.8em;">{{ bof.session }}</p>
     
-    <h3> {{bof.chair}} <br> </h3>
+    <p> <strong> {{bof.chair}} </strong> <br> </p>
     <p> {{bof.description}} </p>
     
     
