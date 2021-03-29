@@ -71,7 +71,7 @@ title: "playground"
 
         {% for panel in site.data.bof %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ bof.id }}">{{ bof.name }}</a></td>
+            <td style="font-size: 0.9em;">{{ bof.name }}</a></td>
         </tr>
         {% endfor %}
     </table>
