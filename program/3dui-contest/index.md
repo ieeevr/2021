@@ -161,6 +161,20 @@ title: "3DUI Contest"
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
 </div>
+
+
+<div class="notice--info">
+    <strong>Best of IEEE VR 2021</strong>
+    <p>
+        Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+    </p>
+    <center>
+        <p style="font-size: 20px;">
+            <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+        </p>
+    </center>
+</div>
+
     
 <div>
     {% for entry in site.data.3duicontest %}
