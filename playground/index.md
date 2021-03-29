@@ -1,6 +1,6 @@
 ---
 layout: ieeevr-default
-title: "playgorund"
+title: "playground"
 ---
 
 
@@ -19,3 +19,4 @@ title: "playgorund"
 
 <p><strong>Entao vai dizer ao Mauricio que esta a funcionar.</strong></p>
 
+<h2> UM <i>BOM DIA</i> PARA TODOS</h2>
