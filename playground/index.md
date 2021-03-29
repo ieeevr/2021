@@ -100,7 +100,7 @@ title: "playground"
 
             {% if event.stream-url %}
             <br />
-            <strong style="color: black;">Watch Stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            <strong style="color: black;">Watch stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
             {% endif %}
             {% if event.discordurl %}
             <br />
