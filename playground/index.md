@@ -58,7 +58,7 @@ We encourage attendees to consider any topic or idea, including purely social ga
 
         {% for bof in site.data.bof %}
         <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ bof.timestamp }}">{{ bof.name }}</td>
+            <td style="font-size: 0.9em;"><a href="{{ bof.timestamp}}">{{ bof.name }}</td>
         </tr>
         {% endfor %}
     </table>
