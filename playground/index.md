@@ -117,7 +117,7 @@ title: "playground"
     <p style="font-size: 0.8em;">{{ bof.session }}</p>
     
     <p> <strong> {{bof.chair}} </strong> <br> </p>
-    <p> {{bof.description}} </p>
+    <p> <strong style="color: black;"> {{bof.description}} </strong></p>
     
     
     {% endfor %}
