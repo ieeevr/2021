@@ -87,7 +87,7 @@ title: "playground"
 <div>
     {% for bof in site.data.bof %}
     
-    <h2 id="{{ bof.id }}">BOF: {{ bof.name}}</h2>
+    <h2 id="{{ bof.id }}">BoF: {{ bof.name}}</h2>
     
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
