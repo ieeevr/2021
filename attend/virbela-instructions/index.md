@@ -251,9 +251,9 @@ title: "Virbela Instructions"
     }
     
     div {
-  text-align: justify;
-  text-justify: inter-word;
-}
+        text-align: justify;
+        text-justify: inter-word;
+        }
 
 </style>
 
