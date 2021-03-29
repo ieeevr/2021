@@ -55,24 +55,7 @@ title: "playground"
 
 </div>
 
-<table class="styled-table" style="font-size: 0.8em;">
-                <tr>
-                    <th>BoF Session</th>
-                    <th>Description</th>
-                    <th>Chair</th>
-                    <th>Time</th>
-                </tr>
-                {% for bof in site.data.tutorials %}
-                <tr>
-                    <td style="font-size: 0.9em;">{{ bof.id }}</td>
-                    <td style="font-size: 0.9em;">{{ bof.name }}</td>
-                    <td style="font-size: 0.9em;">{{ bof.id }}</td>
-                    <td style="font-size: 0.9em;">{{ bof.name }}</td>
 
-</tr>
-                {% endfor %}
-
-</table>
 
 <div>
 
@@ -86,7 +69,7 @@ title: "playground"
                 </tr>
                 {% for bof in site.data.bof %}
                 <tr>
-                    <td style="font-size: 0.9em;">{{ bof.name }}</td>
+                    <td ><strong>{{ bof.name }}</strong></td>
                     <td style="font-size: 0.9em;">{{ bof.description }}</td>
                     <td style="font-size: 0.9em;">{{ bof.chair }}</td>
                     <td style="font-size: 0.9em;">{{ bof.session }}</td>
