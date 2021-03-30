@@ -20,13 +20,13 @@ id,type,title,day,starttime,endtime,timezone,discordurl,stream,location,stream-u
 6.1,PaperSession,Selection and Manipulation,"Wednesday, March 31",15:30,16:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825746358244999228,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yep
 7.1,PaperSession,Embodiment,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825745715674349578,Stream1,Auditorium A,https://youtu.be/Ag3LRcqxpo4?t=17992,
 7.2,PaperSession,Visualization,"Monday, March 29",16:30,17:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825745787308212295,Stream2,Auditorium B,https://youtu.be/vU1ooD8uu3A?t=17997,
-8.1,PaperSession,"Plausibility, Presence and Social VR","Tuesday, March 30",17:00,18:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825746143697698846,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yep
+8.1,PaperSession,"Plausibility, Presence and Social VR","Tuesday, March 30",17:00,18:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825746143697698846,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
 8.2,PaperSession,Training and Learning,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825746399198314536,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yep
 8.3,PaperSession,Pen-based and Hands-free Interaction,"Wednesday, March 31",17:00,18:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/825746447898509342,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yep
 DC1,DoctoraConsortium,Doctoral Consortium,"Saturday, March 27",10:00,11:45,Lisbon WET UTC,discord.com/channels/785628120471699507/823244568069013513,,,,
 DC2,DoctoraConsortium,Doctoral Consortium,"Sunday, March 28",12:00,13:30,Lisbon WET UTC,discord.com/channels/785628120471699507/823244568069013513,,,,
 DC3,DoctoraConsortium,Doctoral Consortium,"Monday, March 29",14:15,16:15,Lisbon WET UTC,discord.com/channels/785628120471699507/823244568069013513,,,,
-DC4,DoctoraConsortium,Doctoral Consortium,"Tuesday, March 30",17:15,18:05,Lisbon WET UTC,discord.com/channels/785628120471699507/823244568069013513,,,,yep
+DC4,DoctoraConsortium,Doctoral Consortium,"Tuesday, March 30",17:15,18:05,Lisbon WET UTC,discord.com/channels/785628120471699507/823244568069013513,,,,
 T1,Tutorial,Web-Based VR Development and Instruction using Babylon.js,"Saturday, March 27",13:00,16:00,Lisbon WET UTC,discord.com/channels/785628120471699507/823245111591698432,Stream1,Auditorium A,https://youtu.be/4Fh_huMZNFk?t=2029,
 T2,Tutorial,The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR,"Sunday, March 28",13:00,16:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823245190617759814,Stream1,Auditorium A,https://www.youtube.com/watch?v=nc9mrhoAU4A,
 T3,Tutorial,bmlTUX – a simple toolkit for building experiments in Unity,"Friday, April 2",14:00,16:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823245260942606346,Stream1,Auditorium A,,yep
@@ -50,10 +50,10 @@ Finding-a-way-forward-in-VR-locomotion,Workshop,Finding a way forward in VR loco
 PrXR,Workshop,PrXR: Towards a roadmap for privacy and security research for mixed reality applications,"Sunday, March 28",13:00,16:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823246689745633321,Stream2,Auditorium B,,
 ANIVAE,Workshop,Animation in Virtual and Augmented Environments - ANIVAE,"Sunday, March 28",09:00,12:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823246794003578901,Stream2,Auditorium B,https://www.youtube.com/watch?v=qPanhqArR58,
 keynote-mohler,Keynote,Betty Mohler: Self-avatars in Immersive Technology,"Monday, 29 March, 2021",10:30,11:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247108298768424,Stream1,Auditorium A,https://youtu.be/tmxjxTyjmqI?t=10689,
-keynote-oliver,Keynote,Nuria Oliver: Data Science to fight against COVID-19,"Tuesday, 30 March, 2021",14:30,15:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247140410228786,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yep
+keynote-oliver,Keynote,Nuria Oliver: Data Science to fight against COVID-19,"Tuesday, 30 March, 2021",14:30,15:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247140410228786,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
 keynote-steinicke,Keynote,Frank Steinicke: B(l)ending Realities,"Wednesday, 31 March, 2021",11:00,12:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247171809312850,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yep
 keynote-feiner,Keynote,"Steven Feiner: AR Longa, VR Brevis? Thinking About Our Future","Thursday, 1 April, 2021",15:30,16:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247198556782672,Stream1,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,yep
-P1,Panel,Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation,"Tuesday, March 30",17:00,18:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247818184720384,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yep
+P1,Panel,Opportunities and Challenges in Harnessing VR Technology for Bias Mitigation,"Tuesday, March 30",17:00,18:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247818184720384,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,
 P2,Panel,Shaping the Future of XR and Arts,"Wednesday, March 31",15:30,17:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247943065927770,Stream2,Auditorium C,https://www.twitch.tv/ieee_vr_stream_c,yep
 P3,Panel,What makes a virtual human human?,"Thursday, April 1",12:00,13:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247988960919592,Stream2,Auditorium B,https://www.twitch.tv/ieee_vr_stream_b,yep
 PD1,PostersAndDemos,Posters and Demos,"Monday, 29 March, 2021",15:00,16:30,Lisbon WEST UTC+1,,,Expo Hall A,,
@@ -63,16 +63,16 @@ PD4,PostersAndDemos,Posters and Demos,"Thursday, 1 April, 2021",10:30,12:00,Lisb
 EXW,Exhibition,Exhibitors: Welcome Reception,"Monday, March 29",17:30,18:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Auditorium A,https://www.twitch.tv/ieee_vr_stream_a,
 EX1,Exhibition,Exhibition Hours,"Monday, March 29",15:00,16:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,
 EX2,Exhibition,Exhibition Hours,"Tuesday, March 30",09:30,11:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,
-EX3,Exhibition,Exhibition Hours,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,yep
+EX3,Exhibition,Exhibition Hours,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,
 EX4,Exhibition,Exhibition Hours,"Wednesday, March 31",09:30,11:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,yep
 EX5,Exhibition,Exhibition Hours,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,yep
 EX6,Exhibition,Exhibition Hours,"Thursday, April 1",10:30,12:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,yep
 EX7,Exhibition,Exhibition Hours,"Thursday, April 1",17:30,18:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/824212641978908672,,Theatre,,yep
 3dui1,3DUIContest,3DUI Contest,"Wednesday, March 31",14:00,15:30,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823244428104958033,,Expo Hall A,,yep
-BOFSocial1,BOFSocial,BOF/Social,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,,,Virbela,,yep
+BOFSocial1,BOFSocial,BOF/Social,"Tuesday, March 30",16:00,17:00,Lisbon WEST UTC+1,,,Virbela,,
 BOFSocial2,BOFSocial,BOF/Social,"Wednesday, March 31",09:30,10:30,Lisbon WEST UTC+1,,,Virbela,,yep
 BOFSocial3,BOFSocial,BOF/Social,"Thursday, April 1",09:30,10:30,Lisbon WEST UTC+1,,,Virbela,,yep
-Mixer1,Mixer,Mixer,"Tuesday, March 30",18:00,19:00,Lisbon WEST UTC+1,,,Virbela,,yep
+Mixer1,Mixer,Mixer,"Tuesday, March 30",18:00,19:00,Lisbon WEST UTC+1,,,Music Hall,,yep
 Mixer2,Mixer,Mixer,"Wednesday, March 31",18:00,19:00,Lisbon WEST UTC+1,,,Virbela,,yep
 O1,Other,Opening,"Monday, March 29",08:30,10:00,Lisbon WEST UTC+1,discord.com/channels/785628120471699507/823247607312285766,Stream1,Auditorium A,https://youtu.be/tmxjxTyjmqI?t=3588,
 O2,Other,Welcome Reception (including VGTC Awards),"Monday, March 29",17:30,19:00,Lisbon WEST UTC+1,,Stream1,Auditorium A,https://youtu.be/Ag3LRcqxpo4?t=22692,
