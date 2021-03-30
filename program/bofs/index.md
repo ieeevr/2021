@@ -96,7 +96,11 @@ title: "BoFs"
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
+            {% if bof.id == 'BOFSocialX1' %}
+            <strong style="color: black;">Virbela Location:</strong> VR Workshop Square -  Aveiro                       
+            {% else %}
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+            {% endif %}
 
             {% if event.stream-url %}
             <br />
