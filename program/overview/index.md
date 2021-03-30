@@ -964,7 +964,7 @@ title: "Program Overview"
                     <div class="session session-11 track-panel" style="grid-column: track-3-start / track-4-end; grid-row: time-1530 / time-1700;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P2">Panel: Shaping the Future of XR and Arts</a></h3>
                         <span class="session-time">15:30 - 17:00</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
@@ -1060,7 +1060,7 @@ title: "Program Overview"
                     <div class="session session-5 track-panel" style="grid-column: track-2-start / track-3-end; grid-row: time-1200 / time-1330;">
                         <h3 class="session-title"><a href="/2021/program/panels/#P3">Panel: What makes a virtual human human?</a></h3>
                         <span class="session-time">12:00 - 13:30</span>
-                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
