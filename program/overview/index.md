@@ -837,6 +837,8 @@ title: "Program Overview"
                     <div class="session session-15 track-event" style="grid-column: track-1-start / track-2-end; grid-row: time-1800 / time-1900;">
                         <h3 class="session-title">Mixer</h3>
                         <span class="session-time">18:00 - 19:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Music Hall</a></span>
+                        
                     </div>
 
                 </div>
