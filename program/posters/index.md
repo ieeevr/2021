@@ -286,7 +286,7 @@ title: "Posters"
 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} 
     
     {% if poster.id == 'C2223' %}
-    <p><small><strong> Note: </strong> <strong style="color: black;"> Previously on Booth E38 - Expo Hall B </strong> </small></p>
+    <strong> Note: </strong> Previously on Booth E38 - Expo Hall B 
     {% endif %}  
         
 </strong></small> <br> </p>
