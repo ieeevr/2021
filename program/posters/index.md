@@ -283,10 +283,14 @@ title: "Posters"
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p> 
     
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
-{% if poster.id == 'C2223' %}
-<p><small><strong> Note: </strong> <strong style="color: black;"> Previously on Booth E38 - Expo Hall B </strong> </small><br></p>
-{% endif %}
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} 
+    
+    {% if poster.id == 'C2223' %}
+    <p><small><strong> Note: </strong> <strong style="color: black;"> Previously on Booth E38 - Expo Hall B </strong> </small></p>
+    {% endif %}  
+        
+</strong></small> <br> </p>
+
     
 
     <p><i>{{ poster.authors }}</i></p>
