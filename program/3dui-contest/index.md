@@ -145,7 +145,7 @@ title: "3DUI Contest"
             {% if event.stream-url %}
             <br />
             {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            <strong style="color: black;">Watch the 3DUI Contest Fast Forward here:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
             {% else %}
             <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
             {% endif %}
