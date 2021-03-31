@@ -111,12 +111,60 @@ title: "3DUI Contest"
     .collapsible-content p {
         margin-bottom: 0;
     }
+    
+    
+      /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Thumbnails box */
+    .box {
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+    .box:nth-child(even) {
+        color: red;
+    }
+
+    .wrapper {
+        display: grid;
+        /* border: 1px solid #000; */
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, 150px 30%);
+    }
 
 </style>
 
 
 <h1>3DUI Contest</h1>
 
+<div>
+    <h2>Fast Forward</h2>
+    
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+    
 
 <div>
     <table class="styled-table">
@@ -175,7 +223,7 @@ title: "3DUI Contest"
     </center>
 </div>
 
-    
+
 <div>
     {% for entry in site.data.3duicontest %}
     <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
