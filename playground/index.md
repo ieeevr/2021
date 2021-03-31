@@ -98,7 +98,7 @@ title: "playground"
 
 <div>
     
-<h1>IEEE VR 2021 Birds of a Feather</h1>
+<h1>IEEE VR 2021 Birds of a Featherzzzz</h1>
 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/watch?v=5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
