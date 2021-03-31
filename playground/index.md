@@ -50,13 +50,61 @@ title: "playground"
         text-align: justify;
         text-justify: inter-word;
         } -->
-        
+   
+   
+   
+   
+
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Thumbnails box */
+    .box {
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+    .box:nth-child(even) {
+        color: red;
+    }
+
+    .wrapper {
+        display: grid;
+        /* border: 1px solid #000; */
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fill, 150px 30%);
+    }
     
 </style>
 
 <div>
     
 <h1>IEEE VR 2021 Birds of a Feather</h1>
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/watch?v=5BB05YIG7uY&ab_channel=IEEEVirtualRealityConference" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 
 <p> Shared interests bring VR 2021 attendees together! Registered attendees are invited to create their own social sessions using IEEE VR 2021 Virbela, Discord. 
     These are attendee-organized explorations or collaborations on topics impacting the field.
