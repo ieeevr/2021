@@ -849,7 +849,7 @@ title: "Program Overview"
 </div>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox" checked> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
+    <div class="wrap-collabsible"> <input id="collapsible4" class="toggle" type="checkbox"> <label for="collapsible4" class="lbl-toggle">Wednesday, March 31</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Lisbon WEST, UTC+1</strong></center>
