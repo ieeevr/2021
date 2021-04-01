@@ -177,6 +177,17 @@ title: "Conference Committee"
         <li style="list-style: none"> videos2021 [at] ieeevr.org </li>
     </ul>
 
+    <h2> Streaming Team </h2>
+    <ul>
+        <li> João Moreira &#x2012; <i> INESC-ID, Lisbon </i></li>
+        <li> João Paquete &#x2012; <i> IST, University of Lisbon </i></li>
+        <li> João Figueira &#x2012; <i> IST, University of Lisbon </i></li>
+        <li> Catarina Brás &#x2012; <i> IST, University of Lisbon </i></li>
+        <li> Pedro Belchior &#x2012; <i> IST, University of Lisbon </i></li>
+        <li> Pedro Quintas &#x2012; <i> IST, University of Lisbon </i></li>
+        <li> Manuel Ruivo &#x2012; <i> IST, University of Lisbon </i></li>
+    </ul>
+
     <h2> Diversity &amp; Inclusion Chairs </h2>
     <ul>
         <li> Tonja Machulla &#x2012; <i> LMU Munich, Germany </i></li>
