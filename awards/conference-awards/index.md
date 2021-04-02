@@ -309,7 +309,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='journal-nominees'style="text-align: center; color: #00aeef;">TVCG - Best Journal - Nominees</h2>
+<h2 id='journal-nominees' style="text-align: center; color: #00aeef;">TVCG - Best Journal - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     
