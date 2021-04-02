@@ -239,10 +239,19 @@ title: "Conference Award Winners"
 
 <h1>IEEE VR 2021 Conference Awards</h1>
 
+<p> Awards presented at the annual IEEE VR 2021 are in two categories:</p>
+<ul>
+    <li>Awards sponsored by the Visualization and Graphics Technical Committee of the IEEE Computer
+Society, and</li>
+    <li>Awards sponsored by the conference itself.</li>
+</ul>
+    
 <p>
-    Blurb
+    Award winners are selected by various means including people’s choice voting, invited judges, and
+formal selection committees. That information is included in the award presentation materials that
+follow.
 </p>
-
+    
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
@@ -400,7 +409,7 @@ title: "Conference Award Winners"
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
-                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible1{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible1{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
                             <p>{{ j.abstract }}</p>
