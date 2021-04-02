@@ -246,11 +246,13 @@ title: "Conference Award Winners"
 <h2>TVCG - Best Journal Papers</h2>
 
 <div>
-{% for paper in site.data.awards %}
-    {% if paper.type == 'Journal' %}
+{% for item in site.data.awards %}
+    <p>{{ item.type }}</p>
+    
+    {% if item.type == 'Journal' %}
         
 
-            <p>{{ paper.id }}</p>
+            <p>{{ item.id }}</p>
 
             
 
