@@ -248,7 +248,7 @@ title: "Conference Award Winners"
 <div>
 {% for item in site.data.awards %}
     
-    {% if item.type == 'Conference' %}
+    {% if item.type == 'Journal' %}
     
         {{ item.type }}
 
