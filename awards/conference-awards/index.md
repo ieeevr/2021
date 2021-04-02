@@ -245,6 +245,7 @@ title: "Conference Award Winners"
 
 <h2>TVCG - Best Journal Papers</h2>
 
+<div>
 {% for paper in site.data.awards %}
     {% if paper.type == 'Journal' %}
         {% if paper.award == 'Best Paper' %}
@@ -265,6 +266,7 @@ title: "Conference Award Winners"
         {% endif %}
     {% endif %}
 {% endfor %}
+</div>
 
 
 
