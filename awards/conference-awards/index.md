@@ -250,7 +250,7 @@ title: "Conference Award Winners"
     {% if paper.type == 'Journal' %}
         {% if paper.award == 'Best Paper' %}
 
-            <p>paper.id</p>
+            <p>{{ paper.id }}</p>
 
             
 
