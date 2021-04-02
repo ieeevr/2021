@@ -248,13 +248,13 @@ title: "Conference Award Winners"
 <div>
 {% for paper in site.data.awards %}
     {% if paper.type == 'Journal' %}
-        {% if paper.award == 'Best Paper' %}
+        
 
             <p>{{ paper.id }}</p>
 
             
 
-        {% endif %}
+        
     {% endif %}
 {% endfor %}
 </div>
