@@ -566,6 +566,7 @@ title: "Conference Award Winners"
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
+                <!--
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -573,6 +574,7 @@ title: "Conference Award Winners"
                         </div>
                     </div>
                 </div>
+                -->
                 {% endif %}
             {% endfor %}
     
