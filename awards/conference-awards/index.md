@@ -345,7 +345,7 @@ title: "Conference Award Winners"
         
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
-                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <h4 id="{{ j.id }}">{{ j.Title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
@@ -372,7 +372,7 @@ title: "Conference Award Winners"
         
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
-                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <h4 id="{{ j.id }}">{{ j.Title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
@@ -399,7 +399,7 @@ title: "Conference Award Winners"
         
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
-                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <h4 id="{{ j.id }}">{{ j.Title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
