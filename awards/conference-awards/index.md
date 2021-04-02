@@ -246,7 +246,7 @@ title: "Conference Award Winners"
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
-        <th>Conference Awards</th>
+        <th>VGTC Awards</th>
     </tr>
     <tr>
         <td><strong><a href="#journal-best">TVCG - Best Journal Papers</a></strong></td>
@@ -256,6 +256,12 @@ title: "Conference Award Winners"
     </tr>
     <tr>
         <td><strong><a href="#journal-nominees">TVCG - Best Journal - Nominees</a></strong></td>
+    </tr>
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>Conference Awards</th>
     </tr>
     <tr>
         <td><strong><a href="#conference-best">Best Conference Papers</a></strong></td>
