@@ -368,7 +368,7 @@ title: "Conference Award Winners"
 {% for item in site.data.awards %}
     
     {% if item.type == 'Conference' %}
-        {% if item.award == 'Honorable Mentions' %}
+        {% if item.award == 'Honorable Mention' %}
         
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
@@ -533,6 +533,33 @@ title: "Conference Award Winners"
         {% if item.award == 'People's Choice Demo' %}
         
             {% for j in site.data.demos %}
+                {% if j.id == item.id %}
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
+
+<h2 id='3dui-best' style="text-align: center; color: #00aeef;">3DUI Contest - Best 3DUI</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == '3DUI Contest' %}
+        {% if item.award == 'Best 3DUI' %}
+        
+            {% for j in site.data.3dui %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
