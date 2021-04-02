@@ -251,6 +251,9 @@ title: "Conference Award Winners"
     <tr>
         <td><strong><a href="#journal-best">TVCG - Best Journal Papers</a></strong></td>
     </tr>
+    <tr>
+        <td><strong><a href="#journal-honorable">TVCG - Honorable Mentions</a></strong></td>
+    </tr>
 </table>
 
 
@@ -559,7 +562,7 @@ title: "Conference Award Winners"
     {% if item.type == '3DUI Contest' %}
         {% if item.award == 'Best 3DUI' %}
         
-            {% for j in site.data.3dui %}
+            {% for j in site.data.3duicontest %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
