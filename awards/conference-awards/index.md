@@ -528,12 +528,12 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='demo-people' style="text-align: center; color: #00aeef;">People's Choice Demo</h2>
+<h2 id='demo-people' style="text-align: center; color: #00aeef;">Demos - People's Choice</h2>
 <div>
 {% for item in site.data.awards %}
     
     {% if item.type == 'Demo' %}
-        {% if item.award == 'People's Choice Demo' %}
+        {% if item.award == 'Peoples Choice Demo' %}
         
             {% for j in site.data.demos %}
                 {% if j.id == item.id %}
