@@ -272,7 +272,6 @@ title: "Conference Award Winners"
 </div>
 
 <h2 style="text-align: center;">TVCG - Honorable Mentions</h2>
-
 <div>
 {% for item in site.data.awards %}
     
@@ -299,7 +298,86 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
+<h2 style="text-align: center;">TVCG - Best Journal - Nominees</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Journal' %}
+        {% if item.award == 'Nominee' %}
+        
+            {% for j in site.data.journalpapers %}
+                {% if j.id == item.id %}
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
 
+<h2 style="text-align: center;">Best Conference Papers</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Conference' %}
+        {% if item.award == 'Best Paper' %}
+        
+            {% for j in site.data.journalpapers %}
+                {% if j.id == item.id %}
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
+
+<h2 style="text-align: center;">Conference Papers - Honorable Mentions</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Conference' %}
+        {% if item.award == 'Honorable Mentions' %}
+        
+            {% for j in site.data.journalpapers %}
+                {% if j.id == item.id %}
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+    
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
 
 
 
