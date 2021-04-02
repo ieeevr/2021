@@ -627,17 +627,22 @@ title: "Conference Award Winners"
 
 <h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
 <div>
-{% for item in site.data.awards %}
-    
-    {% if item.type == 'Dissertation' %}
-        {% if item.award == 'Best Dissertation' %}
-        
-        <h4> {{item.id}} </h4>
-            
-        {% endif %}
-    {% endif %}
-    
-{% endfor %}
+    <4>A Framework for Enhancing the Sense of Presence in Virtual and Mixed Reality</4>
+    <p>
+        <strong>Misha Sra</strong><br/>
+        <i>Massachusets Institute of Technology</i><br/>
+        Advisor: <i>Pattie Maes</i>
+    </p>
+</div>
+
+<h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation - Honorable Mention</h2>
+<div>
+    <4>Optimal Spatial Registration of SLAM for Augmented Reality</4>
+    <p>
+        <strong>Folker Wientapper</strong><br/>
+        <i>Technical University of Darmstadt</i><br/>
+        Advisor: <i>Arjan Kuijper</i>
+    </p>
 </div>
 
 <h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
