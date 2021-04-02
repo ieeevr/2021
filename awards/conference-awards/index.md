@@ -252,16 +252,7 @@ title: "Conference Award Winners"
 
             <p>paper.id</p>
 
-            {% for j in site.data.journalpapers %}
-                {% if j.id == paper.id %}
-                
-                    
-                    <p>j.id</p>
-                    <br/>
-                    
-
-                {% endif %}
-            {% endfor %}
+            
 
         {% endif %}
     {% endif %}
