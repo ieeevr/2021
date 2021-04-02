@@ -284,6 +284,12 @@ title: "Conference Award Winners"
     <tr>
         <td><strong><a href="#3dui-best">3DUI Contest - Best 3DUI</a></strong></td>
     </tr>
+     <tr>
+        <td><strong><a href="#best-dissertation">Best Dissertation</a></strong></td>
+    </tr>
+     <tr>
+        <td><strong><a href="#ready-player-21">Ready Player 21 - Winner</a></strong></td>
+    </tr>
 </table>
 
 
@@ -613,6 +619,21 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
+<h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Dissertation' %}
+        {% if item.award == 'Best Dissertation' %}
+        
+        <h4> {{item.id}} </h4>
+            
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
+
 <h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
 <div>
 {% for item in site.data.awards %}
@@ -628,20 +649,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
-<div>
-{% for item in site.data.awards %}
-    
-    {% if item.type == 'Dissertation' %}
-        {% if item.award == 'Best Dissertation' %}
-        
-        <h4> {{item.id}} </h4>
-            
-        {% endif %}
-    {% endif %}
-    
-{% endfor %}
-</div>
+
 
 
 
