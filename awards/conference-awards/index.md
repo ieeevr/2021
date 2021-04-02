@@ -250,7 +250,9 @@ title: "Conference Award Winners"
     
     {% if item.type == 'Journal' %}
     
-        {{ item.type }}
+        <p>
+            {{ item.id }}
+        </p>
 
     {% endif %}
     
