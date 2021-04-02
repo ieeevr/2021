@@ -237,14 +237,25 @@ title: "Conference Award Winners"
 </style>
 
 
-<h1>IEEE VR 2020 Conference Awards</h1>
+<h1>IEEE VR 2021 Conference Awards</h1>
 
 <p>
     Blurb
 </p>
 
-<h2 style="text-align: center;">TVCG - Best Journal Papers</h2>
 
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>Conference Awards</th>
+    </tr>
+    <tr>
+        <td><strong><a href="#journal-best">TVCG - Best Journal Papers</a></strong></td>
+    </tr>
+</table>
+
+
+
+<h2 id='journal-best' style="text-align: center;">TVCG - Best Journal Papers</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -271,7 +282,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 style="text-align: center;">TVCG - Honorable Mentions</h2>
+<h2 id='journal-honorable' style="text-align: center;">TVCG - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -298,7 +309,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 style="text-align: center;">TVCG - Best Journal - Nominees</h2>
+<h2 id='journal-nominees'style="text-align: center;">TVCG - Best Journal - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -325,14 +336,14 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 style="text-align: center;">Best Conference Papers</h2>
+<h2 id='conference-best' style="text-align: center;">Best Conference Papers</h2>
 <div>
 {% for item in site.data.awards %}
     
     {% if item.type == 'Conference' %}
         {% if item.award == 'Best Paper' %}
         
-            {% for j in site.data.journalpapers %}
+            {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
@@ -352,14 +363,14 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 style="text-align: center;">Conference Papers - Honorable Mentions</h2>
+<h2 id='conference-honorable' style="text-align: center;">Conference Papers - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
     {% if item.type == 'Conference' %}
         {% if item.award == 'Honorable Mentions' %}
         
-            {% for j in site.data.journalpapers %}
+            {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>
