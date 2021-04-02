@@ -249,10 +249,13 @@ title: "Conference Award Winners"
     {% if paper.type == 'Journal' %}
         {% if paper.award == 'Best Paper' %}
 
-            {% for j in site.data.jornalpapers %}
+            {% for j in site.data.journalpapers %}
                 {% if j.id == paper.id %}
                 
-                    <p>{{ j.title }}</p>
+                    <p>paper.id</p>
+                    <p>j.id</p>
+                    <br/>
+                    
 
                 {% endif %}
             {% endfor %}
