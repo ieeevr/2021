@@ -255,7 +255,7 @@ title: "Conference Award Winners"
 
 
 
-<h2 id='journal-best' style="text-align: center;">TVCG - Best Journal Papers</h2>
+<h2 id='journal-best' style="text-align: center; color: #00aeef;">TVCG - Best Journal Papers</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -282,7 +282,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='journal-honorable' style="text-align: center;">TVCG - Honorable Mentions</h2>
+<h2 id='journal-honorable' style="text-align: center; color: #00aeef;">TVCG - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -309,7 +309,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='journal-nominees'style="text-align: center;">TVCG - Best Journal - Nominees</h2>
+<h2 id='journal-nominees'style="text-align: center; color: #00aeef;">TVCG - Best Journal - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -336,7 +336,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='conference-best' style="text-align: center;">Best Conference Papers</h2>
+<h2 id='conference-best' style="text-align: center; color: #00aeef;">Best Conference Papers</h2>
 <div>
 {% for item in site.data.awards %}
     
@@ -363,7 +363,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='conference-honorable' style="text-align: center;">Conference Papers - Honorable Mentions</h2>
+<h2 id='conference-honorable' style="text-align: center; color: #00aeef;">Conference Papers - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     
