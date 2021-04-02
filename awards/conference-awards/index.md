@@ -254,8 +254,37 @@ title: "Conference Award Winners"
     <tr>
         <td><strong><a href="#journal-honorable">TVCG - Honorable Mentions</a></strong></td>
     </tr>
+    <tr>
+        <td><strong><a href="#journal-nominees">TVCG - Best Journal - Nominees</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#conference-best">Best Conference Papers</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#conference-honorable">Conference Papers - Honorable Mentions</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#conference-nominees">Conference Papers - Nominees</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#best-poster">Best Poster</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#poster-honorable">Posters - Honorable Mention</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#demo-best">Best Demo</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#demo-honorable">Demos - Honorable Mention</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#demo-people">Demos - People's Choice</a></strong></td>
+    </tr>
+    <tr>
+        <td><strong><a href="#3dui-best">3DUI Contest - Best 3DUI</a></strong></td>
+    </tr>
 </table>
-
 
 
 <h2 id='journal-best' style="text-align: center; color: #00aeef;">TVCG - Best Journal Papers</h2>
@@ -584,6 +613,35 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
+<h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Ready Player 21' %}
+        {% if item.award == 'Winner' %}
+        
+        <h4> {{item.id}} </h4>
+            
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
+
+<h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
+<div>
+{% for item in site.data.awards %}
+    
+    {% if item.type == 'Dissertation' %}
+        {% if item.award == 'Best Dissertation' %}
+        
+        <h4> {{item.id}} </h4>
+            
+        {% endif %}
+    {% endif %}
+    
+{% endfor %}
+</div>
 
 
 
