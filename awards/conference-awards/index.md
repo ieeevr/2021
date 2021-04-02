@@ -247,17 +247,13 @@ title: "Conference Award Winners"
 
 <div>
 {% for item in site.data.awards %}
-    <p>{{ item.type }}</p>
     
-    {% if item.type == 'Journal' %}
-        
+    {% if item.type == 'Conference' %}
+    
+        {{ item.type }}
 
-            <p>{{ item.id }}</p>
-
-            
-
-        
     {% endif %}
+    
 {% endfor %}
 </div>
 
