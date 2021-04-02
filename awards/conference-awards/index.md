@@ -687,6 +687,12 @@ title: "Conference Award Winners"
     <i>Nara Institute of Science and Technology, Ikoma, Japan</i>
 </div>
 
+<h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Best Committee Member</h2>
+<div>
+    <h4 style="color: #00aeef;">Mauricio Sousa</h4>
+    <i>University of Toronto</i>
+</div>
+
 
 
 
