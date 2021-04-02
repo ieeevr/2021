@@ -293,6 +293,9 @@ title: "Conference Award Winners"
      <tr>
         <td><strong><a href="#best-dissertation">Best Dissertation</a></strong></td>
     </tr>
+         <tr>
+        <td><strong><a href="#honorable-dissertation">Best Dissertation - Honorable Mention</a></strong></td>
+    </tr>
      <tr>
         <td><strong><a href="#ready-player-21">Ready Player 21 - Winner</a></strong></td>
     </tr>
@@ -635,7 +638,7 @@ title: "Conference Award Winners"
     </p>
 </div>
 
-<h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation - Honorable Mention</h2>
+<h2 id='honorable-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation - Honorable Mention</h2>
 <div>
     <4>Optimal Spatial Registration of SLAM for Augmented Reality</4>
     <p>
