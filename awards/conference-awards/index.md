@@ -261,43 +261,76 @@ title: "Conference Award Winners"
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
-        <th>Conference Awards</th>
+        <th>Papers</th>
     </tr>
     <tr>
         <td><strong><a href="#conference-best">Best Conference Papers</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#conference-honorable">Conference Papers - Honorable Mentions</a></strong></td>
+        <td><strong><a href="#conference-honorable">Honorable Mentions</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#conference-nominees">Conference Papers - Nominees</a></strong></td>
+        <td><strong><a href="#conference-nominees">Nominees</a></strong></td>
+    </tr>
+    
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>Posters</th>
     </tr>
     <tr>
         <td><strong><a href="#best-poster">Best Poster</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#poster-honorable">Posters - Honorable Mention</a></strong></td>
+        <td><strong><a href="#poster-honorable">Honorable Mention</a></strong></td>
+    </tr>
+    
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>Demos</th>
     </tr>
     <tr>
         <td><strong><a href="#demo-best">Best Demo</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#demo-honorable">Demos - Honorable Mention</a></strong></td>
+        <td><strong><a href="#demo-honorable">Honorable Mention</a></strong></td>
     </tr>
     <tr>
-        <td><strong><a href="#demo-people">Demos - People's Choice</a></strong></td>
+        <td><strong><a href="#demo-people">People's Choice</a></strong></td>
+    </tr>
+    
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>3DUI Contest</th>
     </tr>
     <tr>
-        <td><strong><a href="#3dui-best">3DUI Contest - Best 3DUI</a></strong></td>
+        <td><strong><a href="#3dui-best">Best 3DUI</a></strong></td>
+    </tr>
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>Best Dissertation</th>
     </tr>
      <tr>
         <td><strong><a href="#best-dissertation">Best Dissertation</a></strong></td>
     </tr>
          <tr>
-        <td><strong><a href="#honorable-dissertation">Best Dissertation - Honorable Mention</a></strong></td>
+        <td><strong><a href="#honorable-dissertation">Honorable Mention</a></strong></td>
+    </tr>
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
+        <th>Ready Player 21</th>
     </tr>
      <tr>
-        <td><strong><a href="#ready-player-21">Ready Player 21 - Winner</a></strong></td>
+        <td><strong><a href="#ready-player-21">Winner</a></strong></td>
     </tr>
 </table>
 
@@ -650,17 +683,8 @@ title: "Conference Award Winners"
 
 <h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
 <div>
-{% for item in site.data.awards %}
-    
-    {% if item.type == 'Ready Player 21' %}
-        {% if item.award == 'Winner' %}
-        
-        <h4> {{item.id}} </h4>
-            
-        {% endif %}
-    {% endif %}
-    
-{% endfor %}
+    <h4 style="color: #00aeef;">Xiaodan Hu</h4>
+    <i>Nara Institute of Science and Technology, Ikoma, Japan</i>
 </div>
 
 
