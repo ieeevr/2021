@@ -630,7 +630,7 @@ title: "Conference Award Winners"
 
 <h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
 <div>
-    <4>A Framework for Enhancing the Sense of Presence in Virtual and Mixed Reality</4>
+    <h4>A Framework for Enhancing the Sense of Presence in Virtual and Mixed Reality</h4>
     <p>
         <strong>Misha Sra</strong><br/>
         <i>Massachusets Institute of Technology</i><br/>
@@ -640,7 +640,7 @@ title: "Conference Award Winners"
 
 <h2 id='honorable-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation - Honorable Mention</h2>
 <div>
-    <4>Optimal Spatial Registration of SLAM for Augmented Reality</4>
+    <h4>Optimal Spatial Registration of SLAM for Augmented Reality</h4>
     <p>
         <strong>Folker Wientapper</strong><br/>
         <i>Technical University of Darmstadt</i><br/>
