@@ -253,7 +253,16 @@ title: "Conference Award Winners"
         
             {% for j in site.data.journalpapers %}
                 {% if j.id == item.id %}
-                <p>{{ j.title }}</p>
+                <h4 id="{{ j.id }}">{{ j.title }}</h4>
+                <p><strong><small>{{ j.type }}</small></strong></p>
+                <p><i>{{ j.authors }}</i></p>
+                <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ j.id }}" class="lbl-toggle">Abstract</label>
+                    <div class="collapsible-content">
+                        <div class="content-inner">
+                            <p>{{ j.abstract }}</p>
+                        </div>
+                    </div>
+                </div>
                 {% endif %}
             {% endfor %}
     
