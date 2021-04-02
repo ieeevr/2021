@@ -390,7 +390,7 @@ title: "Conference Award Winners"
 {% endfor %}
 </div>
 
-<h2 id='conference-nominees' style="text-align: center; color: #00aeef;">Conference Papers - Honorable Mentions</h2>
+<h2 id='conference-nominees' style="text-align: center; color: #00aeef;">Conference Papers - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     
