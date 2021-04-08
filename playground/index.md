@@ -102,7 +102,7 @@ title: "playground"
 
 
 <div class="letter">
-    <div style="padding: 10px 10px 10px 10px;">
+    <div style="padding: 10px 30px 10px 30px;">
         <p>
             To our Exhibitor and Sponsors,
         </p>
