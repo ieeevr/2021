@@ -95,6 +95,7 @@ title: "playground"
     .letter {
         border: solid 1px #656565;
         border-radius: 5px;
+        font-family: 'Courier New', monospace;
     }
 
 </style>
