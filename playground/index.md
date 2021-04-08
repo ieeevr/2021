@@ -95,14 +95,15 @@ title: "playground"
     .letter {
         border: solid 1px #656565;
         border-radius: 5px;
-        font-family: 'Courier New', monospace;
+        /*font-family: 'Courier New', monospace;*/
+        font-family: 'Times New Roman', serif;
     }
 
 </style>
 
 
 <div class="letter">
-    <div style="padding: 10px 30px 10px 30px;">
+    <div style="padding: 30px 30px 30px 30px;">
         <p>
             To our Exhibitor and Sponsors,
         </p>
