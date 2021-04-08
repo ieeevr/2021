@@ -11,7 +11,7 @@ title: "playground"
         /*min-width: 400px;*/
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
         display: table;
-        
+
         width: 100%;
         margin-left: auto;
         margin-right: auto;
@@ -45,15 +45,13 @@ title: "playground"
         font-weight: bold;
         color: #00aeef;
     }
-    
-  <!--  div {
+
+    < !-- div {
         text-align: justify;
         text-justify: inter-word;
-        } -->
-   
-   
-   
-   
+    }
+
+    -->
 
     /* video container */
     .video-container {
@@ -93,82 +91,38 @@ title: "playground"
         grid-gap: 10px;
         grid-template-columns: repeat(auto-fill, 150px 30%);
     }
-    
+
+    .letter {
+        border: solid 5px red;
+
+    }
+
 </style>
 
-<div>
-    
-<h1>IEEE VR 2021 Birds of a Featherzzzz</h1>
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="letter">
+
+    <p>
+        To our Exhibitor and Sponsors,
+    </p>
+    <p>
+        We’d like to extend our deep gratitude to the exhibitors and sponsors who have partnered with us for the 2021 IEEE VR Conference.
+    </p>
+    <p>
+        The important partnerships, which foster collaboration and sharing trusted research, helps further the educational and global objectives of IEEE VR that our community and the field-at-large depend on.
+    </p>
+    <p>
+        Because of their participation and connection with the IEEE VR community, our conference was able to provide much-needed scholarships to students, offer student mentorship programs, contribute to the expanding access to our conferences, and make computing research and information available to a wider audience, allowing us to share important developments across the globe.
+    </p>
+    <p>
+        We remain dedicated to ensuring that our partnerships deliver rich opportunities for each supporter, including building impactful relationships, strengthening their workforce, and expanding their brand’s reach, all critical objectives for competitive computing technologies.
+    </p>
+    <p>
+        We sincerely appreciate the collaboration and partnerships we’ve achieved and the positive impact that they’ve each made on the community.
+        Many thanks,
+    </p>
+    <p>
+        The IEEE VR 2021 Conference Committee
+    </p>
+
 </div>
-
-
-
-<p> Shared interests bring VR 2021 attendees together! Registered attendees are invited to create their own social sessions using IEEE VR 2021 Virbela, Discord. 
-    These are attendee-organized explorations or collaborations on topics impacting the field.
-    We encourage attendees to consider any topic or idea, including purely social gatherings aimed at hanging out and chatting with other attendees. <br> </p> 
-    <p> <strong>How?</strong> Register a BoF session using the google form on VR’s Discord (<b style="color: black">#bof</b>)! <br></p> 
-    <p>We will collect them until Monday afternoon and create separate Discord channels for each. These will be published on Monday, also on the website, and in Virbela. Each organizer can use a Virbela room, the Discord channel, and will need to provide a zoom link for the video. As the organizer, you are responsible for ensuring a safe environment that follows the conference Code of Conduct. Please feel free to reach out to anyone on the conference committee if you need assistance, and please report any problematic behavior.</p>
-
-</div>
-
-
-
-<div>
-    <table class="styled-table">
-
-        {% for bof in site.data.bof %}
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ bof.id }}">{{ bof.name }}</a></td>
-        </tr>
-        {% endfor %}
-    </table>
-</div>
-
-
-
-
-
-
-<div>
-    {% for bof in site.data.bof %}
-    
-    <h2 id="{{ bof.id }}">BoF: {{ bof.name}}</h2>
-    
-    <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
-    {% if event.id == bof.id %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-
-    {% endif %}
-    {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p style="font-size: 0.8em;">{{ bof.session }}</p>
-    
-    <p> <strong> {{bof.chair}} </strong> <br> </p>
-    <p> <strong style="color: black;"> Description: </strong> {{bof.description}}</p>
-    
-    
-    {% endfor %}
-</div>
-
-
