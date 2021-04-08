@@ -102,7 +102,7 @@ title: "playground"
 </style>
 
 
-<div class="letter">
+<div style="border: solid 1px #656565; border-radius: 5px;">
     <div style="padding: 30px 30px 30px 30px;">
         <p>
             To our Exhibitor and Sponsors,
@@ -127,5 +127,4 @@ title: "playground"
             The IEEE VR 2021 Conference Committee
         </p>
     </div>
-
 </div>

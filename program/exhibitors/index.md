@@ -188,7 +188,38 @@ title: "Exhibitors and Sponsors"
         </p>
     </div>
 
+    <div style="border: solid 1px #656565; border-radius: 7px;">
+        <div style="padding: 30px 30px 30px 30px;">
+            <p>
+                To our Exhibitor and Sponsors,
+            </p>
+            <p>
+                We’d like to extend our deep gratitude to the exhibitors and sponsors who have partnered with us for the 2021 IEEE VR Conference.
+            </p>
+            <p>
+                The important partnerships, which foster collaboration and sharing trusted research, helps further the educational and global objectives of IEEE VR that our community and the field-at-large depend on.
+            </p>
+            <p>
+                Because of their participation and connection with the IEEE VR community, our conference was able to provide much-needed scholarships to students, offer student mentorship programs, contribute to the expanding access to our conferences, and make computing research and information available to a wider audience, allowing us to share important developments across the globe.
+            </p>
+            <p>
+                We remain dedicated to ensuring that our partnerships deliver rich opportunities for each supporter, including building impactful relationships, strengthening their workforce, and expanding their brand’s reach, all critical objectives for competitive computing technologies.
+            </p>
+            <p>
+                We sincerely appreciate the collaboration and partnerships we’ve achieved and the positive impact that they’ve each made on the community.
+                Many thanks,
+            </p>
+            <p>
+                The IEEE VR 2021 Conference Committee
+            </p>
+        </div>
+    </div>
+
+
     <br />
+
+
+
 
     <table class="styled-table" style="font-size: 0.8em;">
         <tr>
