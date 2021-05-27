@@ -324,6 +324,15 @@ follow.
 
 <table class="styled-table" style="font-size: 0.9em; ">
     <tr>
+        <th>Doctoral Consortium</th>
+    </tr>
+    <tr>
+        <td><strong><a href="#DC-best">Best Presentation</a></strong></td>
+    </tr>
+</table>
+
+<table class="styled-table" style="font-size: 0.9em; ">
+    <tr>
         <th>Best Dissertation</th>
     </tr>
      <tr>
@@ -668,6 +677,15 @@ follow.
     {% endif %}
     
 {% endfor %}
+</div>
+
+<h2 id='DC-best' style="text-align: center; color: #00aeef;">Doctoral Consortium - Best Presentation</h2>
+<div>
+    <h4>“SHOW YOUR DEDICATION:” VR Games and Outmersion</h4>
+    <p>
+        <strong>P.S. Berge</strong><br/>
+        <i>Dept. of Texts & Technology, University of Central Florida, Orlando, Florida, United States</i><br/>
+    </p>
 </div>
 
 <h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
